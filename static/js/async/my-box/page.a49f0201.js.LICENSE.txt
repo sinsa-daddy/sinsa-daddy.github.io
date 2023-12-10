@@ -1,0 +1,15 @@
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-layout */
+
+/*! react */
+
+/*! @/components/MyBoxList */
+
+/*! @ant-design/pro-list */
+
+/*! react */
+
+/*! react/jsx-runtime */

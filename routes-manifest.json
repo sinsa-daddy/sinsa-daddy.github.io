@@ -2,22 +2,26 @@
   "routeAssets": {
     "copilots/(term)/page": {
       "chunkIds": [
-        "6378",
         "2563",
         "9742",
         "2707",
         "2759",
-        "3318",
+        "7851",
+        "5161",
+        "8313",
+        "2730",
         "8473"
       ],
       "assets": [
-        "/static/js/lib-polyfill.ceab2735.js",
         "/static/js/lib-antd.f47db239.js",
-        "/static/js/lib-antd-pro.33b7ed02.js",
+        "/static/js/lib-antd-pro.2f3d1fc5.js",
         "/static/js/lib-lodash.418f4478.js",
         "/static/js/async/2759.b7849a55.js",
-        "/static/js/async/3318.f32103d5.js",
-        "/static/js/async/copilots/(term)/page.b4700361.js",
+        "/static/js/async/7851.2a971923.js",
+        "/static/js/async/5161.8bf33f40.js",
+        "/static/js/async/8313.bba136a2.js",
+        "/static/js/async/2730.f341b117.js",
+        "/static/js/async/copilots/(term)/page.849fdf70.js",
         "/static/css/async/copilots/(term)/page.f305838c.css"
       ],
       "referenceCssAssets": [
@@ -27,33 +31,67 @@
     "main": {
       "chunkIds": [
         "4987",
-        "6378",
         "2563",
         "9742",
         "2707",
+        "6378",
         "3361",
         "1700",
         "3029",
         "6909"
       ],
       "assets": [
-        "/static/js/lib-polyfill.ceab2735.js",
         "/static/js/lib-antd.f47db239.js",
-        "/static/js/lib-antd-pro.33b7ed02.js",
+        "/static/js/lib-antd-pro.2f3d1fc5.js",
         "/static/js/lib-lodash.418f4478.js",
+        "/static/js/lib-polyfill.b5e0ec79.js",
         "/static/js/lib-react.c9d9be3b.js",
         "/static/js/lib-router.341a6709.js",
-        "/static/js/3029.73560689.js",
-        "/static/js/main.68765bea.js"
+        "/static/js/3029.0f45dc48.js",
+        "/static/js/main.0358d2e5.js"
       ],
       "referenceCssAssets": []
     },
+    "my-box/create/page": {
+      "chunkIds": [
+        "2563",
+        "9742",
+        "2707",
+        "2759",
+        "5161",
+        "2730",
+        "9613"
+      ],
+      "assets": [
+        "/static/js/lib-antd.f47db239.js",
+        "/static/js/lib-antd-pro.2f3d1fc5.js",
+        "/static/js/lib-lodash.418f4478.js",
+        "/static/js/async/2759.b7849a55.js",
+        "/static/js/async/5161.8bf33f40.js",
+        "/static/js/async/2730.f341b117.js",
+        "/static/js/async/my-box/create/page.b44b4e4c.js",
+        "/static/css/async/my-box/create/page.56126110.css"
+      ],
+      "referenceCssAssets": [
+        "/static/css/async/my-box/create/page.56126110.css"
+      ]
+    },
     "my-box/page": {
       "chunkIds": [
+        "2563",
+        "9742",
+        "2707",
+        "2759",
+        "7851",
         "2550"
       ],
       "assets": [
-        "/static/js/async/my-box/page.ba250fab.js"
+        "/static/js/lib-antd.f47db239.js",
+        "/static/js/lib-antd-pro.2f3d1fc5.js",
+        "/static/js/lib-lodash.418f4478.js",
+        "/static/js/async/2759.b7849a55.js",
+        "/static/js/async/7851.2a971923.js",
+        "/static/js/async/my-box/page.a49f0201.js"
       ],
       "referenceCssAssets": []
     },
@@ -68,7 +106,6 @@
     },
     "upload/page": {
       "chunkIds": [
-        "6378",
         "2563",
         "9742",
         "2707",
@@ -76,9 +113,8 @@
         "4501"
       ],
       "assets": [
-        "/static/js/lib-polyfill.ceab2735.js",
         "/static/js/lib-antd.f47db239.js",
-        "/static/js/lib-antd-pro.33b7ed02.js",
+        "/static/js/lib-antd-pro.2f3d1fc5.js",
         "/static/js/lib-lodash.418f4478.js",
         "/static/js/async/2759.b7849a55.js",
         "/static/js/async/upload/page.3d7f23ed.js"

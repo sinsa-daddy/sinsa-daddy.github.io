@@ -52,8 +52,6 @@
 
 /*! core-js/modules/es.typed-array.set.js */
 
-/*! @modern-js/runtime/model */
-
 /*! core-js/modules/esnext.iterator.drop.js */
 
 /*! core-js/modules/esnext.math.seeded-prng.js */
@@ -147,6 +145,8 @@
 /*! react/jsx-runtime */
 
 /*! core-js/modules/esnext.weak-map.of.js */
+
+/*! lodash */
 
 /*! core-js/modules/esnext.set.difference.js */
 
@@ -256,8 +256,6 @@
 
 /*! core-js/modules/web.url.js */
 
-/*! lodash */
-
 /*! core-js/modules/es.promise.all-settled.js */
 
 /*! core-js/modules/esnext.set.delete-all.js */
@@ -277,6 +275,8 @@
 /*! core-js/modules/es.typed-array.find-last.js */
 
 /*! core-js/modules/es.regexp.exec.js */
+
+/*! @modern-js/runtime/model */
 
 /*! core-js/modules/esnext.symbol.observable.js */
 
@@ -378,8 +378,6 @@
 
 /*! core-js/modules/es.array.reduce.js */
 
-/*! @modern-js/runtime/model */
-
 /*! core-js/modules/esnext.set.is-subset-of.v2.js */
 
 /*! core-js/modules/es.array.find-last.js */
@@ -393,6 +391,8 @@
 /*! core-js/modules/esnext.array.is-template-object.js */
 
 /*! core-js/modules/esnext.async-iterator.for-each.js */
+
+/*! lodash */
 
 /*! core-js/modules/web.queue-microtask.js */
 
@@ -488,8 +488,6 @@
 
 /*! core-js/modules/web.self.js */
 
-/*! lodash */
-
 /*! core-js/modules/esnext.iterator.as-indexed-pairs.js */
 
 /*! core-js/modules/es.typed-array.with.js */
@@ -501,6 +499,8 @@
 /*! core-js/modules/esnext.string.cooked.js */
 
 /*! core-js/modules/esnext.array.last-item.js */
+
+/*! @modern-js/runtime/model */
 
 /*! core-js/modules/es.array.flat.js */
 
