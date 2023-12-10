@@ -1,3 +1,47 @@
+/*! @modern-js/runtime/model */
+
+/*! antd */
+
+/*! antd */
+
+/*! @/assets/elements/3.webp */
+
+/*! ./helpers/box-without-aurorians-in-copilot */
+
+/*! antd */
+
+/*! @/assets/elements/1.webp */
+
+/*! react */
+
+/*! @/containers/CopilotSolution */
+
+/*! react/jsx-runtime */
+
+/*! @/models/terms */
+
+/*! @modern-js/runtime/model */
+
+/*! @/models/terms */
+
+/*! react/jsx-runtime */
+
+/*! @/assets/classes/2002.webp */
+
+/*! @/components/MyLayout/constants */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @/components/MyLayout/constants */
+
+/*! react */
+
+/*! @modern-js/runtime/model */
+
+/*! @ant-design/pro-form */
+
 /*! @modern-js/runtime/router */
 
 /*! @modern-js/runtime/model */
@@ -16,11 +60,11 @@
 
 /*! ./styles.module.less */
 
+/*! numeral */
+
 /*! ./columns */
 
 /*! react/jsx-runtime */
-
-/*! numeral */
 
 /*! ../CopilotsTable/columns */
 
@@ -93,47 +137,3 @@
 /*! antd */
 
 /*! @ant-design/pro-table */
-
-/*! @modern-js/runtime/model */
-
-/*! antd */
-
-/*! antd */
-
-/*! @/assets/elements/3.webp */
-
-/*! ./helpers/box-without-aurorians-in-copilot */
-
-/*! antd */
-
-/*! @/assets/elements/1.webp */
-
-/*! react */
-
-/*! @/containers/CopilotSolution */
-
-/*! react/jsx-runtime */
-
-/*! @/models/terms */
-
-/*! @modern-js/runtime/model */
-
-/*! @/models/terms */
-
-/*! react/jsx-runtime */
-
-/*! @/assets/classes/2002.webp */
-
-/*! @/components/MyLayout/constants */
-
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
-
-/*! @/components/MyLayout/constants */
-
-/*! react */
-
-/*! @modern-js/runtime/model */
-
-/*! @ant-design/pro-form */
