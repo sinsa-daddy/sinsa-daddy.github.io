@@ -1,12 +1,28 @@
 /*! react/jsx-runtime */
 
+/*! antd */
+
 /*! @/features/backtrack/calculate-all-scenarios-and-scores */
 
-/*! react */
+/*! @/containers/CopilotSolution */
 
 /*! react/jsx-runtime */
 
 /*! numeral */
+
+/*! @/models/terms */
+
+/*! react/jsx-runtime */
+
+/*! ../CopilotsTable/columns */
+
+/*! react/jsx-runtime */
+
+/*! @/components/MyLayout/constants */
+
+/*! react */
+
+/*! ../CopilotsTable */
 
 /*! @modern-js/runtime/model */
 
@@ -14,29 +30,13 @@
 
 /*! @modern-js/runtime/router */
 
-/*! react/jsx-runtime */
-
-/*! ../CopilotsTable/columns */
-
-/*! ../CopilotsTable */
-
 /*! @ant-design/pro-table */
 
 /*! ./styles.module.less */
 
 /*! ./columns */
 
-/*! swr */
-
-/*! immer */
-
 /*! @/models/aurorians */
-
-/*! ./helpers/can-use-copilot */
-
-/*! @/utils/swr */
-
-/*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
 
@@ -44,13 +44,21 @@
 
 /*! ../AurorianCard */
 
+/*! swr */
+
+/*! immer */
+
 /*! ../AuroriansTeam */
 
 /*! @/models/aurorians */
 
 /*! ./styles.module.less */
 
-/*! @/containers/TermNotFound */
+/*! ./helpers/can-use-copilot */
+
+/*! react/jsx-runtime */
+
+/*! @/utils/swr */
 
 /*! react */
 
@@ -64,25 +72,17 @@
 
 /*! @ant-design/pro-table */
 
-/*! @/components/CopilotsTable */
+/*! @/containers/TermNotFound */
 
 /*! antd */
 
 /*! antd */
 
-/*! @modern-js/runtime/router */
-
 /*! antd */
-
-/*! immer */
-
-/*! @/containers/CopilotHeader */
 
 /*! @/models/terms */
 
 /*! @modern-js/runtime/model */
-
-/*! ./helpers/box-without-aurorians-in-copilot */
 
 /*! react */
 
@@ -92,11 +92,15 @@
 
 /*! @/components/MyLayout/constants */
 
-/*! antd */
+/*! @/components/CopilotsTable */
+
+/*! @modern-js/runtime/router */
 
 /*! @/assets/skins */
 
-/*! @/containers/CopilotSolution */
+/*! immer */
+
+/*! @/containers/CopilotHeader */
 
 /*! ./constants */
 
@@ -110,10 +114,6 @@
 
 /*! @modern-js/runtime/model */
 
-/*! @/models/terms */
-
-/*! react/jsx-runtime */
-
-/*! @/components/MyLayout/constants */
+/*! ./helpers/box-without-aurorians-in-copilot */
 
 /*! react */
