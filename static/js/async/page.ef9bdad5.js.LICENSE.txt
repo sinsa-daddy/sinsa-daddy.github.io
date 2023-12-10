@@ -1,9 +1,0 @@
-/*! @/assets/docs/qun.jpg */
-
-/*! @ant-design/pro-layout */
-
-/*! react/jsx-runtime */
-
-/*! antd */
-
-/*! react */

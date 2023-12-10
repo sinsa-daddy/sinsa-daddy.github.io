@@ -2,21 +2,23 @@
   "routeAssets": {
     "copilots/(term)/page": {
       "chunkIds": [
-        "378",
-        "563",
-        "742",
-        "891",
-        "648",
-        "473"
+        "6378",
+        "2563",
+        "9742",
+        "2707",
+        "2759",
+        "3318",
+        "8473"
       ],
       "assets": [
-        "/static/js/lib-polyfill.900f6695.js",
-        "/static/js/lib-antd.b7fccc4d.js",
-        "/static/js/lib-antd-pro.ece9a803.js",
-        "/static/js/lib-lodash.ba489bb3.js",
-        "/static/js/async/648.7d41c8c6.js",
+        "/static/js/lib-polyfill.ceab2735.js",
+        "/static/js/lib-antd.f47db239.js",
+        "/static/js/lib-antd-pro.33b7ed02.js",
+        "/static/js/lib-lodash.418f4478.js",
+        "/static/js/async/2759.b7849a55.js",
+        "/static/js/async/3318.f32103d5.js",
         "/static/css/async/copilots/(term)/page.cc916540.css",
-        "/static/js/async/copilots/(term)/page.ecaec25e.js"
+        "/static/js/async/copilots/(term)/page.1c1b4eac.js"
       ],
       "referenceCssAssets": [
         "/static/css/async/copilots/(term)/page.cc916540.css"
@@ -24,34 +26,53 @@
     },
     "main": {
       "chunkIds": [
-        "987",
-        "378",
-        "563",
-        "742",
-        "891",
-        "361",
-        "700",
-        "29",
-        "909"
+        "4987",
+        "6378",
+        "2563",
+        "9742",
+        "2707",
+        "3361",
+        "1700",
+        "3029",
+        "6909"
       ],
       "assets": [
-        "/static/js/lib-polyfill.900f6695.js",
-        "/static/js/lib-antd.b7fccc4d.js",
-        "/static/js/lib-antd-pro.ece9a803.js",
-        "/static/js/lib-lodash.ba489bb3.js",
-        "/static/js/lib-react.5d28d158.js",
-        "/static/js/lib-router.47117658.js",
-        "/static/js/29.c67f1a44.js",
-        "/static/js/main.18e1070c.js"
+        "/static/js/lib-polyfill.ceab2735.js",
+        "/static/js/lib-antd.f47db239.js",
+        "/static/js/lib-antd-pro.33b7ed02.js",
+        "/static/js/lib-lodash.418f4478.js",
+        "/static/js/lib-react.c9d9be3b.js",
+        "/static/js/lib-router.341a6709.js",
+        "/static/js/3029.a231ef3b.js",
+        "/static/js/main.60ac17e3.js"
       ],
       "referenceCssAssets": []
     },
     "page": {
       "chunkIds": [
-        "484"
+        "7484"
       ],
       "assets": [
-        "/static/js/async/page.ef9bdad5.js"
+        "/static/js/async/page.43c9c51e.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "upload/page": {
+      "chunkIds": [
+        "6378",
+        "2563",
+        "9742",
+        "2707",
+        "2759",
+        "4501"
+      ],
+      "assets": [
+        "/static/js/lib-polyfill.ceab2735.js",
+        "/static/js/lib-antd.f47db239.js",
+        "/static/js/lib-antd-pro.33b7ed02.js",
+        "/static/js/lib-lodash.418f4478.js",
+        "/static/js/async/2759.b7849a55.js",
+        "/static/js/async/upload/page.3d7f23ed.js"
       ],
       "referenceCssAssets": []
     }
