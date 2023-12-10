@@ -1,0 +1,139 @@
+/*! @modern-js/runtime/model */
+
+/*! @sinsa/schema */
+
+/*! @/utils/swr */
+
+/*! react/jsx-runtime */
+
+/*! ./helpers/can-use-copilot */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @/features/backtrack/calculate-all-scenarios-and-scores */
+
+/*! @/containers/TermNotFound */
+
+/*! react/jsx-runtime */
+
+/*! numeral */
+
+/*! react/jsx-runtime */
+
+/*! ../CopilotsTable/columns */
+
+/*! @/assets/classes/2004.webp */
+
+/*! ../CopilotsTable */
+
+/*! @/components/CopilotsTable */
+
+/*! @modern-js/runtime/router */
+
+/*! @/containers/CopilotHeader */
+
+/*! @ant-design/pro-table */
+
+/*! @/assets/classes/2003.webp */
+
+/*! ./styles.module.less */
+
+/*! ./columns */
+
+/*! antd */
+
+/*! @/models/aurorians */
+
+/*! @/assets/elements/1.webp */
+
+/*! @/containers/CopilotSolution */
+
+/*! @/assets/elements/3.webp */
+
+/*! ./helpers/box-without-aurorians-in-copilot */
+
+/*! @/models/terms */
+
+/*! react/jsx-runtime */
+
+/*! ../AurorianCard */
+
+/*! @/components/SolutionScenarioCard */
+
+/*! @/assets/classes/2002.webp */
+
+/*! react/jsx-runtime */
+
+/*! ../AuroriansTeam */
+
+/*! @/models/aurorians */
+
+/*! @/components/MyLayout/constants */
+
+/*! ./styles.module.less */
+
+/*! react */
+
+/*! @modern-js/runtime/model */
+
+/*! @ant-design/pro-layout */
+
+/*! react */
+
+/*! @modern-js/runtime/router */
+
+/*! immer */
+
+/*! react */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-table */
+
+/*! @/assets/classes/2001.webp */
+
+/*! zod */
+
+/*! antd */
+
+/*! antd */
+
+/*! immer */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @/components/MyLayout/constants */
+
+/*! @/assets/elements/4.webp */
+
+/*! swr */
+
+/*! @/assets/skins */
+
+/*! @/assets/elements/2.webp */
+
+/*! immer */
+
+/*! ./constants */
+
+/*! @modern-js/runtime/model */
+
+/*! @ant-design/pro-form */
+
+/*! antd */
+
+/*! @modern-js/runtime/router */
