@@ -1,0 +1,137 @@
+/*! @modern-js/runtime/model */
+
+/*! @/models/terms */
+
+/*! react/jsx-runtime */
+
+/*! @/assets/classes/2002.webp */
+
+/*! @/components/MyLayout/constants */
+
+/*! react/jsx-runtime */
+
+/*! @/components/MyLayout/constants */
+
+/*! @ant-design/pro-table */
+
+/*! react */
+
+/*! ./styles.module.less */
+
+/*! ./columns */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/model */
+
+/*! @modern-js/runtime/router */
+
+/*! @ant-design/pro-form */
+
+/*! @modern-js/runtime/model */
+
+/*! @/models/aurorians */
+
+/*! @modern-js/runtime/router */
+
+/*! @ant-design/pro-layout */
+
+/*! ../CopilotsTable/columns */
+
+/*! @/features/backtrack/calculate-all-scenarios-and-scores */
+
+/*! @/assets/classes/2001.webp */
+
+/*! immer */
+
+/*! numeral */
+
+/*! ../AurorianCard */
+
+/*! ../AuroriansTeam */
+
+/*! ../CopilotsTable */
+
+/*! ./styles.module.less */
+
+/*! swr */
+
+/*! @/assets/elements/4.webp */
+
+/*! @/assets/elements/2.webp */
+
+/*! immer */
+
+/*! react */
+
+/*! @sinsa/schema */
+
+/*! react/jsx-runtime */
+
+/*! zod */
+
+/*! @/utils/swr */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! ./helpers/can-use-copilot */
+
+/*! @/containers/TermNotFound */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @/assets/classes/2004.webp */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @/assets/skins */
+
+/*! @/components/SolutionScenarioCard */
+
+/*! ./constants */
+
+/*! antd */
+
+/*! @ant-design/pro-table */
+
+/*! @/models/aurorians */
+
+/*! @modern-js/runtime/model */
+
+/*! @/components/CopilotsTable */
+
+/*! @modern-js/runtime/router */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @/containers/CopilotHeader */
+
+/*! @/assets/classes/2003.webp */
+
+/*! react */
+
+/*! ./helpers/box-without-aurorians-in-copilot */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! antd */
+
+/*! @/assets/elements/3.webp */
+
+/*! antd */
+
+/*! @/assets/elements/1.webp */
+
+/*! @/containers/CopilotSolution */
+
+/*! @/models/terms */
