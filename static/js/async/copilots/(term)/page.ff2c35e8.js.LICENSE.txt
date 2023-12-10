@@ -1,14 +1,12 @@
-/*! @/utils/swr */
-
 /*! @modern-js/runtime/model */
 
 /*! antd */
 
 /*! antd */
 
-/*! @/containers/TermNotFound */
-
 /*! ./helpers/can-use-copilot */
+
+/*! @/containers/TermNotFound */
 
 /*! react */
 
@@ -48,9 +46,9 @@
 
 /*! ./helpers/box-without-aurorians-in-copilot */
 
-/*! ./styles.module.less */
-
 /*! numeral */
+
+/*! ./styles.module.less */
 
 /*! ./columns */
 
@@ -62,9 +60,9 @@
 
 /*! @/containers/CopilotSolution */
 
-/*! @/models/terms */
-
 /*! @/models/aurorians */
+
+/*! @/models/terms */
 
 /*! @/assets/elements/1.webp */
 
@@ -82,9 +80,9 @@
 
 /*! ../AuroriansTeam */
 
-/*! @modern-js/runtime/model */
-
 /*! ./styles.module.less */
+
+/*! @modern-js/runtime/model */
 
 /*! @modern-js/runtime/router */
 
@@ -114,9 +112,9 @@
 
 /*! @/assets/elements/2.webp */
 
-/*! @/assets/elements/4.webp */
-
 /*! react/jsx-runtime */
+
+/*! @/assets/elements/4.webp */
 
 /*! immer */
 
@@ -129,6 +127,8 @@
 /*! immer */
 
 /*! ./constants */
+
+/*! @/utils/swr */
 
 /*! react */
 
