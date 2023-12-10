@@ -43,8 +43,17 @@
         "/static/js/lib-lodash.418f4478.js",
         "/static/js/lib-react.c9d9be3b.js",
         "/static/js/lib-router.341a6709.js",
-        "/static/js/3029.a231ef3b.js",
-        "/static/js/main.60ac17e3.js"
+        "/static/js/3029.73560689.js",
+        "/static/js/main.68765bea.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "my-box/page": {
+      "chunkIds": [
+        "2550"
+      ],
+      "assets": [
+        "/static/js/async/my-box/page.ba250fab.js"
       ],
       "referenceCssAssets": []
     },

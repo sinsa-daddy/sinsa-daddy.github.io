@@ -1,0 +1,2 @@
+/*! For license information please see page.ba250fab.js.LICENSE.txt */
+(self.webpackChunk_sinsa_web=self.webpackChunk_sinsa_web||[]).push([["2550"],{43017:function(e,n,s){"use strict";s.r(n),s.d(n,{default:function(){return i}});var t=s("66791"),a=s("98022"),i=()=>(0,t.jsx)(a.PageContainer,{title:"\u6211\u7684\u81EA\u5B9A\u4E49 Box",children:"123"})}}]);
