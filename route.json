@@ -21,12 +21,6 @@
       "entryPath": "public/api/copilots/18.json"
     },
     {
-      "urlPath": "/api/copilots/20.json",
-      "isSPA": true,
-      "isSSR": false,
-      "entryPath": "public/api/copilots/20.json"
-    },
-    {
       "urlPath": "/api/copilots/22.json",
       "isSPA": true,
       "isSSR": false,
