@@ -14,15 +14,15 @@
       ],
       "assets": [
         "/static/js/lib-antd.f47db239.js",
-        "/static/js/lib-antd-pro.2f3d1fc5.js",
+        "/static/js/lib-antd-pro.9c8947c8.js",
         "/static/js/lib-lodash.418f4478.js",
         "/static/js/async/2759.b7849a55.js",
         "/static/js/async/7851.2a971923.js",
         "/static/js/async/5161.8bf33f40.js",
         "/static/js/async/8313.bba136a2.js",
         "/static/js/async/2730.f341b117.js",
-        "/static/js/async/copilots/(term)/page.849fdf70.js",
-        "/static/css/async/copilots/(term)/page.f305838c.css"
+        "/static/css/async/copilots/(term)/page.f305838c.css",
+        "/static/js/async/copilots/(term)/page.0fa8fbd7.js"
       ],
       "referenceCssAssets": [
         "/static/css/async/copilots/(term)/page.f305838c.css"
@@ -42,7 +42,7 @@
       ],
       "assets": [
         "/static/js/lib-antd.f47db239.js",
-        "/static/js/lib-antd-pro.2f3d1fc5.js",
+        "/static/js/lib-antd-pro.9c8947c8.js",
         "/static/js/lib-lodash.418f4478.js",
         "/static/js/lib-polyfill.b5e0ec79.js",
         "/static/js/lib-react.c9d9be3b.js",
@@ -64,7 +64,7 @@
       ],
       "assets": [
         "/static/js/lib-antd.f47db239.js",
-        "/static/js/lib-antd-pro.2f3d1fc5.js",
+        "/static/js/lib-antd-pro.9c8947c8.js",
         "/static/js/lib-lodash.418f4478.js",
         "/static/js/async/2759.b7849a55.js",
         "/static/js/async/5161.8bf33f40.js",
@@ -87,7 +87,7 @@
       ],
       "assets": [
         "/static/js/lib-antd.f47db239.js",
-        "/static/js/lib-antd-pro.2f3d1fc5.js",
+        "/static/js/lib-antd-pro.9c8947c8.js",
         "/static/js/lib-lodash.418f4478.js",
         "/static/js/async/2759.b7849a55.js",
         "/static/js/async/7851.2a971923.js",
@@ -114,7 +114,7 @@
       ],
       "assets": [
         "/static/js/lib-antd.f47db239.js",
-        "/static/js/lib-antd-pro.2f3d1fc5.js",
+        "/static/js/lib-antd-pro.9c8947c8.js",
         "/static/js/lib-lodash.418f4478.js",
         "/static/js/async/2759.b7849a55.js",
         "/static/js/async/upload/page.3d7f23ed.js"
