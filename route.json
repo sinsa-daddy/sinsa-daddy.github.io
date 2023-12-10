@@ -1,0 +1,42 @@
+{
+  "routes": [
+    {
+      "urlPath": "/",
+      "entryName": "main",
+      "entryPath": "html/main/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false
+    },
+    {
+      "urlPath": "/api/aurorians.json",
+      "isSPA": true,
+      "isSSR": false,
+      "entryPath": "public/api/aurorians.json"
+    },
+    {
+      "urlPath": "/api/copilots/18.json",
+      "isSPA": true,
+      "isSSR": false,
+      "entryPath": "public/api/copilots/18.json"
+    },
+    {
+      "urlPath": "/api/copilots/20.json",
+      "isSPA": true,
+      "isSSR": false,
+      "entryPath": "public/api/copilots/20.json"
+    },
+    {
+      "urlPath": "/api/copilots/22.json",
+      "isSPA": true,
+      "isSSR": false,
+      "entryPath": "public/api/copilots/22.json"
+    },
+    {
+      "urlPath": "/api/terms.json",
+      "isSPA": true,
+      "isSSR": false,
+      "entryPath": "public/api/terms.json"
+    }
+  ]
+}

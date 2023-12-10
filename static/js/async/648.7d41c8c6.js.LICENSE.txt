@@ -1,0 +1,323 @@
+/*! ./Form */
+
+/*! @babel/runtime/helpers/esm/inherits */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ../../helpers/alpha */
+
+/*! react */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! react */
+
+/*! lodash/each */
+
+/*! reactcss */
+
+/*! rc-util/es/warning */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! ./utils/valueUtil */
+
+/*! lodash/map */
+
+/*! react */
+
+/*! ./utils/valueUtil */
+
+/*! ./ColorWrap */
+
+/*! reactcss */
+
+/*! ./useForm */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! ../common */
+
+/*! react */
+
+/*! rc-util/es/isEqual */
+
+/*! ./FormContext */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! react */
+
+/*! ../../helpers/saturation */
+
+/*! react */
+
+/*! lodash/forOwn */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! ./autoprefix */
+
+/*! rc-util/es/Children/toArray */
+
+/*! react */
+
+/*! react */
+
+/*! ./mergeClasses */
+
+/*! react */
+
+/*! react */
+
+/*! ./ListContext */
+
+/*! react */
+
+/*! ./SketchFields */
+
+/*! ./utils/valueUtil */
+
+/*! react */
+
+/*! ./utils/asyncUtil */
+
+/*! react */
+
+/*! ./utils/validateUtil */
+
+/*! ./FieldContext */
+
+/*! @preserve
+ * numeral.js
+ * version : 2.0.6
+ * author : Adam Draper
+ * license : MIT
+ * http://adamwdraper.github.com/Numeral-js/
+ */
+
+/*! ./Field */
+
+/*! ./utils/messages */
+
+/*! ./Checkboard */
+
+/*! lodash/isPlainObject */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! reactcss */
+
+/*! reactcss */
+
+/*! rc-util/es/utils/set */
+
+/*! lodash/merge */
+
+/*! ./ListContext */
+
+/*! ./useWatch */
+
+/*! ./components/active */
+
+/*! reactcss */
+
+/*! lodash/throttle */
+
+/*! rc-util/es/warning */
+
+/*! ./utils/typeUtil */
+
+/*! ../../helpers/interaction */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! ../../helpers/checkboard */
+
+/*! react */
+
+/*! ./SketchPresetColors */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! rc-util/es/utils/set */
+
+/*! react */
+
+/*! ../common */
+
+/*! ./Saturation */
+
+/*! rc-util/es/warning */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! rc-util/es/utils/get */
+
+/*! lodash/isString */
+
+/*! ./loop */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./Swatch */
+
+/*! ./FieldContext */
+
+/*! ./FieldContext */
+
+/*! ./FieldContext */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! lodash/cloneDeep */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! ./Hue */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! lodash/debounce */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! reactcss */
+
+/*! ./utils/valueUtil */
+
+/*! rc-util/es/utils/set */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! reactcss */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! ./typeUtil */
+
+/*! ./flattenNames */
+
+/*! ./Field */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! ./utils/valueUtil */
+
+/*! @babel/runtime/helpers/esm/createSuper */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! lodash/forOwn */
+
+/*! ./FieldContext */
+
+/*! react */
+
+/*! ./utils/NameMap */
+
+/*! async-validator */
+
+/*! tinycolor2 */
+
+/*! ./FormContext */
+
+/*! rc-util/es/warning */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! @babel/runtime/helpers/esm/assertThisInitialized */
+
+/*! rc-util/es/warning */
+
+/*! ./utils/typeUtil */
+
+/*! ../../helpers/color */
+
+/*! ./ListContext */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! react */
+
+/*! ./Checkboard */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! ./messages */
+
+/*! ../common */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./ListContext */
+
+/*! ./List */
+
+/*! ./useForm */
+
+/*! ./EditableInput */
+
+/*! lodash/forOwn */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! ../../helpers/hue */
+
+/*! rc-util/es/warning */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./Checkboard */
+
+/*! reactcss */
+
+/*! ./components/sketch/Sketch */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./components/hover */
+
+/*! react */
+
+/*! ./FieldContext */
+
+/*! ../../helpers/color */
+
+/*! ./Alpha */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
