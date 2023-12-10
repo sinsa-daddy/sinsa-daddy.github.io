@@ -1,20 +1,16 @@
+/*! @/utils/swr */
+
 /*! @modern-js/runtime/model */
 
 /*! antd */
 
 /*! antd */
 
-/*! @/assets/elements/3.webp */
+/*! @/containers/TermNotFound */
 
-/*! ./helpers/box-without-aurorians-in-copilot */
-
-/*! antd */
-
-/*! @/assets/elements/1.webp */
+/*! ./helpers/can-use-copilot */
 
 /*! react */
-
-/*! @/containers/CopilotSolution */
 
 /*! react/jsx-runtime */
 
@@ -22,21 +18,15 @@
 
 /*! @modern-js/runtime/model */
 
-/*! @/models/terms */
-
-/*! react/jsx-runtime */
-
-/*! @/assets/classes/2002.webp */
-
-/*! @/components/MyLayout/constants */
-
-/*! react/jsx-runtime */
+/*! @/assets/classes/2004.webp */
 
 /*! react/jsx-runtime */
 
 /*! @/components/MyLayout/constants */
 
-/*! react */
+/*! react/jsx-runtime */
+
+/*! @/components/CopilotsTable */
 
 /*! @modern-js/runtime/model */
 
@@ -44,19 +34,19 @@
 
 /*! @modern-js/runtime/router */
 
-/*! @modern-js/runtime/model */
-
 /*! @modern-js/runtime/router */
 
-/*! @ant-design/pro-layout */
+/*! @/containers/CopilotHeader */
 
-/*! @/assets/classes/2001.webp */
+/*! @/assets/classes/2003.webp */
 
 /*! @/features/backtrack/calculate-all-scenarios-and-scores */
 
 /*! @ant-design/pro-table */
 
-/*! immer */
+/*! @/assets/elements/3.webp */
+
+/*! ./helpers/box-without-aurorians-in-copilot */
 
 /*! ./styles.module.less */
 
@@ -66,43 +56,49 @@
 
 /*! react/jsx-runtime */
 
+/*! antd */
+
 /*! ../CopilotsTable/columns */
+
+/*! @/containers/CopilotSolution */
+
+/*! @/models/terms */
 
 /*! @/models/aurorians */
 
-/*! swr */
+/*! @/assets/elements/1.webp */
 
-/*! @/assets/elements/2.webp */
+/*! @/assets/classes/2002.webp */
+
+/*! react/jsx-runtime */
+
+/*! @/components/MyLayout/constants */
 
 /*! ../CopilotsTable */
 
 /*! ../AurorianCard */
 
-/*! @/assets/elements/4.webp */
-
-/*! immer */
+/*! react */
 
 /*! ../AuroriansTeam */
 
-/*! @sinsa/schema */
+/*! @modern-js/runtime/model */
 
 /*! ./styles.module.less */
 
-/*! react/jsx-runtime */
+/*! @modern-js/runtime/router */
 
-/*! @/utils/swr */
+/*! @ant-design/pro-layout */
 
-/*! ./helpers/can-use-copilot */
+/*! @/assets/classes/2001.webp */
 
 /*! react */
 
+/*! immer */
+
 /*! react/jsx-runtime */
 
-/*! @/containers/TermNotFound */
-
 /*! zod */
-
-/*! @/assets/classes/2004.webp */
 
 /*! antd */
 
@@ -112,19 +108,21 @@
 
 /*! @/models/aurorians */
 
+/*! swr */
+
 /*! react */
 
-/*! @/components/CopilotsTable */
+/*! @/assets/elements/2.webp */
+
+/*! @/assets/elements/4.webp */
 
 /*! react/jsx-runtime */
 
-/*! @modern-js/runtime/router */
+/*! immer */
 
-/*! @/containers/CopilotHeader */
+/*! @sinsa/schema */
 
 /*! react */
-
-/*! @/assets/classes/2003.webp */
 
 /*! @/assets/skins */
 
@@ -133,6 +131,8 @@
 /*! ./constants */
 
 /*! react */
+
+/*! react/jsx-runtime */
 
 /*! antd */
 
