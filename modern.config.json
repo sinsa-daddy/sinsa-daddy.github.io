@@ -108,7 +108,8 @@
       "antd": "antd",
       "dayjs": "dayjs",
       "react": "React",
-      "react-dom": "ReactDOM"
+      "react-dom": "ReactDOM",
+      "@ant-design/pro-components": "ProComponents"
     }
   },
   "server": {
@@ -212,16 +213,7 @@
   "builderPlugins": [],
   "performance": {
     "chunkSplit": {
-      "strategy": "split-by-experience",
-      "override": {
-        "cacheGroups": {
-          "antdesign": {
-            "test": {},
-            "name": "lib-antd-pro",
-            "chunks": "all"
-          }
-        }
-      }
+      "strategy": "split-by-experience"
     }
   },
   "_raw": {
@@ -241,16 +233,7 @@
     },
     "performance": {
       "chunkSplit": {
-        "strategy": "split-by-experience",
-        "override": {
-          "cacheGroups": {
-            "antdesign": {
-              "test": "[Circular test]",
-              "name": "lib-antd-pro",
-              "chunks": "all"
-            }
-          }
-        }
+        "strategy": "split-by-experience"
       }
     },
     "output": {
@@ -258,7 +241,8 @@
         "antd": "antd",
         "dayjs": "dayjs",
         "react": "React",
-        "react-dom": "ReactDOM"
+        "react-dom": "ReactDOM",
+        "@ant-design/pro-components": "ProComponents"
       }
     }
   },
