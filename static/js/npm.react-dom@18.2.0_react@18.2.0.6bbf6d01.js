@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([[3879],{78520:(a,e,o)=>{var t=o(70745);e.createRoot=t.createRoot,e.hydrateRoot=t.hydrateRoot}}]);

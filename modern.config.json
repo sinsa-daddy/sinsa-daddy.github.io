@@ -53,6 +53,10 @@
           }
         ]
       }
+    },
+    "cssExtract": {
+      "loaderOptions": {},
+      "pluginOptions": {}
     }
   },
   "output": {
@@ -212,7 +216,7 @@
   "builderPlugins": [],
   "performance": {
     "chunkSplit": {
-      "strategy": "split-by-experience"
+      "strategy": "split-by-module"
     }
   },
   "_raw": {
@@ -232,7 +236,7 @@
     },
     "performance": {
       "chunkSplit": {
-        "strategy": "split-by-experience"
+        "strategy": "split-by-module"
       }
     },
     "output": {
@@ -246,5 +250,6 @@
   },
   "bff": {},
   "testing": {},
-  "deploy": {}
+  "deploy": {},
+  "security": {}
 }
