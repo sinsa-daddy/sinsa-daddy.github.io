@@ -1,9 +1,0 @@
-/*! react/jsx-runtime */
-
-/*! @/assets/docs/qun.webp */
-
-/*! @ant-design/pro-components */
-
-/*! react */
-
-/*! antd */

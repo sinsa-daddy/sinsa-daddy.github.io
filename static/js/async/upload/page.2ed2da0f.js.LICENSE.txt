@@ -1,0 +1,13 @@
+/*! @/models/terms */
+
+/*! react/jsx-runtime */
+
+/*! @/components/UploadForm */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! @ant-design/pro-components */
