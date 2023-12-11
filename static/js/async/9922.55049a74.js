@@ -1,1 +1,0 @@
-(self.webpackChunk_sinsa_web=self.webpackChunk_sinsa_web||[]).push([["9922"],{47800:function(e,s,a){"use strict";e.exports=a.p+"static/image/DantangOrigin.791138e4.webp"}}]);

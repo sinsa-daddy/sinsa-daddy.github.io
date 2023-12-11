@@ -103,7 +103,13 @@
     },
     "disableNodePolyfill": true,
     "enableInlineRouteManifests": true,
-    "disableInlineRouteManifests": false
+    "disableInlineRouteManifests": false,
+    "externals": {
+      "antd": "antd",
+      "dayjs": "dayjs",
+      "react": "React",
+      "react-dom": "ReactDOM"
+    }
   },
   "server": {
     "baseUrl": "/",
@@ -245,6 +251,14 @@
             }
           }
         }
+      }
+    },
+    "output": {
+      "externals": {
+        "antd": "antd",
+        "dayjs": "dayjs",
+        "react": "React",
+        "react-dom": "ReactDOM"
       }
     }
   },

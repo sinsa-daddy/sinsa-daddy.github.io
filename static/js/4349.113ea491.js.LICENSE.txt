@@ -1,0 +1,1178 @@
+/*! ./icons */
+
+/*! react */
+
+/*! ./isPromise.js */
+
+/*! @modern-js/runtime-utils/browser */
+
+/*! ./parentSelectorLinter */
+
+/*! ./PrefetchLink */
+
+/*! rc-util/es/warning */
+
+/*! ../components/AntdIcon */
+
+/*! react-router-dom */
+
+/*! ../utils */
+
+/*! react */
+
+/*! ./warning */
+
+/*! ./util.js */
+
+/*! react */
+
+/*! ../components/AntdIcon */
+
+/*! ./generate */
+
+/*! @_modern_js_src/routes/layout.tsx */
+
+/*! react */
+
+/*! ../utils/observerUtil */
+
+/*! @_modern_js_src/routes/copilots/[term]/page.tsx */
+
+/*! @swc/helpers/_/_async_to_generator */
+
+/*! ./createApp */
+
+/**
+ * @license React
+ * react-is.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/*! @ant-design/icons-svg/es/asn/PlusOutlined */
+
+/*! rc-util/es/Children/toArray */
+
+/*! ../components/AntdIcon */
+
+/*! ./ThemeCache */
+
+/*! ../path-to-regexp */
+
+/*! @ant-design/icons-svg/es/asn/InfoCircleOutlined */
+
+/*! ./css-color-names.js */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! @ant-design/colors */
+
+/*! ./routeModule */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @modern-js-reduck/store */
+
+/*! react */
+
+/*! ./logicalPropertiesLinter */
+
+/*! ./theme */
+
+/*! @modern-js-reduck/plugin-immutable */
+
+/*! ../Collection */
+
+/*! @ant-design/icons-svg/es/asn/SettingOutlined */
+
+/*! @modern-js-reduck/store */
+
+/*! ./hooks/useMergedState */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ./Collection */
+
+/*! react */
+
+/*! react */
+
+/*! @swc/helpers/_/_sliced_to_array */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./MenuOutlined */
+
+/*! react */
+
+/*! rc-util/lib/Dom/dynamicCSS */
+
+/*! @swc/helpers/_/_define_property */
+
+/*! ../components/AntdIcon */
+
+/*! react */
+
+/*! react */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! @remix-run/router */
+
+/*! react */
+
+/*! ../transformRoute/transformRoute */
+
+/*! ./contains */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./ReloadOutlined */
+
+/*! ./SettingOutlined */
+
+/*! ./cjs/react-is.production.min.js */
+
+/*! react-is */
+
+/*! ./createPlugin */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! ./hooks/useEvent */
+
+/*! ./FullscreenOutlined */
+
+/*! @modern-js/runtime/plugins */
+
+/*! ./RightOutlined */
+
+/*! ./useLayoutEffect */
+
+/*! rc-util/lib/warning */
+
+/*! @modern-js-reduck/plugin-effects */
+
+/*! ../index.js */
+
+/*! react */
+
+/*! ../../core */
+
+/*! react */
+
+/*! @modern-js/utils/universal/constants */
+
+/*! ./components/IconFont */
+
+/*! ./canUseDom */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ./legacyNotSelectorLinter */
+
+/*! react-dom */
+
+/*! ../components/AntdIcon */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! react */
+
+/*! @ant-design/icons-svg/es/asn/FilterOutlined */
+
+/*! react-router-dom */
+
+/*! rc-util/es/ref */
+
+/*! ./mountModel */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./IconBase */
+
+/*! react */
+
+/*! ./css-color-names.js */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./utils */
+
+/*! ../StyleContext */
+
+/*! @modern-js/runtime-utils/remix-router */
+
+/*! ./hooks/useCacheToken */
+
+/*! @ant-design/icons-svg/es/asn/FullscreenOutlined */
+
+/*! ./transformers/legacyLogicalProperties */
+
+/*! ./VerticalAlignMiddleOutlined */
+
+/*! ./memoize */
+
+/*! @swc/helpers/_/_ts_generator */
+
+/*! immer */
+
+/*! ./twoTonePrimaryColor */
+
+/*! ../components/AntdIcon */
+
+/*! ./useState */
+
+/*! ../components/AntdIcon */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! react */
+
+/*! ./utils */
+
+/*! ./createTheme */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! @babel/runtime/helpers/esm/createSuper */
+
+/*! ../StyleContext */
+
+/*! @modern-js-reduck/plugin-devtools */
+
+/*! ../plugins */
+
+/*! ../model/useModel */
+
+/*! rc-util/es/warning */
+
+/*! ./format-input */
+
+/*! ./hashedAnimationLinter */
+
+/*! @swc/helpers/_/_async_to_generator */
+
+/*! react */
+
+/*! ../components/AntdIcon */
+
+/*! ./Context */
+
+/*! ./Enum.js */
+
+/*! ./EyeOutlined */
+
+/*! ../components/AntdIcon */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ../getFlatMenus/getFlatMenus */
+
+/*! ../runtimeContext */
+
+/*! classnames */
+
+/*! ./utils/set */
+
+/*! @swc/helpers/_/_instanceof */
+
+/*! ../components/AntdIcon */
+
+/*! @_modern_js_src/routes/my-box/create/page.tsx */
+
+/*! ./Cache */
+
+/*! @swc/helpers/_/_object_without_properties */
+
+/*! react */
+
+/*! ../components/AntdIcon */
+
+/*! @ant-design/icons-svg/es/asn/DeleteOutlined */
+
+/*! ./utils */
+
+/*! @swc/helpers/_/_sliced_to_array */
+
+/** @license React v16.13.1
+ * react-is.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/*! @modern-js-reduck/plugin-immutable */
+
+/*! react */
+
+/*! hoist-non-react-statics */
+
+/*! ./utils */
+
+/*! ./CopyOutlined */
+
+/*! @emotion/hash */
+
+/*! ../../core */
+
+/*! @modern-js-reduck/store */
+
+/*! ./loader/loaderManager */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/**
+ * @license React
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react/jsx-runtime */
+
+/*! ./DeferredDataScripts */
+
+/*! @ant-design/icons-svg/es/asn/EllipsisOutlined */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ../model/subscribe */
+
+/*! ../plugin */
+
+/*! ./Theme */
+
+/*! react */
+
+/*! ../components/AntdIcon */
+
+/*! @modern-js/runtime/router */
+
+/*! ../components/AntdIcon */
+
+/*! @_modern_js_src/routes/my-box/create/page.tsx */
+
+/*! ./lib/icons/ArrowLeftOutlined */
+
+/*! react */
+
+/*! @modern-js/runtime/router */
+
+/*! ./format-input.js */
+
+/*! ../../StyleContext */
+
+/*! ./src/Serializer.js */
+
+/*! @modern-js-reduck/store */
+
+/*! ./CloseCircleFilled */
+
+/*! ./Tokenizer.js */
+
+/*! ./ThemeCache */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! ./store/createStore */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! react/jsx-runtime */
+
+/*! @swc/helpers/_/_to_consumable_array */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @ant-design/icons-svg/es/asn/CopyrightOutlined */
+
+/*! react */
+
+/*! @swc/helpers/_/_async_to_generator */
+
+/*! ../components/AntdIcon */
+
+/*! ./plugin */
+
+/*! rc-util/es/warning */
+
+/*! @modern-js/runtime-utils/router */
+
+/*! @swc/helpers/_/_ts_generator */
+
+/*! @_modern_js_src/routes/page.tsx */
+
+/*! rc-util/es/hooks/useLayoutEffect */
+
+/*! ./SingleObserver */
+
+/*! ./Icon */
+
+/*! ./useHMR */
+
+/*! rc-util/lib/Dom/shadow */
+
+/*! ./model/model */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ../components/AntdIcon */
+
+/*! ./utils/observerUtil */
+
+/*! ../../common */
+
+/*! ./utils/useIsomorphicLayoutEffect */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @modern-js-reduck/store */
+
+/*! ./transformRoute/transformRoute */
+
+/*! react-dom/client */
+
+/*! react */
+
+/*! ./hooks */
+
+/*! react */
+
+/*! @ant-design/icons-svg/es/asn/RightOutlined */
+
+/*! ./LoadingOutlined */
+
+/*! @_modern_js_src/routes/my-box/page.tsx */
+
+/*! @swc/helpers/_/_to_consumable_array */
+
+/*! ../transformRoute/transformRoute */
+
+/*! @emotion/hash */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! rc-util/es/Dom/canUseDom */
+
+/*! invariant */
+
+/*! ../../util */
+
+/*! react */
+
+/**
+ * @license React
+ * use-sync-external-store-shim.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/*! @ant-design/icons-svg/es/asn/VerticalAlignTopOutlined */
+
+/*! react-dom */
+
+/*! @swc/helpers/_/_object_spread_props */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! ./cjs/react-is.production.min.js */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! ../components/AntdIcon */
+
+/*! ./utils */
+
+/*! @ant-design/colors */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @_modern_js_src/routes/copilots/[term]/page.tsx */
+
+/*! @babel/runtime/helpers/esm/inherits */
+
+/*! ./Theme */
+
+/*! ../utils */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! @babel/runtime/helpers/esm/toArray */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js-reduck/store */
+
+/*! @swc/helpers/_/_sliced_to_array */
+
+/*! ../components/AntdIcon */
+
+/*! ./SearchOutlined */
+
+/*! @swc/helpers/_/_object_spread_props */
+
+/*! rc-util/es/Dom/dynamicCSS */
+
+/*! react */
+
+/*! ./Utility.js */
+
+/*! @modern-js/plugin */
+
+/*! @ctrl/tinycolor */
+
+/*! ./core */
+
+/*! react-dom */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./Context */
+
+/*! ./IconBase */
+
+/*! @emotion/unitless */
+
+/*! react */
+
+/*! ./FullscreenExitOutlined */
+
+/*! ./Keyframes */
+
+/*! @swc/helpers/_/_ts_generator */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react */
+
+/*! @swc/helpers/_/_object_spread_props */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ../utils */
+
+/*! ./misc */
+
+/*! ../components/AntdIcon */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @swc/helpers/_/_object_spread_props */
+
+/*! @ant-design/colors */
+
+/*! react */
+
+/*! ./ref */
+
+/*! ./context */
+
+/*! react/jsx-runtime */
+
+/*! ./Utility.js */
+
+/*! ../utils/misc */
+
+/*! rc-util/es/Dom/canUseDom */
+
+/*! classnames */
+
+/*! react */
+
+/*! redux */
+
+/*! ./subscribe */
+
+/*! @swc/helpers/_/_object_without_properties */
+
+/*! react */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! react */
+
+/*! ./conversion.js */
+
+/*! ../utils/memoize */
+
+/*! ./IconBase */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! react */
+
+/*! @modern-js/runtime-utils/router */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react/jsx-runtime */
+
+/*! ./Context */
+
+/*! ./twoTonePrimaryColor */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! @ant-design/icons-svg/es/asn/CloseCircleFilled */
+
+/*! react */
+
+/*! ./src/Enum.js */
+
+/*! @modern-js-reduck/plugin-auto-actions */
+
+/*! rc-util/es/Dom/dynamicCSS */
+
+/*! ./compatible */
+
+/*! ../time */
+
+/*! react */
+
+/*! ./FilterOutlined */
+
+/*! @swc/helpers/_/_object_without_properties */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! react */
+
+/*! ./linters */
+
+/*! ./CopyrightOutlined */
+
+/*! ../path-to-regexp */
+
+/*! react */
+
+/*! ./plugin */
+
+/*! stylis */
+
+/*! @ant-design/icons-svg/lib/asn/ArrowRightOutlined */
+
+/*! use-sync-external-store/shim/index.js */
+
+/*! ./ColumnHeightOutlined */
+
+/*! ../Dom/canUseDom */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! @swc/helpers/_/_to_consumable_array */
+
+/*! ./DownOutlined */
+
+/*! ../utils */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! rc-util/es/Dom/dynamicCSS */
+
+/*! react */
+
+/*! @swc/helpers/_/_object_spread_props */
+
+/*! @swc/helpers/_/_async_to_generator */
+
+/*! @modern-js-reduck/store */
+
+/*! ../components/AntdIcon */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! /home/runner/work/sinsa/sinsa/apps/sinsa/src/routes/layout.data.ts */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! ./VerticalAlignBottomOutlined */
+
+/*! ./index.js */
+
+/*! ./plugin */
+
+/*! ./cjs/react-jsx-runtime.production.min.js */
+
+/*! redux-promise-middleware */
+
+/*! ../../core */
+
+/*! @swc/helpers/_/_object_spread_props */
+
+/*! ../../linters */
+
+/*! ../components/AntdIcon */
+
+/*! ./lib/icons/ArrowRightOutlined */
+
+/*! @modern-js/utils/universal/constants */
+
+/*! @_modern_js_src/routes/upload/page.tsx */
+
+/*! react-is */
+
+/*! ../util */
+
+/*! ./src/Parser.js */
+
+/*! rc-util/es/Dom/canUseDom */
+
+/*! react */
+
+/*! ./useGlobalCache */
+
+/*! ./plugin */
+
+/*! @ant-design/icons-svg/es/asn/CopyOutlined */
+
+/*! ./contains */
+
+/*! ./DefaultNotFound */
+
+/*! @ant-design/icons-svg/lib/asn/ArrowLeftOutlined */
+
+/*! react */
+
+/*! ../sha265 */
+
+/*! @modern-js/utils/universal/plugin-dag-sort */
+
+/*! ./theme */
+
+/*! ../components/AntdIcon */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! ./components/Context */
+
+/*! react */
+
+/*! ./useCompatibleInsertionEffect */
+
+/*! ./IconBase */
+
+/*! ./canUseDom */
+
+/*! rc-util/es/warning */
+
+/*! react */
+
+/*! ./runtime */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! @modern-js/runtime-utils/router */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./object */
+
+/*! ../components/AntdIcon */
+
+/*! @modern-js/runtime */
+
+/*! @modern-js/plugin */
+
+/*! ./hook */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @modern-js/runtime-utils/router */
+
+/*! @_modern_js_src/routes/my-box/page.tsx */
+
+/*! ./utils */
+
+/*! react */
+
+/*! @ant-design/icons-svg/es/asn/FullscreenExitOutlined */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! ../cjs/use-sync-external-store-shim.production.min.js */
+
+/*! react */
+
+/*! @modern-js-reduck/plugin-auto-actions */
+
+/*! ./VerticalAlignTopOutlined */
+
+/*! @ant-design/icons-svg/es/asn/ReloadOutlined */
+
+/*! ./conversion.js */
+
+/*! @ant-design/colors */
+
+/*! hoist-non-react-statics */
+
+/*! react */
+
+/*! ../components/AntdIcon */
+
+/*! @modern-js/runtime/model */
+
+/*! ../components/AntdIcon */
+
+/*! ./DomWrapper */
+
+/*! ./components/twoTonePrimaryColor */
+
+/*! hoist-non-react-statics */
+
+/*! ./InfoCircleOutlined */
+
+/*! @ant-design/icons-svg/es/asn/SearchOutlined */
+
+/*! react */
+
+/*! ../useGlobalCache */
+
+/*! dayjs */
+
+/*! ./batchManager */
+
+/*! react */
+
+/*! @ant-design/icons-svg/es/asn/EyeOutlined */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./runtime */
+
+/*! ./hooks/useStyleRegister */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! ../../StyleContext */
+
+/*! @modern-js-reduck/react */
+
+/*! @babel/runtime/helpers/interopRequireDefault */
+
+/*! redux */
+
+/*! ./cacheMapUtil */
+
+/*! ./PlusOutlined */
+
+/*! @ant-design/icons-svg/es/asn/ColumnHeightOutlined */
+
+/*! @_modern_js_src/routes/page.tsx */
+
+/*! rc-util/es/isEqual */
+
+/*! @modern-js/plugin */
+
+/*! ./util.js */
+
+/*! ./src/Utility.js */
+
+/*! ./useEvent */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ../runtimeContext */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @swc/helpers/_/_sliced_to_array */
+
+/*! @swc/helpers/_/_sliced_to_array */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! rc-util/es/warning */
+
+/*! @modern-js-reduck/plugin-effects */
+
+/*! @swc/helpers/_/_to_consumable_array */
+
+/*! ./plugin */
+
+/*! @ant-design/icons-svg/es/asn/VerticalAlignMiddleOutlined */
+
+/*!
+	Copyright (c) 2018 Jed Watson.
+	Licensed under the MIT License (MIT), see
+	http://jedwatson.github.io/classnames
+*/
+
+/*! @modern-js-reduck/react */
+
+/*! @emotion/hash */
+
+/*! ./hooks/useMemo */
+
+/*! ./Enum.js */
+
+/*! @_modern_js_src/routes/layout.tsx */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! ./primitive */
+
+/*! react/jsx-runtime */
+
+/*! ./warning */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ./core */
+
+/*! ./src/Tokenizer.js */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ./getMatchMenu/getMatchMenu */
+
+/*! ./conversion.js */
+
+/*! @ant-design/icons-svg/es/asn/EyeInvisibleOutlined */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ./css-color-names.js */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! @modern-js/runtime-utils/parsed */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! @redux-devtools/extension */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @_modern_js_internal/main/routes */
+
+/*! ./EyeInvisibleOutlined */
+
+/*! @modern-js-reduck/store */
+
+/*! react */
+
+/*! @modern-js-reduck/plugin-devtools */
+
+/*! ./components/Context */
+
+/*! @ant-design/icons-svg/es/asn/VerticalAlignBottomOutlined */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ../components/AntdIcon */
+
+/*! ../utils */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./utils */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ./components/Context */
+
+/*! react */
+
+/*! rc-util/es/Dom/shadow */
+
+/*! ./get */
+
+/*! react-is */
+
+/*! @ant-design/icons-svg/es/asn/BarsOutlined */
+
+/*! react */
+
+/*! ./utils */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! redux */
+
+/*! react */
+
+/*! @swc/helpers/_/_object_spread_props */
+
+/*! ./DeleteOutlined */
+
+/*! @modern-js/utils/universal/constants */
+
+/*! ../utils */
+
+/*! invariant */
+
+/*! ../components/AntdIcon */
+
+/*! ./nestedRoutes */
+
+/*! ../utils/misc */
+
+/*! ./useEffectCleanupRegister */
+
+/*! ../utils */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! react */
+
+/*! react */
+
+/*! @swc/helpers/_/_object_spread_props */
+
+/*! ./array */
+
+/*! rc-util/es/Dom/findDOMNode */
+
+/*! ../utils/misc */
+
+/*! @swc/helpers/_/_instanceof */
+
+/*! ./StyleContext */
+
+/*! ./util */
+
+/*! ./getFlatMenus/getFlatMenus */
+
+/*! ./contentQuotesLinter */
+
+/*! @ant-design/icons-svg/es/asn/DownOutlined */
+
+/*! resize-observer-polyfill */
+
+/*! ../components/AntdIcon */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @ant-design/icons-svg/es/asn/LeftOutlined */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! rc-util/es/ref */
+
+/*! @swc/helpers/_/_ts_generator */
+
+/*! react */
+
+/*! react */
+
+/*! ./Utility.js */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @_modern_js_src/routes/upload/page.tsx */
+
+/*! @ant-design/icons-svg/es/asn/MenuOutlined */
+
+/*! ./util.js */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! swr/_internal */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! react */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @ant-design/icons-svg/es/asn/LoadingOutlined */

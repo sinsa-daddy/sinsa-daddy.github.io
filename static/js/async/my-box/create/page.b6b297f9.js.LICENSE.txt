@@ -1,0 +1,49 @@
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @/assets/skins */
+
+/*! ../CheckControlAurorianBoxCard */
+
+/*! @/models/aurorians */
+
+/*! lodash */
+
+/*! antd */
+
+/*! @modern-js/runtime/model */
+
+/*! @ant-design/pro-layout */
+
+/*! @sinsa/schema */
+
+/*! ./styles.module.less */
+
+/*! @/models/aurorians */
+
+/*! ../AurorianBoxCard */
+
+/*! react */
+
+/*! @/components/CreateMyBoxForm */
+
+/*! @ant-design/pro-card */
+
+/*! ../AurorianCard/constants */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-form */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! react */
+
+/*! @ant-design/pro-card */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/model */

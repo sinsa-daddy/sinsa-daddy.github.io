@@ -2,10 +2,11 @@
   "routeAssets": {
     "copilots/(term)/page": {
       "chunkIds": [
-        "2563",
         "9742",
+        "2563",
         "2707",
-        "2759",
+        "6378",
+        "1763",
         "7851",
         "5161",
         "8313",
@@ -13,15 +14,16 @@
         "8473"
       ],
       "assets": [
-        "/static/js/lib-antd.f47db239.js",
-        "/static/js/lib-antd-pro.9c8947c8.js",
-        "/static/js/lib-lodash.418f4478.js",
-        "/static/js/async/2759.b7849a55.js",
+        "/static/js/lib-antd-pro.69a09788.js",
+        "/static/js/lib-antd.b1d8315a.js",
+        "/static/js/lib-lodash.cdfa8639.js",
+        "/static/js/lib-polyfill.d1e3ec6d.js",
+        "/static/js/async/1763.c266f625.js",
         "/static/js/async/7851.2a971923.js",
         "/static/js/async/5161.8bf33f40.js",
-        "/static/js/async/8313.bba136a2.js",
-        "/static/js/async/2730.f341b117.js",
-        "/static/js/async/copilots/(term)/page.077348f2.js",
+        "/static/js/async/8313.447e77cb.js",
+        "/static/js/async/2730.ffab61b1.js",
+        "/static/js/async/copilots/(term)/page.025250d8.js",
         "/static/css/async/copilots/(term)/page.f305838c.css"
       ],
       "referenceCssAssets": [
@@ -31,46 +33,44 @@
     "main": {
       "chunkIds": [
         "4987",
-        "2563",
         "9742",
+        "2563",
         "2707",
         "6378",
-        "3361",
         "1700",
-        "3029",
+        "4349",
         "6909"
       ],
       "assets": [
-        "/static/js/lib-antd.f47db239.js",
-        "/static/js/lib-antd-pro.9c8947c8.js",
-        "/static/js/lib-lodash.418f4478.js",
-        "/static/js/lib-polyfill.b5e0ec79.js",
-        "/static/js/lib-react.c9d9be3b.js",
-        "/static/js/lib-router.341a6709.js",
-        "/static/js/3029.0f45dc48.js",
-        "/static/js/main.0358d2e5.js"
+        "/static/js/lib-antd-pro.69a09788.js",
+        "/static/js/lib-antd.b1d8315a.js",
+        "/static/js/lib-lodash.cdfa8639.js",
+        "/static/js/lib-polyfill.d1e3ec6d.js",
+        "/static/js/lib-router.9cb2e425.js",
+        "/static/js/4349.113ea491.js",
+        "/static/js/main.564f70c2.js"
       ],
       "referenceCssAssets": []
     },
     "my-box/create/page": {
       "chunkIds": [
-        "2563",
         "9742",
+        "2563",
         "2707",
-        "2759",
+        "1763",
         "5161",
         "2730",
         "9613"
       ],
       "assets": [
-        "/static/js/lib-antd.f47db239.js",
-        "/static/js/lib-antd-pro.9c8947c8.js",
-        "/static/js/lib-lodash.418f4478.js",
-        "/static/js/async/2759.b7849a55.js",
+        "/static/js/lib-antd-pro.69a09788.js",
+        "/static/js/lib-antd.b1d8315a.js",
+        "/static/js/lib-lodash.cdfa8639.js",
+        "/static/js/async/1763.c266f625.js",
         "/static/js/async/5161.8bf33f40.js",
-        "/static/js/async/2730.f341b117.js",
+        "/static/js/async/2730.ffab61b1.js",
         "/static/css/async/my-box/create/page.56126110.css",
-        "/static/js/async/my-box/create/page.eb3f01e2.js"
+        "/static/js/async/my-box/create/page.b6b297f9.js"
       ],
       "referenceCssAssets": [
         "/static/css/async/my-box/create/page.56126110.css"
@@ -78,20 +78,24 @@
     },
     "my-box/page": {
       "chunkIds": [
-        "2563",
         "9742",
+        "2563",
         "2707",
-        "2759",
+        "6378",
+        "1763",
         "7851",
+        "7281",
         "2550"
       ],
       "assets": [
-        "/static/js/lib-antd.f47db239.js",
-        "/static/js/lib-antd-pro.9c8947c8.js",
-        "/static/js/lib-lodash.418f4478.js",
-        "/static/js/async/2759.b7849a55.js",
+        "/static/js/lib-antd-pro.69a09788.js",
+        "/static/js/lib-antd.b1d8315a.js",
+        "/static/js/lib-lodash.cdfa8639.js",
+        "/static/js/lib-polyfill.d1e3ec6d.js",
+        "/static/js/async/1763.c266f625.js",
         "/static/js/async/7851.2a971923.js",
-        "/static/js/async/my-box/page.a49f0201.js"
+        "/static/js/async/7281.2a645e2f.js",
+        "/static/js/async/my-box/page.998a4430.js"
       ],
       "referenceCssAssets": []
     },
@@ -100,23 +104,23 @@
         "7484"
       ],
       "assets": [
-        "/static/js/async/page.ef5aa493.js"
+        "/static/js/async/page.aef1275c.js"
       ],
       "referenceCssAssets": []
     },
     "upload/page": {
       "chunkIds": [
-        "2563",
         "9742",
+        "2563",
         "2707",
-        "2759",
+        "1763",
         "4501"
       ],
       "assets": [
-        "/static/js/lib-antd.f47db239.js",
-        "/static/js/lib-antd-pro.9c8947c8.js",
-        "/static/js/lib-lodash.418f4478.js",
-        "/static/js/async/2759.b7849a55.js",
+        "/static/js/lib-antd-pro.69a09788.js",
+        "/static/js/lib-antd.b1d8315a.js",
+        "/static/js/lib-lodash.cdfa8639.js",
+        "/static/js/async/1763.c266f625.js",
         "/static/js/async/upload/page.3d7f23ed.js"
       ],
       "referenceCssAssets": []
