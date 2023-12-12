@@ -15,6 +15,18 @@
       "entryPath": "public/api/aurorians.json"
     },
     {
+      "urlPath": "/api/copilots/18.json",
+      "isSPA": true,
+      "isSSR": false,
+      "entryPath": "public/api/copilots/18.json"
+    },
+    {
+      "urlPath": "/api/copilots/22.json",
+      "isSPA": true,
+      "isSSR": false,
+      "entryPath": "public/api/copilots/22.json"
+    },
+    {
       "urlPath": "/api/terms.json",
       "isSPA": true,
       "isSSR": false,
