@@ -11,8 +11,8 @@
         4750,
         4081,
         6057,
-        3108,
         1994,
+        3108,
         843,
         7537,
         1259,
@@ -68,8 +68,8 @@
         "/static/js/npm.ant-design+pro-utils@2.15.2_antd@5.11.3_react-dom@18.2.0_react@18.2.0.node_modules.3ce766cb.js",
         "/static/js/npm.dayjs@1.11.10.73d8f232.js",
         "/static/js/npm.antd@5.11.3_react-dom@18.2.0_react@18.2.0.76a37cc5.js",
-        "/static/js/npm.lodash-es@4.17.21.e0a9d652.js",
         "/static/js/npm.modern-js+runtime@2.42.1_@types+react-dom@18.0.11_@types+react@18.0.38_react-dom@18.2.0_react@18.2.0_webpack@5.89.0.node_modules.cebacc2c.js",
+        "/static/js/npm.lodash-es@4.17.21.e0a9d652.js",
         "/static/js/npm.rc-picker@3.14.6_dayjs@1.11.10_react-dom@18.2.0_react@18.2.0.ea830145.js",
         "/static/js/npm.rc-pagination@3.7.0_react-dom@18.2.0_react@18.2.0.35eaecc4.js",
         "/static/js/npm.core-js@3.32.2.e4731dc5.js",
@@ -93,9 +93,9 @@
         "/static/js/npm.react-is@16.13.1.2365243b.js",
         "/static/js/npm.modern-js-reduck+plugin-effects@1.1.11_@modern-js-reduck+store@1.1.11.node_modules.f91c9a69.js",
         "/static/js/npm.modern-js+utils@2.42.1.node_modules.dab993b2.js",
-        "/static/js/npm..modern-js.92098f07.js",
+        "/static/js/npm..modern-js.5845e21b.js",
         "/static/js/npm.ant-design+colors@7.0.0.node_modules.098347f3.js",
-        "/static/js/npm.tslib@2.6.2.3e71fc19.js",
+        "/static/js/npm.tslib@2.6.2.0edee15c.js",
         "/static/js/npm.immer@9.0.21.35eb59db.js",
         "/static/js/npm.resize-observer-polyfill@1.5.1.15474cf9.js",
         "/static/js/npm.redux@4.2.1.b1c6da84.js",
@@ -114,7 +114,7 @@
         "/static/js/npm.remix-run+router@1.10.0.node_modules.6b4b4fe8.js",
         "/static/js/npm.emotion+unitless@0.7.5.node_modules.3f292bc6.js",
         "/static/js/npm.emotion+hash@0.8.0.node_modules.d7284746.js",
-        "/static/js/main.c224d202.js"
+        "/static/js/main.68cb18a4.js"
       ],
       "referenceCssAssets": []
     },
@@ -131,13 +131,12 @@
         9946,
         6057,
         9016,
+        1994,
         2645,
         3283,
-        1994,
-        215,
-        9053,
-        8324,
+        3051,
         3910,
+        4861,
         9638
       ],
       "assets": [
@@ -152,18 +151,17 @@
         "/static/js/async/npm.ant-design+pro-form@2.23.1_antd@5.11.3_rc-field-form@1.41.0_react-dom@18.2.0_react@18.2.0.node_modules.1d9ec4ff.js",
         "/static/js/npm.antd@5.11.3_react-dom@18.2.0_react@18.2.0.76a37cc5.js",
         "/static/js/async/npm.ant-design+pro-card@2.5.27_antd@5.11.3_react-dom@18.2.0_react@18.2.0.node_modules.58812db3.js",
+        "/static/js/npm.modern-js+runtime@2.42.1_@types+react-dom@18.0.11_@types+react@18.0.38_react-dom@18.2.0_react@18.2.0_webpack@5.89.0.node_modules.cebacc2c.js",
         "/static/js/async/npm.ant-design+pro-table@3.13.11_antd@5.11.3_rc-field-form@1.41.0_react-dom@18.2.0_react@18.2.0.node_modules.fb6221bb.js",
         "/static/js/async/npm.zod@3.22.4.33122b7b.js",
-        "/static/js/npm.modern-js+runtime@2.42.1_@types+react-dom@18.0.11_@types+react@18.0.38_react-dom@18.2.0_react@18.2.0_webpack@5.89.0.node_modules.cebacc2c.js",
-        "/static/js/async/npm.immer@10.0.3.b680bdcc.js",
-        "/static/js/async/npm.clsx@2.0.0.77e42399.js",
-        "/static/js/async/npm.numeral@2.0.6.88369cf1.js",
+        "/static/js/async/3051.396a6c9c.js",
         "/static/js/async/3910.7ebe9530.js",
-        "/static/css/async/copilots/(term)/page.94a28015.css",
-        "/static/js/async/copilots/(term)/page.16fc99a5.js"
+        "/static/css/async/4861.557997db.css",
+        "/static/js/async/4861.22c05ef8.js",
+        "/static/js/async/copilots/(term)/page.ef3baa63.js"
       ],
       "referenceCssAssets": [
-        "/static/css/async/copilots/(term)/page.94a28015.css"
+        "/static/css/async/4861.557997db.css"
       ]
     },
     "my-box/create/page": {
@@ -278,6 +276,7 @@
         3835,
         9917,
         3451,
+        1994,
         9768
       ],
       "assets": [
@@ -286,9 +285,60 @@
         "/static/js/npm.rc-util@5.38.1_react-dom@18.2.0_react@18.2.0.9656898e.js",
         "/static/js/npm.babel+runtime@7.23.5.node_modules.fcf8ee1d.js",
         "/static/js/npm.ant-design+icons-svg@4.3.1.node_modules.1e785253.js",
-        "/static/js/async/page.d7fa8b4f.js"
+        "/static/js/npm.modern-js+runtime@2.42.1_@types+react-dom@18.0.11_@types+react@18.0.38_react-dom@18.2.0_react@18.2.0_webpack@5.89.0.node_modules.cebacc2c.js",
+        "/static/js/async/page.68702646.js"
       ],
       "referenceCssAssets": []
+    },
+    "solutions/(term)/page": {
+      "chunkIds": [
+        9086,
+        4728,
+        3835,
+        9917,
+        3451,
+        4750,
+        4081,
+        4661,
+        9946,
+        6057,
+        9016,
+        1994,
+        2645,
+        3283,
+        3051,
+        215,
+        8324,
+        3910,
+        4861,
+        2370
+      ],
+      "assets": [
+        "/static/js/npm.ant-design+pro-layout@7.17.16_antd@5.11.3_react-dom@18.2.0_react@18.2.0.node_modules.c7c8149e.js",
+        "/static/js/npm.ant-design+icons@5.2.6_react-dom@18.2.0_react@18.2.0.node_modules.b7d83359.js",
+        "/static/js/npm.rc-util@5.38.1_react-dom@18.2.0_react@18.2.0.9656898e.js",
+        "/static/js/npm.babel+runtime@7.23.5.node_modules.fcf8ee1d.js",
+        "/static/js/npm.ant-design+icons-svg@4.3.1.node_modules.1e785253.js",
+        "/static/js/npm.ant-design+pro-utils@2.15.2_antd@5.11.3_react-dom@18.2.0_react@18.2.0.node_modules.3ce766cb.js",
+        "/static/js/npm.dayjs@1.11.10.73d8f232.js",
+        "/static/js/async/4661.59125a7f.js",
+        "/static/js/async/npm.ant-design+pro-form@2.23.1_antd@5.11.3_rc-field-form@1.41.0_react-dom@18.2.0_react@18.2.0.node_modules.1d9ec4ff.js",
+        "/static/js/npm.antd@5.11.3_react-dom@18.2.0_react@18.2.0.76a37cc5.js",
+        "/static/js/async/npm.ant-design+pro-card@2.5.27_antd@5.11.3_react-dom@18.2.0_react@18.2.0.node_modules.58812db3.js",
+        "/static/js/npm.modern-js+runtime@2.42.1_@types+react-dom@18.0.11_@types+react@18.0.38_react-dom@18.2.0_react@18.2.0_webpack@5.89.0.node_modules.cebacc2c.js",
+        "/static/js/async/npm.ant-design+pro-table@3.13.11_antd@5.11.3_rc-field-form@1.41.0_react-dom@18.2.0_react@18.2.0.node_modules.fb6221bb.js",
+        "/static/js/async/npm.zod@3.22.4.33122b7b.js",
+        "/static/js/async/3051.396a6c9c.js",
+        "/static/js/async/npm.immer@10.0.3.b680bdcc.js",
+        "/static/js/async/npm.numeral@2.0.6.88369cf1.js",
+        "/static/js/async/3910.7ebe9530.js",
+        "/static/css/async/4861.557997db.css",
+        "/static/js/async/4861.22c05ef8.js",
+        "/static/js/async/solutions/(term)/page.c71ea14b.js"
+      ],
+      "referenceCssAssets": [
+        "/static/css/async/4861.557997db.css"
+      ]
     },
     "upload/page": {
       "chunkIds": [
