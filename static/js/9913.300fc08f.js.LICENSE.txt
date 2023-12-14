@@ -1,0 +1,6372 @@
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! react/jsx-runtime */
+
+/*! ./style */
+
+/*! react */
+
+/*! ./FormContext */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ./PopupContent */
+
+/*! react/jsx-runtime */
+
+/*! @rc-component/context */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! react */
+
+/*! ./twoTonePrimaryColor */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ../../Field */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! rc-util/es/hooks/useMergedState */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./utils */
+
+/*! @swc/helpers/_/_to_consumable_array */
+
+/*! @babel/runtime/helpers/interopRequireDefault */
+
+/*! @modern-js-reduck/plugin-immutable */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./locale/ar_EG */
+
+/*! @swc/helpers/_/_async_to_generator */
+
+/*! ./plugin */
+
+/*! ./utils/merge */
+
+/*! dayjs */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! react */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @ant-design/icons */
+
+/*! ../useRefFunction */
+
+/*! classnames */
+
+/*! ../../BaseForm/EditOrReadOnlyContext */
+
+/*! rc-util/es/warning */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @ant-design/icons-svg/es/asn/DownOutlined */
+
+/*! react */
+
+/*! react */
+
+/*! ./parseValueToMoment */
+
+/*! ./compareVersions/coverToNewToken */
+
+/*! ../isNil */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/inherits */
+
+/*! ../Field */
+
+/*! omit.js */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @ant-design/icons-svg/es/asn/MenuOutlined */
+
+/*! ../../common */
+
+/*! ./VerticalAlignBottomOutlined */
+
+/*! react-dom */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./FormRender */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./omitUndefinedAndEmptyArr */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! @swc/helpers/_/_to_consumable_array */
+
+/*! @babel/runtime/helpers/esm/assertThisInitialized */
+
+/*! ./useWatch */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! rc-util/es/isEqual */
+
+/*! ../context/TableContext */
+
+/*! rc-util/es/hooks/useLayoutEffect */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @ant-design/pro-provider */
+
+/*! ../components/AntdIcon */
+
+/*! antd */
+
+/*! ../../helpers */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ../../helpers/interaction */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./layoutType */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! classnames */
+
+/*! react */
+
+/*! react */
+
+/*! ./ref */
+
+/*! @babel/runtime/helpers/esm/createSuper */
+
+/*! react */
+
+/*! ../AppsLogoComponents */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ../common */
+
+/*! ../context/TableContext */
+
+/*! ./utils */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-provider */
+
+/*! ./hooks/useDebounceValue */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ../components/AntdIcon */
+
+/*! ./model/model */
+
+/*! @rc-component/context */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./context/PathContext */
+
+/*! ./components/CheckCard */
+
+/*! ./utils/useIsomorphicLayoutEffect */
+
+/*! ./nanoid */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ./utils/scrollbarUtil */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! rc-util/es/hooks/useMergedState */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./CSSMotion */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! rc-util/es/Dom/canUseDom */
+
+/*! ./style */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! reactcss */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! rc-util/es/Dom/addEventListener */
+
+/*! rc-util/es/Dom/canUseDom */
+
+/*! rc-util/es/ref */
+
+/*! ./ListContext */
+
+/*! ./valueType */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! ./ko-KR/settingDrawer */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! rc-util/es/warning */
+
+/*! react/jsx-runtime */
+
+/*! ./isVisible */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./components/PageLoading */
+
+/*! ./InfoCircleOutlined */
+
+/*! @ant-design/pro-utils */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-provider */
+
+/*! ./style */
+
+/*! ../util/motion */
+
+/*! react */
+
+/*! omit.js */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react */
+
+/*! ./omitUndefined */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! ./style */
+
+/*! ./List */
+
+/*! ./TriggerWrapper */
+
+/*! @modern-js-reduck/store */
+
+/*! ./typeUtil */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ../Select */
+
+/*! antd */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! rc-util/es/Dom/dynamicCSS */
+
+/*! ./locale/es_ES */
+
+/*! react */
+
+/*! rc-util/es/warning */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @ant-design/pro-utils */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! react */
+
+/*! ../Cell */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! swr */
+
+/*! react */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./Field */
+
+/*! rc-util/es/KeyCode */
+
+/*! @umijs/route-utils */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @ant-design/icons */
+
+/*! antd */
+
+/*! rc-util/es/utils/get */
+
+/*! ./TreeNode */
+
+/*! classnames */
+
+/*! ../components/ProFormContext */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./IconBase */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/icons */
+
+/*! @babel/runtime/helpers/esm/assertThisInitialized */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! rc-util/es/warning */
+
+/*! ./GlobalFooter */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! rc-util/es/Dom/findDOMNode */
+
+/*! @rc-component/context */
+
+/*! @ant-design/icons-svg/es/asn/FullscreenOutlined */
+
+/*! react */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! classnames */
+
+/*! rc-util/es/hooks/useState */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./style */
+
+/*! swr */
+
+/*! classnames */
+
+/*! omit.js */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ./components/Footer */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! resize-observer-polyfill */
+
+/*! ../hooks/useRenderTimes */
+
+/*! @ant-design/pro-utils */
+
+/*! rc-util/es/ref */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ../utils/misc */
+
+/*! ./ListContext */
+
+/*! classnames */
+
+/*! ./style */
+
+/*! dayjs/plugin/quarterOfYear */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react/jsx-runtime */
+
+/*! rc-util/es/warning */
+
+/*! ./style */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @swc/helpers/_/_to_consumable_array */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./formSet */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! rc-util/es/hooks/useLayoutEffect */
+
+/*! ./SketchFields */
+
+/*! @ant-design/pro-provider */
+
+/*! ../../BaseForm/createField */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @ant-design/pro-provider */
+
+/*! ./components/Context */
+
+/*! react-dom */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ../Item */
+
+/*! ./ColGroup */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! react */
+
+/*! rc-util/es/warning */
+
+/*! rc-util/es/Dom/shadow */
+
+/*! react/jsx-runtime */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/inherits */
+
+/*! @ant-design/cssinjs */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! rc-util/es/omit */
+
+/*! stylis */
+
+/*! react */
+
+/*! ./Table */
+
+/*! ./isDeepEqualReact */
+
+/*! ./Actions */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! ./hooks/useStickyOffsets */
+
+/*! rc-util/es/Children/toArray */
+
+/*! @ant-design/pro-field */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! rc-util/es/utils/set */
+
+/*! react-dom */
+
+/*! ./useDom */
+
+/*! @ant-design/icons-svg/es/asn/DeleteOutlined */
+
+/*! ../context/TableContext */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @_modern_js_src/routes/copilots/[term]/page.tsx */
+
+/*! react/jsx-runtime */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! ./VirtualTable */
+
+/*! react */
+
+/*! ./ExpandedRow */
+
+/*! ./FixedHolder */
+
+/*! ./readonly */
+
+/*! @modern-js-reduck/store */
+
+/*! classnames */
+
+/*! @rc-component/context */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react/jsx-runtime */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! react */
+
+/*! ./object */
+
+/*! ./canUseDom */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! redux-promise-middleware */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @modern-js/plugin */
+
+/*! @ant-design/icons-svg/es/asn/EllipsisOutlined */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! ../../BaseForm/createField */
+
+/*! ./ListView */
+
+/*! rc-util/es/utils/get */
+
+/*! ./utils/messages */
+
+/*! ./useWidthColumns */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! ../../utils/legacyUtil */
+
+/*! ./isImg */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react/jsx-runtime */
+
+/*! ../constant */
+
+/*! ../transformRoute/transformRoute */
+
+/*! ../../linters */
+
+/*! ../components/AntdIcon */
+
+/*! ./Rate */
+
+/*! ../Actions */
+
+/*! ./utils/messages */
+
+/*! ../components/AntdIcon */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/createForOfIteratorHelper */
+
+/*! react */
+
+/*! ./components/Segmented */
+
+/*! @ant-design/pro-utils */
+
+/*! ./ProLayout */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! ./util/motion */
+
+/*! react */
+
+/*! @ant-design/pro-utils */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! react */
+
+/*! ./hooks/useFrame */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ../../constant */
+
+/*! ../components/AntdIcon */
+
+/*! classnames */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! antd/es/table/hooks/useLazyKVMap */
+
+/*! ./index */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! react */
+
+/*! rc-util/es/utils/get */
+
+/*! ./context */
+
+/*! @ant-design/pro-utils */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./Icon */
+
+/*! @ant-design/pro-provider */
+
+/*! antd */
+
+/*! ./genCopyable */
+
+/*! @modern-js-reduck/react */
+
+/*! ../context/MenuContext */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ../context/PathContext */
+
+/*! ./Footer */
+
+/*! ./cjs/react-is.production.min.js */
+
+/*! @ant-design/pro-form */
+
+/*! react */
+
+/*! ./style/menu */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! rc-util/es/Dom/dynamicCSS */
+
+/*! @ant-design/colors */
+
+/*! @ant-design/pro-form */
+
+/*! ./mock */
+
+/*! react/jsx-runtime */
+
+/*! swr */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! rc-util/es/Children/toArray */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react */
+
+/*! ./Header/Header */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/createSuper */
+
+/*! ./hooks/useEffectState */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! react-dom */
+
+/*! react */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ../isNil */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ../utils/CacheMap */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! rc-resize-observer */
+
+/*! ./src/Enum.js */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ../../StyleContext */
+
+/*! antd */
+
+/*! react */
+
+/*! rc-util/es/warning */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @ant-design/pro-utils */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! rc-util/es/hooks/useMergedState */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/assertThisInitialized */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! @ant-design/pro-utils */
+
+/*! ../../Store/Provide */
+
+/*! ../useForceRender */
+
+/*! ./useIsomorphicLayoutEffect */
+
+/*! ./MenuItem */
+
+/*! ./conversion.js */
+
+/*! lodash.merge */
+
+/*! ../context/MenuContext */
+
+/*! ./css-color-names.js */
+
+/*! @modern-js/runtime-utils/parsed */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! rc-util/lib/warning */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ../TabPane */
+
+/*! react/jsx-runtime */
+
+/*! rc-util/es/Children/toArray */
+
+/*! react */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @ant-design/icons */
+
+/*! @emotion/hash */
+
+/*! @ant-design/pro-provider */
+
+/*! react */
+
+/*! @ant-design/pro-utils */
+
+/*! ../SiderMenu/SiderMenu */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react */
+
+/*! ./style/index */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! lodash/forOwn */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! antd */
+
+/*! ../context/MenuContext */
+
+/*! react */
+
+/*! antd */
+
+/*! react */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! react */
+
+/*! @ant-design/pro-utils */
+
+/*! ./FormContext */
+
+/*! ./VerticalAlignMiddleOutlined */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ./components/LabelIconTip */
+
+/*! ./components/Progress */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./utils/valueUtil */
+
+/*! react */
+
+/*! ./Filler */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @swc/helpers/_/_object_spread_props */
+
+/*! @modern-js/utils/universal/constants */
+
+/*! ./FormContext */
+
+/*! rc-util/es/utils/get */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! ./ListItem */
+
+/*! rc-util/es/warning */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! rc-util/es/raf */
+
+/*! ./utils/useCurrentMenuLayoutProps */
+
+/*! ./SubMenu */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! react */
+
+/*! react */
+
+/*! ../utils/commonUtil */
+
+/*! react */
+
+/*! ../utils/warnUtil */
+
+/*! omit.js */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! react */
+
+/*! react */
+
+/*! antd/es/table/hooks/useLazyKVMap */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! react */
+
+/*! ../MenuItemGroup */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! rc-util/es/hooks/useLayoutEffect */
+
+/*! lodash/debounce */
+
+/*! @swc/helpers/_/_ts_generator */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! react/jsx-runtime */
+
+/*! ../Icon */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! antd */
+
+/*! ./hooks/useDirectionStyle */
+
+/*! ./style/index */
+
+/*! rc-util/es/warning */
+
+/*! ./hooks/useMergedState */
+
+/*! @ant-design/pro-provider */
+
+/*! ./util.js */
+
+/*! @babel/runtime/helpers/esm/inherits */
+
+/*! ./ScrollBar */
+
+/*! @babel/runtime/helpers/esm/createForOfIteratorHelper */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ../context/TableContext */
+
+/*! react */
+
+/*! rc-util/es/warning */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! @ant-design/pro-utils */
+
+/*! ../interface */
+
+/*! react */
+
+/*! ../hooks/useRowInfo */
+
+/*! @rc-component/context */
+
+/*! @ant-design/pro-provider */
+
+/*! @modern-js/runtime-utils/browser */
+
+/*! react */
+
+/*! antd */
+
+/*! ./hooks/useFrame */
+
+/*! classnames */
+
+/*! react/jsx-runtime */
+
+/*! ./SubMenu */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! rc-util/es/utils/set */
+
+/*! ../Card */
+
+/*! classnames */
+
+/*! @_modern_js_src/routes/solutions/[term]/page.tsx */
+
+/*! rc-util/es/isEqual */
+
+/*! ./placements */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./StyleContext */
+
+/*! ./merge */
+
+/*! ./components/sketch/Sketch */
+
+/*! @swc/helpers/_/_async_to_generator */
+
+/*! @ant-design/pro-utils */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./css-color-names.js */
+
+/*! react */
+
+/*! ./index */
+
+/*! @ctrl/tinycolor */
+
+/*! ./src/Utility.js */
+
+/*! react/jsx-runtime */
+
+/*! rc-util/es/utils/get */
+
+/*! ./openVisibleCompatible */
+
+/*! ./routeModule */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ../utils/valueUtil */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! classnames */
+
+/*! ../hooks/useRenderTimes */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @ant-design/pro-provider */
+
+/*! @modern-js-reduck/plugin-immutable */
+
+/*! rc-resize-observer */
+
+/*! ./List */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! react */
+
+/*! dayjs/plugin/localeData */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! rc-util/es/hooks/useMergedState */
+
+/*! react-dom */
+
+/*! ./style */
+
+/*! ../Cell */
+
+/*! react/jsx-runtime */
+
+/*! rc-util/es/utils/get */
+
+/*! @ant-design/pro-utils */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ./ListContext */
+
+/*! ./utils/warnUtil */
+
+/*! ../context/TableContext */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./index */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @_modern_js_src/routes/layout.tsx */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./useState */
+
+/*! ./components/IndexColumn */
+
+/*! rc-util/es/warning */
+
+/*! @remix-run/router */
+
+/*! rc-util/es/warning */
+
+/*! @ant-design/pro-utils */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ../../helpers */
+
+/*! antd */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! @modern-js-reduck/store */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! ./FieldContext */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! rc-util/es/hooks/useEvent */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! antd */
+
+/*! rc-util/es/warning */
+
+/*! ./useOriginScroll */
+
+/*! ./Store/Provide */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @modern-js/utils/universal/constants */
+
+/*! ./components/TreeSelect */
+
+/*! rc-util/es/Dom/findDOMNode */
+
+/*! react/jsx-runtime */
+
+/*! ./Checkboard */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @ant-design/icons-svg/es/asn/ReloadOutlined */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./context/PathContext */
+
+/*! antd */
+
+/*! rc-util/es/warning */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ./LoadingOutlined */
+
+/*! reactcss */
+
+/*! ./CSSMotionList */
+
+/*! ../components/AntdIcon */
+
+/*! react */
+
+/*! @ant-design/pro-provider */
+
+/*! react */
+
+/*! react-router-dom */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @babel/runtime/helpers/esm/createSuper */
+
+/*! rc-util/es/ref */
+
+/*! ./css-color-names.js */
+
+/*! ../../FieldContext */
+
+/*! rc-util/es/ref */
+
+/*! classnames */
+
+/*! dayjs */
+
+/*! react */
+
+/*! ./utils */
+
+/*! @modern-js/runtime-utils/remix-router */
+
+/*! react/jsx-runtime */
+
+/*! ./locale/en_US */
+
+/*! @swc/helpers/_/_ts_generator */
+
+/*! antd */
+
+/*! ./en-US */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/assertThisInitialized */
+
+/*! omit.js */
+
+/*! ./style */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! @ant-design/colors */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! rc-util/es/utils/set */
+
+/*! rc-util/es/utils/get */
+
+/*! react */
+
+/*! @ant-design/icons-svg/es/asn/ColumnHeightOutlined */
+
+/*! ../context/TableContext */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! @ant-design/pro-utils */
+
+/*! react */
+
+/*! react-is */
+
+/*! antd */
+
+/*! react */
+
+/*! react */
+
+/*! @ant-design/pro-provider */
+
+/*! ./ProCard */
+
+/*! ./useFetchData */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ../SiderMenu/SiderMenu */
+
+/*! ./components/TimePicker */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ./hooks/useGetSize */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @ant-design/pro-provider */
+
+/*! @ant-design/icons */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! rc-util/es/warning */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @ant-design/pro-utils */
+
+/*! react */
+
+/*! ./Field */
+
+/*! react */
+
+/*! ../TopNavHeader */
+
+/*! rc-util/es/hooks/useMemo */
+
+/*! react */
+
+/*! ./style */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react-dom */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! tinycolor2 */
+
+/*! ./style */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! immer */
+
+/*! ./hooks/useWinClick */
+
+/*! ./Context */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ./BodyGrid */
+
+/*! ../utils/motionUtil */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ../common */
+
+/*! ./hooks/useAction */
+
+/*! classnames */
+
+/*! react/jsx-runtime */
+
+/*! ./old */
+
+/*! @swc/helpers/_/_object_without_properties */
+
+/*! ./context */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! ./autoprefix */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./utils */
+
+/*! rc-virtual-list */
+
+/*! ./mergeClasses */
+
+/*! ./components/TextArea */
+
+/*! ../../context/RouteContext */
+
+/*! reactcss */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! rc-util/es/hooks/useLayoutEffect */
+
+/*! classnames */
+
+/*! react-is */
+
+/*! @ant-design/pro-utils */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @ant-design/pro-provider */
+
+/*! . */
+
+/*! ../hooks/useFlattenRecords */
+
+/*! ./contextTypes */
+
+/*! ../../FieldContext */
+
+/*! hoist-non-react-statics */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! rc-util/es/hooks/useMergedState */
+
+/*! rc-util/es/hooks/useMergedState */
+
+/*! ./utils/columnSort */
+
+/*! react */
+
+/*! react */
+
+/*! ./keyUtil */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./utils/valueUtil */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! ../../utils/index */
+
+/*! react */
+
+/*! ./getFieldPropsOrFormItemProps */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! react/jsx-runtime */
+
+/*! ../components/AntdIcon */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react/jsx-runtime */
+
+/*! rc-util/es/hooks/useEvent */
+
+/*! ./Item */
+
+/*! react */
+
+/*! ../../helpers */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./style */
+
+/*! ./cjs/react-jsx-runtime.production.min.js */
+
+/*! react/jsx-runtime */
+
+/*! async-validator */
+
+/*! @ant-design/icons-svg/es/asn/BarsOutlined */
+
+/*! lodash/each */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! @rc-component/context */
+
+/*! ./utils/legacyUtil */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! ./components/active */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./FilterOutlined */
+
+/*! rc-util/es/isEqual */
+
+/*! ../hooks/useRenderTimes */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! @ant-design/pro-provider */
+
+/*! ../components/AntdIcon */
+
+/*! ./List */
+
+/*! ./context/RouteContext */
+
+/*! rc-util/es/Children/toArray */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @ant-design/icons-svg/lib/asn/ArrowRightOutlined */
+
+/*! ./hooks/useReactiveRef */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-utils */
+
+/*! omit.js */
+
+/*! ../../BaseForm */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! @ant-design/pro-utils */
+
+/*! @modern-js/runtime-utils/router */
+
+/*! react */
+
+/*! ./utils */
+
+/*! @modern-js-reduck/store */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @emotion/hash */
+
+/*! rc-util/es/warning */
+
+/*! ../util */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! react */
+
+/*! ../utils */
+
+/*! classnames */
+
+/*! ./Indent */
+
+/*! ../components/AntdIcon */
+
+/*! ../DropdownFooter */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @ant-design/pro-utils */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! lodash/cloneDeep */
+
+/*! react */
+
+/*! rc-util/es/Dom/canUseDom */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ./Theme */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! ../index.js */
+
+/*! @babel/runtime/helpers/esm/inherits */
+
+/*! ./ko-KR */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ./utils/treeUtil */
+
+/*! antd */
+
+/*! react-dom */
+
+/*! ./components/TabPane */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @ant-design/icons-svg/es/asn/LoadingOutlined */
+
+/*! classnames */
+
+/*! react */
+
+/*! react */
+
+/*! react-dom */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @ant-design/pro-provider */
+
+/*! react */
+
+/*! ./ThemeCache */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! ../components/AntdIcon */
+
+/*! ./utils/valueUtil */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! ../ColGroup */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/createSuper */
+
+/*! lodash/throttle */
+
+/*! react */
+
+/*! @ant-design/pro-utils */
+
+/*! ./utils/valueUtil */
+
+/*! ../../../layouts/StepsForm */
+
+/*! react */
+
+/*! ../utils */
+
+/*! swr */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! classnames */
+
+/*! ./useHMR */
+
+/*! @ant-design/pro-utils */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! react */
+
+/*! ./canUseDom */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @ant-design/pro-provider */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react/jsx-runtime */
+
+/*! ./Table */
+
+/*! react */
+
+/*! rc-util/es/Dom/findDOMNode */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! rc-resize-observer */
+
+/*! react/jsx-runtime */
+
+/*! @swc/helpers/_/_sliced_to_array */
+
+/*! ./components/Code */
+
+/*! dayjs/plugin/relativeTime */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @ant-design/pro-utils */
+
+/*! ./compareVersions/menuOverlayCompatible */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! react */
+
+/*! antd */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/createSuper */
+
+/*! rc-resize-observer */
+
+/*! @ant-design/pro-utils */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! rc-util/es/utils/set */
+
+/*! antd */
+
+/*! ./VerticalAlignTopOutlined */
+
+/*! ./components/ProFormContext */
+
+/*! react-is */
+
+/*! classnames */
+
+/*! ./get */
+
+/*! ../../isBrowser */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @ant-design/pro-provider */
+
+/*! ./style */
+
+/*! rc-util/es/hooks/useMergedState */
+
+/*! ../Select */
+
+/*! ../Field */
+
+/*! ./en-US/settingDrawer */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! ./components/Cascader */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @ant-design/pro-utils */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ../components/AntdIcon */
+
+/*! react */
+
+/*! react */
+
+/*! rc-util/es/utils/get */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! rc-util/es/Dom/isVisible */
+
+/*! react */
+
+/*! rc-util/es/warning */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react */
+
+/*! @ant-design/pro-provider */
+
+/*! @ant-design/pro-utils */
+
+/*! rc-util/es/ref */
+
+/*! antd */
+
+/*! ./hooks/useUUID */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! dayjs/plugin/weekOfYear */
+
+/*! react-dom */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! rc-resize-observer */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! @rc-component/context */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! rc-util/es/utils/set */
+
+/*! ../components/AntdIcon */
+
+/*! ../../helpers/alpha */
+
+/*! rc-util/es/raf */
+
+/*! react */
+
+/*! lodash/isPlainObject */
+
+/*! ../ListToolBar */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @umijs/use-params */
+
+/*! @ant-design/icons-svg/es/asn/FilterOutlined */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ../Body/BodyRow */
+
+/*! classnames */
+
+/*! ./conversion.js */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./hooks/useDiffItem */
+
+/*! @ant-design/pro-utils */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! ./typing/layoutToken */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! classnames */
+
+/*! @modern-js/runtime/router */
+
+/*! ./Field */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ./Keyframes */
+
+/*! @ant-design/pro-utils */
+
+/*! @ant-design/icons */
+
+/*! @modern-js/runtime/router */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./compatible */
+
+/*! react */
+
+/*! react */
+
+/*! reactcss */
+
+/*! rc-field-form */
+
+/*! @babel/runtime/helpers/esm/assertThisInitialized */
+
+/*! ./src/Serializer.js */
+
+/*! ./FormContext */
+
+/*! ../Actions */
+
+/*! react */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! safe-stable-stringify */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! ../useDebounceFn */
+
+/*! ./zh-TW */
+
+/*! rc-util/es/utils/get */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! classnames */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! rc-resize-observer */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! ../components/List */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @swc/helpers/_/_object_spread_props */
+
+/*! ./Portal */
+
+/*! ./useEditableArray */
+
+/*! ../components */
+
+/*! ../hooks/useActive */
+
+/*! @rc-component/portal */
+
+/*! ../utils/memoize */
+
+/*! @swc/helpers/_/_async_to_generator */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! dayjs */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./MenuItemGroup */
+
+/*! ./BaseMenu */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! ./index.js */
+
+/*! classnames */
+
+/*! rc-util/es/Dom/dynamicCSS */
+
+/*! ../path-to-regexp */
+
+/*! ../components/AntdIcon */
+
+/*! @_modern_js_src/routes/my-box/page.tsx */
+
+/*! ../../core */
+
+/*! ./linters */
+
+/*! ./channelUpdate */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! ./plugin */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! classnames */
+
+/*! ./style/stylish */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! ./runFunction */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! ../components/AntdIcon */
+
+/*! @ant-design/pro-provider */
+
+/*! ./plugin */
+
+/*! react */
+
+/**
+ * @license React
+ * use-sync-external-store-shim.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/*! @ant-design/pro-provider */
+
+/*! ./subscribe */
+
+/*! react/jsx-runtime */
+
+/*! rc-util */
+
+/*! ./ListContext */
+
+/*! @ant-design/icons/ArrowLeftOutlined */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/inherits */
+
+/*! ../../BaseForm */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! ./context/PrivateContext */
+
+/*! ./LightWrapper */
+
+/*! ./defaultSettings */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./context/RouteContext */
+
+/*! ../context/MenuContext */
+
+/*! @ant-design/pro-utils */
+
+/*! react */
+
+/*! @ant-design/pro-provider */
+
+/*! ./Utility.js */
+
+/*! classnames */
+
+/*! @ant-design/pro-utils */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @ant-design/pro-provider */
+
+/*! ./stringify */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./getPageTitle */
+
+/*! ./SummaryContext */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./conversion.js */
+
+/*! rc-resize-observer */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./locale/vi_VN */
+
+/*! @ant-design/pro-provider */
+
+/*! react */
+
+/*! react */
+
+/*! ./useGlobalCache */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ../../helpers/color */
+
+/*! react */
+
+/*! @ant-design/icons-svg/es/asn/CopyrightOutlined */
+
+/*! dayjs/plugin/advancedFormat */
+
+/*! ../../layouts/QueryFilter */
+
+/*! rc-util/es/warning */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @ant-design/pro-utils */
+
+/*! @ant-design/icons */
+
+/*! ./runtime */
+
+/*! ./locale/zh_CN */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! rc-util/es/warning */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! @ant-design/pro-utils */
+
+/*! ./FieldContext */
+
+/*! ./index */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./hooks/useAccessibility */
+
+/*! ../utils/valueUtil */
+
+/*! @modern-js/plugin */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! react/jsx-runtime */
+
+/*! ./util.js */
+
+/*! react */
+
+/*! ./locale/zh_TW */
+
+/*! ../utils/fixUtil */
+
+/*! rc-util/es/Dom/css */
+
+/*! ../runtimeContext */
+
+/*! ./style */
+
+/*! ./field */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @swc/helpers/_/_sliced_to_array */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! antd */
+
+/*! ../useMountMergeState */
+
+/*! ../utils/isFirefox */
+
+/*! ../constant */
+
+/*! ./BodyRow */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! lodash.tonumber */
+
+/*! ./locale/en_GB */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./utils/getBreadcrumbProps */
+
+/*! dayjs */
+
+/*! react */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./style */
+
+/*! ../utils/valueUtil */
+
+/*! ../../layouts/ProForm */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-utils */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! ../merge */
+
+/*! ./MenuOutlined */
+
+/*! ../common */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ./Popup */
+
+/*! ../../helpers/saturation */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! rc-util/es/hooks/useLayoutEffect */
+
+/*! rc-util/es/getScrollBarSize */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! react */
+
+/*! @rc-component/trigger */
+
+/*! path-to-regexp */
+
+/*! @babel/runtime/helpers/esm/createSuper */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! use-sync-external-store/shim/index.js */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! lodash.merge */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! ./ReloadOutlined */
+
+/*! @ant-design/pro-provider */
+
+/*! @ant-design/pro-provider */
+
+/*! ../components/AntdIcon */
+
+/*! @modern-js-reduck/plugin-effects */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! react */
+
+/*! rc-util/es/hooks/useMemo */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @ant-design/pro-provider */
+
+/*! ./context/IdContext */
+
+/*! . */
+
+/*! antd */
+
+/*! classnames */
+
+/*! antd */
+
+/*! react */
+
+/*! rc-util/es/hooks/useMergedState */
+
+/*! ../../BaseForm */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/assertThisInitialized */
+
+/*! antd */
+
+/*! ./style */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! omit.js */
+
+/*! @ant-design/pro-utils */
+
+/*! react/jsx-runtime */
+
+/*! ./context */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ./Body */
+
+/*! antd */
+
+/*! ./style */
+
+/*! ../../FieldContext */
+
+/*! @ant-design/pro-provider */
+
+/*! ./src/Parser.js */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! react */
+
+/*! react */
+
+/*! ./simple */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! antd */
+
+/*! invariant */
+
+/*! ../context/PerfContext */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! lodash/forOwn */
+
+/*! rc-util/es/raf */
+
+/*! ./nestedRoutes */
+
+/*! classnames */
+
+/*! antd */
+
+/*! ./array */
+
+/*! lodash.tonumber */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! antd/es/locale/zh_CN */
+
+/*! ./useNextFrame */
+
+/*! dayjs/plugin/customParseFormat */
+
+/*! rc-util */
+
+/*! react */
+
+/*! ./createField */
+
+/*! ./useCellRender */
+
+/*! antd */
+
+/*! react */
+
+/*! react */
+
+/*! ./isDropdownValueType */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! classnames */
+
+/*! ./assert/Logo */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! antd/es/table/hooks/useSelection */
+
+/*! classnames */
+
+/*! rc-util/es/ref */
+
+/*! react */
+
+/*! ./Field */
+
+/*! react */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ../Select */
+
+/*! @ant-design/cssinjs */
+
+/*! react */
+
+/*! ./IconBase */
+
+/*! ./core */
+
+/*! react */
+
+/*! rc-util/es/warning */
+
+/*! ./utils */
+
+/*! @ant-design/pro-provider */
+
+/*! ./utils */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! ./CSSMotion */
+
+/*! classnames */
+
+/*! ../GridContent */
+
+/*! ./context/TableContext */
+
+/*! ./Item */
+
+/*! rc-util/es/warning */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ../context/TableContext */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./EyeOutlined */
+
+/*! react */
+
+/*! react */
+
+/*! ../context/PrivateContext */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! rc-util/es/utils/set */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./useEffectCleanupRegister */
+
+/*! ./context */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! lodash/forOwn */
+
+/*! ./transformRoute/transformRoute */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! react */
+
+/*! ./AppsLogo */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./List */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./components/Slider */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/toArray */
+
+/*! ../interface */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ../utils */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./token */
+
+/*! ./rightContentStyle */
+
+/*! classnames */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! ../useLatest */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ./util/diff */
+
+/*! react */
+
+/*! ../utils/expandUtil */
+
+/*! rc-util/es/utils/set */
+
+/*! rc-util/es/utils/get */
+
+/*! @_modern_js_src/routes/upload/page.tsx */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./constants */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ./SummaryContext */
+
+/*! rc-util/es/hooks/useLayoutEffect */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! ../../defaultSettings */
+
+/*! @ant-design/pro-utils */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./utils/valueUtil */
+
+/*! classnames */
+
+/*! dayjs/plugin/isoWeek */
+
+/*! react/jsx-runtime */
+
+/*! ./context */
+
+/*! ./utils/NameMap */
+
+/*! classnames */
+
+/*! antd */
+
+/*! @ant-design/pro-provider */
+
+/*! ../Field */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ../context/IdContext */
+
+/*! ./util/motion */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @ant-design/pro-utils */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @_modern_js_src/routes/layout.tsx */
+
+/*! react */
+
+/*! ./utils/valueUtil */
+
+/*! ./utils/typeUtil */
+
+/*! react */
+
+/*! ./utils/NameMap */
+
+/*! @babel/runtime/helpers/esm/inherits */
+
+/*! react */
+
+/*! ./hooks/useFixedInfo */
+
+/*! rc-util/es/hooks/useLayoutEffect */
+
+/*! ./messages */
+
+/*! ./utils/typeUtil */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! antd */
+
+/*! ./useForm */
+
+/*! ./components/Divider */
+
+/*! react */
+
+/*! classnames */
+
+/*! @ant-design/pro-provider */
+
+/*! ./src/Tokenizer.js */
+
+/*! ./utils/valueUtil */
+
+/*! @ant-design/pro-provider */
+
+/*! @ant-design/pro-provider */
+
+/*! ./sugar/ColumnGroup */
+
+/*! ./useForm */
+
+/*! ./ThemeCache */
+
+/*! ../../List */
+
+/*! ./loop */
+
+/*! ./Row */
+
+/*! ./SchemaForm */
+
+/*! react/jsx-runtime */
+
+/*! ./style */
+
+/*! rc-util/es/Children/toArray */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./Overflow */
+
+/*! ./hooks/useExpand */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! ./BaseForm */
+
+/*! antd/es/table/hooks/usePagination */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./components/Checkbox */
+
+/*! ./hooks/useColumns */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./components/Second */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./logicalPropertiesLinter */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! react/jsx-runtime */
+
+/*! ../../core */
+
+/*! classnames */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! antd */
+
+/*! ../omitUndefined */
+
+/*! ./ignore */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! omit.js */
+
+/*! @ant-design/pro-provider */
+
+/*! react */
+
+/*! react */
+
+/*! react */
+
+/*! @ant-design/pro-utils */
+
+/*! dayjs */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @ant-design/pro-utils */
+
+/*! react/jsx-runtime */
+
+/*! ./grid */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ../ColumnSetting */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! rc-util/es/warning */
+
+/*! ../../BaseForm/EditOrReadOnlyContext */
+
+/*! ./Select */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! ../AppsLogoComponents */
+
+/*! @modern-js-reduck/plugin-devtools */
+
+/*! @ant-design/pro-provider */
+
+/*! reactcss */
+
+/*! ../plugins */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./RawItem */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ../StyleContext */
+
+/*! ./components/Radio */
+
+/*! lodash.merge */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! ./hooks/useCacheToken */
+
+/*! ./transformers/legacyLogicalProperties */
+
+/*! ./intl */
+
+/*! lodash/map */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./createPlugin */
+
+/*! rc-resize-observer */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./openVisibleCompatible */
+
+/*! ./contains */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ./isUrl */
+
+/*! ./Submitter */
+
+/*! ../utils */
+
+/*! dayjs */
+
+/*! ./context/PathContext */
+
+/*! @swc/helpers/_/_instanceof */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ../../helpers/hue */
+
+/*! @ant-design/colors */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @_modern_js_src/routes/copilots/[term]/page.tsx */
+
+/*! ./Checkboard */
+
+/*! ./FieldContext */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! async-validator */
+
+/*! ./mountModel */
+
+/*! rc-util/es/isEqual */
+
+/*! ../StyleContext */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./locale/sr_RS */
+
+/*! @ant-design/icons */
+
+/*! ./hashedAnimationLinter */
+
+/*! ./loader/loaderManager */
+
+/*! rc-motion */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @ant-design/icons-svg/es/asn/VerticalAlignBottomOutlined */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! react */
+
+/*! ./useStyle/token */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! ./locale/th_TH */
+
+/*! ./style */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! ./ListContext */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! classnames */
+
+/*! rc-util/es/raf */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @modern-js-reduck/store */
+
+/*! dayjs/locale/zh-cn */
+
+/*! ./Cache */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ./ListContext */
+
+/*! ./context/TableContext */
+
+/*! omit.js */
+
+/*! ../Cell */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! antd */
+
+/*! ../components */
+
+/*! ./locale/tr_TR */
+
+/*! ./Switch */
+
+/*! @ant-design/pro-utils */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! ../model/useModel */
+
+/*! react */
+
+/*! ./utils/warnUtil */
+
+/*! @ant-design/pro-utils */
+
+/*! @swc/helpers/_/_ts_generator */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! react */
+
+/*! react */
+
+/*! @ant-design/pro-provider */
+
+/*! react-dom */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @ant-design/icons-svg/es/asn/LeftOutlined */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ./locale/uk_UA */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! @rc-component/context */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ../SubMenu */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./FieldContext */
+
+/*! ./components/Options */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! rc-util/es/warning */
+
+/*! ../../compareVersions/openVisibleCompatible */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./hooks/useActive */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! antd */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! ./hooks */
+
+/*! ./store/createStore */
+
+/*! ./context/PrivateContext */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! reactcss */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! antd */
+
+/*! ./pathTools */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ../hooks/usePrevious */
+
+/*! ./components/ToolBar */
+
+/*! reactcss */
+
+/*! ./Icon */
+
+/*! react */
+
+/*! ../util */
+
+/*! ./components/Money */
+
+/*! ../../helpers/checkboard */
+
+/*! antd */
+
+/*! react-dom */
+
+/*! react */
+
+/*! ../components/AntdIcon */
+
+/*! rc-util/es/Children/toArray */
+
+/*! ../model/subscribe */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @ant-design/pro-utils */
+
+/*! ../plugin */
+
+/*! ./components/Context */
+
+/*! ./locale/de_DE */
+
+/*! react/jsx-runtime */
+
+/*! rc-util/es/utils/set */
+
+/*! react */
+
+/*! ./components/Form */
+
+/*! ./util */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./Immutable */
+
+/*! react */
+
+/*! ./utils/valueUtil */
+
+/*! ../hooks/useFlattenRecords */
+
+/*! ./components/Alert */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./utils/validateUtil */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./style */
+
+/*! react */
+
+/*! classnames */
+
+/*! @ant-design/icons */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! rc-util/es/raf */
+
+/*! ./ListContainer */
+
+/*! ./getMatchMenu/getMatchMenu */
+
+/*! @modern-js/plugin */
+
+/*! ./HeaderMenu */
+
+/*! ../Cell */
+
+/*! @emotion/hash */
+
+/*! antd */
+
+/*! rc-util/es/utils/get */
+
+/*! @swc/helpers/_/_object_spread_props */
+
+/*! react */
+
+/*! ./default */
+
+/*! @ant-design/pro-utils */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./utils/typeUtil */
+
+/*! ../context/PerfContext */
+
+/*! antd */
+
+/*! @ant-design/pro-provider */
+
+/*! @ant-design/pro-provider */
+
+/*! classnames */
+
+/*! rc-util/es/hooks/useMergedState */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react */
+
+/*! ../../compareVersions/openVisibleCompatible */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./Enum.js */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @swc/helpers/_/_object_spread_props */
+
+/*! ./canUseDom */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! react */
+
+/*! @ant-design/pro-provider */
+
+/*! @_modern_js_src/routes/my-box/create/page.tsx */
+
+/*! rc-util/es/hooks/useMergedState */
+
+/*! rc-util/es/utils/get */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! @ant-design/icons */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! rc-util/es/KeyCode */
+
+/*! @swc/helpers/_/_object_spread_props */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @rc-component/context */
+
+/*! ../../utils/utils */
+
+/*! @ant-design/pro-field */
+
+/*! ./PlusOutlined */
+
+/*! ../MenuItem */
+
+/*! @modern-js/runtime/plugins */
+
+/*! @babel/runtime/helpers/esm/toArray */
+
+/*! react */
+
+/*! ./components/FromNow */
+
+/*! redux */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! react */
+
+/*! ../../components */
+
+/*! ./Overlay */
+
+/*! rc-util/es/hooks/useEvent */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! rc-util/es/hooks/useLayoutEffect */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react/jsx-runtime */
+
+/*! rc-util/es/raf */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./StepsForm */
+
+/*! ../GlobalHeader */
+
+/*! rc-util/es/isEqual */
+
+/*! rc-util/es/pickAttrs */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @swc/helpers/_/_object_without_properties */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! ../context/MenuContext */
+
+/*! react */
+
+/*! ./compareVersions/openVisibleCompatible */
+
+/*! @emotion/unitless */
+
+/*! ./Footer */
+
+/*! rc-util/es/ref */
+
+/*! ./utils/valueUtil */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! rc-util/es/omit */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./components/DigitRange */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./getFlatMenus/getFlatMenus */
+
+/*! ./context/IdContext */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react */
+
+/*! ./utils/treeUtil */
+
+/*! react */
+
+/*! rc-overflow */
+
+/*! ../TopNavHeader */
+
+/*! @modern-js-reduck/plugin-auto-actions */
+
+/*! ./useIsomorphicLayoutEffect */
+
+/*! ../Cell */
+
+/*! ../time */
+
+/*! antd */
+
+/*! ./commonUtil */
+
+/*! @rc-component/context */
+
+/*! ./Tokenizer.js */
+
+/*! @swc/helpers/_/_object_without_properties */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ./twoTonePrimaryColor */
+
+/*! rc-util/es/hooks/useMergedState */
+
+/*! antd */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ../components/AntdIcon */
+
+/*! ./style/header */
+
+/*! @_modern_js_src/routes/page.tsx */
+
+/*! ./hooks/useWatch */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @ant-design/pro-utils */
+
+/*! rc-util/es/Dom/canUseDom */
+
+/*! @ant-design/icons */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! ../FooterToolbar */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./context */
+
+/*! ./util */
+
+/*! ./EyeInvisibleOutlined */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! ./flattenNames */
+
+/*! rc-util/es/hooks/useMergedState */
+
+/*! rc-util/es/Children/toArray */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ./components/DatePicker */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @ant-design/pro-provider */
+
+/*! ../utils */
+
+/*! ./Cell */
+
+/*! ./components/Context */
+
+/*! react */
+
+/*! ./utils/index */
+
+/*! ../hooks/useRowInfo */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! antd */
+
+/*! ./Context */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! lodash/merge */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! classnames */
+
+/*! rc-util/es/warning */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! ../utils/observerUtil */
+
+/*! ./context/MenuContext */
+
+/*! ../useStyle */
+
+/*! @ant-design/pro-provider */
+
+/*! react */
+
+/*! classnames */
+
+/*! react/jsx-runtime */
+
+/*! ./Popup */
+
+/*! react */
+
+/*! @ant-design/pro-utils */
+
+/*! ./DeleteOutlined */
+
+/*! ./style */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! react */
+
+/*! ../../../layouts */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./hooks/useOriginScroll */
+
+/*! .. */
+
+/*! react */
+
+/*! rc-util/es/utils/set */
+
+/*! @ant-design/pro-provider */
+
+/*! ../components/AntdIcon */
+
+/*! ../utils/fixUtil */
+
+/*! react/jsx-runtime */
+
+/*! ../utils */
+
+/*! ./it-IT/settingDrawer */
+
+/*! react */
+
+/*! @modern-js/utils/universal/plugin-dag-sort */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! rc-util/es/hooks/useMergedState */
+
+/*! ./util */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! ../Collection */
+
+/*! react */
+
+/*! ./utils/asyncUtil */
+
+/*! ../context/TableContext */
+
+/*! ./runtime */
+
+/*! rc-util/es/hooks/useEvent */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @modern-js/runtime-utils/router */
+
+/*! ./FieldContext */
+
+/*! @ant-design/pro-utils */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! ./components/ColorPicker */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./utils/keyUtil */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./StepsForm */
+
+/*! @modern-js/runtime-utils/router */
+
+/*! ../util */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ../context/TableContext */
+
+/*! @ant-design/icons */
+
+/*! ./group */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! react */
+
+/*! antd */
+
+/*! antd */
+
+/*! ../List */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./dateArrayFormatter */
+
+/*! rc-util/es/Dom/shadow */
+
+/*! ./lib/icons/ArrowLeftOutlined */
+
+/*! react */
+
+/*! react */
+
+/*! hoist-non-react-statics */
+
+/*! ./hooks/usePrevious */
+
+/*! react */
+
+/*! rc-util/es/Dom/styleChecker */
+
+/*! @ant-design/pro-provider */
+
+/*! rc-util/es/Children/toArray */
+
+/*! ./hooks/useMobileTouchMove */
+
+/*! ./icons */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! classnames */
+
+/*! ./style/index */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./style/index */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @ant-design/icons */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./useCompatibleInsertionEffect */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react */
+
+/*! @ant-design/pro-utils */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./hook */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! react */
+
+/*! ../../helpers/color */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! ./Menu */
+
+/*! react */
+
+/*! ./components/Card */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! rc-util/es/Dom/findDOMNode */
+
+/*! @ant-design/pro-utils */
+
+/*! @ant-design/pro-provider */
+
+/*! @ant-design/cssinjs */
+
+/*! @swc/helpers/_/_sliced_to_array */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js-reduck/plugin-auto-actions */
+
+/*! react-dom/client */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./Dependency */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ../Loading */
+
+/*! rc-util/es/ref */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @ant-design/icons-svg/es/asn/RightOutlined */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! react */
+
+/*! classnames */
+
+/*! antd */
+
+/*! rc-util/es/raf */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @ant-design/icons/ArrowRightOutlined */
+
+/*! ../useGlobalCache */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @ant-design/icons-svg/es/asn/VerticalAlignTopOutlined */
+
+/*! omit.js */
+
+/*! react */
+
+/*! ./hooks/useStyleRegister */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! ./InlineSubMenuList */
+
+/*! react/jsx-runtime */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! ../components/AntdIcon */
+
+/*! ./hooks/useFrameWheel */
+
+/*! rc-motion */
+
+/*! ./Arrow */
+
+/*! ./cacheMapUtil */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! rc-util/es/isEqual */
+
+/*! lodash/isString */
+
+/*! @ant-design/icons */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! react */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! react */
+
+/*! ./Item */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! rc-util/es/warning */
+
+/*! react */
+
+/*! ../runFunction */
+
+/*! ../getFlatMenus/getFlatMenus */
+
+/*! ./Form */
+
+/*! rc-util/es/Dom/findDOMNode */
+
+/*! ./locale/pt_BR */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! /home/runner/work/sinsa/sinsa/apps/sinsa/src/routes/layout.data.ts */
+
+/*! antd */
+
+/*! ./components/IconFont */
+
+/*! ./hooks/useDeepCompareMemo */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./style */
+
+/*! ./Form */
+
+/*! classnames */
+
+/*! @ant-design/pro-form */
+
+/*! rc-util */
+
+/*! @ant-design/pro-layout */
+
+/*! @ant-design/pro-provider */
+
+/*! rc-util/es/warning */
+
+/*! ./locale/ru_RU */
+
+/*! ../context/MenuContext */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! classnames */
+
+/*! omit.js */
+
+/*! ./useForm */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react */
+
+/*! ./style */
+
+/*! ./hooks/useScrollTo */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ../components/AntdIcon */
+
+/*! ./locale/sk_SK */
+
+/*! react */
+
+/*! ../context/TableContext */
+
+/*! classnames */
+
+/*! ./SiderMenu */
+
+/*! @rc-component/trigger */
+
+/*! ./FullscreenIcon */
+
+/*! ../../BaseForm */
+
+/*! ./useMountMergeState */
+
+/*! ./dependency */
+
+/*! classnames */
+
+/*! react */
+
+/*! @swc/helpers/_/_object_spread_props */
+
+/*! antd */
+
+/*! ./SubMenuList */
+
+/*! rc-util/es/warning */
+
+/*! @swc/helpers/_/_instanceof */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! react */
+
+/*! react-dom */
+
+/*! ./hooks/useAccessibility */
+
+/*! @ant-design/pro-utils */
+
+/*! ./ListContext */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @ant-design/icons */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! react */
+
+/*! ./useMediaQuery */
+
+/*! ./style */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! react/jsx-runtime */
+
+/*! ./pickProFormItemProps */
+
+/*! antd */
+
+/*! ./SubMenuList */
+
+/*! @ant-design/icons */
+
+/*! ./index */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./columnRender */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./hooks/useDeepCompareEffect */
+
+/*! @ant-design/icons-svg/es/asn/CloseCircleFilled */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! ./HeaderRow */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ../../Dependency */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! rc-util/es/warning */
+
+/*! ./SingleObserver */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ./components/InlineErrorFormItem */
+
+/*! ./pickProProps */
+
+/*! ../utils/misc */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ../../BaseForm/EditOrReadOnlyContext */
+
+/*! ./PrefetchLink */
+
+/*! antd */
+
+/*! classnames */
+
+/*! rc-util/es/utils/set */
+
+/*! rc-util/es/getScrollBarSize */
+
+/*! ./Divider */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! ../../utils/index */
+
+/*! ./utils/observerUtil */
+
+/*! @ant-design/pro-utils */
+
+/*! ../transformRoute/transformRoute */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ./util */
+
+/*! ./hooks/useEvent */
+
+/*! dayjs */
+
+/*! ./contentQuotesLinter */
+
+/*! rc-util/es/utils/set */
+
+/*! @_modern_js_src/routes/page.tsx */
+
+/*! ./useLayoutEffect */
+
+/*! react */
+
+/*! ../isNil */
+
+/*! ./layouts */
+
+/*! ../components/AntdIcon */
+
+/*! classnames */
+
+/*! rc-util/es/Children/toArray */
+
+/*! ../../layouts/StepsForm */
+
+/*! react */
+
+/*! ./messages */
+
+/*! react */
+
+/*! rc-util/es/warning */
+
+/*! ./context */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! antd */
+
+/*! classnames */
+
+/*! ../utils/misc */
+
+/*! rc-util/es/Children/toArray */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! react */
+
+/*! ./Group */
+
+/*! @ant-design/pro-utils */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! ./Enum.js */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! rc-util/es/warning */
+
+/*! ./locale/cs_CZ */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! @chenshuai2144/sketch-color */
+
+/*! @ant-design/pro-utils */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @swc/helpers/_/_sliced_to_array */
+
+/*! ./generate */
+
+/*! react */
+
+/*! react */
+
+/*! @ant-design/pro-utils */
+
+/*! dayjs/plugin/weekOfYear */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @ant-design/pro-utils */
+
+/*! rc-util/es/warning */
+
+/*! ./context */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ./cjs/react-is.production.min.js */
+
+/*! rc-util/es/Dom/canUseDom */
+
+/*! ./components/SiderMenu */
+
+/*! react */
+
+/*! ./MeasureCell */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! ../hooks/useDeepCompareEffect */
+
+/*! @ant-design/pro-provider */
+
+/*! @ant-design/icons */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @ant-design/pro-utils */
+
+/*! rc-util/es/utils/get */
+
+/*! @ant-design/pro-provider */
+
+/*! ./Popup */
+
+/*! ../../index */
+
+/*! ./theme */
+
+/*! @ant-design/icons-svg/es/asn/FullscreenExitOutlined */
+
+/*! react */
+
+/*! ./index */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! @ant-design/pro-utils */
+
+/*! @ant-design/colors */
+
+/*! ./isPromise.js */
+
+/*! @ant-design/cssinjs */
+
+/*! ./locales */
+
+/*! ./utils/legacyUtil */
+
+/*! @umijs/route-utils */
+
+/*! ./Embed */
+
+/*! @ant-design/icons */
+
+/*! ./FieldContext */
+
+/*! @ant-design/icons-svg/es/asn/SearchOutlined */
+
+/*! ./omitBoolean */
+
+/*! ../context/TableContext */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! @ant-design/icons-svg/es/asn/EyeOutlined */
+
+/*! rc-util/es/warning */
+
+/*! ./context/MenuContext */
+
+/*! rc-util/es/pickAttrs */
+
+/*! react/jsx-runtime */
+
+/*! ./utils/set */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ../../BaseForm/EditOrReadOnlyContext */
+
+/*! react-dom */
+
+/*! @swc/helpers/_/_object_spread_props */
+
+/*! react */
+
+/*! rc-util/es/hooks/useLayoutEffect */
+
+/*! react */
+
+/*! react */
+
+/*! ../Table */
+
+/*! ../utils/valueUtil */
+
+/*! ../context/TableContext */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! ./ExpandedRow */
+
+/*! react */
+
+/*! rc-util/es/isEqual */
+
+/*! classnames */
+
+/*! ./Context */
+
+/*! ./style */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ./SearchOutlined */
+
+/*! rc-util/es/warning */
+
+/*! @ant-design/pro-provider */
+
+/*! ../path-to-regexp */
+
+/*! ./compareVersions */
+
+/*! antd */
+
+/*! @ant-design/pro-provider */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @ant-design/pro-provider */
+
+/*! rc-motion */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! ../../layouts/LightFilter */
+
+/*! ./Utility.js */
+
+/*! react/jsx-runtime */
+
+/*! classnames */
+
+/*! ./Field */
+
+/*! ./cellRenderToFromItem */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! ./IconBase */
+
+/*! classnames */
+
+/*! @swc/helpers/_/_async_to_generator */
+
+/*! swr/_internal */
+
+/*! rc-util/es/isEqual */
+
+/*! ./components/Header */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./FullscreenExitOutlined */
+
+/*! ./style/stylish */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! react */
+
+/*! @ant-design/pro-utils */
+
+/*! @ant-design/pro-utils */
+
+/*! ./WrapContent */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! react */
+
+/*! rc-util/es/ref */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ../../BaseForm */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! react */
+
+/*! @ant-design/pro-form */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @rc-component/context */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./components/FieldLabel */
+
+/*! classnames */
+
+/*! @_modern_js_src/routes/solutions/[term]/page.tsx */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ./locale/fr_FR */
+
+/*! ../../BaseForm */
+
+/*! @swc/helpers/_/_sliced_to_array */
+
+/*! ./createTheme */
+
+/*! ./Radio */
+
+/*! ./it-IT */
+
+/*! ./Alpha */
+
+/*! ../hooks/useRenderTimes */
+
+/*! ./context/PathContext */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @_modern_js_internal/main/routes */
+
+/*! ../hooks/useRenderTimes */
+
+/*! @ant-design/pro-utils */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! antd */
+
+/*! rc-util/es/hooks/useMergedState */
+
+/*! redux */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! ./LightSelect */
+
+/*! @ant-design/pro-utils */
+
+/*! ./locale/he_IL */
+
+/*! react */
+
+/*! @ant-design/pro-card */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! ../sha265 */
+
+/*! ./useHoverState */
+
+/*! @rc-component/trigger */
+
+/*! ./hooks/useStepQueue */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! rc-util/es/warning */
+
+/*! react */
+
+/*! @ant-design/pro-utils */
+
+/*! rc-util/es/warning */
+
+/*! ./Context */
+
+/*! ./SearchSelect */
+
+/*! antd */
+
+/*! ./ProForm */
+
+/*! ./locale/hr_HR */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./format-input.js */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! @rc-component/context */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! rc-util/es/warning */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ../utils */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! react/jsx-runtime */
+
+/*! ./ListContext */
+
+/*! ./CopyrightOutlined */
+
+/*! react */
+
+/*! antd */
+
+/*! ./Dropdown */
+
+/*! react */
+
+/*! ../Select */
+
+/*! ./hooks/useStatus */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./DomWrapper */
+
+/*! ./ColumnHeightOutlined */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! ./locale/id_ID */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! react-dom */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ../utils/legacyUtil */
+
+/*! @rc-component/context */
+
+/*! antd */
+
+/*! ./DownOutlined */
+
+/*! react */
+
+/*! ./interface */
+
+/*! rc-util/es/Dom/dynamicCSS */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./components/Select */
+
+/*! react */
+
+/*! react */
+
+/*! ./locale/it_IT */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! ./utils/asyncUtil */
+
+/*! react */
+
+/*! @ant-design/pro-provider */
+
+/*! ../../FieldSet */
+
+/*! ./FieldContext */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./StepForm */
+
+/*! react/jsx-runtime */
+
+/*! ./DomWrapper */
+
+/*! react */
+
+/*! ./constant */
+
+/*! ./hooks/useMemo */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @ant-design/icons */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ./components/PageContainer */
+
+/*! ../Field */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ../PageLoading */
+
+/*! ../../StyleContext */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! antd */
+
+/*! ./locale/ja_JP */
+
+/*! @rc-component/context */
+
+/*! react */
+
+/*! ../../utils/utils */
+
+/*! rc-util/es/Dom/canUseDom */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! ./hooks/useSticky */
+
+/*! ./Tooltip */
+
+/*! react */
+
+/*! @ant-design/icons-svg/lib/asn/ArrowLeftOutlined */
+
+/*! ./hooks/useHover */
+
+/*! rc-util/es/hooks/useLayoutEffect */
+
+/*! antd */
+
+/*! react */
+
+/*! ./locale/ko_KR */
+
+/*! rc-util/es/Dom/focus */
+
+/*! ./stickyScrollBar */
+
+/*! antd */
+
+/*! classnames */
+
+/*! @ant-design/icons-svg/es/asn/PlusOutlined */
+
+/*! react */
+
+/*! ./Panel */
+
+/*! @ant-design/icons-svg/es/asn/InfoCircleOutlined */
+
+/*! ./IconBase */
+
+/*! classnames */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @ant-design/pro-provider */
+
+/*! dayjs */
+
+/*! ./context/MenuContext */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! react */
+
+/*! ../components/AntdIcon */
+
+/*! ./locale/mn_MN */
+
+/*! @modern-js-reduck/store */
+
+/*! @ant-design/icons */
+
+/*! ./Footer/Summary */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! ./sugar/Column */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ./Hue */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! @ant-design/icons-svg/es/asn/SettingOutlined */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! ./core */
+
+/*! react */
+
+/*! @ant-design/pro-provider */
+
+/*! ./locale/ms_MY */
+
+/*! invariant */
+
+/*! ../components/AntdIcon */
+
+/*! ./components/Rate */
+
+/*! rc-util/es/Dom/canUseDom */
+
+/*! react */
+
+/*! ../../util */
+
+/*! ./isNil */
+
+/*! react */
+
+/*! ./components/RangePicker */
+
+/*! ./components/twoTonePrimaryColor */
+
+/*! react */
+
+/*! react */
+
+/*! ./zh-CN */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ../hooks/useMemoCallback */
+
+/*! @ant-design/pro-provider */
+
+/*! @swc/helpers/_/_ts_generator */
+
+/*! dayjs */
+
+/*! react */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ../Dom/canUseDom */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./locale/pl_PL */
+
+/*! ./Theme */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! ./query */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! omit.js */
+
+/*! ./PopupTrigger */
+
+/*! classnames */
+
+/*! @swc/helpers/_/_object_spread_props */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ../useRefCallback */
+
+/*! rc-util/es/warning */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @ant-design/icons */
+
+/*! @ctrl/tinycolor */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! ./FieldContext */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! rc-util/es/hooks/useMergedState */
+
+/*! ../useDeepCompareEffect */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! react */
+
+/*! react */
+
+/*! antd */
+
+/*! @ant-design/pro-provider */
+
+/*! @ant-design/pro-utils */
+
+/*! ./typeUtil */
+
+/*! @ant-design/pro-provider */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! rc-util/es/hooks/useState */
+
+/*! @modern-js/runtime-utils/router */
+
+/*! ../CollapsedIcon */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! react */
+
+/*! @_modern_js_src/routes/my-box/create/page.tsx */
+
+/*! antd */
+
+/*! @ant-design/pro-provider */
+
+/*! ../../Dependency */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ../FieldContext */
+
+/*! ./ColorWrap */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react/jsx-runtime */
+
+/*! ../merge */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @ant-design/pro-utils */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! ../hooks/useRenderTimes */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ../../BaseForm/createField */
+
+/*! react */
+
+/*! @ant-design/pro-field */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ../components/AntdIcon */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ../utils/motionUtil */
+
+/*! rc-overflow */
+
+/*! react */
+
+/*! ./hooks/useChildren */
+
+/*! classnames */
+
+/*! @ant-design/pro-provider */
+
+/*! react */
+
+/*! ./EditOrReadOnlyContext */
+
+/*! @ant-design/pro-provider */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! rc-util/es/warning */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./components/Percent */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! react/jsx-runtime */
+
+/*! rc-util/es/hooks/useEvent */
+
+/*! ./context */
+
+/*! classnames */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! antd */
+
+/*! react */
+
+/*! ./plugin */
+
+/*! classnames */
+
+/*! react */
+
+/*! @rc-component/context */
+
+/*! @babel/runtime/helpers/esm/createSuper */
+
+/*! ./utils/valueUtil */
+
+/*! omit.js */
+
+/*! ./utils/utils */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! ./style */
+
+/*! antd */
+
+/*! ../components/AntdIcon */
+
+/*! @modern-js/utils/universal/constants */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! react */
+
+/*! @ant-design/pro-list */
+
+/*! ./components/Password */
+
+/*! rc-util/es/Children/toArray */
+
+/*! ../omitUndefined */
+
+/*! redux */
+
+/*! ./DefaultNotFound */
+
+/*! @ant-design/pro-utils */
+
+/*! ../context/TableContext */
+
+/*! react */
+
+/*! react */
+
+/*! ./utils/nodeUtil */
+
+/*! rc-util/es/warning */
+
+/*! react */
+
+/*! classnames */
+
+/*! antd */
+
+/*! ./memoize */
+
+/*! ../SiderMenu/Arrow */
+
+/*! ./divider */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! classnames */
+
+/*! ../helpers */
+
+/*! ./Group */
+
+/*! @ant-design/cssinjs */
+
+/*! ./useEvent */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./Swatch */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./VirtualCell */
+
+/*! react */
+
+/**
+ * @license React
+ * react-is.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @ant-design/pro-provider */
+
+/*! antd */
+
+/*! ./locale/ca_ES */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! rc-util/es/isMobile */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! ./Collection */
+
+/*! react */
+
+/*! ../../context/RouteContext */
+
+/*! ./utils/valueUtil */
+
+/*! ../utils/fixUtil */
+
+/*! ./utils/validateUtil */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @_modern_js_src/routes/upload/page.tsx */
+
+/*! ../util */
+
+/*! rc-util/es/Dom/canUseDom */
+
+/*! ./useWatch */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./warning */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! @ant-design/pro-provider */
+
+/*! hoist-non-react-statics */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./theme */
+
+/*! ../helpers */
+
+/*! react */
+
+/*! @rc-component/context */
+
+/*! ./utils/typeUtil */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! classnames */
+
+/*! ../components/AntdIcon */
+
+/*! ./helpers */
+
+/*! ./utils/getMenuData */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react/jsx-runtime */
+
+/*! ./Text */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./utils */
+
+/*! ../Divider */
+
+/*! antd */
+
+/*! @ant-design/pro-provider */
+
+/*! @ant-design/pro-utils */
+
+/*! rc-util/es/ref */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! ../hooks/useRenderTimes */
+
+/*! @swc/helpers/_/_to_consumable_array */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react */
+
+/*! ./Utility.js */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! react */
+
+/*! @ant-design/pro-utils */
+
+/*! @modern-js-reduck/react */
+
+/*! ./batchManager */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ../utils/timeUtil */
+
+/*! @ant-design/pro-provider */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! ./components/FilterDropdown */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! rc-util/es/warning */
+
+/*! antd */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./style */
+
+/*! ../List */
+
+/*! react */
+
+/*! ./utils/genProColumnToColumn */
+
+/*! react */
+
+/*! ./primitive */
+
+/*! @ant-design/pro-table */
+
+/*! ./zh-TW/settingDrawer */
+
+/*! classnames */
+
+/*! rc-util/lib/Dom/dynamicCSS */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! @ant-design/icons */
+
+/*! ./hooks/useDebounceFn */
+
+/*! ../../layouts/ModalForm */
+
+/*! react */
+
+/*! ../utils */
+
+/*! ./components/Image */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @ant-design/pro-utils */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! ./FieldContext */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! ./context/MenuContext */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/createSuper */
+
+/*! ./SettingOutlined */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ./formList */
+
+/*! ./FullscreenOutlined */
+
+/*! ./RightOutlined */
+
+/*! ./plugin */
+
+/*! ../context/TableContext */
+
+/*! ./FieldHOC */
+
+/*! ./components */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/inherits */
+
+/*! react */
+
+/*! @modern-js-reduck/store */
+
+/*! rc-util */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./Context */
+
+/*! react */
+
+/*! @ant-design/pro-card */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @ant-design/icons */
+
+/*! ./locale/fa_IR */
+
+/*! ./ActionsContent */
+
+/*! rc-util/es/hooks/useMergedState */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./MeasureRow */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/createSuper */
+
+/*! rc-util/es/hooks/useId */
+
+/*! ../index */
+
+/*! ./placements */
+
+/*! ./warning */
+
+/*! ../AppsLogoComponents */
+
+/*! ./contains */
+
+/*! react/jsx-runtime */
+
+/*! ./SketchPresetColors */
+
+/*! @ant-design/pro-utils */
+
+/*! @ant-design/pro-table */
+
+/*! ../Field */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./hooks/useAlign */
+
+/*! @redux-devtools/extension */
+
+/*! rc-util/es/hooks/useMergedState */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! react */
+
+/*! ../placements */
+
+/*! ./components/hover */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./utils/commonUtil */
+
+/*! react */
+
+/*! @ant-design/cssinjs */
+
+/** @license React v16.13.1
+ * react-is.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/*! ../../Store/Provide */
+
+/*! react */
+
+/*! ../../layouts/DrawerForm */
+
+/*! ./style/stylish */
+
+/*! react */
+
+/*! dayjs */
+
+/*! ./hooks/useRefFunction */
+
+/*! @modern-js-reduck/plugin-devtools */
+
+/*! rc-util/es/warning */
+
+/*! ../../utils/utils */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./components/Digit */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! rc-util/es/getScrollBarSize */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! path-to-regexp */
+
+/**
+ * @license React
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/*! @_modern_js_src/routes/my-box/page.tsx */
+
+/*! ./utils */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-provider */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! ../cjs/use-sync-external-store-shim.production.min.js */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/createSuper */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! ./components/Text */
+
+/*! antd */
+
+/*! ./components/Switch */
+
+/*! rc-util/es/warning */
+
+/*! @ant-design/pro-utils */
+
+/*! ./components/ErrorBoundary */
+
+/*! rc-util/es/hooks/useLayoutEffect */
+
+/*! rc-resize-observer */
+
+/*! antd */
+
+/*! ./Checkboard */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! rc-util/es/warning */
+
+/*! react-router-dom */
+
+/*! antd */
+
+/*! ./isBrowser */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! ./useScrollLocker */
+
+/*! rc-util/es/hooks/useMemo */
+
+/*! ./BodyLine */
+
+/*! ./util.js */
+
+/*! @ant-design/pro-utils */
+
+/*! ../context/TableContext */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./DefaultContent */
+
+/*! rc-resize-observer */
+
+/*! rc-util/es/hooks/useMergedState */
+
+/*! ./misc */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @ant-design/pro-provider */
+
+/*! rc-util/es/ref */
+
+/*! ../PageHeader */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ./CopyOutlined */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ./Summary */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! ./context */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! ./SimpleContent */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! classnames */
+
+/*! react */
+
+/*! ./FieldContext */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-utils */
+
+/*! omit.js */
+
+/*! @ant-design/pro-provider */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./style */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! ./lib/icons/ArrowRightOutlined */
+
+/*! reactcss */
+
+/*! @babel/runtime/helpers/esm/classCallCheck */
+
+/*! react/jsx-runtime */
+
+/*! @babel/runtime/helpers/esm/assertThisInitialized */
+
+/*! ./FieldContext */
+
+/*! ./parentSelectorLinter */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react */
+
+/*! antd */
+
+/*! ./CloseCircleFilled */
+
+/*! ./style */
+
+/*! react/jsx-runtime */
+
+/*! ./context/PathContext */
+
+/*! @ant-design/cssinjs */
+
+/*! antd */
+
+/*! dayjs/plugin/weekday */
+
+/*! @ant-design/icons-svg/es/asn/CopyOutlined */
+
+/*! @ant-design/pro-utils */
+
+/*! react */
+
+/*! ../context/IdContext */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/inherits */
+
+/*! rc-util/es/raf */
+
+/*! ./conversionMomentValue */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! ./createApp */
+
+/*! ../Cell */
+
+/*! ../components/AntdIcon */
+
+/*! ./hooks/useLatest */
+
+/*! @swc/helpers/_/_define_property */
+
+/*! react */
+
+/*! rc-util/es/KeyCode */
+
+/*! ./hooks/useFetchData */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! ../../helpers */
+
+/*! @ant-design/pro-utils */
+
+/*! @modern-js/runtime */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! ../Cell */
+
+/*! classnames */
+
+/*! ../WaterMark */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! omit.js */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! rc-util/lib/Dom/shadow */
+
+/*! rc-util/es/hooks/useLayoutEffect */
+
+/*! rc-overflow */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! rc-util/es/raf */
+
+/*! rc-util/es/Dom/isVisible */
+
+/*! @modern-js-reduck/store */
+
+/*! @modern-js-reduck/plugin-effects */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @ant-design/pro-provider */
+
+/*! ./zh-CN/settingDrawer */
+
+/*! react */
+
+/*! ./hooks/useDocumentTitle */
+
+/*! @babel/runtime/helpers/esm/inherits */
+
+/*! @ant-design/pro-provider */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ../utils/algorithmUtil */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/asyncToGenerator */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! rc-resize-observer */
+
+/*! omit.js */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./hooks/useMemoCallback */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! omit.js */
+
+/*! @ant-design/pro-utils */
+
+/*! ./useForm */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ../../Store/Provide */
+
+/*! react/jsx-runtime */
+
+/*! ./Saturation */
+
+/*! classnames */
+
+/*! react */
+
+/*! classnames */
+
+/*! ../index */
+
+/*! @ant-design/pro-card */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! @babel/runtime/helpers/esm/typeof */
+
+/*! ../hooks/useDirectionStyle */
+
+/*! react */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/slicedToArray */
+
+/*! ../../BaseForm */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/inherits */
+
+/*! ./legacyNotSelectorLinter */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! antd */
+
+/*! @ant-design/pro-provider */
+
+/*! @ant-design/icons-svg/es/asn/VerticalAlignMiddleOutlined */
+
+/*! ./useStepQueue */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*!
+	Copyright (c) 2018 Jed Watson.
+	Licensed under the MIT License (MIT), see
+	http://jedwatson.github.io/classnames
+*/
+
+/*! ./format-input */
+
+/*! rc-util/es/Dom/shadow */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! ./style/stylish */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @babel/runtime/helpers/esm/objectWithoutProperties */
+
+/*! react */
+
+/*! rc-resize-observer */
+
+/*! antd */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! omit.js */
+
+/*! ./hooks/useKeyRecords */
+
+/*! ../../isDeepEqualReact */
+
+/*! rc-util/es/raf */
+
+/*! ./index */
+
+/*! ./DensityIcon */
+
+/*! ../runtimeContext */
+
+/*! ./MenuItem */
+
+/*! antd */
+
+/*! rc-resize-observer */
+
+/*! ../SiderMenu/BaseMenu */
+
+/*! @babel/runtime/helpers/esm/toConsumableArray */
+
+/*! @babel/runtime/helpers/esm/objectSpread2 */
+
+/*! @ant-design/icons-svg/es/asn/EyeInvisibleOutlined */
+
+/*! ./EditableInput */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! react */
+
+/*! antd */
+
+/*! ../Select */
+
+/*! @ant-design/pro-utils */
+
+/*! @swc/helpers/_/_object_spread */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! react */
+
+/*! @ant-design/pro-provider */
+
+/*! ./hooks/useHeights */
+
+/*! @ant-design/cssinjs */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-utils */
+
+/*! ./FieldContext */
+
+/*! @babel/runtime/helpers/esm/createClass */
+
+/*! classnames */
+
+/*! classnames */
+
+/*! @babel/runtime/helpers/esm/defineProperty */
+
+/*! ./proFieldParsingText */
+
+/*! react */
+
+/*! ./Mask */
+
+/*! ../../core */
+
+/*! omit.js */
+
+/*! ./FieldContext */
+
+/*! react/jsx-runtime */
+
+/*! ./useDomMotionEvents */
+
+/*! rc-util/es/hooks/useMergedState */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ./useStyle */
+
+/*! ../GlobalHeader/ActionsContent */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! ./FormItem */
+
+/*! ../FieldContext */
+
+/*! omit.js */
+
+/*! @babel/runtime/helpers/esm/regeneratorRuntime */
+
+/*! ./DeferredDataScripts */
+
+/*! ./transformKeySubmitValue */
