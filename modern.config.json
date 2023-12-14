@@ -216,7 +216,7 @@
   "builderPlugins": [],
   "performance": {
     "chunkSplit": {
-      "strategy": "split-by-module"
+      "strategy": "split-by-experience"
     }
   },
   "_raw": {
@@ -236,7 +236,7 @@
     },
     "performance": {
       "chunkSplit": {
-        "strategy": "split-by-module"
+        "strategy": "split-by-experience"
       }
     },
     "output": {
@@ -246,7 +246,8 @@
         "react": "React",
         "react-dom": "ReactDOM"
       }
-    }
+    },
+    "tools": {}
   },
   "bff": {},
   "testing": {},

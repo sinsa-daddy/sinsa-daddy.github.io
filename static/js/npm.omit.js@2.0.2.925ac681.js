@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([[328],{36490:(s,e,n)=>{n.d(e,{Z:()=>a});const a=function(s,e){for(var n=Object.assign({},s),a=0;a<e.length;a+=1){delete n[e[a]]}return n}}}]);
