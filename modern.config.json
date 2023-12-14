@@ -57,7 +57,13 @@
     "cssExtract": {
       "loaderOptions": {},
       "pluginOptions": {}
-    }
+    },
+    "htmlPlugin": [
+      null,
+      {
+        "filename": "index.html"
+      }
+    ]
   },
   "output": {
     "distPath": {
@@ -66,7 +72,7 @@
       "css": "static/css",
       "svg": "static/svg",
       "font": "static/font",
-      "html": "html",
+      "html": "",
       "wasm": "static/wasm",
       "image": "static/image",
       "media": "static/media",
@@ -245,9 +251,14 @@
         "dayjs": "dayjs",
         "react": "React",
         "react-dom": "ReactDOM"
+      },
+      "distPath": {
+        "html": ""
       }
     },
-    "tools": {}
+    "tools": {
+      "htmlPlugin": "[Circular 1]"
+    }
   },
   "bff": {},
   "testing": {},
