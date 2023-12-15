@@ -1,0 +1,133 @@
+/*! @modern-js/runtime/router */
+
+/*! antd */
+
+/*! ../CopilotsTable */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! @/containers/TermChanger */
+
+/*! react */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! antd */
+
+/*! ./helpers/box-without-aurorians-in-copilot */
+
+/*! @/containers/TermNotFound */
+
+/*! react */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @/containers/CopilotSolution */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! ../AurorianCard */
+
+/*! @ant-design/pro-components */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @/models/aurorians */
+
+/*! numeral */
+
+/*! @/models/terms */
+
+/*! @ant-design/pro-components */
+
+/*! antd */
+
+/*! @/features/backtrack/calculate-all-scenarios-and-scores */
+
+/*! react */
+
+/*! immer */
+
+/*! @/components/SolutionScenarioCard */
+
+/*! @ant-design/pro-components */
+
+/*! ./styles.module.less */
+
+/*! @/components/ExcludeAurorianFormList */
+
+/*! ./styles.module.less */
+
+/*! ahooks */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/router */
+
+/*! @/assets/skins */
+
+/*! ../AuroriansTeam */
+
+/*! @modern-js/runtime/model */
+
+/*! @ant-design/pro-components */
+
+/*! ./columns */
+
+/*! ../AurorianCard */
+
+/*! clsx */
+
+/*! immer */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! react */
+
+/*! @/models/terms */
+
+/*! antd */
+
+/*! ahooks */
+
+/*! ./helpers/can-use-copilot */
+
+/*! @/models/aurorians */
+
+/*! @/components/MyLayout/constants */
+
+/*! @modern-js/runtime/model */
+
+/*! @/components/MyLayout/constants */
+
+/*! immer */
+
+/*! ./constants */
+
+/*! react/jsx-runtime */
+
+/*! ../AurorianCard/constants */
+
+/*! @/models/aurorians */
+
+/*! ../CopilotsTable/columns */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/router */
