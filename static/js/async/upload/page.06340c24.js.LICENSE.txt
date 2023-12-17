@@ -1,0 +1,85 @@
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @sinsa/schema */
+
+/*! @modern-js/runtime/router */
+
+/*! @/models/aurorians */
+
+/*! @modern-js/runtime/model */
+
+/*! @/models/terms */
+
+/*! @/components/UploadForm/AurorianTallCard */
+
+/*! ./styles.module.less */
+
+/*! antd */
+
+/*! ../LarkLoginCard/constants */
+
+/*! @/components/LarkLoginCard */
+
+/*! antd */
+
+/*! ./utils/toInputRemoteCopilot */
+
+/*! ../MyLayout/constants */
+
+/*! ../../AurorianCard/constants */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @/assets/skins */
+
+/*! @ant-design/pro-components */
+
+/*! @/components/UploadForm */
+
+/*! @/components/AurorianCard/constants */
+
+/*! @modern-js/runtime/model */
+
+/*! clsx */
+
+/*! ./styles.module.less */
+
+/*! ./CopilotSelector */
+
+/*! @/models/aurorians */
+
+/*! ./constants */
+
+/*! react */
+
+/*! @/models/aurorians */
+
+/*! react */
+
+/*! antd */
+
+/*! ahooks */
+
+/*! immer */
+
+/*! lodash-es */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! antd */
+
+/*! antd */
+
+/*! dayjs */
+
+/*! ahooks */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
