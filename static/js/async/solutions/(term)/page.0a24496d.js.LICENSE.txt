@@ -1,0 +1,133 @@
+/*! antd */
+
+/*! @modern-js/runtime/model */
+
+/*! immer */
+
+/*! @/containers/TermChanger */
+
+/*! react */
+
+/*! react */
+
+/*! @ant-design/pro-components */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! ahooks */
+
+/*! @/containers/TermNotFound */
+
+/*! ./helpers/box-without-aurorians-in-copilot */
+
+/*! @/models/aurorians */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! @/containers/CopilotSolution */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/model */
+
+/*! @/models/aurorians */
+
+/*! ../CopilotsTable/columns */
+
+/*! ../AurorianCard/constants */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! ../CopilotsTable */
+
+/*! react/jsx-runtime */
+
+/*! @/models/terms */
+
+/*! @/models/aurorians */
+
+/*! @ant-design/pro-components */
+
+/*! antd */
+
+/*! @modern-js/runtime/model */
+
+/*! antd */
+
+/*! react */
+
+/*! ./styles.module.less */
+
+/*! react/jsx-runtime */
+
+/*! ahooks */
+
+/*! react/jsx-runtime */
+
+/*! ./styles.module.less */
+
+/*! @modern-js/runtime/router */
+
+/*! @/assets/skins */
+
+/*! ../AuroriansTeam */
+
+/*! @modern-js/runtime/model */
+
+/*! @ant-design/pro-components */
+
+/*! ../AurorianCard */
+
+/*! ../AurorianCard */
+
+/*! react/jsx-runtime */
+
+/*! numeral */
+
+/*! clsx */
+
+/*! react/jsx-runtime */
+
+/*! @/features/backtrack/calculate-all-scenarios-and-scores */
+
+/*! react */
+
+/*! immer */
+
+/*! @/components/SolutionScenarioCard */
+
+/*! @ant-design/pro-components */
+
+/*! @/models/terms */
+
+/*! @/components/ExcludeAurorianFormList */
+
+/*! antd */
+
+/*! ./helpers/can-use-copilot */
+
+/*! immer */
+
+/*! @/components/MyLayout/constants */
+
+/*! @/components/MyLayout/constants */
+
+/*! ./constants */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/router */
+
+/*! @ant-design/pro-components */
+
+/*! ./columns */
+
+/*! @modern-js/runtime/router */
