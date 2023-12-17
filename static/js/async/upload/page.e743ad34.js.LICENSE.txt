@@ -1,6 +1,6 @@
 /*! react/jsx-runtime */
 
-/*! react/jsx-runtime */
+/*! @/components/LarkLoginCard */
 
 /*! @sinsa/schema */
 
@@ -12,15 +12,15 @@
 
 /*! @/models/terms */
 
+/*! @ant-design/pro-components */
+
 /*! @/components/UploadForm/AurorianTallCard */
+
+/*! @/components/UploadForm */
 
 /*! ./styles.module.less */
 
-/*! antd */
-
 /*! ../LarkLoginCard/constants */
-
-/*! @/components/LarkLoginCard */
 
 /*! antd */
 
@@ -35,10 +35,6 @@
 /*! react/jsx-runtime */
 
 /*! @/assets/skins */
-
-/*! @ant-design/pro-components */
-
-/*! @/components/UploadForm */
 
 /*! @/components/AurorianCard/constants */
 
@@ -64,6 +60,8 @@
 
 /*! ahooks */
 
+/*! react/jsx-runtime */
+
 /*! immer */
 
 /*! lodash-es */
@@ -83,3 +81,5 @@
 /*! @modern-js/runtime/model */
 
 /*! react */
+
+/*! antd */
