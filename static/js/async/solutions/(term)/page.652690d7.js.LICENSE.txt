@@ -1,0 +1,143 @@
+/*! @/models/aurorians */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! ../CopilotsTable */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/router */
+
+/*! ./styles.module.less */
+
+/*! ../AurorianCard/constants */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! antd */
+
+/*! @/components/MyLayout/constants */
+
+/*! @/components/MyLayout/constants */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/model */
+
+/*! @/components/SolutionScenarioCard */
+
+/*! react/jsx-runtime */
+
+/*! ./assets/icon-message.svg */
+
+/*! @ant-design/pro-components */
+
+/*! @modern-js/runtime/router */
+
+/*! @/components/ExcludeAurorianFormList */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/router */
+
+/*! @ant-design/pro-components */
+
+/*! @modern-js/runtime/model */
+
+/*! numeral */
+
+/*! @modern-js/runtime/model */
+
+/*! @/models/aurorians */
+
+/*! react */
+
+/*! immer */
+
+/*! @/containers/TermChanger */
+
+/*! ./helpers/can-use-copilot */
+
+/*! immer */
+
+/*! react */
+
+/*! @ant-design/pro-components */
+
+/*! react/jsx-runtime */
+
+/*! @/containers/TermNotFound */
+
+/*! ./styles.module.less */
+
+/*! ../AurorianCard */
+
+/*! @/containers/CopilotSolution */
+
+/*! ./styles.module.less */
+
+/*! @/assets/skins */
+
+/*! ../AuroriansTeam */
+
+/*! @/features/backtrack/calculate-all-scenarios-and-scores */
+
+/*! react */
+
+/*! ../AurorianCard */
+
+/*! immer */
+
+/*! clsx */
+
+/*! @/models/aurorians */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! react */
+
+/*! @ant-design/pro-components */
+
+/*! ./helpers/box-without-aurorians-in-copilot */
+
+/*! ahooks */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! ahooks */
+
+/*! @modern-js/runtime/router */
+
+/*! ./constants */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! ../CopilotsTable/columns */
+
+/*! ./columns */
+
+/*! @modern-js/runtime/model */
