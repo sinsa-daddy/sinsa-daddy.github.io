@@ -1,0 +1,147 @@
+/*! @/components/ExcludeAurorianFormList */
+
+/*! @ant-design/pro-components */
+
+/*! @ant-design/pro-components */
+
+/*! ./columns */
+
+/*! antd */
+
+/*! numeral */
+
+/*! @modern-js/runtime/model */
+
+/*! @/containers/CopilotSolution */
+
+/*! react */
+
+/*! @ant-design/pro-components */
+
+/*! react */
+
+/*! ../AuroriansTeam */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! @/models/terms */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! @modern-js/runtime/model */
+
+/*! immer */
+
+/*! ahooks */
+
+/*! @ant-design/pro-components */
+
+/*! @/features/backtrack/calculate-all-scenarios-and-scores */
+
+/*! @modern-js/runtime/model */
+
+/*! ../AurorianCard */
+
+/*! ./helpers/can-use-copilot */
+
+/*! @/models/aurorians */
+
+/*! immer */
+
+/*! @/models/aurorians */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! immer */
+
+/*! ahooks */
+
+/*! ./styles.module.less */
+
+/*! react */
+
+/*! ./styles.module.less */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/router */
+
+/*! @/assets/skins */
+
+/*! ./styles.module.less */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @modern-js/runtime/model */
+
+/*! @/components/MyLayout/constants */
+
+/*! react/jsx-runtime */
+
+/*! ../AurorianCard */
+
+/*! clsx */
+
+/*! @modern-js/runtime/router */
+
+/*! ./helpers/box-without-aurorians-in-copilot */
+
+/*! ./assets/icon-message.svg */
+
+/*! ../CopilotsTable/columns */
+
+/*! @modern-js/runtime/model */
+
+/*! @modern-js/runtime/router */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! antd */
+
+/*! react */
+
+/*! @/models/aurorians */
+
+/*! ../CopilotsTable */
+
+/*! react/jsx-runtime */
+
+/*! @/components/MyLayout/constants */
+
+/*! @/containers/TermChanger */
+
+/*! ./constants */
+
+/*! ../AurorianCard/constants */
+
+/*! @/components/SolutionScenarioCard */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! @/containers/TermNotFound */
+
+/*! @modern-js/runtime/router */
