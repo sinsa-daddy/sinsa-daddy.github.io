@@ -12,6 +12,8 @@
 
 /*! @/models/terms */
 
+/*! ./helpers/box-without-aurorians-in-copilot */
+
 /*! antd */
 
 /*! react */
@@ -24,11 +26,11 @@
 
 /*! @/components/MyLayout/constants */
 
-/*! @/containers/TermChanger */
-
 /*! ./constants */
 
 /*! ../AurorianCard/constants */
+
+/*! @/models/terms */
 
 /*! @/components/SolutionScenarioCard */
 
@@ -36,7 +38,7 @@
 
 /*! react/jsx-runtime */
 
-/*! @/containers/TermNotFound */
+/*! dayjs */
 
 /*! @modern-js/runtime/router */
 
@@ -54,8 +56,6 @@
 
 /*! @modern-js/runtime/model */
 
-/*! @/containers/CopilotSolution */
-
 /*! react */
 
 /*! @ant-design/pro-components */
@@ -68,7 +68,7 @@
 
 /*! @ant-design/pro-components */
 
-/*! @/models/terms */
+/*! antd */
 
 /*! @modern-js/runtime/model */
 
@@ -90,9 +90,9 @@
 
 /*! @modern-js/runtime/model */
 
-/*! ../AurorianCard */
+/*! @/containers/CopilotSolution */
 
-/*! ./helpers/can-use-copilot */
+/*! ../AurorianCard */
 
 /*! @/models/aurorians */
 
@@ -108,11 +108,15 @@
 
 /*! react/jsx-runtime */
 
+/*! ./helpers/can-use-copilot */
+
 /*! immer */
 
 /*! ahooks */
 
 /*! ./styles.module.less */
+
+/*! @/components/MyLayout/constants */
 
 /*! react */
 
@@ -124,6 +128,8 @@
 
 /*! @modern-js/runtime/router */
 
+/*! @/containers/TermChanger */
+
 /*! react/jsx-runtime */
 
 /*! @/assets/skins */
@@ -134,14 +140,12 @@
 
 /*! @modern-js/runtime/model */
 
-/*! @/components/MyLayout/constants */
-
 /*! react/jsx-runtime */
+
+/*! @/containers/TermNotFound */
 
 /*! ../AurorianCard */
 
 /*! clsx */
 
 /*! @modern-js/runtime/router */
-
-/*! ./helpers/box-without-aurorians-in-copilot */
