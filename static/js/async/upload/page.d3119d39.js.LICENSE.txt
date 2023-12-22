@@ -1,0 +1,91 @@
+/*! ../../AurorianCard/constants */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @/assets/skins */
+
+/*! @/components/AurorianCard/constants */
+
+/*! @modern-js/runtime/model */
+
+/*! clsx */
+
+/*! ./styles.module.less */
+
+/*! ./CopilotSelector */
+
+/*! ./constants */
+
+/*! @/models/terms */
+
+/*! react */
+
+/*! @/models/aurorians */
+
+/*! react */
+
+/*! antd */
+
+/*! ahooks */
+
+/*! immer */
+
+/*! react/jsx-runtime */
+
+/*! lodash-es */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! antd */
+
+/*! antd */
+
+/*! dayjs */
+
+/*! ahooks */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! lodash-es */
+
+/*! @sinsa/schema */
+
+/*! @/components/LarkLoginCard */
+
+/*! @modern-js/runtime/router */
+
+/*! @/models/aurorians */
+
+/*! @modern-js/runtime/model */
+
+/*! ./styles.module.less */
+
+/*! @/models/aurorians */
+
+/*! @/components/UploadForm/AurorianTallCard */
+
+/*! ./styles.module.less */
+
+/*! @ant-design/pro-components */
+
+/*! @/components/UploadForm */
+
+/*! ../LarkLoginCard/constants */
+
+/*! ./utils/postProccessingFormInitialValues */
+
+/*! antd */
+
+/*! ./utils/toInputRemoteCopilot */
+
+/*! ../MyLayout/constants */

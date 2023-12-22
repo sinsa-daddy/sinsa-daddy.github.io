@@ -1,0 +1,143 @@
+/*! antd */
+
+/*! ahooks */
+
+/*! ./helpers/box-without-aurorians-in-copilot */
+
+/*! ./styles.module.less */
+
+/*! @/features/backtrack/calculate-all-scenarios-and-scores */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! immer */
+
+/*! @/models/aurorians */
+
+/*! @/models/terms */
+
+/*! react */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! ./assets/icon-message.svg */
+
+/*! ahooks */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/router */
+
+/*! react/jsx-runtime */
+
+/*! @/components/MyLayout/constants */
+
+/*! ../CopilotsTable/columns */
+
+/*! @ant-design/pro-components */
+
+/*! @/models/aurorians */
+
+/*! ./columns */
+
+/*! @modern-js/runtime/model */
+
+/*! ../CopilotsTable */
+
+/*! @/models/aurorians */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/router */
+
+/*! ./styles.module.less */
+
+/*! @modern-js/runtime/router */
+
+/*! ./styles.module.less */
+
+/*! ../AurorianCard/constants */
+
+/*! @modern-js/runtime/model */
+
+/*! antd */
+
+/*! @/assets/skins */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! @/containers/TermChanger */
+
+/*! antd */
+
+/*! ../AuroriansTeam */
+
+/*! @/components/MyLayout/constants */
+
+/*! @/containers/TermNotFound */
+
+/*! ../AurorianCard */
+
+/*! clsx */
+
+/*! @/components/SolutionScenarioCard */
+
+/*! @ant-design/pro-components */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/router */
+
+/*! @/components/ExcludeAurorianFormList */
+
+/*! @ant-design/pro-components */
+
+/*! @modern-js/runtime/model */
+
+/*! @/containers/CopilotSolution */
+
+/*! numeral */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! react */
+
+/*! react */
+
+/*! immer */
+
+/*! ./constants */
+
+/*! @ant-design/pro-components */
+
+/*! ./helpers/can-use-copilot */
+
+/*! react */
+
+/*! @ant-design/pro-components */
+
+/*! react/jsx-runtime */
+
+/*! immer */
+
+/*! ../AurorianCard */
