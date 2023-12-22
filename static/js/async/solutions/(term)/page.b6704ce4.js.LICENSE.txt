@@ -1,0 +1,151 @@
+/*! ./assets/icon-message.svg */
+
+/*! ../CopilotsTable/columns */
+
+/*! @modern-js/runtime/model */
+
+/*! @modern-js/runtime/router */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! antd */
+
+/*! react */
+
+/*! @/models/aurorians */
+
+/*! ../CopilotsTable */
+
+/*! react/jsx-runtime */
+
+/*! @/components/MyLayout/constants */
+
+/*! ./helpers/can-use-copilot */
+
+/*! ./constants */
+
+/*! immer */
+
+/*! ../AurorianCard/constants */
+
+/*! @/models/terms */
+
+/*! @/components/SolutionScenarioCard */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! dayjs */
+
+/*! @modern-js/runtime/router */
+
+/*! @/components/ExcludeAurorianFormList */
+
+/*! @ant-design/pro-components */
+
+/*! @ant-design/pro-components */
+
+/*! ./columns */
+
+/*! antd */
+
+/*! numeral */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! @ant-design/pro-components */
+
+/*! react */
+
+/*! ../AuroriansTeam */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! antd */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! ./helpers/box-without-aurorians-in-copilot */
+
+/*! react */
+
+/*! @modern-js/runtime/model */
+
+/*! immer */
+
+/*! ahooks */
+
+/*! @ant-design/pro-components */
+
+/*! @/features/backtrack/calculate-all-scenarios-and-scores */
+
+/*! @modern-js/runtime/model */
+
+/*! @/containers/CopilotSolution */
+
+/*! ../AurorianCard */
+
+/*! @/models/aurorians */
+
+/*! immer */
+
+/*! @/models/aurorians */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! ahooks */
+
+/*! ./styles.module.less */
+
+/*! @/components/MyLayout/constants */
+
+/*! react */
+
+/*! ./styles.module.less */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/router */
+
+/*! @/containers/TermChanger */
+
+/*! react/jsx-runtime */
+
+/*! @/assets/skins */
+
+/*! ./styles.module.less */
+
+/*! antd */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! @/containers/TermNotFound */
+
+/*! ../AurorianCard */
+
+/*! clsx */
+
+/*! @modern-js/runtime/router */
