@@ -1,8 +1,32 @@
-/*! @ant-design/pro-components */
+/*! @/components/CopilotsTable */
+
+/*! ./assets/icon-message.svg */
+
+/*! @/components/WalineComment */
+
+/*! @modern-js/runtime/router */
+
+/*! react/jsx-runtime */
+
+/*! antd */
 
 /*! react */
 
+/*! @/models/terms */
+
+/*! ./constants */
+
+/*! ahooks */
+
+/*! antd */
+
+/*! @/containers/TermChanger */
+
+/*! @ant-design/pro-components */
+
 /*! ./columns */
+
+/*! react */
 
 /*! antd */
 
@@ -75,27 +99,3 @@
 /*! ../AurorianCard */
 
 /*! clsx */
-
-/*! @/components/CopilotsTable */
-
-/*! ./assets/icon-message.svg */
-
-/*! @/components/WalineComment */
-
-/*! @modern-js/runtime/router */
-
-/*! react/jsx-runtime */
-
-/*! antd */
-
-/*! react */
-
-/*! @/models/terms */
-
-/*! ./constants */
-
-/*! ahooks */
-
-/*! antd */
-
-/*! @/containers/TermChanger */

@@ -1,3 +1,45 @@
+/*! ./assets/icon-message.svg */
+
+/*! ../CopilotsTable/columns */
+
+/*! @modern-js/runtime/model */
+
+/*! @modern-js/runtime/router */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! antd */
+
+/*! react */
+
+/*! @/models/aurorians */
+
+/*! ../CopilotsTable */
+
+/*! react/jsx-runtime */
+
+/*! @/components/MyLayout/constants */
+
+/*! @/containers/TermChanger */
+
+/*! ./constants */
+
+/*! ../AurorianCard/constants */
+
+/*! @/components/SolutionScenarioCard */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! @/containers/TermNotFound */
+
+/*! @modern-js/runtime/router */
+
 /*! @/components/ExcludeAurorianFormList */
 
 /*! @ant-design/pro-components */
@@ -82,11 +124,11 @@
 
 /*! @modern-js/runtime/router */
 
+/*! react/jsx-runtime */
+
 /*! @/assets/skins */
 
 /*! ./styles.module.less */
-
-/*! react/jsx-runtime */
 
 /*! antd */
 
@@ -103,45 +145,3 @@
 /*! @modern-js/runtime/router */
 
 /*! ./helpers/box-without-aurorians-in-copilot */
-
-/*! ./assets/icon-message.svg */
-
-/*! ../CopilotsTable/columns */
-
-/*! @modern-js/runtime/model */
-
-/*! @modern-js/runtime/router */
-
-/*! react/jsx-runtime */
-
-/*! antd */
-
-/*! @/models/terms */
-
-/*! antd */
-
-/*! react */
-
-/*! @/models/aurorians */
-
-/*! ../CopilotsTable */
-
-/*! react/jsx-runtime */
-
-/*! @/components/MyLayout/constants */
-
-/*! @/containers/TermChanger */
-
-/*! ./constants */
-
-/*! ../AurorianCard/constants */
-
-/*! @/components/SolutionScenarioCard */
-
-/*! antd */
-
-/*! react/jsx-runtime */
-
-/*! @/containers/TermNotFound */
-
-/*! @modern-js/runtime/router */

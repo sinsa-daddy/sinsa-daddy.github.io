@@ -1,3 +1,17 @@
+/*! lodash-es */
+
+/*! ./styles.module.less */
+
+/*! @/models/aurorians */
+
+/*! @/assets/skins */
+
+/*! ../AurorianCard/constants */
+
+/*! ../AurorianBoxCard */
+
+/*! @ant-design/pro-components */
+
 /*! react */
 
 /*! antd */
@@ -31,17 +45,3 @@
 /*! @modern-js/runtime/model */
 
 /*! @sinsa/schema */
-
-/*! lodash-es */
-
-/*! ./styles.module.less */
-
-/*! @/models/aurorians */
-
-/*! @/assets/skins */
-
-/*! ../AurorianCard/constants */
-
-/*! ../AurorianBoxCard */
-
-/*! @ant-design/pro-components */
