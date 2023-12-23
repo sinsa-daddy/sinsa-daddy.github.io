@@ -1,0 +1,149 @@
+/*! @ant-design/pro-components */
+
+/*! ./columns */
+
+/*! antd */
+
+/*! immer */
+
+/*! @/components/MyLayout/constants */
+
+/*! @/models/terms */
+
+/*! react */
+
+/*! react */
+
+/*! @ant-design/pro-components */
+
+/*! react */
+
+/*! ../AuroriansTeam */
+
+/*! react/jsx-runtime */
+
+/*! ahooks */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! @/features/backtrack/calculate-scenarios-async */
+
+/*! @modern-js/runtime/router */
+
+/*! @modern-js/runtime/model */
+
+/*! @modern-js/runtime/model */
+
+/*! dayjs */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! @modern-js/runtime/model */
+
+/*! antd */
+
+/*! @ant-design/pro-components */
+
+/*! ../AurorianCard */
+
+/*! ../CopilotsTable/columns */
+
+/*! @modern-js/runtime/router */
+
+/*! @/models/aurorians */
+
+/*! @modern-js/runtime/model */
+
+/*! antd */
+
+/*! @/components/SolutionScenarioCard */
+
+/*! ahooks */
+
+/*! @/containers/CopilotSolution */
+
+/*! @/components/ExcludeAurorianFormList */
+
+/*! @modern-js/runtime/model */
+
+/*! ../CopilotsTable */
+
+/*! react/jsx-runtime */
+
+/*! ./styles.module.less */
+
+/*! react */
+
+/*! ./styles.module.less */
+
+/*! @/models/terms */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @/assets/skins */
+
+/*! ./styles.module.less */
+
+/*! antd */
+
+/*! @ant-design/pro-components */
+
+/*! react/jsx-runtime */
+
+/*! numeral */
+
+/*! ../AurorianCard */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/router */
+
+/*! clsx */
+
+/*! @/models/aurorians */
+
+/*! ./assets/icon-message.svg */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! ./assets/icon-delete.svg */
+
+/*! @/containers/TermNotFound */
+
+/*! @/components/MyLayout/constants */
+
+/*! react */
+
+/*! @modern-js/runtime/router */
+
+/*! @/models/aurorians */
+
+/*! immer */
+
+/*! @/containers/TermChanger */
+
+/*! ./constants */
+
+/*! @ant-design/pro-components */
+
+/*! ../AurorianCard/constants */
+
+/*! @/models/terms */
+
+/*! antd */
+
+/*! antd */
