@@ -1,0 +1,151 @@
+/*! @ant-design/pro-components */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! numeral */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! @modern-js/runtime/router */
+
+/*! react */
+
+/*! react */
+
+/*! ../AuroriansTeam */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! @modern-js/runtime/model */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! @modern-js/runtime/router */
+
+/*! @/models/aurorians */
+
+/*! immer */
+
+/*! @/models/terms */
+
+/*! @ant-design/pro-components */
+
+/*! ../AurorianCard */
+
+/*! @/models/terms */
+
+/*! antd */
+
+/*! ./styles.module.less */
+
+/*! @/components/MyLayout/constants */
+
+/*! @/models/aurorians */
+
+/*! immer */
+
+/*! @/containers/TermNotFound */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! dayjs */
+
+/*! @modern-js/runtime/router */
+
+/*! ahooks */
+
+/*! ./styles.module.less */
+
+/*! react */
+
+/*! @/features/backtrack/calculate-scenarios-async */
+
+/*! react/jsx-runtime */
+
+/*! ./styles.module.less */
+
+/*! @modern-js/runtime/model */
+
+/*! @/assets/skins */
+
+/*! ./styles.module.less */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! react */
+
+/*! @ant-design/pro-components */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! ../AurorianCard */
+
+/*! clsx */
+
+/*! @/models/aurorians */
+
+/*! @/containers/CopilotSolution */
+
+/*! ../CopilotsTable/columns */
+
+/*! ./assets/icon-message.svg */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/router */
+
+/*! antd */
+
+/*! @/components/SolutionScenarioCard */
+
+/*! ./assets/icon-delete.svg */
+
+/*! ahooks */
+
+/*! @/components/ExcludeAurorianFormList */
+
+/*! @modern-js/runtime/model */
+
+/*! ../CopilotsTable */
+
+/*! @/components/MyLayout/constants */
+
+/*! react/jsx-runtime */
+
+/*! ./constants */
+
+/*! ../AurorianCard/constants */
+
+/*! @/models/terms */
+
+/*! @/containers/TermChanger */
+
+/*! antd */
+
+/*! antd */
+
+/*! @ant-design/pro-components */
+
+/*! ./columns */
