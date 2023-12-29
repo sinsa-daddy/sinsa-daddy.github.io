@@ -14,4 +14,4 @@
 
 /*! @/assets/docs/qun.webp */
 
-/*! @/components/MyLayout/constants */
+/*! @/views/GlobalLayout/constants */

@@ -1,5 +1,25 @@
 /*! @modern-js/runtime/router */
 
+/*! lodash-es */
+
+/*! @ant-design/pro-components */
+
+/*! antd */
+
+/*! dayjs */
+
+/*! @modern-js/runtime/model */
+
+/*! ./constants */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @/models/terms */
+
+/*! @sinsa/schema */
+
 /*! @/models/aurorians */
 
 /*! @modern-js/runtime/model */
@@ -16,8 +36,6 @@
 
 /*! antd */
 
-/*! ../MyLayout/constants */
-
 /*! ./utils/toInputRemoteCopilot */
 
 /*! antd */
@@ -26,11 +44,15 @@
 
 /*! ../../AurorianCard/constants */
 
-/*! react/jsx-runtime */
+/*! react */
+
+/*! @/views/GlobalLayout/constants */
 
 /*! react/jsx-runtime */
 
 /*! @/assets/skins */
+
+/*! react/jsx-runtime */
 
 /*! @/components/AurorianCard/constants */
 
@@ -38,50 +60,28 @@
 
 /*! @modern-js/runtime/model */
 
+/*! react/jsx-runtime */
+
 /*! @ant-design/pro-components */
 
 /*! @/components/UploadForm */
 
 /*! clsx */
 
+/*! antd */
+
 /*! ./styles.module.less */
 
 /*! ./CopilotSelector */
 
-/*! ./constants */
+/*! ahooks */
 
 /*! react */
 
 /*! @/models/aurorians */
-
-/*! react */
 
 /*! antd */
 
 /*! ahooks */
 
 /*! immer */
-
-/*! lodash-es */
-
-/*! react/jsx-runtime */
-
-/*! @ant-design/pro-components */
-
-/*! antd */
-
-/*! antd */
-
-/*! dayjs */
-
-/*! ahooks */
-
-/*! @modern-js/runtime/model */
-
-/*! react */
-
-/*! react/jsx-runtime */
-
-/*! @/models/terms */
-
-/*! @sinsa/schema */

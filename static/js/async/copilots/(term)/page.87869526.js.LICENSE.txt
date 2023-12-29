@@ -4,15 +4,15 @@
 
 /*! @modern-js/runtime/model */
 
+/*! @/containers/TermNotFound */
+
 /*! react */
+
+/*! @/views/GlobalLayout/constants */
 
 /*! ./constants */
 
-/*! react */
-
 /*! @/models/terms */
-
-/*! @ant-design/pro-components */
 
 /*! @ant-design/pro-components */
 
@@ -22,11 +22,9 @@
 
 /*! antd */
 
-/*! @/components/MyLayout/constants */
+/*! react */
 
-/*! @/components/MyLayout/constants */
-
-/*! @modern-js/runtime/model */
+/*! @ant-design/pro-components */
 
 /*! react */
 
@@ -38,35 +36,37 @@
 
 /*! @modern-js/runtime/router */
 
+/*! @modern-js/runtime/model */
+
 /*! react */
 
-/*! react/jsx-runtime */
-
 /*! @modern-js/runtime/model */
 
 /*! react/jsx-runtime */
 
 /*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! @/models/terms */
 
 /*! @/models/aurorians */
 
 /*! @/components/CopilotsTable */
 
-/*! @modern-js/runtime/router */
-
-/*! @/models/terms */
-
 /*! ./styles.module.less */
 
 /*! react */
+
+/*! @/services/fetch */
 
 /*! ./styles.module.less */
 
 /*! react/jsx-runtime */
 
-/*! @/models/terms */
+/*! @modern-js/runtime/router */
 
-/*! ahooks */
+/*! @/models/terms */
 
 /*! @/assets/skins */
 
@@ -74,11 +74,11 @@
 
 /*! antd */
 
+/*! @/views/GlobalLayout/constants */
+
 /*! antd */
 
-/*! @/containers/TermChanger */
-
-/*! @/services/fetch */
+/*! ahooks */
 
 /*! ../AurorianCard */
 
@@ -86,6 +86,6 @@
 
 /*! clsx */
 
-/*! @modern-js/runtime/router */
+/*! @/containers/TermChanger */
 
-/*! @/containers/TermNotFound */
+/*! @modern-js/runtime/router */
