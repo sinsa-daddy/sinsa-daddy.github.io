@@ -1,0 +1,153 @@
+/*! ./columns */
+
+/*! antd */
+
+/*! @ant-design/pro-components */
+
+/*! react/jsx-runtime */
+
+/*! numeral */
+
+/*! @modern-js/runtime/router */
+
+/*! @ant-design/pro-components */
+
+/*! react */
+
+/*! react */
+
+/*! ../AuroriansTeam */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! @modern-js/runtime/model */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/router */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! @/models/aurorians */
+
+/*! immer */
+
+/*! @/models/terms */
+
+/*! @ant-design/pro-components */
+
+/*! @/models/terms */
+
+/*! ../AurorianCard */
+
+/*! antd */
+
+/*! ./styles.module.less */
+
+/*! @/components/MyLayout/constants */
+
+/*! @/models/aurorians */
+
+/*! immer */
+
+/*! @/containers/TermNotFound */
+
+/*! @/services/fetch */
+
+/*! react/jsx-runtime */
+
+/*! dayjs */
+
+/*! react */
+
+/*! @modern-js/runtime/router */
+
+/*! ./styles.module.less */
+
+/*! ahooks */
+
+/*! react */
+
+/*! ./styles.module.less */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/model */
+
+/*! @/assets/skins */
+
+/*! ./styles.module.less */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! antd */
+
+/*! @ant-design/pro-components */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! ../AurorianCard */
+
+/*! @/containers/CopilotSolution */
+
+/*! clsx */
+
+/*! @/services/solution-algorithm */
+
+/*! @/models/aurorians */
+
+/*! ./assets/icon-message.svg */
+
+/*! ahooks */
+
+/*! ../CopilotsTable/columns */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/router */
+
+/*! @/components/SolutionScenarioCard */
+
+/*! antd */
+
+/*! @modern-js/runtime/model */
+
+/*! ./assets/icon-delete.svg */
+
+/*! @/components/MyLayout/constants */
+
+/*! @/components/ExcludeAurorianFormList */
+
+/*! ../CopilotsTable */
+
+/*! react/jsx-runtime */
+
+/*! ./constants */
+
+/*! @/containers/TermChanger */
+
+/*! @/models/terms */
+
+/*! ../AurorianCard/constants */
+
+/*! antd */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
