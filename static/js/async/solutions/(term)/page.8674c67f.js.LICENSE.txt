@@ -1,0 +1,165 @@
+/*! react */
+
+/*! antd */
+
+/*! immer */
+
+/*! ./assets/icon-message.svg */
+
+/*! @/containers/CopilotSolution */
+
+/*! @ant-design/pro-components */
+
+/*! react */
+
+/*! ./constants */
+
+/*! immer */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! ../AuroriansTeam */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/model */
+
+/*! dayjs */
+
+/*! react */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @modern-js/runtime/model */
+
+/*! @/models/terms */
+
+/*! ../CopilotsTable/columns */
+
+/*! @modern-js/runtime/router */
+
+/*! antd */
+
+/*! @/models/aurorians */
+
+/*! ahooks */
+
+/*! @/services/fetch */
+
+/*! @/models/terms */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/router */
+
+/*! ./styles.module.less */
+
+/*! ../AurorianCard */
+
+/*! clsx */
+
+/*! ./columns */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! react/jsx-runtime */
+
+/*! @/components/RelativeTimeText */
+
+/*! @/containers/TermNotFound */
+
+/*! @/models/aurorians */
+
+/*! react */
+
+/*! @/models/terms */
+
+/*! @modern-js/runtime/router */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! @/models/aurorians */
+
+/*! antd */
+
+/*! react */
+
+/*! @ant-design/pro-components */
+
+/*! @modern-js/runtime/router */
+
+/*! ./styles.module.less */
+
+/*! ahooks */
+
+/*! ./assets/icon-delete.svg */
+
+/*! react/jsx-runtime */
+
+/*! ../AurorianCard/constants */
+
+/*! ../RelativeTimeText */
+
+/*! react */
+
+/*! antd */
+
+/*! @ant-design/pro-components */
+
+/*! @/services/solution-algorithm */
+
+/*! antd */
+
+/*! @modern-js/runtime/model */
+
+/*! @ant-design/pro-components */
+
+/*! @/components/SolutionScenarioCard */
+
+/*! @/components/ExcludeAurorianFormList */
+
+/*! ../CopilotsTable */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! ./styles.module.less */
+
+/*! ./styles.module.less */
+
+/*! @/assets/skins */
+
+/*! @ant-design/pro-components */
+
+/*! ../AurorianCard */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! numeral */
+
+/*! @modern-js/runtime/model */
+
+/*! @/containers/TermChanger */

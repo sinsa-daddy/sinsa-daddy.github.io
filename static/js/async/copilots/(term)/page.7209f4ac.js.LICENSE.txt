@@ -1,0 +1,105 @@
+/*! ./styles.module.less */
+
+/*! @/models/terms */
+
+/*! ./styles.module.less */
+
+/*! antd */
+
+/*! react */
+
+/*! @/assets/skins */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! antd */
+
+/*! react */
+
+/*! antd */
+
+/*! @ant-design/pro-components */
+
+/*! ./styles.module.less */
+
+/*! react/jsx-runtime */
+
+/*! ../AurorianCard */
+
+/*! @modern-js/runtime/router */
+
+/*! clsx */
+
+/*! @modern-js/runtime/model */
+
+/*! ./columns */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! ./assets/icon-message.svg */
+
+/*! react/jsx-runtime */
+
+/*! ./constants */
+
+/*! @/models/terms */
+
+/*! antd */
+
+/*! @ant-design/pro-components */
+
+/*! @/components/CopilotsTable */
+
+/*! @/services/fetch */
+
+/*! react */
+
+/*! ../AuroriansTeam */
+
+/*! react/jsx-runtime */
+
+/*! @/models/terms */
+
+/*! antd */
+
+/*! @modern-js/runtime/router */
+
+/*! ../RelativeTimeText */
+
+/*! react */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/model */
+
+/*! ahooks */
+
+/*! react/jsx-runtime */
+
+/*! @/containers/TermChanger */
+
+/*! @modern-js/runtime/router */
+
+/*! @/containers/TermNotFound */
+
+/*! @modern-js/runtime/model */
+
+/*! ./styles.module.less */
+
+/*! @/models/aurorians */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! dayjs */
+
+/*! react */

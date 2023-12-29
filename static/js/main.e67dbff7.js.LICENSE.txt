@@ -2,13 +2,13 @@
 
 /*! core-js/modules/esnext.composite-key.js */
 
+/*! @/models/terms */
+
 /*! core-js/modules/esnext.array.last-item.js */
 
 /*! core-js/modules/esnext.symbol.replace-all.js */
 
 /*! core-js/modules/web.immediate.js */
-
-/*! react */
 
 /*! core-js/modules/es.string.to-well-formed.js */
 
@@ -17,6 +17,8 @@
 /*! core-js/modules/web.url-search-params.size.js */
 
 /*! @modern-js/runtime/model */
+
+/*! @sinsa/schema */
 
 /*! core-js/modules/esnext.array.last-index.js */
 
@@ -196,6 +198,8 @@
 
 /*! core-js/modules/es.regexp.flags.js */
 
+/*! workbox-window */
+
 /*! react */
 
 /*! core-js/modules/es.typed-array.find-last.js */
@@ -228,13 +232,13 @@
 
 /*! @sinsa/schema */
 
-/*! @/models/terms */
-
 /*! core-js/modules/esnext.map.update-or-insert.js */
 
 /*! core-js/modules/esnext.map.emplace.js */
 
 /*! @modern-js/runtime/model */
+
+/*! lodash-es */
 
 /*! core-js/modules/es.array.to-spliced.js */
 
@@ -242,13 +246,13 @@
 
 /*! core-js/modules/esnext.data-view.set-uint8-clamped.js */
 
+/*! react */
+
 /*! core-js/modules/esnext.async-iterator.some.js */
 
 /*! core-js/modules/esnext.map.filter.js */
 
 /*! core-js/modules/esnext.set.symmetric-difference.js */
-
-/*! @sinsa/schema */
 
 /*! core-js/modules/es.typed-array.at.js */
 
@@ -499,8 +503,6 @@
 /*! core-js/modules/esnext.async-iterator.async-dispose.js */
 
 /*! core-js/modules/esnext.weak-map.of.js */
-
-/*! workbox-window */
 
 /*! core-js/modules/esnext.set.difference.js */
 
