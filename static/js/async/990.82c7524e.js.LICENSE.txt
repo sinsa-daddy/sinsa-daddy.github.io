@@ -1,18 +1,8 @@
-/*! lodash/throttle */
-
-/*! tslib */
-
-/*! ../../../useCreation */
-
-/*! react */
-
-/*! ../utils/cacheSubscribe */
-
-/*! ../utils */
-
 /*! ../../useCreation */
 
 /*! ../../useMemoizedFn */
+
+/*! react */
 
 /*! ./plugins/useCachePlugin */
 
@@ -28,13 +18,11 @@
 
 /*! react */
 
-/*! ./useRequest */
-
-/*! ../utils/depsAreSame */
-
 /*! tslib */
 
 /*! tslib */
+
+/*! ./useLocalStorageState */
 
 /*! ../utils/subscribeFocus */
 
@@ -52,15 +40,19 @@
 
 /*! ../utils/isBrowser */
 
+/*! react */
+
 /*! ../utils */
 
+/*! ../utils/depsEqual */
+
 /*! ../../../utils/isBrowser */
+
+/*! react */
 
 /*! ../createUseStorageState */
 
 /*! ../utils/subscribeReVisible */
-
-/*! ../useUpdateEffect */
 
 /*! ./plugins/useLoadingDelayPlugin */
 
@@ -70,11 +62,7 @@
 
 /*! ../utils/limit */
 
-/*! ./useLocalStorageState */
-
 /*! react */
-
-/*! ../useMemoizedFn */
 
 /*! tslib */
 
@@ -98,8 +86,6 @@
 
 /*! react */
 
-/*! ../utils */
-
 /*! react */
 
 /*! tslib */
@@ -114,13 +100,13 @@
 
 /*! react */
 
-/*! react */
-
 /*! ./isOnline */
 
-/*! tslib */
+/*! ../useUpdateEffect */
 
 /*! tslib */
+
+/*! lodash/isEqual */
 
 /*! tslib */
 
@@ -128,9 +114,15 @@
 
 /*! ../utils/isDev */
 
+/*! ../useMemoizedFn */
+
+/*! ./useDeepCompareEffect */
+
 /*! ../utils */
 
 /*! react */
+
+/*! ../utils */
 
 /*! ./plugins/useRefreshOnWindowFocusPlugin */
 
@@ -150,6 +142,10 @@
 
 /*! react */
 
+/*! react */
+
+/*! tslib */
+
 /*! ../../../useUpdateEffect */
 
 /*! ../useLatest */
@@ -165,3 +161,19 @@
 /*! ./useRequestImplement */
 
 /*! ./plugins/useThrottlePlugin */
+
+/*! ../createDeepCompareEffect */
+
+/*! ./useRequest */
+
+/*! ../utils/depsAreSame */
+
+/*! lodash/throttle */
+
+/*! tslib */
+
+/*! ../../../useCreation */
+
+/*! ../utils/cacheSubscribe */
+
+/*! ../utils */

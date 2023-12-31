@@ -1,0 +1,169 @@
+/*! clsx */
+
+/*! react */
+
+/*! antd */
+
+/*! @ant-design/pro-components */
+
+/*! react/jsx-runtime */
+
+/*! ../CopilotsTable */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! antd */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! ./assets/sorry.png */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! numeral */
+
+/*! react/jsx-runtime */
+
+/*! ../RelativeTimeText */
+
+/*! @modern-js/runtime/model */
+
+/*! @/containers/TermChanger */
+
+/*! ./columns */
+
+/*! @modern-js/runtime/router */
+
+/*! @/containers/CopilotSolution */
+
+/*! react/jsx-runtime */
+
+/*! immer */
+
+/*! @/models/aurorians */
+
+/*! @ant-design/pro-components */
+
+/*! react/jsx-runtime */
+
+/*! ./styles.module.less */
+
+/*! ./styles.module.less */
+
+/*! ./styles.module.less */
+
+/*! ./assets/icon-delete.svg */
+
+/*! @/models/aurorians */
+
+/*! @/assets/skins */
+
+/*! @modern-js/runtime/model */
+
+/*! antd */
+
+/*! ../AurorianCard/constants */
+
+/*! ../CopilotsTable/columns */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! react */
+
+/*! @ant-design/pro-components */
+
+/*! ./assets/icon-message.svg */
+
+/*! antd */
+
+/*! ./constants */
+
+/*! @modern-js/runtime/model */
+
+/*! ahooks */
+
+/*! react/jsx-runtime */
+
+/*! @/services/fetch */
+
+/*! @/models/terms */
+
+/*! @modern-js/runtime/model */
+
+/*! antd */
+
+/*! @/services/solution-algorithm */
+
+/*! ../AurorianCard */
+
+/*! react */
+
+/*! ../AuroriansTeam */
+
+/*! react/jsx-runtime */
+
+/*! @/components/SolutionScenarioCard */
+
+/*! @modern-js/runtime/router */
+
+/*! @/components/ExcludeAurorianFormList */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/model */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! react */
+
+/*! antd */
+
+/*! immer */
+
+/*! @/containers/TermNotFound */
+
+/*! @/components/RelativeTimeText */
+
+/*! @ant-design/pro-components */
+
+/*! @/models/terms */
+
+/*! @modern-js/runtime/router */
+
+/*! @/models/aurorians */
+
+/*! antd */
+
+/*! react */
+
+/*! @modern-js/runtime/router */
+
+/*! ahooks */
+
+/*! dayjs */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! ./styles.module.less */
+
+/*! antd */
+
+/*! ../AurorianCard */

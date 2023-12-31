@@ -1,16 +1,24 @@
-/*! ./styles.module.less */
-
-/*! react/jsx-runtime */
+/*! @ant-design/pro-components */
 
 /*! ./styles.module.less */
+
+/*! ./styles.module.less */
+
+/*! @/components/CopilotsTable */
+
+/*! @/services/fetch */
+
+/*! @/models/terms */
 
 /*! @/assets/skins */
 
 /*! react */
 
-/*! @/models/terms */
+/*! antd */
 
 /*! antd */
+
+/*! @modern-js/runtime/router */
 
 /*! ./styles.module.less */
 
@@ -18,75 +26,55 @@
 
 /*! clsx */
 
-/*! @ant-design/pro-components */
-
-/*! @/components/CopilotsTable */
-
-/*! @/services/fetch */
-
-/*! @modern-js/runtime/router */
-
-/*! @/models/terms */
-
-/*! react/jsx-runtime */
-
-/*! antd */
-
-/*! @/views/GlobalLayout/constants */
-
-/*! ./assets/icon-message.svg */
-
-/*! ./constants */
-
 /*! ahooks */
 
 /*! react/jsx-runtime */
 
+/*! @modern-js/runtime/router */
+
 /*! @/containers/TermChanger */
 
-/*! @modern-js/runtime/router */
+/*! react/jsx-runtime */
+
+/*! @/views/GlobalLayout/constants */
 
 /*! @/containers/TermNotFound */
 
-/*! antd */
+/*! @modern-js/runtime/model */
 
 /*! ./styles.module.less */
 
-/*! @modern-js/runtime/model */
+/*! ./assets/icon-message.svg */
 
 /*! @/views/GlobalLayout/constants */
+
+/*! ./constants */
+
+/*! dayjs */
+
+/*! react */
+
+/*! @/models/terms */
+
+/*! antd */
+
+/*! antd */
+
+/*! react */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @ant-design/pro-components */
 
 /*! react */
 
 /*! ../AuroriansTeam */
 
-/*! dayjs */
-
 /*! react/jsx-runtime */
-
-/*! react */
-
-/*! ../RelativeTimeText */
-
-/*! react */
-
-/*! @/models/terms */
-
-/*! react/jsx-runtime */
-
-/*! antd */
-
-/*! @modern-js/runtime/model */
-
-/*! react */
-
-/*! react */
-
-/*! react/jsx-runtime */
-
-/*! antd */
-
-/*! @ant-design/pro-components */
 
 /*! react/jsx-runtime */
 
@@ -94,12 +82,24 @@
 
 /*! @modern-js/runtime/model */
 
-/*! @/models/aurorians */
+/*! ../RelativeTimeText */
+
+/*! react */
+
+/*! react/jsx-runtime */
 
 /*! ./columns */
+
+/*! @modern-js/runtime/model */
 
 /*! @modern-js/runtime/model */
 
 /*! react/jsx-runtime */
 
 /*! antd */
+
+/*! react/jsx-runtime */
+
+/*! @/models/aurorians */
+
+/*! @/models/terms */
