@@ -8,8 +8,6 @@
 
 /*! ../AurorianCard */
 
-/*! @/assets/classes/2001.webp */
-
 /*! ./styles.module.less */
 
 /*! ../AuroriansTeam */
@@ -42,9 +40,7 @@
 
 /*! antd */
 
-/*! @/assets/elements/4.webp */
-
-/*! @sinsa/schema */
+/*! @/assets/elements/2.webp */
 
 /*! ./styles.module.less */
 
@@ -52,13 +48,13 @@
 
 /*! @/components/RelativeTimeText */
 
-/*! react */
-
 /*! ./styles.module.less */
 
 /*! ./constants */
 
 /*! ./constants */
+
+/*! @/assets/classes/2004.webp */
 
 /*! react */
 
@@ -82,11 +78,11 @@
 
 /*! react/jsx-runtime */
 
+/*! @/assets/classes/2003.webp */
+
 /*! ./styles.module.less */
 
 /*! react */
-
-/*! @/assets/elements/3.webp */
 
 /*! react/jsx-runtime */
 
@@ -100,9 +96,15 @@
 
 /*! @modern-js/runtime/model */
 
+/*! @/assets/elements/1.webp */
+
+/*! @/assets/skins */
+
 /*! @/views/GlobalLayout/constants */
 
 /*! @ant-design/pro-components */
+
+/*! @/assets/classes/2002.webp */
 
 /*! numeral */
 
@@ -134,6 +136,8 @@
 
 /*! react/jsx-runtime */
 
+/*! @/assets/classes/2001.webp */
+
 /*! react */
 
 /*! ./assets/icon-message.svg */
@@ -150,11 +154,13 @@
 
 /*! ../AurorianCard */
 
+/*! @/assets/elements/4.webp */
+
 /*! ./AdaptiveAurorianCard */
 
 /*! clsx */
 
-/*! @/assets/elements/2.webp */
+/*! @sinsa/schema */
 
 /*! react/jsx-runtime */
 
@@ -166,9 +172,9 @@
 
 /*! @modern-js/runtime/model */
 
-/*! @ant-design/pro-components */
+/*! react */
 
-/*! @/assets/classes/2004.webp */
+/*! @ant-design/pro-components */
 
 /*! ./styles.module.less */
 
@@ -200,17 +206,15 @@
 
 /*! @/components/ExcludeAurorianFormList */
 
-/*! @/assets/classes/2003.webp */
-
 /*! antd */
 
 /*! ahooks */
 
 /*! antd */
 
-/*! @/services/fetch */
+/*! @/assets/elements/3.webp */
 
-/*! @/assets/elements/1.webp */
+/*! @/services/fetch */
 
 /*! @ant-design/pro-components */
 
@@ -220,15 +224,11 @@
 
 /*! ./assets/icon-message.svg */
 
-/*! @/assets/skins */
-
 /*! antd */
 
 /*! react */
 
 /*! @modern-js/runtime/model */
-
-/*! @/assets/classes/2002.webp */
 
 /*! react/jsx-runtime */
 
