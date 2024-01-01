@@ -30,6 +30,8 @@
 
 /*! lodash-es */
 
+/*! @/assets/wrench.svg */
+
 /*! core-js/modules/esnext.map.merge.js */
 
 /*! core-js/modules/esnext.array-buffer.transfer-to-fixed-length.js */
@@ -38,9 +40,9 @@
 
 /*! core-js/modules/esnext.symbol.metadata-key.js */
 
-/*! core-js/modules/esnext.math.umulh.js */
-
 /*! react */
+
+/*! core-js/modules/esnext.math.umulh.js */
 
 /*! core-js/modules/esnext.data-view.get-uint8-clamped.js */
 
@@ -66,7 +68,7 @@
 
 /*! core-js/modules/esnext.map.from.js */
 
-/*! @/assets/wrench.svg */
+/*! @/components/ErrorBoundary */
 
 /*! core-js/modules/esnext.set.union.js */
 
@@ -74,11 +76,11 @@
 
 /*! core-js/modules/es.array.to-sorted.js */
 
+/*! @/assets/classes/2003.webp */
+
 /*! core-js/modules/esnext.promise.try.js */
 
 /*! @modern-js/runtime/router */
-
-/*! @/assets/classes/2003.webp */
 
 /*! react */
 
@@ -123,8 +125,6 @@
 /*! core-js/modules/esnext.weak-map.emplace.js */
 
 /*! react/jsx-runtime */
-
-/*! @/components/ErrorBoundary */
 
 /*! core-js/modules/esnext.map.update-or-insert.js */
 
@@ -184,11 +184,11 @@
 
 /*! core-js/modules/esnext.iterator.drop.js */
 
+/*! dayjs/plugin/relativeTime */
+
 /*! @/services/service-worker/use-actual-latest-term */
 
 /*! core-js/modules/esnext.typed-array.filter-out.js */
-
-/*! dayjs/plugin/relativeTime */
 
 /*! core-js/modules/esnext.reflect.get-metadata.js */
 
@@ -306,6 +306,10 @@
 
 /*! react */
 
+/*! antd */
+
+/*! @/models/terms */
+
 /*! @/services/fetch */
 
 /*! core-js/modules/esnext.math.seeded-prng.js */
@@ -318,8 +322,6 @@
 
 /*! @/assets/elements/2.webp */
 
-/*! @/models/terms */
-
 /*! core-js/modules/es.string.is-well-formed.js */
 
 /*! @sinsa/schema */
@@ -327,6 +329,8 @@
 /*! core-js/modules/esnext.map.find-key.js */
 
 /*! ./assets/icon-home.svg */
+
+/*! @/models/terms */
 
 /*! react */
 
@@ -339,8 +343,6 @@
 /*! core-js/modules/esnext.number.range.js */
 
 /*! @sinsa/schema */
-
-/*! @/models/terms */
 
 /*! core-js/modules/es.object.has-own.js */
 
@@ -358,9 +360,9 @@
 
 /*! @modern-js/runtime/model */
 
-/*! lodash-es */
-
 /*! @/services/service-worker */
+
+/*! lodash-es */
 
 /*! core-js/modules/es.array.find-last-index.js */
 
@@ -478,6 +480,8 @@
 
 /*! core-js/modules/esnext.map.find.js */
 
+/*! ./constants */
+
 /*! core-js/modules/esnext.set.intersection.v2.js */
 
 /*! core-js/modules/esnext.symbol.async-dispose.js */
@@ -517,8 +521,6 @@
 /*! core-js/modules/esnext.object.group-by.js */
 
 /*! core-js/modules/esnext.set.add-all.js */
-
-/*! ./constants */
 
 /*! @/assets/elements/3.webp */
 
