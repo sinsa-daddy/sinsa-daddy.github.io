@@ -20,13 +20,9 @@
 
 /*! react */
 
-/*! @/views/GlobalLayout/constants */
-
-/*! @/components/RelativeTimeText */
+/*! @/models/terms */
 
 /*! @/assets/skins */
-
-/*! @/containers/TermNotFound */
 
 /*! react/jsx-runtime */
 
@@ -34,17 +30,21 @@
 
 /*! ./styles.module.less */
 
-/*! @/models/terms */
-
-/*! @modern-js/runtime/router */
+/*! ahooks */
 
 /*! antd */
 
-/*! antd */
-
-/*! @/assets/elements/2.webp */
+/*! @/assets/elements/3.webp */
 
 /*! react */
+
+/*! @/services/fetch */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! @modern-js/runtime/model */
 
 /*! antd */
 
@@ -52,21 +52,17 @@
 
 /*! ./AdaptiveAuroriansTeam */
 
-/*! @modern-js/runtime/router */
-
 /*! react/jsx-runtime */
 
 /*! ./constants */
 
-/*! react/jsx-runtime */
-
-/*! @/assets/classes/2004.webp */
-
-/*! react */
+/*! @modern-js/runtime/router */
 
 /*! react/jsx-runtime */
 
-/*! @ant-design/pro-components */
+/*! @/views/GlobalLayout/constants */
+
+/*! react/jsx-runtime */
 
 /*! ./styles.module.less */
 
@@ -74,13 +70,19 @@
 
 /*! react */
 
-/*! antd */
-
 /*! react/jsx-runtime */
 
-/*! @/assets/classes/2003.webp */
+/*! @/containers/TermNotFound */
 
 /*! @/models/aurorians */
+
+/*! @/models/terms */
+
+/*! @modern-js/runtime/router */
+
+/*! @/components/RelativeTimeText */
+
+/*! antd */
 
 /*! ./styles.module.less */
 
@@ -90,31 +92,25 @@
 
 /*! ./assets/icon-delete.svg */
 
-/*! @/assets/elements/1.webp */
+/*! @/assets/elements/2.webp */
 
 /*! @/models/aurorians */
-
-/*! @/assets/skins */
 
 /*! @modern-js/runtime/model */
 
 /*! antd */
 
-/*! @/views/GlobalLayout/constants */
-
 /*! ../AurorianCard/constants */
 
-/*! @/assets/classes/2002.webp */
+/*! @modern-js/runtime/router */
 
 /*! react */
-
-/*! react/jsx-runtime */
 
 /*! @/models/aurorians */
 
 /*! lodash-es */
 
-/*! react/jsx-runtime */
+/*! @/assets/classes/2004.webp */
 
 /*! antd */
 
@@ -128,15 +124,13 @@
 
 /*! react */
 
-/*! @modern-js/runtime/model */
-
-/*! @/containers/TermChanger */
-
-/*! @/assets/classes/2001.webp */
+/*! react */
 
 /*! react */
 
 /*! react/jsx-runtime */
+
+/*! antd */
 
 /*! react */
 
@@ -146,6 +140,8 @@
 
 /*! react/jsx-runtime */
 
+/*! @ant-design/pro-components */
+
 /*! @/components/RelativeTimeText */
 
 /*! ../RelativeTimeText */
@@ -154,7 +150,7 @@
 
 /*! ./columns */
 
-/*! @/containers/CopilotSolution */
+/*! @/assets/classes/2003.webp */
 
 /*! immer */
 
@@ -164,8 +160,6 @@
 
 /*! numeral */
 
-/*! @/assets/elements/4.webp */
-
 /*! clsx */
 
 /*! clsx */
@@ -176,25 +170,35 @@
 
 /*! antd */
 
-/*! @sinsa/schema */
+/*! @/assets/elements/1.webp */
+
+/*! @/assets/skins */
+
+/*! @/views/GlobalLayout/constants */
 
 /*! ./hooks/use-lazy-image */
-
-/*! react/jsx-runtime */
 
 /*! framer-motion */
 
 /*! react/jsx-runtime */
 
-/*! react */
+/*! @/assets/classes/2002.webp */
+
+/*! react/jsx-runtime */
 
 /*! ./assets/sorry.png */
 
 /*! @ant-design/pro-components */
 
-/*! @modern-js/runtime/model */
+/*! react/jsx-runtime */
 
 /*! @ant-design/pro-components */
+
+/*! @/assets/classes/2001.webp */
+
+/*! @modern-js/runtime/model */
+
+/*! @/containers/TermChanger */
 
 /*! antd */
 
@@ -202,40 +206,36 @@
 
 /*! ./AdaptiveAurorianCard */
 
-/*! @/models/terms */
+/*! @/containers/CopilotSolution */
 
 /*! ./constants */
 
 /*! lodash-es */
 
-/*! ahooks */
+/*! @/assets/elements/4.webp */
 
-/*! @/assets/elements/3.webp */
-
-/*! @/services/fetch */
+/*! @sinsa/schema */
 
 /*! ./assets/icon-message.svg */
-
-/*! @/models/terms */
 
 /*! ./CopilotBlock */
 
 /*! ./assets/icon-message.svg */
 
-/*! @modern-js/runtime/model */
-
-/*! antd */
-
 /*! dayjs */
 
 /*! react */
+
+/*! react/jsx-runtime */
 
 /*! @/services/solution-algorithm */
 
 /*! antd */
 
+/*! react */
+
 /*! @/models/aurorians */
 
-/*! @modern-js/runtime/router */
+/*! @modern-js/runtime/model */
 
 /*! ../CopilotsTable */
