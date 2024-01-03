@@ -1,12 +1,14 @@
 /*! ./styles.module.less */
 
+/*! dayjs */
+
 /*! ../AuroriansTeam */
+
+/*! react */
 
 /*! ./styles.module.less */
 
-/*! @/views/GlobalLayout/constants */
-
-/*! dayjs */
+/*! @/models/terms */
 
 /*! @/assets/skins */
 
@@ -14,90 +16,88 @@
 
 /*! react */
 
-/*! react */
+/*! antd */
 
 /*! ./columns */
 
-/*! ../AurorianCard */
+/*! react */
 
 /*! antd */
 
-/*! @/models/terms */
+/*! ../AurorianCard */
+
+/*! @ant-design/pro-components */
 
 /*! antd */
 
 /*! clsx */
 
-/*! react */
-
-/*! antd */
-
-/*! @ant-design/pro-components */
-
 /*! react/jsx-runtime */
 
 /*! @modern-js/runtime/router */
 
 /*! @modern-js/runtime/model */
 
-/*! ./constants */
-
 /*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! ./constants */
 
 /*! react/jsx-runtime */
 
 /*! @ant-design/pro-components */
 
-/*! react/jsx-runtime */
-
-/*! antd */
-
-/*! antd */
-
 /*! @/models/terms */
+
+/*! antd */
+
+/*! antd */
 
 /*! ./styles.module.less */
 
 /*! react */
 
-/*! react/jsx-runtime */
-
 /*! @/components/CopilotsTable */
-
-/*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
 
 /*! @/services/fetch */
 
-/*! @modern-js/runtime/model */
-
-/*! ./assets/icon-message.svg */
+/*! @modern-js/runtime/router */
 
 /*! @/models/terms */
-
-/*! @modern-js/runtime/router */
 
 /*! @/views/GlobalLayout/constants */
 
 /*! antd */
 
-/*! ahooks */
+/*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
 
-/*! @/models/aurorians */
+/*! @modern-js/runtime/model */
+
+/*! ./assets/icon-message.svg */
+
+/*! ahooks */
+
+/*! react/jsx-runtime */
 
 /*! @/containers/TermChanger */
 
 /*! @modern-js/runtime/router */
 
-/*! react */
-
-/*! react/jsx-runtime */
+/*! @/models/aurorians */
 
 /*! @/containers/TermNotFound */
 
 /*! @modern-js/runtime/model */
 
 /*! ./styles.module.less */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @/views/GlobalLayout/constants */

@@ -1,136 +1,118 @@
-/*! @modern-js/runtime/model */
-
-/*! numeral */
-
-/*! @/containers/TermChanger */
-
-/*! @/components/ExcludeAurorianFormList */
-
-/*! @/assets/classes/2001.webp */
-
 /*! react */
-
-/*! clsx */
 
 /*! @ant-design/pro-components */
 
-/*! antd */
+/*! @/containers/CopilotSolution */
 
 /*! ./styles.module.less */
 
 /*! ../AuroriansTeam */
 
-/*! ./styles.module.less */
-
-/*! @ant-design/pro-components */
-
-/*! react */
-
-/*! @/containers/CopilotSolution */
-
-/*! @/assets/skins */
-
 /*! react/jsx-runtime */
 
 /*! @/assets/elements/4.webp */
 
+/*! ./styles.module.less */
+
+/*! react */
+
 /*! antd */
 
 /*! ./styles.module.less */
 
+/*! @/assets/skins */
+
 /*! @sinsa/schema */
 
-/*! antd */
-
 /*! react */
+
+/*! antd */
 
 /*! react/jsx-runtime */
 
 /*! antd */
 
-/*! ahooks */
-
 /*! ./AdaptiveAuroriansTeam */
+
+/*! ahooks */
 
 /*! react */
 
 /*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
 
 /*! ./constants */
 
-/*! react/jsx-runtime */
-
 /*! @/models/terms */
 
 /*! react/jsx-runtime */
 
 /*! ./styles.module.less */
-
-/*! ./styles.module.less */
-
-/*! react */
-
-/*! react/jsx-runtime */
 
 /*! ahooks */
 
 /*! @/models/aurorians */
 
+/*! ./styles.module.less */
+
 /*! @/services/fetch */
 
-/*! @/assets/elements/3.webp */
-
-/*! @/models/terms */
+/*! react */
 
 /*! ./styles.module.less */
 
 /*! react/jsx-runtime */
 
-/*! antd */
-
-/*! react/jsx-runtime */
+/*! @/models/terms */
 
 /*! ./assets/icon-delete.svg */
+
+/*! antd */
 
 /*! @/models/aurorians */
 
 /*! @modern-js/runtime/model */
 
-/*! @modern-js/runtime/model */
+/*! @/assets/elements/3.webp */
 
 /*! antd */
 
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
 /*! ../AurorianCard/constants */
+
+/*! @modern-js/runtime/model */
 
 /*! react */
 
 /*! @modern-js/runtime/router */
 
-/*! @/models/aurorians */
-
 /*! lodash-es */
 
 /*! antd */
 
-/*! react */
-
-/*! react/jsx-runtime */
+/*! @/models/aurorians */
 
 /*! ./styles.module.less */
 
-/*! @ant-design/pro-components */
-
 /*! react */
 
-/*! @/views/GlobalLayout/constants */
+/*! @ant-design/pro-components */
 
-/*! @/components/RelativeTimeText */
+/*! @/views/GlobalLayout/constants */
 
 /*! react */
 
 /*! @/containers/TermNotFound */
+
+/*! @/components/RelativeTimeText */
+
+/*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
 
@@ -138,19 +120,17 @@
 
 /*! @modern-js/runtime/model */
 
-/*! @/components/SolutionCard */
-
 /*! react/jsx-runtime */
 
 /*! @/components/RelativeTimeText */
 
-/*! ../RelativeTimeText */
+/*! @/components/SolutionCard */
+
+/*! react */
 
 /*! @/models/terms */
 
 /*! ./styles.module.less */
-
-/*! ./columns */
 
 /*! antd */
 
@@ -158,25 +138,29 @@
 
 /*! @/assets/elements/2.webp */
 
-/*! immer */
+/*! ../RelativeTimeText */
 
-/*! ../AurorianCard */
+/*! immer */
 
 /*! @modern-js/runtime/model */
 
 /*! numeral */
 
-/*! clsx */
+/*! ./columns */
 
 /*! clsx */
 
 /*! ../AurorianCard */
 
-/*! @modern-js/runtime/model */
-
 /*! antd */
 
+/*! ../AurorianCard */
+
+/*! @modern-js/runtime/model */
+
 /*! @modern-js/runtime/router */
+
+/*! clsx */
 
 /*! ./hooks/use-lazy-image */
 
@@ -188,8 +172,6 @@
 
 /*! ./assets/sorry.png */
 
-/*! @ant-design/pro-components */
-
 /*! react */
 
 /*! @ant-design/pro-components */
@@ -198,13 +180,15 @@
 
 /*! @ant-design/pro-components */
 
-/*! antd */
+/*! @ant-design/pro-components */
 
-/*! antd */
+/*! ./AdaptiveAurorianCard */
 
 /*! @/assets/classes/2003.webp */
 
-/*! ./AdaptiveAurorianCard */
+/*! antd */
+
+/*! antd */
 
 /*! ./constants */
 
@@ -218,8 +202,6 @@
 
 /*! @/assets/classes/2002.webp */
 
-/*! ./assets/icon-message.svg */
-
 /*! ./CopilotBlock */
 
 /*! ./assets/icon-message.svg */
@@ -227,6 +209,8 @@
 /*! dayjs */
 
 /*! react */
+
+/*! ./assets/icon-message.svg */
 
 /*! react/jsx-runtime */
 
@@ -239,3 +223,19 @@
 /*! @/models/aurorians */
 
 /*! ../CopilotsTable */
+
+/*! numeral */
+
+/*! @modern-js/runtime/model */
+
+/*! @/components/ExcludeAurorianFormList */
+
+/*! @/containers/TermChanger */
+
+/*! @/assets/classes/2001.webp */
+
+/*! clsx */
+
+/*! @ant-design/pro-components */
+
+/*! antd */
