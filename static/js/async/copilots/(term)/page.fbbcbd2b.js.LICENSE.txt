@@ -1,0 +1,103 @@
+/*! ./styles.module.less */
+
+/*! ../AuroriansTeam */
+
+/*! ./styles.module.less */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! dayjs */
+
+/*! @/assets/skins */
+
+/*! ../RelativeTimeText */
+
+/*! react */
+
+/*! react */
+
+/*! ./columns */
+
+/*! ../AurorianCard */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! antd */
+
+/*! clsx */
+
+/*! react */
+
+/*! antd */
+
+/*! @ant-design/pro-components */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/router */
+
+/*! @modern-js/runtime/model */
+
+/*! ./constants */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! ./styles.module.less */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @/components/CopilotsTable */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @/services/fetch */
+
+/*! @modern-js/runtime/model */
+
+/*! ./assets/icon-message.svg */
+
+/*! @/models/terms */
+
+/*! @modern-js/runtime/router */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! antd */
+
+/*! ahooks */
+
+/*! react/jsx-runtime */
+
+/*! @/models/aurorians */
+
+/*! @/containers/TermChanger */
+
+/*! @modern-js/runtime/router */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @/containers/TermNotFound */
+
+/*! @modern-js/runtime/model */
+
+/*! ./styles.module.less */
