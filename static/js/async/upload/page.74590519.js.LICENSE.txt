@@ -1,0 +1,141 @@
+/*! @modern-js/runtime/router */
+
+/*! @/models/aurorians */
+
+/*! ./CopilotSelector */
+
+/*! @/assets/elements/3.webp */
+
+/*! @ant-design/pro-components */
+
+/*! dayjs */
+
+/*! @/assets/elements/1.webp */
+
+/*! antd */
+
+/*! antd */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! @/assets/skins */
+
+/*! ../LarkLoginCard/constants */
+
+/*! @modern-js/runtime/model */
+
+/*! @/components/LarkLoginCard */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! @/assets/classes/2002.webp */
+
+/*! ./constants */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @sinsa/schema */
+
+/*! @sinsa/schema */
+
+/*! ./constants */
+
+/*! @ant-design/pro-components */
+
+/*! @modern-js/runtime/model */
+
+/*! @/components/UploadForm */
+
+/*! @/assets/classes/2001.webp */
+
+/*! @/models/aurorians */
+
+/*! @sinsa/schema */
+
+/*! antd */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! numeral */
+
+/*! react/jsx-runtime */
+
+/*! @/assets/elements/4.webp */
+
+/*! @/assets/elements/2.webp */
+
+/*! ./styles.module.less */
+
+/*! clsx */
+
+/*! @sinsa/schema */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! ./styles.module.less */
+
+/*! @/models/aurorians */
+
+/*! react */
+
+/*! @ant-design/pro-components */
+
+/*! ./styles.module.less */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @/components/UploadForm/AurorianTallCard */
+
+/*! ./styles.module.less */
+
+/*! ./utils/toInputRemoteCopilot */
+
+/*! @/assets/classes/2004.webp */
+
+/*! antd */
+
+/*! @modern-js/runtime/model */
+
+/*! ../../AurorianCard/constants */
+
+/*! lodash-es */
+
+/*! ahooks */
+
+/*! immer */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! lodash-es */
+
+/*! ./hooks/use-lazy-image */
+
+/*! antd */
+
+/*! @/models/aurorians */
+
+/*! framer-motion */
+
+/*! ahooks */
+
+/*! @/assets/classes/2003.webp */
+
+/*! lodash-es */
+
+/*! @/components/AdaptiveAurorianCard */
