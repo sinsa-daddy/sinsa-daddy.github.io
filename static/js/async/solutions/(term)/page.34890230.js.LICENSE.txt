@@ -1,44 +1,18 @@
-/*! ./constants */
-
 /*! react */
-
-/*! ./styles.module.less */
-
-/*! ./constants */
-
-/*! antd */
-
-/*! ahooks */
-
-/*! react */
-
-/*! @/assets/elements/3.webp */
-
-/*! @/services/fetch */
-
-/*! react/jsx-runtime */
-
-/*! @/models/terms */
-
-/*! antd */
-
-/*! @modern-js/runtime/model */
-
-/*! @/models/aurorians */
-
-/*! ./styles.module.less */
 
 /*! react */
 
 /*! react/jsx-runtime */
 
 /*! react */
+
+/*! ./assets/icon-delete.svg */
 
 /*! @modern-js/runtime/router */
 
-/*! clsx */
+/*! ./hooks/use-lazy-image */
 
-/*! ./assets/icon-delete.svg */
+/*! framer-motion */
 
 /*! lodash-es */
 
@@ -46,7 +20,7 @@
 
 /*! react/jsx-runtime */
 
-/*! @ant-design/pro-components */
+/*! react */
 
 /*! ../AurorianCard/constants */
 
@@ -56,21 +30,19 @@
 
 /*! @/views/GlobalLayout/constants */
 
-/*! ./styles.module.less */
+/*! @/components/RelativeTimeText */
 
 /*! @/containers/TermNotFound */
 
 /*! react/jsx-runtime */
 
-/*! @/components/RelativeTimeText */
-
 /*! @/components/SolutionCard */
 
 /*! @/components/RelativeTimeText */
 
-/*! @/models/aurorians */
-
 /*! @/models/terms */
+
+/*! @/models/aurorians */
 
 /*! @modern-js/runtime/router */
 
@@ -84,15 +56,17 @@
 
 /*! react */
 
-/*! react/jsx-runtime */
+/*! immer */
 
-/*! numeral */
+/*! react/jsx-runtime */
 
 /*! @modern-js/runtime/model */
 
-/*! immer */
-
 /*! clsx */
+
+/*! numeral */
+
+/*! ./constants */
 
 /*! @modern-js/runtime/model */
 
@@ -126,15 +100,13 @@
 
 /*! @ant-design/pro-components */
 
+/*! clsx */
+
 /*! @/assets/classes/2003.webp */
-
-/*! @/models/aurorians */
-
-/*! react */
 
 /*! @ant-design/pro-components */
 
-/*! antd */
+/*! @ant-design/pro-components */
 
 /*! lodash-es */
 
@@ -144,7 +116,7 @@
 
 /*! react/jsx-runtime */
 
-/*! @/views/GlobalLayout/constants */
+/*! ./styles.module.less */
 
 /*! antd */
 
@@ -152,11 +124,13 @@
 
 /*! @/components/AdaptiveAurorianCard */
 
-/*! @/assets/classes/2002.webp */
+/*! @/views/GlobalLayout/constants */
 
 /*! ./CopilotBlock */
 
 /*! ./assets/icon-message.svg */
+
+/*! @/assets/classes/2002.webp */
 
 /*! react/jsx-runtime */
 
@@ -166,6 +140,8 @@
 
 /*! react/jsx-runtime */
 
+/*! react */
+
 /*! @/models/aurorians */
 
 /*! ../CopilotsTable */
@@ -174,15 +150,11 @@
 
 /*! @/containers/TermChanger */
 
-/*! react */
-
 /*! numeral */
-
-/*! @/components/ExcludeAurorianFormList */
 
 /*! @/assets/classes/2001.webp */
 
-/*! react/jsx-runtime */
+/*! @/components/ExcludeAurorianFormList */
 
 /*! ./assets/icon-message.svg */
 
@@ -192,8 +164,6 @@
 
 /*! antd */
 
-/*! @modern-js/runtime/model */
-
 /*! @/containers/CopilotSolution */
 
 /*! @/assets/elements/4.webp */
@@ -201,10 +171,6 @@
 /*! antd */
 
 /*! @sinsa/schema */
-
-/*! ./hooks/use-lazy-image */
-
-/*! framer-motion */
 
 /*! ./styles.module.less */
 
@@ -226,9 +192,11 @@
 
 /*! @/assets/skins */
 
+/*! @/models/aurorians */
+
 /*! react */
 
-/*! @modern-js/runtime/model */
+/*! antd */
 
 /*! ./styles.module.less */
 
@@ -236,6 +204,38 @@
 
 /*! antd */
 
+/*! @modern-js/runtime/model */
+
 /*! antd */
 
 /*! @/models/terms */
+
+/*! ./styles.module.less */
+
+/*! ./constants */
+
+/*! antd */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! ahooks */
+
+/*! @/assets/elements/3.webp */
+
+/*! @/services/fetch */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! @modern-js/runtime/model */
+
+/*! @modern-js/runtime/model */
+
+/*! @/models/aurorians */
+
+/*! ./styles.module.less */
