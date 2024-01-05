@@ -1,22 +1,16 @@
 /*! @modern-js/runtime/router */
 
-/*! @/models/aurorians */
-
-/*! ./CopilotSelector */
+/*! @ant-design/pro-components */
 
 /*! @/assets/elements/3.webp */
 
-/*! @ant-design/pro-components */
-
 /*! dayjs */
+
+/*! @/models/aurorians */
 
 /*! @/assets/elements/1.webp */
 
 /*! antd */
-
-/*! antd */
-
-/*! ./utils/getDefaultBreakthrough */
 
 /*! @/assets/skins */
 
@@ -26,9 +20,17 @@
 
 /*! @/components/LarkLoginCard */
 
+/*! antd */
+
 /*! ./utils/getDefaultBreakthrough */
 
 /*! @/assets/classes/2002.webp */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! @sinsa/schema */
+
+/*! @sinsa/schema */
 
 /*! ./constants */
 
@@ -36,23 +38,19 @@
 
 /*! react/jsx-runtime */
 
-/*! @sinsa/schema */
-
-/*! @sinsa/schema */
-
-/*! ./constants */
-
 /*! @ant-design/pro-components */
-
-/*! @modern-js/runtime/model */
 
 /*! @/components/UploadForm */
 
+/*! ./constants */
+
 /*! @/assets/classes/2001.webp */
 
-/*! @/models/aurorians */
+/*! @modern-js/runtime/model */
 
 /*! @sinsa/schema */
+
+/*! @/models/aurorians */
 
 /*! antd */
 
@@ -62,21 +60,21 @@
 
 /*! numeral */
 
-/*! react/jsx-runtime */
-
 /*! @/assets/elements/4.webp */
+
+/*! react/jsx-runtime */
 
 /*! @/assets/elements/2.webp */
 
 /*! ./styles.module.less */
 
-/*! clsx */
-
 /*! @sinsa/schema */
 
-/*! @modern-js/runtime/model */
-
 /*! react/jsx-runtime */
+
+/*! clsx */
+
+/*! @modern-js/runtime/model */
 
 /*! react */
 
@@ -88,13 +86,15 @@
 
 /*! react */
 
+/*! react */
+
 /*! @ant-design/pro-components */
 
 /*! ./styles.module.less */
 
 /*! react/jsx-runtime */
 
-/*! react */
+/*! ./utils/toInputRemoteCopilot */
 
 /*! react/jsx-runtime */
 
@@ -102,9 +102,9 @@
 
 /*! ./styles.module.less */
 
-/*! ./utils/toInputRemoteCopilot */
-
 /*! @/assets/classes/2004.webp */
+
+/*! lodash-es */
 
 /*! antd */
 
@@ -112,30 +112,30 @@
 
 /*! ../../AurorianCard/constants */
 
-/*! lodash-es */
-
 /*! ahooks */
-
-/*! immer */
 
 /*! react/jsx-runtime */
 
+/*! immer */
+
 /*! react */
-
-/*! lodash-es */
-
-/*! ./hooks/use-lazy-image */
 
 /*! antd */
 
 /*! @/models/aurorians */
 
-/*! framer-motion */
-
 /*! ahooks */
-
-/*! @/assets/classes/2003.webp */
 
 /*! lodash-es */
 
+/*! @/assets/classes/2003.webp */
+
+/*! ./hooks/use-lazy-image */
+
+/*! lodash-es */
+
+/*! framer-motion */
+
 /*! @/components/AdaptiveAurorianCard */
+
+/*! ./CopilotSelector */
