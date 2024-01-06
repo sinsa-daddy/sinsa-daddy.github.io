@@ -112,6 +112,8 @@
 
 /*! @sinsa/schema */
 
+/*! @/models/terms */
+
 /*! core-js/modules/esnext.array.group-to-map.js */
 
 /*! core-js/modules/esnext.iterator.dispose.js */
@@ -131,6 +133,8 @@
 /*! lodash-es */
 
 /*! core-js/modules/esnext.object.iterate-keys.js */
+
+/*! @sinsa/schema */
 
 /*! antd */
 
@@ -169,8 +173,6 @@
 /*! core-js/modules/esnext.set.symmetric-difference.v2.js */
 
 /*! dayjs */
-
-/*! workbox-window */
 
 /*! core-js/modules/esnext.set.intersection.js */
 
@@ -217,8 +219,6 @@
 /*! core-js/modules/es.array.with.js */
 
 /*! core-js/modules/esnext.promise.with-resolvers.js */
-
-/*! react */
 
 /*! core-js/modules/esnext.string.code-points.js */
 
@@ -416,6 +416,8 @@
 
 /*! core-js/modules/esnext.composite-key.js */
 
+/*! workbox-window */
+
 /*! core-js/modules/esnext.array.last-item.js */
 
 /*! @/components/XFeatureBanner */
@@ -447,6 +449,8 @@
 /*! core-js/modules/esnext.map.delete-all.js */
 
 /*! @/plugins/framer-motion */
+
+/*! react */
 
 /*! core-js/modules/esnext.symbol.dispose.js */
 
@@ -506,8 +510,6 @@
 
 /*! core-js/modules/esnext.math.signbit.js */
 
-/*! @/models/terms */
-
 /*! @/services/service-worker */
 
 /*! lodash-es */
@@ -515,8 +517,6 @@
 /*! ./assets/icon-tips.svg */
 
 /*! core-js/modules/esnext.iterator.reduce.js */
-
-/*! @sinsa/schema */
 
 /*! core-js/modules/esnext.async-iterator.to-array.js */
 
