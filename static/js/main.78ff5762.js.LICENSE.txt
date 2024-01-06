@@ -112,8 +112,6 @@
 
 /*! @sinsa/schema */
 
-/*! @/models/terms */
-
 /*! core-js/modules/esnext.array.group-to-map.js */
 
 /*! core-js/modules/esnext.iterator.dispose.js */
@@ -133,8 +131,6 @@
 /*! lodash-es */
 
 /*! core-js/modules/esnext.object.iterate-keys.js */
-
-/*! @sinsa/schema */
 
 /*! antd */
 
@@ -236,6 +232,8 @@
 
 /*! lodash-es */
 
+/*! workbox-window */
+
 /*! core-js/modules/esnext.math.imulh.js */
 
 /*! core-js/modules/esnext.json.raw-json.js */
@@ -281,6 +279,8 @@
 /*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
+
+/*! react */
 
 /*! core-js/modules/esnext.math.seeded-prng.js */
 
@@ -416,8 +416,6 @@
 
 /*! core-js/modules/esnext.composite-key.js */
 
-/*! workbox-window */
-
 /*! core-js/modules/esnext.array.last-item.js */
 
 /*! @/components/XFeatureBanner */
@@ -449,8 +447,6 @@
 /*! core-js/modules/esnext.map.delete-all.js */
 
 /*! @/plugins/framer-motion */
-
-/*! react */
 
 /*! core-js/modules/esnext.symbol.dispose.js */
 
@@ -566,7 +562,11 @@
 
 /*! core-js/modules/esnext.reflect.define-metadata.js */
 
+/*! @/models/terms */
+
 /*! react */
+
+/*! @sinsa/schema */
 
 /*! core-js/modules/esnext.array-buffer.transfer.js */
 

@@ -1,0 +1,179 @@
+/*! clsx */
+
+/*! lodash-es */
+
+/*! @modern-js/runtime/router */
+
+/*! ahooks */
+
+/*! @/assets/classes/2004.webp */
+
+/*! @/services/http */
+
+/*! ./utils/preprocess */
+
+/*! @modern-js/runtime/model */
+
+/*! numeral */
+
+/*! react */
+
+/*! @ant-design/pro-components */
+
+/*! react/jsx-runtime */
+
+/*! @/models/terms */
+
+/*! @/services/http */
+
+/*! @/models/feishu */
+
+/*! ./styles.module.less */
+
+/*! ./hooks/usePostCopilot */
+
+/*! @modern-js/runtime/model */
+
+/*! @/assets/classes/2003.webp */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! ./constants */
+
+/*! react/jsx-runtime */
+
+/*! ./hooks/use-lazy-image */
+
+/*! framer-motion */
+
+/*! @/assets/elements/1.webp */
+
+/*! @/assets/elements/3.webp */
+
+/*! @/assets/skins */
+
+/*! lodash-es */
+
+/*! ../utils/toInputRemoteCopilot */
+
+/*! @/models/aurorians */
+
+/*! ./styles.module.less */
+
+/*! @/assets/classes/2002.webp */
+
+/*! react/jsx-runtime */
+
+/*! ./hooks/useVideoInfo */
+
+/*! react */
+
+/*! ./hooks/useCheckVideoExist */
+
+/*! antd */
+
+/*! lodash-es */
+
+/*! ahooks */
+
+/*! ../../AurorianCard/constants */
+
+/*! @/assets/classes/2001.webp */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! react/jsx-runtime */
+
+/*! ./styles.module.less */
+
+/*! @/models/feishu */
+
+/*! antd */
+
+/*! @/views/UploadView/LarkLoginCard */
+
+/*! react */
+
+/*! ahooks */
+
+/*! @/services/http */
+
+/*! ./constants */
+
+/*! @modern-js/runtime/model */
+
+/*! ./VideoIframe */
+
+/*! @modern-js/runtime/model */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! @/components/AdaptiveAurorianCard */
+
+/*! @ant-design/pro-components */
+
+/*! @sinsa/schema */
+
+/*! dayjs */
+
+/*! @/models/aurorians */
+
+/*! @/models/aurorians */
+
+/*! react/jsx-runtime */
+
+/*! @/models/aurorians */
+
+/*! antd */
+
+/*! @sinsa/schema */
+
+/*! ./styles.module.less */
+
+/*! ./CopilotSelector */
+
+/*! @modern-js/runtime/model */
+
+/*! antd */
+
+/*! @/assets/elements/2.webp */
+
+/*! ahooks */
+
+/*! antd */
+
+/*! react */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! @/components/UploadForm/AurorianTallCard */
+
+/*! @/components/UploadForm */
+
+/*! @sinsa/schema */
+
+/*! @/assets/elements/4.webp */
+
+/*! @sinsa/schema */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! @/services/http */
+
+/*! immer */
+
+/*! ./utils/rules */
+
+/*! react */
