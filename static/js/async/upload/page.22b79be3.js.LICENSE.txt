@@ -1,0 +1,225 @@
+/*! @/services/http */
+
+/*! @/assets/elements/1.webp */
+
+/*! ./utils/preprocess */
+
+/*! ../../AurorianCard/constants */
+
+/*! react */
+
+/*! @/assets/skins */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @sinsa/schema */
+
+/*! react/jsx-runtime */
+
+/*! @/assets/classes/2002.webp */
+
+/*! react/jsx-runtime */
+
+/*! ./hooks/usePostCopilot */
+
+/*! @modern-js/runtime/model */
+
+/*! ./CopilotSelector */
+
+/*! @modern-js/runtime/model */
+
+/*! zod */
+
+/*! @/models/aurorians */
+
+/*! ../utils */
+
+/*! @/models/feishu */
+
+/*! @sinsa/schema */
+
+/*! antd */
+
+/*! @modern-js/runtime/router */
+
+/*! @/views/UploadView/LarkLoginCard */
+
+/*! ./hooks/use-lazy-image */
+
+/*! @/assets/classes/2001.webp */
+
+/*! framer-motion */
+
+/*! ./schemas/SimpleLatestCopilot */
+
+/*! @/components/UploadForm/AurorianTallCard */
+
+/*! @/services/http */
+
+/*! @/services/http */
+
+/*! react */
+
+/*! ./useLatestVideo */
+
+/*! react/jsx-runtime */
+
+/*! ./hooks/useVideoInfo */
+
+/*! ./hooks/useCheckVideoExist */
+
+/*! immer */
+
+/*! @/assets/elements/4.webp */
+
+/*! lodash-es */
+
+/*! @modern-js/runtime/model */
+
+/*! numeral */
+
+/*! @sinsa/schema */
+
+/*! @/models/terms */
+
+/*! ./constants */
+
+/*! react */
+
+/*! ../utils/toInputRemoteCopilot */
+
+/*! lodash-es */
+
+/*! ./styles.module.less */
+
+/*! react */
+
+/*! zod */
+
+/*! react/jsx-runtime */
+
+/*! dayjs */
+
+/*! ../LatestVideoCard */
+
+/*! ./styles.module.less */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! react */
+
+/*! antd */
+
+/*! ./utils/rules */
+
+/*! clsx */
+
+/*! ahooks */
+
+/*! antd */
+
+/*! ./schemas/SearchVideo */
+
+/*! react/jsx-runtime */
+
+/*! @/assets/elements/3.webp */
+
+/*! ahooks */
+
+/*! @ant-design/pro-components */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! ahooks */
+
+/*! @/services/http */
+
+/*! ./styles.module.less */
+
+/*! @modern-js/runtime/model */
+
+/*! @modern-js/runtime/model */
+
+/*! @/components/AdaptiveAurorianCard */
+
+/*! @ant-design/pro-components */
+
+/*! dayjs */
+
+/*! @sinsa/schema */
+
+/*! ./styles.module.less */
+
+/*! @/models/aurorians */
+
+/*! ./styles.module.less */
+
+/*! @modern-js/runtime/model */
+
+/*! @/services/http */
+
+/*! antd */
+
+/*! react */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! react/jsx-runtime */
+
+/*! ahooks */
+
+/*! @/models/feishu */
+
+/*! @/models/terms */
+
+/*! @ant-design/pro-components */
+
+/*! @/components/UploadForm */
+
+/*! ./constants */
+
+/*! @/assets/elements/2.webp */
+
+/*! ./styles.module.less */
+
+/*! @/models/feishu */
+
+/*! @/models/aurorians */
+
+/*! ./VideoIframe */
+
+/*! @/models/aurorians */
+
+/*! @/assets/classes/2004.webp */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! antd */
+
+/*! dayjs */
+
+/*! react */
+
+/*! lodash-es */
+
+/*! antd */
+
+/*! react */
+
+/*! ahooks */
+
+/*! @/assets/classes/2003.webp */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! ../RelativeTimeText */
+
+/*! @modern-js/runtime/model */

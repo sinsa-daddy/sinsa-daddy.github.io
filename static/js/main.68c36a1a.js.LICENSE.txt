@@ -10,7 +10,11 @@
 
 /*! core-js/modules/web.dom-exception.stack.js */
 
+/*! @sinsa/schema */
+
 /*! core-js/modules/esnext.suppressed-error.constructor.js */
+
+/*! @/models/terms */
 
 /*! react */
 
@@ -30,9 +34,9 @@
 
 /*! core-js/modules/es.array.to-sorted.js */
 
-/*! core-js/modules/esnext.promise.try.js */
+/*! @sinsa/schema */
 
-/*! @/schemas/feishu-profile */
+/*! core-js/modules/esnext.promise.try.js */
 
 /*! core-js/modules/es.regexp.flags.js */
 
@@ -79,6 +83,8 @@
 /*! core-js/modules/es.array.to-spliced.js */
 
 /*! core-js/modules/esnext.iterator.filter.js */
+
+/*! axios */
 
 /*! @/assets/wrench.svg */
 
@@ -127,8 +133,6 @@
 /*! @modern-js/runtime/model */
 
 /*! react */
-
-/*! lodash-es */
 
 /*! core-js/modules/esnext.object.iterate-keys.js */
 
@@ -232,8 +236,6 @@
 
 /*! lodash-es */
 
-/*! workbox-window */
-
 /*! core-js/modules/esnext.math.imulh.js */
 
 /*! core-js/modules/esnext.json.raw-json.js */
@@ -280,8 +282,6 @@
 
 /*! react/jsx-runtime */
 
-/*! react */
-
 /*! core-js/modules/esnext.math.seeded-prng.js */
 
 /*! antd */
@@ -298,9 +298,9 @@
 
 /*! @/assets/classes/2004.webp */
 
-/*! core-js/modules/esnext.async-iterator.flat-map.js */
+/*! workbox-window */
 
-/*! @/schemas/bilibili-video-detail */
+/*! core-js/modules/esnext.async-iterator.flat-map.js */
 
 /*! core-js/modules/esnext.weak-map.from.js */
 
@@ -338,6 +338,8 @@
 
 /*! core-js/modules/esnext.iterator.every.js */
 
+/*! @/schemas/feishu-profile */
+
 /*! core-js/modules/esnext.set.union.v2.js */
 
 /*! core-js/modules/esnext.async-iterator.find.js */
@@ -358,11 +360,11 @@
 
 /*! @/assets/elements/1.webp */
 
-/*! @sinsa/schema */
-
 /*! core-js/modules/es.typed-array.sort.js */
 
 /*! @/assets/classes/2002.webp */
+
+/*! react */
 
 /*! core-js/modules/esnext.math.iaddh.js */
 
@@ -438,11 +440,11 @@
 
 /*! @/assets/elements/4.webp */
 
+/*! lodash-es */
+
 /*! core-js/modules/esnext.array.last-index.js */
 
 /*! core-js/modules/esnext.function.is-callable.js */
-
-/*! axios */
 
 /*! core-js/modules/esnext.map.delete-all.js */
 
@@ -562,11 +564,9 @@
 
 /*! core-js/modules/esnext.reflect.define-metadata.js */
 
-/*! @/models/terms */
-
 /*! react */
 
-/*! @sinsa/schema */
+/*! @/schemas/bilibili-video-detail */
 
 /*! core-js/modules/esnext.array-buffer.transfer.js */
 
