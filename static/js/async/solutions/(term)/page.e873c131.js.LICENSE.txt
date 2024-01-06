@@ -12,6 +12,8 @@
 
 /*! ./hooks/use-lazy-image */
 
+/*! @/assets/elements/3.webp */
+
 /*! framer-motion */
 
 /*! lodash-es */
@@ -29,8 +31,6 @@
 /*! react */
 
 /*! @/views/GlobalLayout/constants */
-
-/*! @/components/RelativeTimeText */
 
 /*! @/containers/TermNotFound */
 
@@ -51,8 +51,6 @@
 /*! @ant-design/pro-components */
 
 /*! antd */
-
-/*! @/assets/elements/2.webp */
 
 /*! react */
 
@@ -80,8 +78,6 @@
 
 /*! dayjs */
 
-/*! @/assets/classes/2004.webp */
-
 /*! ../AurorianCard */
 
 /*! react */
@@ -98,21 +94,21 @@
 
 /*! antd */
 
+/*! @/assets/elements/2.webp */
+
 /*! @ant-design/pro-components */
+
+/*! @/services/http */
 
 /*! clsx */
 
-/*! @/assets/classes/2003.webp */
+/*! @/assets/classes/2004.webp */
 
 /*! @ant-design/pro-components */
 
 /*! @ant-design/pro-components */
 
 /*! lodash-es */
-
-/*! @/assets/elements/1.webp */
-
-/*! @/assets/skins */
 
 /*! react/jsx-runtime */
 
@@ -124,15 +120,13 @@
 
 /*! @/components/AdaptiveAurorianCard */
 
-/*! @/views/GlobalLayout/constants */
-
 /*! ./CopilotBlock */
 
 /*! ./assets/icon-message.svg */
 
-/*! @/assets/classes/2002.webp */
-
 /*! react/jsx-runtime */
+
+/*! @/assets/classes/2003.webp */
 
 /*! react/jsx-runtime */
 
@@ -140,9 +134,13 @@
 
 /*! react/jsx-runtime */
 
+/*! @/components/RelativeTimeText */
+
 /*! react */
 
 /*! @/models/aurorians */
+
+/*! @/assets/elements/1.webp */
 
 /*! ../CopilotsTable */
 
@@ -152,7 +150,7 @@
 
 /*! numeral */
 
-/*! @/assets/classes/2001.webp */
+/*! @/assets/skins */
 
 /*! @/components/ExcludeAurorianFormList */
 
@@ -164,13 +162,13 @@
 
 /*! antd */
 
-/*! @/containers/CopilotSolution */
+/*! @/assets/classes/2002.webp */
 
-/*! @/assets/elements/4.webp */
+/*! @/containers/CopilotSolution */
 
 /*! antd */
 
-/*! @sinsa/schema */
+/*! @/assets/classes/2001.webp */
 
 /*! ./styles.module.less */
 
@@ -194,8 +192,6 @@
 
 /*! @/models/aurorians */
 
-/*! react */
-
 /*! antd */
 
 /*! ./styles.module.less */
@@ -206,9 +202,17 @@
 
 /*! @modern-js/runtime/model */
 
+/*! @sinsa/schema */
+
+/*! @/assets/elements/4.webp */
+
 /*! antd */
 
 /*! @/models/terms */
+
+/*! react */
+
+/*! @/views/GlobalLayout/constants */
 
 /*! ./styles.module.less */
 
@@ -221,10 +225,6 @@
 /*! react/jsx-runtime */
 
 /*! ahooks */
-
-/*! @/assets/elements/3.webp */
-
-/*! @/services/fetch */
 
 /*! react/jsx-runtime */
 

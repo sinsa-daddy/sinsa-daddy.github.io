@@ -50,9 +50,13 @@
 
 /*! @/models/terms */
 
+/*! @/services/http */
+
 /*! antd */
 
 /*! antd */
+
+/*! @/views/GlobalLayout/constants */
 
 /*! ./styles.module.less */
 
@@ -62,13 +66,9 @@
 
 /*! react/jsx-runtime */
 
-/*! @/services/fetch */
-
 /*! @modern-js/runtime/router */
 
 /*! @/models/terms */
-
-/*! @/views/GlobalLayout/constants */
 
 /*! antd */
 

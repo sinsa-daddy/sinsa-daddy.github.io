@@ -1,0 +1,151 @@
+/*! clsx */
+
+/*! ahooks */
+
+/*! lodash-es */
+
+/*! ./utils/toInputRemoteCopilot */
+
+/*! @/assets/elements/1.webp */
+
+/*! @/assets/elements/3.webp */
+
+/*! @/assets/skins */
+
+/*! @modern-js/runtime/model */
+
+/*! lodash-es */
+
+/*! react */
+
+/*! @ant-design/pro-components */
+
+/*! react/jsx-runtime */
+
+/*! @/assets/classes/2002.webp */
+
+/*! @ant-design/pro-components */
+
+/*! react/jsx-runtime */
+
+/*! dayjs */
+
+/*! ./styles.module.less */
+
+/*! @/models/aurorians */
+
+/*! @modern-js/runtime/model */
+
+/*! @modern-js/runtime/model */
+
+/*! lodash-es */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! @sinsa/schema */
+
+/*! ./CopilotSelector */
+
+/*! @/assets/classes/2001.webp */
+
+/*! ./hooks/use-lazy-image */
+
+/*! framer-motion */
+
+/*! antd */
+
+/*! @/views/UploadView/LarkLoginCard */
+
+/*! @/models/feishu */
+
+/*! react */
+
+/*! ./styles.module.less */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! antd */
+
+/*! @/assets/elements/2.webp */
+
+/*! @/assets/elements/4.webp */
+
+/*! @sinsa/schema */
+
+/*! @modern-js/runtime/model */
+
+/*! ahooks */
+
+/*! ../../AurorianCard/constants */
+
+/*! numeral */
+
+/*! @ant-design/pro-components */
+
+/*! @/components/UploadForm */
+
+/*! @sinsa/schema */
+
+/*! @sinsa/schema */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! ./constants */
+
+/*! react */
+
+/*! @/models/terms */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/model */
+
+/*! @/components/AdaptiveAurorianCard */
+
+/*! @modern-js/runtime/router */
+
+/*! @/models/aurorians */
+
+/*! @/models/aurorians */
+
+/*! @/models/aurorians */
+
+/*! @/services/http */
+
+/*! antd */
+
+/*! @/assets/classes/2004.webp */
+
+/*! ./styles.module.less */
+
+/*! antd */
+
+/*! ./styles.module.less */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! @/services/http */
+
+/*! @/models/feishu */
+
+/*! @/components/UploadForm/AurorianTallCard */
+
+/*! react */
+
+/*! @/assets/classes/2003.webp */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! immer */
+
+/*! ./constants */
+
+/*! antd */
