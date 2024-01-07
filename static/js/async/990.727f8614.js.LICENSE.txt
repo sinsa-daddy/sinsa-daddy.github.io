@@ -1,3 +1,29 @@
+/*! tslib */
+
+/*! react */
+
+/*! react */
+
+/*! ./isOnline */
+
+/*! tslib */
+
+/*! tslib */
+
+/*! react */
+
+/*! ../utils/isDev */
+
+/*! ../utils */
+
+/*! react */
+
+/*! ./plugins/useRefreshOnWindowFocusPlugin */
+
+/*! ../../../useUnmount */
+
+/*! ../../useUpdate */
+
 /*! ../../../useUnmount */
 
 /*! lodash/debounce */
@@ -14,11 +40,17 @@
 
 /*! ./src/useRequest */
 
+/*! ./useLocalStorageState */
+
+/*! ../useUpdateEffect */
+
 /*! react */
 
 /*! ../../../utils/isBrowser */
 
 /*! ../utils/isDev */
+
+/*! ../useMemoizedFn */
 
 /*! ./useRequestImplement */
 
@@ -42,31 +74,31 @@
 
 /*! ./plugins/useCachePlugin */
 
+/*! ../utils */
+
 /*! react */
 
 /*! ../utils/cachePromise */
 
 /*! ./Fetch */
 
+/*! react */
+
 /*! ./isDocumentVisible */
 
 /*! react */
 
-/*! ./useUpdateEffect */
-
-/*! ../useUpdateEffect */
+/*! ./useRequest */
 
 /*! ../utils/depsAreSame */
 
 /*! tslib */
 
-/*! ../createUpdateEffect */
-
-/*! ../useMemoizedFn */
-
 /*! tslib */
 
-/*! ./useLocalStorageState */
+/*! ../createUpdateEffect */
+
+/*! tslib */
 
 /*! ../utils/subscribeFocus */
 
@@ -77,8 +109,6 @@
 /*! ./isDocumentVisible */
 
 /*! ../utils/isDev */
-
-/*! ../utils */
 
 /*! ../../../useUpdateEffect */
 
@@ -92,19 +122,19 @@
 
 /*! ../createUseStorageState */
 
+/*! react */
+
 /*! ../utils/subscribeReVisible */
 
 /*! ./plugins/useLoadingDelayPlugin */
 
-/*! react */
-
-/*! react */
-
 /*! ../../useLatest */
 
-/*! tslib */
+/*! react */
 
 /*! ../utils/limit */
+
+/*! ./useMemoizedFn */
 
 /*! react */
 
@@ -124,8 +154,6 @@
 
 /*! ./plugins/useRetryPlugin */
 
-/*! ./useRequest */
-
 /*! react */
 
 /*! react */
@@ -139,33 +167,3 @@
 /*! ./plugins/useDebouncePlugin */
 
 /*! tslib */
-
-/*! tslib */
-
-/*! react */
-
-/*! react */
-
-/*! ./isOnline */
-
-/*! tslib */
-
-/*! react */
-
-/*! tslib */
-
-/*! react */
-
-/*! ../utils/isDev */
-
-/*! ../utils */
-
-/*! react */
-
-/*! ./useMemoizedFn */
-
-/*! ./plugins/useRefreshOnWindowFocusPlugin */
-
-/*! ../../../useUnmount */
-
-/*! ../../useUpdate */

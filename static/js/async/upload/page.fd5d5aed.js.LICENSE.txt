@@ -1,56 +1,14 @@
-/*! ../utils */
-
-/*! @/models/feishu */
-
-/*! @/services/http */
-
-/*! ./hooks/use-lazy-image */
-
-/*! react/jsx-runtime */
-
-/*! framer-motion */
-
-/*! ahooks */
-
-/*! ../LatestVideoCard */
-
-/*! ./styles.module.less */
-
-/*! @/models/terms */
-
-/*! ./useLatestVideo */
-
-/*! react */
-
-/*! antd */
-
-/*! ./utils/rules */
-
-/*! antd */
-
-/*! react/jsx-runtime */
-
-/*! @/assets/elements/3.webp */
-
-/*! @/models/aurorians */
-
-/*! react/jsx-runtime */
-
-/*! antd */
-
-/*! ahooks */
-
-/*! ./constants */
-
-/*! @modern-js/runtime/model */
-
 /*! @/components/AdaptiveAurorianCard */
 
 /*! @ant-design/pro-components */
 
 /*! react */
 
+/*! ./hooks/use-lazy-image */
+
 /*! dayjs */
+
+/*! framer-motion */
 
 /*! @/models/aurorians */
 
@@ -80,8 +38,6 @@
 
 /*! @/services/http */
 
-/*! clsx */
-
 /*! @ant-design/pro-components */
 
 /*! @/components/UploadForm */
@@ -92,15 +48,13 @@
 
 /*! @sinsa/schema */
 
-/*! @ant-design/pro-components */
-
 /*! react/jsx-runtime */
+
+/*! ./constants */
 
 /*! ./styles.module.less */
 
 /*! @/models/feishu */
-
-/*! ./styles.module.less */
 
 /*! ./VideoIframe */
 
@@ -120,9 +74,13 @@
 
 /*! react */
 
+/*! clsx */
+
 /*! @/assets/classes/2003.webp */
 
 /*! @/views/GlobalLayout/constants */
+
+/*! @ant-design/pro-components */
 
 /*! @/assets/elements/1.webp */
 
@@ -131,6 +89,8 @@
 /*! ../../AurorianCard/constants */
 
 /*! @/assets/skins */
+
+/*! ./styles.module.less */
 
 /*! antd */
 
@@ -152,11 +112,7 @@
 
 /*! zod */
 
-/*! @/models/aurorians */
-
 /*! zod */
-
-/*! antd */
 
 /*! @/models/aurorians */
 
@@ -200,13 +156,9 @@
 
 /*! lodash-es */
 
-/*! react */
-
 /*! @modern-js/runtime/model */
 
 /*! numeral */
-
-/*! react/jsx-runtime */
 
 /*! @sinsa/schema */
 
@@ -216,10 +168,58 @@
 
 /*! @modern-js/runtime/model */
 
-/*! @modern-js/runtime/model */
+/*! @/models/aurorians */
 
 /*! react */
 
 /*! @sinsa/schema */
 
+/*! antd */
+
 /*! ./styles.module.less */
+
+/*! ../utils */
+
+/*! @/models/feishu */
+
+/*! @/services/http */
+
+/*! react/jsx-runtime */
+
+/*! ahooks */
+
+/*! ../LatestVideoCard */
+
+/*! ./styles.module.less */
+
+/*! @/models/terms */
+
+/*! ./useLatestVideo */
+
+/*! react */
+
+/*! antd */
+
+/*! ./utils/rules */
+
+/*! react */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! @/assets/elements/3.webp */
+
+/*! react/jsx-runtime */
+
+/*! @/models/aurorians */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! ahooks */
+
+/*! @modern-js/runtime/model */
+
+/*! @modern-js/runtime/model */

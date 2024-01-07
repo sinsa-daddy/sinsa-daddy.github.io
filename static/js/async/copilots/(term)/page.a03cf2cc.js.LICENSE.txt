@@ -8,49 +8,31 @@
 
 /*! ./styles.module.less */
 
-/*! @/models/terms */
-
 /*! @/assets/skins */
 
 /*! ../RelativeTimeText */
 
 /*! react */
 
-/*! antd */
-
 /*! ./columns */
-
-/*! react */
 
 /*! antd */
 
 /*! ../AurorianCard */
 
-/*! @ant-design/pro-components */
-
 /*! antd */
 
 /*! clsx */
 
-/*! react/jsx-runtime */
-
 /*! @modern-js/runtime/router */
 
-/*! @modern-js/runtime/model */
-
-/*! @modern-js/runtime/model */
-
 /*! react/jsx-runtime */
+
+/*! ahooks */
 
 /*! ./constants */
 
-/*! react/jsx-runtime */
-
 /*! @ant-design/pro-components */
-
-/*! @/models/terms */
-
-/*! @/services/http */
 
 /*! antd */
 
@@ -60,19 +42,29 @@
 
 /*! ./styles.module.less */
 
-/*! react */
+/*! @/components/TermNotFound */
 
-/*! @/components/CopilotsTable */
+/*! react */
 
 /*! react/jsx-runtime */
 
-/*! @modern-js/runtime/router */
+/*! @/models/terms */
+
+/*! @/services/http */
+
+/*! @/models/terms */
 
 /*! @/models/terms */
 
 /*! antd */
 
+/*! @/views/GlobalLayout/constants */
+
+/*! antd */
+
 /*! react/jsx-runtime */
+
+/*! react */
 
 /*! react/jsx-runtime */
 
@@ -80,17 +72,23 @@
 
 /*! ./assets/icon-message.svg */
 
-/*! ahooks */
+/*! @ant-design/pro-components */
+
+/*! @/components/CopilotsTable */
 
 /*! react/jsx-runtime */
 
-/*! @/containers/TermChanger */
+/*! react/jsx-runtime */
 
 /*! @modern-js/runtime/router */
 
+/*! @modern-js/runtime/router */
+
+/*! @modern-js/runtime/model */
+
 /*! @/models/aurorians */
 
-/*! @/containers/TermNotFound */
+/*! @modern-js/runtime/model */
 
 /*! @modern-js/runtime/model */
 
@@ -100,4 +98,6 @@
 
 /*! react/jsx-runtime */
 
-/*! @/views/GlobalLayout/constants */
+/*! @/components/TermChanger */
+
+/*! react/jsx-runtime */
