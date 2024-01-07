@@ -144,13 +144,9 @@
 
 /*! ./SolutionListView */
 
-/*! immer */
-
 /*! antd */
 
 /*! lodash-es */
-
-/*! @sinsa/schema */
 
 /*! ./constants */
 
@@ -245,6 +241,8 @@
 /*! ../context */
 
 /*! @/assets/elements/2.webp */
+
+/*! immer */
 
 /*! @modern-js/runtime/model */
 
