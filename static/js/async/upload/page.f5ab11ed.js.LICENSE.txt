@@ -1,87 +1,3 @@
-/*! @/components/AdaptiveAurorianCard */
-
-/*! @ant-design/pro-components */
-
-/*! react */
-
-/*! ./hooks/use-lazy-image */
-
-/*! dayjs */
-
-/*! framer-motion */
-
-/*! @/models/aurorians */
-
-/*! ./styles.module.less */
-
-/*! lodash-es */
-
-/*! @modern-js/runtime/model */
-
-/*! dayjs */
-
-/*! antd */
-
-/*! react */
-
-/*! ./utils/getDefaultBreakthrough */
-
-/*! react/jsx-runtime */
-
-/*! @modern-js/runtime/model */
-
-/*! ahooks */
-
-/*! @modern-js/runtime/model */
-
-/*! @/models/feishu */
-
-/*! @/services/http */
-
-/*! @ant-design/pro-components */
-
-/*! @/components/UploadForm */
-
-/*! ./constants */
-
-/*! @/assets/elements/2.webp */
-
-/*! @sinsa/schema */
-
-/*! react/jsx-runtime */
-
-/*! ./constants */
-
-/*! ./styles.module.less */
-
-/*! @/models/feishu */
-
-/*! ./VideoIframe */
-
-/*! @/assets/classes/2004.webp */
-
-/*! ./styles.module.less */
-
-/*! ./utils/getDefaultBreakthrough */
-
-/*! ./schemas/SimpleLatestCopilot */
-
-/*! dayjs */
-
-/*! @/services/http */
-
-/*! react */
-
-/*! react */
-
-/*! clsx */
-
-/*! @/assets/classes/2003.webp */
-
-/*! @/views/GlobalLayout/constants */
-
-/*! @ant-design/pro-components */
-
 /*! @/assets/elements/1.webp */
 
 /*! ./utils/preprocess */
@@ -90,9 +6,11 @@
 
 /*! @/assets/skins */
 
-/*! ./styles.module.less */
+/*! ./hooks/use-lazy-image */
 
 /*! antd */
+
+/*! framer-motion */
 
 /*! react/jsx-runtime */
 
@@ -140,11 +58,13 @@
 
 /*! react/jsx-runtime */
 
-/*! ./schemas/SearchVideo */
+/*! ./constants */
 
 /*! ./hooks/useVideoInfo */
 
 /*! ./hooks/useCheckVideoExist */
+
+/*! ./schemas/SearchVideo */
 
 /*! ahooks */
 
@@ -156,37 +76,39 @@
 
 /*! lodash-es */
 
+/*! @/views/SolutionView/utils/without-exclude */
+
+/*! @/services/http */
+
 /*! @modern-js/runtime/model */
 
 /*! numeral */
 
 /*! @sinsa/schema */
 
-/*! @/services/http */
-
 /*! @/models/terms */
 
 /*! @modern-js/runtime/model */
-
-/*! @/models/aurorians */
 
 /*! react */
 
 /*! @sinsa/schema */
 
-/*! antd */
-
 /*! ./styles.module.less */
 
 /*! ../utils */
 
-/*! @/models/feishu */
+/*! clsx */
 
-/*! @/services/http */
+/*! @/models/feishu */
 
 /*! react/jsx-runtime */
 
+/*! @/services/http */
+
 /*! ahooks */
+
+/*! @ant-design/pro-components */
 
 /*! ../LatestVideoCard */
 
@@ -196,21 +118,19 @@
 
 /*! ./useLatestVideo */
 
+/*! ./styles.module.less */
+
 /*! react */
 
 /*! antd */
 
 /*! ./utils/rules */
 
-/*! react */
-
 /*! antd */
 
 /*! react/jsx-runtime */
 
 /*! @/assets/elements/3.webp */
-
-/*! react/jsx-runtime */
 
 /*! @/models/aurorians */
 
@@ -222,4 +142,90 @@
 
 /*! @modern-js/runtime/model */
 
+/*! @/components/AdaptiveAurorianCard */
+
+/*! @ant-design/pro-components */
+
+/*! react */
+
+/*! dayjs */
+
+/*! @/models/aurorians */
+
+/*! ./styles.module.less */
+
+/*! lodash-es */
+
 /*! @modern-js/runtime/model */
+
+/*! dayjs */
+
+/*! antd */
+
+/*! react */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! ahooks */
+
+/*! @modern-js/runtime/model */
+
+/*! @/models/feishu */
+
+/*! @/services/http */
+
+/*! immer */
+
+/*! @ant-design/pro-components */
+
+/*! @/components/UploadForm */
+
+/*! ./constants */
+
+/*! @/models/aurorians */
+
+/*! @sinsa/schema */
+
+/*! @/assets/elements/2.webp */
+
+/*! @sinsa/schema */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! ./styles.module.less */
+
+/*! @/models/feishu */
+
+/*! ./VideoIframe */
+
+/*! @/assets/classes/2004.webp */
+
+/*! ./styles.module.less */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! ./schemas/SimpleLatestCopilot */
+
+/*! dayjs */
+
+/*! @/services/http */
+
+/*! react */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! @/assets/classes/2003.webp */
+
+/*! @modern-js/runtime/model */
+
+/*! @/views/GlobalLayout/constants */
