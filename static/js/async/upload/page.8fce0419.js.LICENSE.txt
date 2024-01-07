@@ -2,9 +2,9 @@
 
 /*! @/assets/classes/2004.webp */
 
-/*! ./utils/getDefaultBreakthrough */
-
 /*! react/jsx-runtime */
+
+/*! ./utils/getDefaultBreakthrough */
 
 /*! ../utils/toInputRemoteCopilot */
 
@@ -12,17 +12,17 @@
 
 /*! dayjs */
 
-/*! react */
-
 /*! ./styles.module.less */
+
+/*! react */
 
 /*! zod */
 
 /*! react */
 
-/*! @/assets/classes/2003.webp */
-
 /*! ./styles.module.less */
+
+/*! @/assets/classes/2003.webp */
 
 /*! @/views/GlobalLayout/constants */
 
@@ -30,9 +30,9 @@
 
 /*! @/assets/elements/1.webp */
 
-/*! ../../AurorianCard/constants */
-
 /*! ./utils/preprocess */
+
+/*! ../../AurorianCard/constants */
 
 /*! @/assets/skins */
 
@@ -66,13 +66,13 @@
 
 /*! @sinsa/schema */
 
-/*! @modern-js/runtime/router */
-
-/*! @modern-js/runtime/model */
-
 /*! @/views/UploadView/LarkLoginCard */
 
+/*! @modern-js/runtime/router */
+
 /*! @/assets/classes/2001.webp */
+
+/*! @modern-js/runtime/model */
 
 /*! @sinsa/schema */
 
@@ -84,11 +84,11 @@
 
 /*! react */
 
+/*! antd */
+
 /*! react/jsx-runtime */
 
 /*! ./hooks/useVideoInfo */
-
-/*! antd */
 
 /*! ./hooks/useCheckVideoExist */
 
@@ -106,11 +106,11 @@
 
 /*! numeral */
 
+/*! antd */
+
 /*! @sinsa/schema */
 
 /*! @/models/terms */
-
-/*! antd */
 
 /*! @/models/terms */
 
@@ -128,9 +128,9 @@
 
 /*! react/jsx-runtime */
 
-/*! ../LatestVideoCard */
-
 /*! @modern-js/runtime/model */
+
+/*! ../LatestVideoCard */
 
 /*! ./styles.module.less */
 
@@ -138,23 +138,23 @@
 
 /*! @/models/feishu */
 
-/*! antd */
-
 /*! react */
 
-/*! ./utils/rules */
+/*! antd */
 
 /*! ./hooks/use-lazy-image */
 
-/*! antd */
+/*! ./utils/rules */
 
 /*! framer-motion */
+
+/*! antd */
+
+/*! lodash-es */
 
 /*! react/jsx-runtime */
 
 /*! @/assets/elements/3.webp */
-
-/*! lodash-es */
 
 /*! ahooks */
 
@@ -166,9 +166,9 @@
 
 /*! ahooks */
 
-/*! @/services/http */
-
 /*! ./useLatestVideo */
+
+/*! @/services/http */
 
 /*! @modern-js/runtime/model */
 
@@ -190,11 +190,11 @@
 
 /*! antd */
 
+/*! react */
+
 /*! ./utils/getDefaultBreakthrough */
 
 /*! react/jsx-runtime */
-
-/*! react */
 
 /*! ./schemas/SimpleLatestCopilot */
 
@@ -208,9 +208,9 @@
 
 /*! @/components/UploadForm */
 
-/*! ./constants */
-
 /*! dayjs */
+
+/*! ./constants */
 
 /*! @/assets/elements/2.webp */
 
