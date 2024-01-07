@@ -1,18 +1,16 @@
-/*! ./SolutionListView */
-
 /*! ./constants */
 
 /*! ./assets/icon-eye-close.svg */
 
+/*! @/assets/elements/2.webp */
+
 /*! antd */
 
-/*! react */
+/*! @/assets/classes/2004.webp */
 
 /*! ./constants */
 
 /*! ./styles.module.less */
-
-/*! @ant-design/pro-components */
 
 /*! react */
 
@@ -20,23 +18,19 @@
 
 /*! ./constants */
 
-/*! antd */
-
 /*! @/views/SolutionView/utils/without-exclude */
 
 /*! antd */
+
+/*! ./context */
 
 /*! @/components/RelativeTimeText */
 
 /*! react/jsx-runtime */
 
-/*! @/assets/elements/3.webp */
+/*! @/assets/classes/2003.webp */
 
-/*! ./hooks/use-request-solution */
-
-/*! @sinsa/schema */
-
-/*! immer */
+/*! @/models/aurorians */
 
 /*! @/models/aurorians */
 
@@ -50,9 +44,9 @@
 
 /*! react */
 
-/*! react */
+/*! @/assets/elements/1.webp */
 
-/*! @/services/solution-algorithm */
+/*! react */
 
 /*! react/jsx-runtime */
 
@@ -61,6 +55,12 @@
 /*! react */
 
 /*! ./assets/icon-delete.svg */
+
+/*! @/assets/skins */
+
+/*! react/jsx-runtime */
+
+/*! @/assets/classes/2002.webp */
 
 /*! react/jsx-runtime */
 
@@ -74,15 +74,21 @@
 
 /*! @modern-js/runtime/model */
 
+/*! ./QueryForm */
+
 /*! ./styles.module.less */
 
 /*! @/models/terms */
 
-/*! ../utils/without-exclude */
+/*! react */
 
 /*! react */
 
 /*! antd */
+
+/*! @/assets/classes/2001.webp */
+
+/*! ahooks */
 
 /*! @/models/aurorians */
 
@@ -95,6 +101,8 @@
 /*! react/jsx-runtime */
 
 /*! react */
+
+/*! ahooks */
 
 /*! @/components/SolutionCard */
 
@@ -112,13 +120,19 @@
 
 /*! ../context */
 
-/*! @/assets/elements/2.webp */
+/*! @/assets/elements/4.webp */
+
+/*! @modern-js/runtime/model */
+
+/*! constate */
 
 /*! @modern-js/runtime/model */
 
 /*! @/models/terms */
 
 /*! ../RelativeTimeText */
+
+/*! @sinsa/schema */
 
 /*! ./columns */
 
@@ -132,8 +146,6 @@
 
 /*! ../AurorianCard */
 
-/*! @/assets/classes/2004.webp */
-
 /*! clsx */
 
 /*! @/components/utils */
@@ -142,9 +154,9 @@
 
 /*! @/components/TermChanger */
 
-/*! ./context */
+/*! ./SolutionListView */
 
-/*! @/models/aurorians */
+/*! react */
 
 /*! react */
 
@@ -154,8 +166,6 @@
 
 /*! react/jsx-runtime */
 
-/*! @/assets/classes/2003.webp */
-
 /*! @/models/aurorians */
 
 /*! @ant-design/pro-components */
@@ -164,13 +174,13 @@
 
 /*! @modern-js/runtime/model */
 
-/*! react/jsx-runtime */
+/*! @ant-design/pro-components */
 
-/*! @/assets/elements/1.webp */
+/*! react/jsx-runtime */
 
 /*! ./assets/sorry.png */
 
-/*! @/assets/skins */
+/*! antd */
 
 /*! ../CopilotsTable */
 
@@ -186,15 +196,15 @@
 
 /*! ./assets/icon-message.svg */
 
+/*! @/assets/elements/3.webp */
+
+/*! ./hooks/use-request-solution */
+
+/*! immer */
+
 /*! react/jsx-runtime */
 
-/*! @/assets/classes/2002.webp */
-
-/*! react/jsx-runtime */
-
-/*! ./QueryForm */
-
-/*! react */
+/*! @sinsa/schema */
 
 /*! react */
 
@@ -224,9 +234,7 @@
 
 /*! ahooks */
 
-/*! @/assets/classes/2001.webp */
-
-/*! ahooks */
+/*! @/services/solution-algorithm */
 
 /*! @/models/terms */
 
@@ -238,15 +246,9 @@
 
 /*! @/views/SolutionView */
 
-/*! ahooks */
-
 /*! ./hooks/use-initial-values */
 
-/*! @modern-js/runtime/model */
-
-/*! constate */
-
-/*! @/assets/elements/4.webp */
+/*! ../utils/without-exclude */
 
 /*! ./hooks/use-lazy-image */
 
@@ -257,8 +259,6 @@
 /*! react/jsx-runtime */
 
 /*! @modern-js/runtime/router */
-
-/*! @sinsa/schema */
 
 /*! ./styles.module.less */
 
