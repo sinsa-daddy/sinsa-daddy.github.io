@@ -1,0 +1,225 @@
+/*! ../utils */
+
+/*! @/models/feishu */
+
+/*! @/services/http */
+
+/*! ./hooks/use-lazy-image */
+
+/*! react/jsx-runtime */
+
+/*! framer-motion */
+
+/*! ahooks */
+
+/*! ../LatestVideoCard */
+
+/*! ./styles.module.less */
+
+/*! @/models/terms */
+
+/*! ./useLatestVideo */
+
+/*! react */
+
+/*! antd */
+
+/*! ./utils/rules */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! @/assets/elements/3.webp */
+
+/*! @/models/aurorians */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! ahooks */
+
+/*! ./constants */
+
+/*! @modern-js/runtime/model */
+
+/*! @/components/AdaptiveAurorianCard */
+
+/*! @ant-design/pro-components */
+
+/*! react */
+
+/*! dayjs */
+
+/*! @/models/aurorians */
+
+/*! ./styles.module.less */
+
+/*! lodash-es */
+
+/*! @modern-js/runtime/model */
+
+/*! dayjs */
+
+/*! antd */
+
+/*! react */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/model */
+
+/*! ahooks */
+
+/*! @modern-js/runtime/model */
+
+/*! @/models/feishu */
+
+/*! @/services/http */
+
+/*! clsx */
+
+/*! @ant-design/pro-components */
+
+/*! @/components/UploadForm */
+
+/*! ./constants */
+
+/*! @/assets/elements/2.webp */
+
+/*! @sinsa/schema */
+
+/*! @ant-design/pro-components */
+
+/*! react/jsx-runtime */
+
+/*! ./styles.module.less */
+
+/*! @/models/feishu */
+
+/*! ./styles.module.less */
+
+/*! ./VideoIframe */
+
+/*! @/assets/classes/2004.webp */
+
+/*! ./styles.module.less */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! ./schemas/SimpleLatestCopilot */
+
+/*! dayjs */
+
+/*! @/services/http */
+
+/*! react */
+
+/*! react */
+
+/*! @/assets/classes/2003.webp */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! @/assets/elements/1.webp */
+
+/*! ./utils/preprocess */
+
+/*! ../../AurorianCard/constants */
+
+/*! @/assets/skins */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! @/assets/classes/2002.webp */
+
+/*! ../utils/toInputRemoteCopilot */
+
+/*! react/jsx-runtime */
+
+/*! lodash-es */
+
+/*! ./hooks/usePostCopilot */
+
+/*! ./CopilotSelector */
+
+/*! @modern-js/runtime/model */
+
+/*! zod */
+
+/*! @/models/aurorians */
+
+/*! zod */
+
+/*! antd */
+
+/*! @/models/aurorians */
+
+/*! antd */
+
+/*! @sinsa/schema */
+
+/*! @modern-js/runtime/router */
+
+/*! @/views/UploadView/LarkLoginCard */
+
+/*! @/assets/classes/2001.webp */
+
+/*! @/components/UploadForm/AurorianTallCard */
+
+/*! react */
+
+/*! antd */
+
+/*! @/services/http */
+
+/*! react */
+
+/*! ahooks */
+
+/*! react/jsx-runtime */
+
+/*! ./schemas/SearchVideo */
+
+/*! ./hooks/useVideoInfo */
+
+/*! ./hooks/useCheckVideoExist */
+
+/*! ahooks */
+
+/*! immer */
+
+/*! ../RelativeTimeText */
+
+/*! @/assets/elements/4.webp */
+
+/*! lodash-es */
+
+/*! react */
+
+/*! @modern-js/runtime/model */
+
+/*! numeral */
+
+/*! react/jsx-runtime */
+
+/*! @sinsa/schema */
+
+/*! @/services/http */
+
+/*! @/models/terms */
+
+/*! @modern-js/runtime/model */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! @sinsa/schema */
+
+/*! ./styles.module.less */
