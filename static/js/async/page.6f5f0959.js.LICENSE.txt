@@ -1,0 +1,17 @@
+/*! @modern-js/runtime/router */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! @/models/terms */
+
+/*! antd */
+
+/*! @/assets/docs/qun.webp */
+
+/*! @/views/GlobalLayout/constants */
