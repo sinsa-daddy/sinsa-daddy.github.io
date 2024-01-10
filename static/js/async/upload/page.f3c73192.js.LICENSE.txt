@@ -1,97 +1,3 @@
-/*! react */
-
-/*! react */
-
-/*! @/assets/classes/2003.webp */
-
-/*! ../RelativeTimeText */
-
-/*! ./deny-list.json */
-
-/*! @/views/GlobalLayout/constants */
-
-/*! @/assets/elements/1.webp */
-
-/*! ./utils/preprocess */
-
-/*! ../../AurorianCard/constants */
-
-/*! @/assets/skins */
-
-/*! antd */
-
-/*! react */
-
-/*! react/jsx-runtime */
-
-/*! @/assets/classes/2002.webp */
-
-/*! ../utils/toInputRemoteCopilot */
-
-/*! react/jsx-runtime */
-
-/*! lodash-es */
-
-/*! ./hooks/usePostCopilot */
-
-/*! dayjs */
-
-/*! ./CopilotSelector */
-
-/*! @modern-js/runtime/model */
-
-/*! ../utils */
-
-/*! @modern-js/runtime/model */
-
-/*! zod */
-
-/*! @/models/aurorians */
-
-/*! zod */
-
-/*! antd */
-
-/*! @sinsa/schema */
-
-/*! @modern-js/runtime/router */
-
-/*! @/views/UploadView/LarkLoginCard */
-
-/*! @/assets/classes/2001.webp */
-
-/*! @/components/UploadForm/AurorianTallCard */
-
-/*! react */
-
-/*! @/models/aurorians */
-
-/*! ./useLatestVideo */
-
-/*! @/services/http */
-
-/*! antd */
-
-/*! react */
-
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
-
-/*! ./hooks/useVideoInfo */
-
-/*! ./hooks/useCheckVideoExist */
-
-/*! immer */
-
-/*! ahooks */
-
-/*! ./schemas/SearchVideo */
-
-/*! ahooks */
-
-/*! @/assets/elements/4.webp */
-
 /*! lodash-es */
 
 /*! @/services/http */
@@ -166,9 +72,9 @@
 
 /*! dayjs */
 
-/*! @/models/aurorians */
-
 /*! antd */
+
+/*! @/models/aurorians */
 
 /*! ./styles.module.less */
 
@@ -190,9 +96,9 @@
 
 /*! @modern-js/runtime/model */
 
-/*! @/views/SolutionView/utils/without-exclude */
-
 /*! @/models/feishu */
+
+/*! @/views/SolutionView/utils/without-exclude */
 
 /*! @/services/http */
 
@@ -233,3 +139,97 @@
 /*! dayjs */
 
 /*! @/services/http */
+
+/*! react */
+
+/*! react */
+
+/*! @/assets/classes/2003.webp */
+
+/*! ../RelativeTimeText */
+
+/*! ./deny-list.json */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! @/assets/elements/1.webp */
+
+/*! ./utils/preprocess */
+
+/*! ../../AurorianCard/constants */
+
+/*! @/assets/skins */
+
+/*! antd */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @/assets/classes/2002.webp */
+
+/*! ../utils/toInputRemoteCopilot */
+
+/*! react/jsx-runtime */
+
+/*! lodash-es */
+
+/*! ./hooks/usePostCopilot */
+
+/*! dayjs */
+
+/*! ./CopilotSelector */
+
+/*! @modern-js/runtime/model */
+
+/*! ../utils */
+
+/*! @modern-js/runtime/model */
+
+/*! zod */
+
+/*! @/models/aurorians */
+
+/*! zod */
+
+/*! @modern-js/runtime/router */
+
+/*! @sinsa/schema */
+
+/*! antd */
+
+/*! @/views/UploadView/LarkLoginCard */
+
+/*! @/assets/classes/2001.webp */
+
+/*! @/components/UploadForm/AurorianTallCard */
+
+/*! react */
+
+/*! @/models/aurorians */
+
+/*! ./useLatestVideo */
+
+/*! @/services/http */
+
+/*! antd */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! ./hooks/useVideoInfo */
+
+/*! ./hooks/useCheckVideoExist */
+
+/*! immer */
+
+/*! ahooks */
+
+/*! ./schemas/SearchVideo */
+
+/*! ahooks */
+
+/*! @/assets/elements/4.webp */
