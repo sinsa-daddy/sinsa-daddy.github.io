@@ -8,23 +8,23 @@
 
 /*! react/jsx-runtime */
 
-/*! @/components/SolutionCard */
+/*! ./styles.module.less */
 
 /*! react/jsx-runtime */
 
-/*! constate */
+/*! @/services/solution-algorithm */
 
-/*! immer */
+/*! react/jsx-runtime */
 
-/*! react */
-
-/*! ahooks */
-
-/*! @/assets/classes/2002.webp */
+/*! @/assets/classes/2004.webp */
 
 /*! @modern-js/runtime/model */
 
 /*! @/models/terms */
+
+/*! @modern-js/runtime/model */
+
+/*! @/models/aurorians */
 
 /*! react */
 
@@ -36,47 +36,51 @@
 
 /*! react */
 
+/*! @ant-design/pro-components */
+
 /*! @/models/terms */
-
-/*! antd */
-
-/*! ../context */
 
 /*! numeral */
 
-/*! ./constants */
+/*! ../context */
 
 /*! @/models/aurorians */
 
-/*! ../AurorianCard */
+/*! lodash-es */
 
-/*! @/components/ExcludeAurorianFormList */
+/*! @sinsa/schema */
+
+/*! ../AurorianCard */
 
 /*! @modern-js/runtime/model */
 
-/*! ahooks */
+/*! @/assets/elements/1.webp */
 
 /*! react/jsx-runtime */
 
 /*! ./styles.module.less */
 
-/*! @/assets/skins */
+/*! @/assets/elements/2.webp */
 
 /*! antd */
 
 /*! react */
 
-/*! react */
+/*! @/assets/elements/3.webp */
+
+/*! react/jsx-runtime */
 
 /*! @ant-design/pro-components */
 
-/*! @/assets/classes/2003.webp */
-
 /*! @/components/TermChanger */
+
+/*! ./assets/sorry.png */
 
 /*! framer-motion */
 
 /*! @modern-js/runtime/model */
+
+/*! @/assets/elements/4.webp */
 
 /*! @ant-design/pro-components */
 
@@ -88,25 +92,19 @@
 
 /*! @icon-park/react */
 
-/*! react */
-
 /*! ./styles.module.less */
 
 /*! @modern-js/runtime/model */
 
 /*! ./styles.module.less */
 
-/*! antd */
-
-/*! ./QueryForm */
-
-/*! @sinsa/schema */
+/*! ./hooks/use-initial-values */
 
 /*! @ant-design/pro-components */
 
 /*! antd */
 
-/*! ./styles.module.less */
+/*! @sinsa/schema */
 
 /*! ./AdaptiveAuroriansTeam */
 
@@ -122,27 +120,21 @@
 
 /*! ../CopilotsTable */
 
-/*! react/jsx-runtime */
-
-/*! @/services/solution-algorithm */
-
 /*! antd */
 
 /*! @ant-design/pro-components */
 
 /*! antd */
 
-/*! @/assets/classes/2004.webp */
-
 /*! antd */
 
-/*! @/models/aurorians */
+/*! @/assets/classes/2001.webp */
 
-/*! @modern-js/runtime/model */
-
-/*! ../context */
+/*! ./hooks/use-request-solution */
 
 /*! react/jsx-runtime */
+
+/*! ./context */
 
 /*! @/models/terms */
 
@@ -150,23 +142,25 @@
 
 /*! @ant-design/pro-components */
 
+/*! ./SolutionListView */
+
 /*! antd */
 
 /*! ./styles.module.less */
 
-/*! @ant-design/pro-components */
-
 /*! @/models/aurorians */
+
+/*! ../utils/without-exclude */
 
 /*! ./styles.module.less */
 
 /*! @/components/TermNotFound */
 
-/*! lodash-es */
-
-/*! @sinsa/schema */
-
 /*! ./styles.module.less */
+
+/*! ahooks */
+
+/*! @icon-park/react */
 
 /*! antd */
 
@@ -180,7 +174,7 @@
 
 /*! antd */
 
-/*! @/assets/elements/1.webp */
+/*! @/components/SolutionCard */
 
 /*! react */
 
@@ -188,21 +182,19 @@
 
 /*! @ant-design/pro-components */
 
-/*! @/assets/elements/2.webp */
-
 /*! @/views/SolutionView */
 
 /*! @/components/utils */
 
 /*! @/components/RelativeTimeText */
 
+/*! constate */
+
 /*! ./CopilotBlock */
 
-/*! @/assets/elements/3.webp */
-
 /*! react/jsx-runtime */
 
-/*! react/jsx-runtime */
+/*! immer */
 
 /*! ../AurorianCard/constants */
 
@@ -210,15 +202,15 @@
 
 /*! react/jsx-runtime */
 
-/*! ./assets/sorry.png */
+/*! react */
+
+/*! @/assets/classes/2002.webp */
+
+/*! ahooks */
 
 /*! antd */
 
-/*! ./hooks/use-initial-values */
-
 /*! react/jsx-runtime */
-
-/*! @/assets/elements/4.webp */
 
 /*! @/models/aurorians */
 
@@ -234,19 +226,27 @@
 
 /*! clsx */
 
+/*! ../context */
+
 /*! ahooks */
 
+/*! antd */
+
 /*! react/jsx-runtime */
+
+/*! ahooks */
 
 /*! react */
 
 /*! react/jsx-runtime */
 
-/*! @sinsa/schema */
-
 /*! @/components/RelativeTimeText */
 
+/*! @/assets/skins */
+
 /*! clsx */
+
+/*! ./constants */
 
 /*! @modern-js/runtime/model */
 
@@ -254,7 +254,11 @@
 
 /*! react/jsx-runtime */
 
+/*! react */
+
 /*! ../AurorianCard */
+
+/*! @/components/ExcludeAurorianFormList */
 
 /*! ./hooks/use-lazy-image */
 
@@ -262,26 +266,24 @@
 
 /*! react */
 
-/*! @/assets/classes/2001.webp */
-
-/*! ./hooks/use-request-solution */
-
-/*! ./context */
+/*! @/assets/classes/2003.webp */
 
 /*! react/jsx-runtime */
-
-/*! ./SolutionListView */
 
 /*! @modern-js/runtime/router */
 
 /*! react */
 
-/*! ../utils/without-exclude */
+/*! react */
 
 /*! @icon-park/react */
 
-/*! ahooks */
-
 /*! react/jsx-runtime */
 
+/*! antd */
+
 /*! @/views/SolutionView/utils/without-exclude */
+
+/*! ./QueryForm */
+
+/*! @sinsa/schema */
