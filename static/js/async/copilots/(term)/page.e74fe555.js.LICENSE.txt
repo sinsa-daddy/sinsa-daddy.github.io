@@ -1,14 +1,10 @@
-/*! antd */
-
 /*! @/services/http */
+
+/*! ./CopilotListView */
 
 /*! @/views/GlobalLayout/constants */
 
 /*! @/components/SolutionCard/CopilotBlock */
-
-/*! ./CopilotListView */
-
-/*! react/jsx-runtime */
 
 /*! @ant-design/pro-components */
 
@@ -22,6 +18,8 @@
 
 /*! react/jsx-runtime */
 
+/*! antd */
+
 /*! @/components/TermChanger */
 
 /*! @/components/TermNotFound */
@@ -31,3 +29,5 @@
 /*! @/views/CopilotsView */
 
 /*! ./styles.module.less */
+
+/*! react/jsx-runtime */

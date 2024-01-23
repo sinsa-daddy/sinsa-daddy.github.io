@@ -6,25 +6,27 @@
 
 /*! @icon-park/react */
 
+/*! @/models/terms */
+
+/*! @/assets/classes/2003.webp */
+
 /*! ./styles.module.less */
 
+/*! antd */
+
+/*! react/jsx-runtime */
+
 /*! react/jsx-runtime */
 
 /*! antd */
 
 /*! react/jsx-runtime */
-
-/*! antd */
-
-/*! @sinsa/schema */
-
-/*! react/jsx-runtime */
-
-/*! @/assets/classes/2001.webp */
 
 /*! @/views/SolutionView/utils/without-exclude */
 
-/*! antd */
+/*! @sinsa/schema */
+
+/*! @/assets/classes/2001.webp */
 
 /*! react */
 
@@ -32,29 +34,27 @@
 
 /*! ./constants */
 
-/*! @modern-js/runtime/router */
+/*! antd */
 
 /*! numeral */
 
+/*! @modern-js/runtime/router */
+
 /*! ./styles.module.less */
-
-/*! immer */
-
-/*! @/assets/classes/2004.webp */
 
 /*! react */
 
 /*! @/components/utils */
 
-/*! @modern-js/runtime/model */
+/*! immer */
 
-/*! react */
+/*! @/assets/classes/2004.webp */
 
 /*! ./styles.module.less */
 
-/*! @sinsa/schema */
+/*! @modern-js/runtime/model */
 
-/*! antd */
+/*! react */
 
 /*! antd */
 
@@ -62,56 +62,56 @@
 
 /*! clsx */
 
+/*! @sinsa/schema */
+
 /*! @/models/aurorians */
 
-/*! @/assets/elements/1.webp */
+/*! antd */
 
 /*! @/assets/classes/2002.webp */
 
-/*! @/assets/elements/2.webp */
+/*! @/assets/elements/1.webp */
 
 /*! @ant-design/pro-components */
-
-/*! @/models/terms */
 
 /*! react/jsx-runtime */
 
 /*! @/components/RelativeTimeText */
 
-/*! react/jsx-runtime */
+/*! @/assets/elements/2.webp */
 
-/*! @/views/GlobalLayout/constants */
+/*! @/models/terms */
 
 /*! react/jsx-runtime */
 
 /*! clsx */
 
+/*! @/views/GlobalLayout/constants */
+
+/*! react/jsx-runtime */
+
 /*! @modern-js/runtime/model */
 
 /*! @/assets/elements/3.webp */
+
+/*! framer-motion */
 
 /*! @/assets/elements/4.webp */
 
 /*! @sinsa/schema */
 
-/*! framer-motion */
-
-/*! @/assets/skins */
-
-/*! react */
-
 /*! ./AdaptiveAuroriansTeam */
 
-/*! @modern-js/runtime/router */
+/*! @/assets/skins */
 
 /*! ./constants */
 
 /*! antd */
 
-/*! @/models/terms */
+/*! react */
 
 /*! @modern-js/runtime/model */
 
-/*! dayjs */
+/*! @modern-js/runtime/router */
 
-/*! @/assets/classes/2003.webp */
+/*! dayjs */
