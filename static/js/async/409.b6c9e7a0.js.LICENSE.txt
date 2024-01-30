@@ -1,43 +1,3 @@
-/*! ./hooks/use-lazy-image */
-
-/*! @ant-design/pro-components */
-
-/*! @/components/AdaptiveAurorianCard */
-
-/*! @icon-park/react */
-
-/*! @/models/terms */
-
-/*! @/assets/classes/2003.webp */
-
-/*! ./styles.module.less */
-
-/*! antd */
-
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
-
-/*! antd */
-
-/*! react/jsx-runtime */
-
-/*! @/views/SolutionView/utils/without-exclude */
-
-/*! @sinsa/schema */
-
-/*! @/assets/classes/2001.webp */
-
-/*! react */
-
-/*! ./styles.module.less */
-
-/*! ./constants */
-
-/*! antd */
-
-/*! numeral */
-
 /*! @modern-js/runtime/router */
 
 /*! ./styles.module.less */
@@ -112,6 +72,46 @@
 
 /*! @modern-js/runtime/model */
 
+/*! dayjs */
+
 /*! @modern-js/runtime/router */
 
-/*! dayjs */
+/*! ./hooks/use-lazy-image */
+
+/*! @ant-design/pro-components */
+
+/*! @/components/AdaptiveAurorianCard */
+
+/*! @icon-park/react */
+
+/*! @/models/terms */
+
+/*! @/assets/classes/2003.webp */
+
+/*! ./styles.module.less */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! @/views/SolutionView/utils/without-exclude */
+
+/*! @sinsa/schema */
+
+/*! @/assets/classes/2001.webp */
+
+/*! react */
+
+/*! ./styles.module.less */
+
+/*! ./constants */
+
+/*! antd */
+
+/*! numeral */
