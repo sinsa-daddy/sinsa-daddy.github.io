@@ -1,41 +1,3 @@
-/*! react */
-
-/*! ./styles.module.less */
-
-/*! ./constants */
-
-/*! antd */
-
-/*! numeral */
-
-/*! @modern-js/runtime/router */
-
-/*! ./styles.module.less */
-
-/*! react */
-
-/*! @/components/utils */
-
-/*! immer */
-
-/*! @/assets/classes/2004.webp */
-
-/*! ./styles.module.less */
-
-/*! @modern-js/runtime/model */
-
-/*! react */
-
-/*! antd */
-
-/*! react */
-
-/*! clsx */
-
-/*! @sinsa/schema */
-
-/*! @/models/aurorians */
-
 /*! antd */
 
 /*! @/assets/classes/2002.webp */
@@ -115,3 +77,41 @@
 /*! @sinsa/schema */
 
 /*! @/assets/classes/2001.webp */
+
+/*! react */
+
+/*! ./styles.module.less */
+
+/*! ./constants */
+
+/*! antd */
+
+/*! numeral */
+
+/*! @modern-js/runtime/router */
+
+/*! ./styles.module.less */
+
+/*! react */
+
+/*! @/components/utils */
+
+/*! immer */
+
+/*! @/assets/classes/2004.webp */
+
+/*! ./styles.module.less */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! antd */
+
+/*! react */
+
+/*! clsx */
+
+/*! @sinsa/schema */
+
+/*! @/models/aurorians */

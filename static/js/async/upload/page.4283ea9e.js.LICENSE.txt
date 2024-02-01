@@ -1,45 +1,3 @@
-/*! @sinsa/schema */
-
-/*! ahooks */
-
-/*! numeral */
-
-/*! clsx */
-
-/*! ./deny-list.json */
-
-/*! dayjs */
-
-/*! @sinsa/schema */
-
-/*! react/jsx-runtime */
-
-/*! @/assets/elements/1.webp */
-
-/*! ./styles.module.less */
-
-/*! react */
-
-/*! ahooks */
-
-/*! ./utils/preprocess */
-
-/*! @/services/http */
-
-/*! @/assets/elements/2.webp */
-
-/*! @/views/UploadView/LarkLoginCard */
-
-/*! ./hooks/use-lazy-image */
-
-/*! @/assets/elements/3.webp */
-
-/*! lodash-es */
-
-/*! @modern-js/runtime/model */
-
-/*! lodash-es */
-
 /*! @/assets/elements/4.webp */
 
 /*! @modern-js/runtime/model */
@@ -235,3 +193,45 @@
 /*! react/jsx-runtime */
 
 /*! @modern-js/runtime/router */
+
+/*! @sinsa/schema */
+
+/*! ahooks */
+
+/*! numeral */
+
+/*! clsx */
+
+/*! ./deny-list.json */
+
+/*! dayjs */
+
+/*! @sinsa/schema */
+
+/*! react/jsx-runtime */
+
+/*! @/assets/elements/1.webp */
+
+/*! ./styles.module.less */
+
+/*! react */
+
+/*! ahooks */
+
+/*! ./utils/preprocess */
+
+/*! @/services/http */
+
+/*! @/assets/elements/2.webp */
+
+/*! @/views/UploadView/LarkLoginCard */
+
+/*! ./hooks/use-lazy-image */
+
+/*! @/assets/elements/3.webp */
+
+/*! lodash-es */
+
+/*! @modern-js/runtime/model */
+
+/*! lodash-es */
