@@ -1,3 +1,13 @@
+/*! @sinsa/schema */
+
+/*! ahooks */
+
+/*! numeral */
+
+/*! clsx */
+
+/*! ./deny-list.json */
+
 /*! dayjs */
 
 /*! @sinsa/schema */
@@ -225,13 +235,3 @@
 /*! react/jsx-runtime */
 
 /*! @modern-js/runtime/router */
-
-/*! @sinsa/schema */
-
-/*! ahooks */
-
-/*! numeral */
-
-/*! clsx */
-
-/*! ./deny-list.json */

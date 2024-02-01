@@ -1,3 +1,13 @@
+/*! react */
+
+/*! ./styles.module.less */
+
+/*! ./constants */
+
+/*! antd */
+
+/*! numeral */
+
 /*! @modern-js/runtime/router */
 
 /*! ./styles.module.less */
@@ -105,13 +115,3 @@
 /*! @sinsa/schema */
 
 /*! @/assets/classes/2001.webp */
-
-/*! react */
-
-/*! ./styles.module.less */
-
-/*! ./constants */
-
-/*! antd */
-
-/*! numeral */
