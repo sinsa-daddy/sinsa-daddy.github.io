@@ -8,6 +8,8 @@
 
 /*! core-js/modules/esnext.async-iterator.for-each.js */
 
+/*! antd */
+
 /*! @/assets/wrench.svg */
 
 /*! @sinsa/schema */
@@ -122,8 +124,6 @@
 
 /*! @icon-park/react/styles/index.less */
 
-/*! workbox-window */
-
 /*! core-js/modules/esnext.data-view.get-float16.js */
 
 /*! antd */
@@ -157,6 +157,8 @@
 /*! core-js/modules/esnext.map.group-by.js */
 
 /*! core-js/modules/esnext.typed-array.to-spliced.js */
+
+/*! workbox-window */
 
 /*! core-js/modules/esnext.array.from-async.js */
 
@@ -246,8 +248,6 @@
 
 /*! @/views/GlobalLayout */
 
-/*! @sinsa/schema */
-
 /*! core-js/modules/esnext.math.seeded-prng.js */
 
 /*! react/jsx-runtime */
@@ -292,6 +292,8 @@
 
 /*! @/components/ServiceWorkerUpdateBanner */
 
+/*! @sinsa/schema */
+
 /*! core-js/modules/esnext.set.union.v2.js */
 
 /*! core-js/modules/esnext.function.is-callable.js */
@@ -321,8 +323,6 @@
 /*! core-js/modules/esnext.array.last-index.js */
 
 /*! @/models/aurorians */
-
-/*! react */
 
 /*! react/jsx-runtime */
 
@@ -366,6 +366,8 @@
 
 /*! core-js/modules/esnext.object.iterate-entries.js */
 
+/*! react */
+
 /*! core-js/modules/esnext.set.add-all.js */
 
 /*! ./styles.module.less */
@@ -387,8 +389,6 @@
 /*! core-js/modules/es.typed-array.set.js */
 
 /*! core-js/modules/esnext.number.from-string.js */
-
-/*! @/models/terms */
 
 /*! @modern-js/runtime/model */
 
@@ -449,6 +449,8 @@
 /*! core-js/modules/es.array.find-last-index.js */
 
 /*! core-js/modules/esnext.math.rad-per-deg.js */
+
+/*! @/models/terms */
 
 /*! core-js/modules/esnext.set.is-superset-of.v2.js */
 
@@ -543,8 +545,6 @@
 /*! @/models/dark */
 
 /*! core-js/modules/esnext.iterator.dispose.js */
-
-/*! antd */
 
 /*! core-js/modules/esnext.math.umulh.js */
 
