@@ -1,0 +1,237 @@
+/*! @modern-js/runtime/model */
+
+/*! immer */
+
+/*! lodash-es */
+
+/*! ./styles.module.less */
+
+/*! react */
+
+/*! antd */
+
+/*! @/models/aurorians */
+
+/*! react/jsx-runtime */
+
+/*! @/assets/skins */
+
+/*! @/components/UploadForm/AurorianTallCard */
+
+/*! react */
+
+/*! ahooks */
+
+/*! @/models/terms */
+
+/*! clsx */
+
+/*! ./deny-list.json */
+
+/*! ./hooks/usePostCopilot */
+
+/*! dayjs */
+
+/*! ahooks */
+
+/*! ../utils/toInputRemoteCopilot */
+
+/*! @/assets/classes/2003.webp */
+
+/*! ./constants */
+
+/*! ./styles.module.less */
+
+/*! react/jsx-runtime */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! ./hooks/use-lazy-image */
+
+/*! @ant-design/pro-components */
+
+/*! @modern-js/runtime/model */
+
+/*! lodash-es */
+
+/*! @/models/feishu */
+
+/*! @modern-js/runtime/model */
+
+/*! @ant-design/pro-components */
+
+/*! ../../AurorianCard/constants */
+
+/*! antd */
+
+/*! react */
+
+/*! @sinsa/schema */
+
+/*! @/views/SolutionView/utils/without-exclude */
+
+/*! @/components/AdaptiveAurorianCard */
+
+/*! zod */
+
+/*! @/assets/classes/2004.webp */
+
+/*! ahooks */
+
+/*! @/services/http */
+
+/*! react */
+
+/*! ./styles.module.less */
+
+/*! ../utils */
+
+/*! @modern-js/runtime/router */
+
+/*! @sinsa/schema */
+
+/*! numeral */
+
+/*! antd */
+
+/*! @sinsa/schema */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @/assets/elements/1.webp */
+
+/*! ahooks */
+
+/*! react */
+
+/*! @/services/http */
+
+/*! ./utils/preprocess */
+
+/*! @/assets/elements/2.webp */
+
+/*! @/views/UploadView/LarkLoginCard */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! @/models/aurorians */
+
+/*! @/assets/elements/3.webp */
+
+/*! lodash-es */
+
+/*! @/assets/elements/4.webp */
+
+/*! dayjs */
+
+/*! antd */
+
+/*! immer */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! @/models/terms */
+
+/*! dayjs */
+
+/*! antd */
+
+/*! ./utils/rules */
+
+/*! ahooks */
+
+/*! framer-motion */
+
+/*! @modern-js/runtime/model */
+
+/*! antd */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! @/services/http */
+
+/*! ./styles.module.less */
+
+/*! ./constants */
+
+/*! react/jsx-runtime */
+
+/*! @/models/feishu */
+
+/*! @modern-js/runtime/model */
+
+/*! lodash-es */
+
+/*! ./VideoIframe */
+
+/*! react/jsx-runtime */
+
+/*! @/services/http */
+
+/*! @ant-design/pro-components */
+
+/*! ./styles.module.less */
+
+/*! ./useLatestVideo */
+
+/*! zod */
+
+/*! @/assets/classes/2001.webp */
+
+/*! @/models/aurorians */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/model */
+
+/*! antd */
+
+/*! ./hooks/useVideoInfo */
+
+/*! ./styles.module.less */
+
+/*! ./CopilotSelector */
+
+/*! @/components/UploadForm */
+
+/*! @/models/feishu */
+
+/*! ../LatestVideoCard */
+
+/*! ./schemas/SimpleLatestCopilot */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! @/models/aurorians */
+
+/*! antd */
+
+/*! ./schemas/SearchVideo */
+
+/*! react/jsx-runtime */
+
+/*! ../RelativeTimeText */
+
+/*! @sinsa/schema */
+
+/*! @/services/http */
+
+/*! @/assets/classes/2002.webp */
+
+/*! ahooks */
+
+/*! ./hooks/useCheckVideoExist */
+
+/*! @sinsa/schema */
