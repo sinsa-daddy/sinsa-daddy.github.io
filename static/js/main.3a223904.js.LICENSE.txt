@@ -90,8 +90,6 @@
 
 /*! dayjs */
 
-/*! react */
-
 /*! core-js/modules/es.typed-array.find-last.js */
 
 /*! core-js/modules/esnext.array.group-by.js */
@@ -148,6 +146,8 @@
 
 /*! workbox-window */
 
+/*! @sinsa/schema */
+
 /*! core-js/modules/es.array.at.js */
 
 /*! core-js/modules/esnext.set.is-subset-of.js */
@@ -201,6 +201,8 @@
 /*! @modern-js/runtime/model */
 
 /*! core-js/modules/esnext.reflect.has-metadata.js */
+
+/*! @/models/terms/helpers/get-latest-term */
 
 /*! core-js/modules/esnext.data-view.get-float16.js */
 
@@ -372,8 +374,6 @@
 
 /*! @/assets/elements/3.webp */
 
-/*! @sinsa/schema */
-
 /*! core-js/modules/es.regexp.flags.js */
 
 /*! core-js/modules/esnext.function.un-this.js */
@@ -426,8 +426,6 @@
 
 /*! @modern-js/runtime/model */
 
-/*! @/models/terms/helpers/get-latest-term */
-
 /*! core-js/modules/esnext.map.map-keys.js */
 
 /*! core-js/modules/esnext.math.fscale.js */
@@ -465,6 +463,8 @@
 /*! ./term */
 
 /*! core-js/modules/web.immediate.js */
+
+/*! react */
 
 /*! core-js/modules/esnext.bigint.range.js */
 
