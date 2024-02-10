@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["24"],{420613:function(s,a,i){"use strict";s.exports=i.p+"static/image/fafnir.352dc61c.webp"}}]);

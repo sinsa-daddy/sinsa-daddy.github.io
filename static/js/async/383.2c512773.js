@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["383"],{591709:function(s,e,a){"use strict";s.exports=a.p+"static/image/kleken.c456f7bd.webp"}}]);

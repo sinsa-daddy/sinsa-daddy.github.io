@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["5714"],{733959:function(s,a,e){"use strict";s.exports=e.p+"static/image/sikare.fc326d39.webp"}}]);

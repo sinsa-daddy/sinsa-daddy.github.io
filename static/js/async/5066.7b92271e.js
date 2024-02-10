@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["5066"],{131066:function(e,s,a){"use strict";e.exports=a.p+"static/image/regal.265fe038.webp"}}]);

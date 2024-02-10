@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["8503"],{156634:function(s,a,b){"use strict";s.exports=b.p+"static/image/zhong-xu.e279b806.webp"}}]);

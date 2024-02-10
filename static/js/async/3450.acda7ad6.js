@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["3450"],{372981:function(s,a,b){"use strict";s.exports=b.p+"static/image/robyn.84549df6.webp"}}]);

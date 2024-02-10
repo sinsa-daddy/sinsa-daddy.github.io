@@ -1,0 +1,117 @@
+/*! antd */
+
+/*! ./constants */
+
+/*! @/components/TermNotFound */
+
+/*! @/views/SolutionView */
+
+/*! @/components/RelativeTimeText */
+
+/*! lodash-es */
+
+/*! @/components/ExcludeAurorianFormList */
+
+/*! ./hooks/use-initial-values */
+
+/*! ahooks */
+
+/*! @/services/http */
+
+/*! ./styles.module.less */
+
+/*! react/jsx-runtime */
+
+/*! ../AdaptiveAurorianCard */
+
+/*! @ant-design/pro-components */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! antd */
+
+/*! @/models/aurorians */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! ./styles.module.less */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! antd */
+
+/*! ahooks */
+
+/*! ahooks */
+
+/*! ./QueryForm */
+
+/*! @/components/SolutionCard */
+
+/*! @icon-park/react */
+
+/*! ./context */
+
+/*! ./SolutionListView */
+
+/*! @/components/TermChanger */
+
+/*! ahooks */
+
+/*! ./hooks/use-request-solution */
+
+/*! lodash-es */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @/services/solution-algorithm */
+
+/*! react */
+
+/*! ../utils/without-exclude */
+
+/*! ../context */
+
+/*! @/models/aurorians */
+
+/*! ./CopilotBlock */
+
+/*! @modern-js/runtime/model */
+
+/*! ../context */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! react */
+
+/*! @modern-js/runtime/model */
+
+/*! @icon-park/react */
+
+/*! react */
+
+/*! ./assets/sorry.png */
+
+/*! constate */
+
+/*! @ant-design/pro-components */
+
+/*! numeral */
+
+/*! antd */
+
+/*! react */
+
+/*! react/jsx-runtime */

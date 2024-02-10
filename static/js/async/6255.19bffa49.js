@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["6255"],{965448:function(s,a,e){"use strict";s.exports=e.p+"static/image/mythos.e1f13e80.webp"}}]);

@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["617"],{170399:function(s,i,a){"use strict";s.exports=a.p+"static/image/odi.7f701a61.webp"}}]);

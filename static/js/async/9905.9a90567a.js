@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["9905"],{340030:function(s,e,b){"use strict";s.exports=b.p+"static/image/beryl.644eb008.webp"}}]);

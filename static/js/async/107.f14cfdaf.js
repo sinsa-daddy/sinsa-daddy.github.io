@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["107"],{91240:function(s,a,b){"use strict";s.exports=b.p+"static/image/jomu.b565ce8a.webp"}}]);

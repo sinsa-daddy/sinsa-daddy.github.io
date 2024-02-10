@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["8634"],{990823:function(s,a,b){"use strict";s.exports=b.p+"static/image/wrath.a721cbbf.webp"}}]);

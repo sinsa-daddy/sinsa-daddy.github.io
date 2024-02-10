@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["7136"],{895200:function(s,a,e){"use strict";s.exports=e.p+"static/image/faust.83931679.webp"}}]);

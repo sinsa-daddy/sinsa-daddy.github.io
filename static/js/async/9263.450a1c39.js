@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["9263"],{364573:function(s,a,i){"use strict";s.exports=i.p+"static/image/ophina.01f7d0b5.webp"}}]);

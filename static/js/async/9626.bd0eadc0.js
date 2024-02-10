@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["9626"],{462722:function(a,s,b){"use strict";a.exports=b.p+"static/image/zarya.d65579a9.webp"}}]);

@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["1989"],{841825:function(s,e,a){"use strict";s.exports=a.p+"static/image/clover.74b41098.webp"}}]);

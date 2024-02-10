@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["7972"],{898992:function(s,e,a){"use strict";s.exports=a.p+"static/image/uriel.3f10291a.webp"}}]);

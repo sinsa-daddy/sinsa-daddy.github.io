@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["3613"],{165687:function(s,a,e){"use strict";s.exports=e.p+"static/image/keating.48f4d7eb.webp"}}]);

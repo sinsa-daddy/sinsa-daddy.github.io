@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["2895"],{432718:function(s,i,a){"use strict";s.exports=a.p+"static/image/irridon.20c061a3.webp"}}]);

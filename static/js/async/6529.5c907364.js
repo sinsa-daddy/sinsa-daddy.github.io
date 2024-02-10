@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["6529"],{387195:function(s,b,a){"use strict";s.exports=a.p+"static/image/korgon.44049fc5.webp"}}]);

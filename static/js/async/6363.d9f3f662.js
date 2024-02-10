@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["6363"],{571428:function(s,a,b){"use strict";s.exports=b.p+"static/image/connolly.4f2cb8fc.webp"}}]);

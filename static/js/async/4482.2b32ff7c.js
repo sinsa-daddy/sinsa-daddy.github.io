@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["4482"],{148459:function(e,s,a){"use strict";e.exports=a.p+"static/image/requiem.018942bc.webp"}}]);

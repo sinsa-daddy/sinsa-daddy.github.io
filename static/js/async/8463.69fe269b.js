@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["8463"],{185738:function(s,a,e){"use strict";s.exports=e.p+"static/image/regina.4d4e0512.webp"}}]);

@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["9752"],{840889:function(s,e,i){"use strict";s.exports=i.p+"static/image/nemesis.286786c8.webp"}}]);

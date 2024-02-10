@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["9729"],{601795:function(a,s,t){"use strict";a.exports=t.p+"static/image/patty-patsy.009754d4.webp"}}]);

@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["1181"],{448771:function(s,a,b){"use strict";s.exports=b.p+"static/image/rabbie.e6a696c2.webp"}}]);

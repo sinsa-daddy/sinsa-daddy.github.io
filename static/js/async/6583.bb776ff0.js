@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["6583"],{998713:function(s,a,i){"use strict";s.exports=i.p+"static/image/taki.60a67212.webp"}}]);

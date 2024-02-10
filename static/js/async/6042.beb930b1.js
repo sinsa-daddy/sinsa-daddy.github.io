@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["6042"],{449447:function(s,a,e){"use strict";s.exports=e.p+"static/image/nails.868b5ff6.webp"}}]);

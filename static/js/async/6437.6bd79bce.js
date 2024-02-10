@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["6437"],{562392:function(s,e,i){"use strict";s.exports=i.p+"static/image/chenni.24dbdc38.webp"}}]);

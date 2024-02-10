@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["82"],{323883:function(e,s,a){"use strict";e.exports=a.p+"static/image/areia.41020568.webp"}}]);

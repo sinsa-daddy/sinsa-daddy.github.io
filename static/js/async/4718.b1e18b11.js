@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["4718"],{99777:function(s,a,i){"use strict";s.exports=i.p+"static/image/ansia.9b425a9a.webp"}}]);

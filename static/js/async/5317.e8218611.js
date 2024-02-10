@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["5317"],{464132:function(s,e,a){"use strict";s.exports=a.p+"static/image/benny-and-curo.d197e2db.webp"}}]);
