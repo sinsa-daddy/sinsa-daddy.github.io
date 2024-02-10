@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["4686"],{177934:function(s,a,e){"use strict";s.exports=e.p+"static/image/pasolo.d653d4d0.webp"}}]);

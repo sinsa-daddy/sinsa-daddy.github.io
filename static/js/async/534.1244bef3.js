@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["534"],{313307:function(s,b,a){"use strict";s.exports=a.p+"static/image/migard.3b97b857.webp"}}]);

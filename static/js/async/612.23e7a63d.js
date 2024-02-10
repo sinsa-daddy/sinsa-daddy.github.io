@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["612"],{820481:function(s,a,b){"use strict";s.exports=b.p+"static/image/barton.c2b0a543.webp"}}]);

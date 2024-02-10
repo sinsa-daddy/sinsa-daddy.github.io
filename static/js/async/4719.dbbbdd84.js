@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["4719"],{111573:function(s,a,e){"use strict";s.exports=e.p+"static/image/constantine.445bfa94.webp"}}]);

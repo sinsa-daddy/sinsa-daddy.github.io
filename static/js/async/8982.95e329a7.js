@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["8982"],{764767:function(s,e,b){"use strict";s.exports=b.p+"static/image/tweety.ae3f7e59.webp"}}]);

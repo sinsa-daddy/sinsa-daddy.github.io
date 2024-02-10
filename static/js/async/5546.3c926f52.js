@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["5546"],{686509:function(a,s,e){"use strict";a.exports=e.p+"static/image/michael.a78cc38a.webp"}}]);

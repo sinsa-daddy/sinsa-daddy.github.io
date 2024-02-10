@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["5511"],{340594:function(s,a,e){"use strict";s.exports=e.p+"static/image/naroxel.bfd317a1.webp"}}]);

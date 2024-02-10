@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["1382"],{677395:function(e,s,a){"use strict";e.exports=a.p+"static/image/pepi.fad96bc8.webp"}}]);

@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["8552"],{155419:function(s,e,a){"use strict";s.exports=a.p+"static/image/white-dwarf.0604666f.webp"}}]);

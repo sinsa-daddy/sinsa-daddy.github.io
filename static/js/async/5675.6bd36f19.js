@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["5675"],{733738:function(a,s,e){"use strict";a.exports=e.p+"static/image/dayna.fa27d999.webp"}}]);

@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["5083"],{319268:function(s,a,e){"use strict";s.exports=e.p+"static/image/xuan-ji.3377d2e6.webp"}}]);

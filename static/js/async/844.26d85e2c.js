@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["844"],{959506:function(s,e,b){"use strict";s.exports=b.p+"static/image/lester.75032c51.webp"}}]);

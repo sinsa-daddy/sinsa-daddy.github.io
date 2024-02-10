@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["4643"],{791931:function(s,a,e){"use strict";s.exports=e.p+"static/image/charon.04877d0d.webp"}}]);

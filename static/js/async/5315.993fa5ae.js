@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["5315"],{762473:function(e,s,b){"use strict";e.exports=b.p+"static/image/bethlehem.2d97a448.webp"}}]);

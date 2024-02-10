@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["7792"],{753503:function(s,a,e){"use strict";s.exports=e.p+"static/image/dove.653fa7b5.webp"}}]);

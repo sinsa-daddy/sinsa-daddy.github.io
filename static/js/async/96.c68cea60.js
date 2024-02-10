@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["96"],{35413:function(s,i,a){"use strict";s.exports=a.p+"static/image/lilliam.27728e99.webp"}}]);

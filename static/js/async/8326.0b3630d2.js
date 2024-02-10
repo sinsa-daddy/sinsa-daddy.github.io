@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["8326"],{878401:function(s,a,i){"use strict";s.exports=i.p+"static/image/chainsaw-rick.0c3257a9.webp"}}]);

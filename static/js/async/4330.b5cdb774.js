@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["4330"],{790564:function(s,e,i){"use strict";s.exports=i.p+"static/image/vice-keen-sight.362d0959.webp"}}]);

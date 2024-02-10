@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["254"],{751412:function(s,a,b){"use strict";s.exports=b.p+"static/image/sylva.58f1f001.webp"}}]);

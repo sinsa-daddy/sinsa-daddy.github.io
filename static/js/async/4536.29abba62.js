@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["4536"],{348564:function(a,s,b){"use strict";a.exports=b.p+"static/image/kafka.1a206990.webp"}}]);

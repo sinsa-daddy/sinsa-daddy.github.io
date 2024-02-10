@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["205"],{272992:function(s,a,e){"use strict";s.exports=e.p+"static/image/elma.f870232e.webp"}}]);

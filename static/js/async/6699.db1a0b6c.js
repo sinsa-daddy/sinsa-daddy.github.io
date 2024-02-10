@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["6699"],{329412:function(i,s,a){"use strict";i.exports=a.p+"static/image/li-tianxian.3c76dbf4.webp"}}]);

@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["3221"],{266726:function(s,a,e){"use strict";s.exports=e.p+"static/image/maggie.08217e85.webp"}}]);

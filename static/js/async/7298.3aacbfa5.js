@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["7298"],{938907:function(s,i,a){"use strict";s.exports=a.p+"static/image/novio.de37401b.webp"}}]);

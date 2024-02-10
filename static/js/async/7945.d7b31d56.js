@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["7945"],{937405:function(e,s,a){"use strict";e.exports=a.p+"static/image/beverly.0904478b.webp"}}]);

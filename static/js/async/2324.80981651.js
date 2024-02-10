@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["2324"],{949355:function(e,s,i){"use strict";e.exports=i.p+"static/image/genevieve.f4f39670.webp"}}]);
