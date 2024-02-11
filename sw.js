@@ -1,1 +1,1 @@
-self.addEventListener("install",()=>{self.skipWaiting()}),self.addEventListener("activate",()=>{self.clients.matchAll({type:"window"}).then(e=>{e.forEach(e=>{e.navigate(e.url)})})});
+self.addEventListener("install",e=>{e.waitUntil(caches.keys().then(function(e){return Promise.all(e.filter(function(){return!0}).map(function(e){return caches.delete(e)}))})),self.skipWaiting()}),self.addEventListener("activate",()=>{self.clients.matchAll({type:"window"}).then(e=>{e.forEach(e=>{e.navigate(e.url)})})});
