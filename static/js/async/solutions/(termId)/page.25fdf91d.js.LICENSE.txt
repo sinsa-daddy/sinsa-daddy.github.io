@@ -1,20 +1,12 @@
 /*! ahooks */
 
-/*! @/components/SolutionCard */
+/*! ahooks */
 
-/*! ./context */
-
-/*! ./SolutionListView */
-
-/*! react */
-
-/*! lodash-es */
-
-/*! react/jsx-runtime */
+/*! ahooks */
 
 /*! ../context */
 
-/*! react */
+/*! ./QueryForm */
 
 /*! react/jsx-runtime */
 
@@ -24,33 +16,37 @@
 
 /*! ./CopilotBlock */
 
+/*! @/components/SolutionCard */
+
+/*! ./context */
+
 /*! react */
+
+/*! ./SolutionListView */
 
 /*! react */
 
 /*! react */
 
-/*! ../context */
+/*! react */
+
+/*! lodash-es */
 
 /*! react/jsx-runtime */
+
+/*! react */
 
 /*! numeral */
 
 /*! antd */
 
-/*! ./assets/sorry.png */
-
-/*! ./hooks/use-request-solution */
-
 /*! react/jsx-runtime */
-
-/*! @/services/solution-algorithm */
 
 /*! ./utils */
 
 /*! ./constants */
 
-/*! ../utils/without-exclude */
+/*! ../context */
 
 /*! @/components/TermNotFound */
 
@@ -60,29 +56,27 @@
 
 /*! lodash-es */
 
+/*! react/jsx-runtime */
+
 /*! @/models/aurorians */
 
 /*! ./hooks/use-initial-values */
 
-/*! antd */
+/*! ./hooks/use-request-solution */
 
-/*! @/models/aurorians */
-
-/*! ahooks */
-
-/*! @modern-js/runtime/model */
+/*! ./assets/sorry.png */
 
 /*! @/services/http */
 
 /*! ./styles.module.less */
 
+/*! @/services/solution-algorithm */
+
 /*! antd */
 
 /*! @/views/GlobalLayout/constants */
 
-/*! @ant-design/pro-components */
-
-/*! constate */
+/*! ../utils/without-exclude */
 
 /*! react/jsx-runtime */
 
@@ -92,15 +86,19 @@
 
 /*! antd */
 
+/*! @/models/aurorians */
+
 /*! react/jsx-runtime */
+
+/*! ahooks */
 
 /*! @ant-design/pro-components */
 
 /*! ./utils */
 
-/*! @/components/ExcludeAurorianFormList */
+/*! @modern-js/runtime/model */
 
-/*! ./styles.module.less */
+/*! @/components/ExcludeAurorianFormList */
 
 /*! react */
 
@@ -108,14 +106,16 @@
 
 /*! @modern-js/runtime/model */
 
-/*! @icon-park/react */
+/*! @ant-design/pro-components */
 
-/*! ahooks */
-
-/*! ahooks */
+/*! constate */
 
 /*! @icon-park/react */
 
-/*! ./QueryForm */
+/*! antd */
+
+/*! @icon-park/react */
+
+/*! ./styles.module.less */
 
 /*! @/components/TermChanger */
