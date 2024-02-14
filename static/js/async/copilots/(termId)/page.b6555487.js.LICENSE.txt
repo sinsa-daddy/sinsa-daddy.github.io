@@ -1,8 +1,10 @@
-/*! ./styles.module.less */
-
 /*! ../RelativeTimeText */
 
+/*! ./styles.module.less */
+
 /*! antd */
+
+/*! @sinsa/schema */
 
 /*! react/jsx-runtime */
 
@@ -32,15 +34,17 @@
 
 /*! ahooks */
 
-/*! react */
-
 /*! ./styles.module.less */
+
+/*! react */
 
 /*! @/components/SolutionCard/CopilotBlock */
 
 /*! ./CopilotListView */
 
 /*! react/jsx-runtime */
+
+/*! @/services/matchup */
 
 /*! ../AdaptiveAurorianCard/constants */
 
