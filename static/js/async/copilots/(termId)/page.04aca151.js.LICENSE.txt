@@ -1,11 +1,3 @@
-/*! ../RelativeTimeText */
-
-/*! ./styles.module.less */
-
-/*! antd */
-
-/*! @sinsa/schema */
-
 /*! react/jsx-runtime */
 
 /*! @/components/TermChanger */
@@ -24,17 +16,13 @@
 
 /*! react */
 
-/*! react */
-
 /*! @/views/GlobalLayout/constants */
-
-/*! antd */
 
 /*! @ant-design/pro-components */
 
 /*! ahooks */
 
-/*! ./styles.module.less */
+/*! react */
 
 /*! react */
 
@@ -42,10 +30,22 @@
 
 /*! ./CopilotListView */
 
+/*! antd */
+
+/*! ./styles.module.less */
+
+/*! @/components/BossCard */
+
+/*! ./styles.module.less */
+
 /*! react/jsx-runtime */
 
 /*! @/services/matchup */
 
 /*! ../AdaptiveAurorianCard/constants */
 
-/*! @/components/BossCard */
+/*! antd */
+
+/*! @sinsa/schema */
+
+/*! ../RelativeTimeText */
