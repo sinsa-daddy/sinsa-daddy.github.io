@@ -1,3 +1,7 @@
+/*! ./styles.module.less */
+
+/*! ../RelativeTimeText */
+
 /*! antd */
 
 /*! react/jsx-runtime */
@@ -28,9 +32,9 @@
 
 /*! ahooks */
 
-/*! ./styles.module.less */
-
 /*! react */
+
+/*! ./styles.module.less */
 
 /*! @/components/SolutionCard/CopilotBlock */
 
@@ -41,7 +45,3 @@
 /*! ../AdaptiveAurorianCard/constants */
 
 /*! @/components/BossCard */
-
-/*! ../RelativeTimeText */
-
-/*! ./styles.module.less */
