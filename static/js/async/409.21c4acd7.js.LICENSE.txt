@@ -1,10 +1,12 @@
-/*! ./styles.module.less */
-
-/*! @/models/terms */
-
-/*! ./styles.module.less */
-
 /*! @/views/GlobalLayout/constants */
+
+/*! ./styles.module.less */
+
+/*! react */
+
+/*! @modern-js/runtime/model */
+
+/*! ./styles.module.less */
 
 /*! react */
 
@@ -20,33 +22,31 @@
 
 /*! ./styles.module.less */
 
-/*! @modern-js/runtime/model */
-
-/*! react */
+/*! react/jsx-runtime */
 
 /*! antd */
 
 /*! react */
 
-/*! react/jsx-runtime */
-
 /*! clsx */
+
+/*! @modern-js/runtime/router */
+
+/*! @/models/terms */
 
 /*! react/jsx-runtime */
 
 /*! @/views/SolutionView/utils/without-exclude */
 
-/*! @modern-js/runtime/router */
+/*! react/jsx-runtime */
 
 /*! @ant-design/pro-components */
-
-/*! @/models/terms */
 
 /*! @/components/RelativeTimeText */
 
 /*! react/jsx-runtime */
 
-/*! react/jsx-runtime */
+/*! @modern-js/runtime/router */
 
 /*! dayjs */
 
@@ -54,15 +54,13 @@
 
 /*! @/components/AdaptiveAurorianCard */
 
-/*! ./AdaptiveAuroriansTeam */
+/*! antd */
 
-/*! @modern-js/runtime/router */
+/*! ./AdaptiveAuroriansTeam */
 
 /*! react */
 
 /*! ./styles.module.less */
-
-/*! antd */
 
 /*! antd */
 
@@ -80,24 +78,26 @@
 
 /*! @/models/aurorians */
 
+/*! immer */
+
+/*! @modern-js/runtime/model */
+
 /*! @modern-js/runtime/model */
 
 /*! ./hooks/use-lazy-image */
 
+/*! antd */
+
 /*! @ant-design/pro-components */
 
-/*! immer */
-
-/*! @modern-js/runtime/model */
+/*! react */
 
 /*! react/jsx-runtime */
 
 /*! antd */
 
-/*! react */
-
-/*! antd */
-
 /*! ./constants */
+
+/*! @/models/terms */
 
 /*! numeral */
