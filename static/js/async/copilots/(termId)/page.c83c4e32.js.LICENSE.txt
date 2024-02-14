@@ -1,0 +1,47 @@
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! @/components/TermChanger */
+
+/*! @/components/TermNotFound */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! @/views/CopilotsView */
+
+/*! @/services/http */
+
+/*! react */
+
+/*! react */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! antd */
+
+/*! @ant-design/pro-components */
+
+/*! ahooks */
+
+/*! ./styles.module.less */
+
+/*! react */
+
+/*! @/components/SolutionCard/CopilotBlock */
+
+/*! ./CopilotListView */
+
+/*! react/jsx-runtime */
+
+/*! ../AdaptiveAurorianCard/constants */
+
+/*! @/components/BossCard */
+
+/*! ../RelativeTimeText */
+
+/*! ./styles.module.less */
