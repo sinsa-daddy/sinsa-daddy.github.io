@@ -1,74 +1,72 @@
-/*! . */
+/*! ./CopilotListView */
 
-/*! react/jsx-runtime */
+/*! constate */
+
+/*! ./styles.module.less */
 
 /*! @/views/GlobalLayout/constants */
 
-/*! antd */
+/*! react */
 
 /*! react/jsx-runtime */
-
-/*! @/components/SolutionCard/CopilotBlock */
 
 /*! @/views/CopilotsView/CopilotListView/CopilotSortContext/select */
 
-/*! react */
-
 /*! react/jsx-runtime */
 
-/*! ./CopilotListView */
-
-/*! ./types */
-
-/*! ./CopilotSortContext/types */
-
-/*! @/components/BossCard */
+/*! antd */
 
 /*! @/views/CopilotsView/CopilotListView/CopilotSortContext */
 
-/*! ./types */
+/*! . */
 
-/*! ./CopilotSortContext */
+/*! @/components/SolutionCard/CopilotBlock */
+
+/*! @sinsa/schema */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @/components/BossCard */
+
+/*! react/jsx-runtime */
+
+/*! react */
 
 /*! antd */
 
 /*! react */
 
-/*! @sinsa/schema */
-
-/*! antd */
-
 /*! @ant-design/pro-components */
+
+/*! ./types */
 
 /*! antd */
 
 /*! ahooks */
 
-/*! constate */
-
 /*! react */
 
-/*! ./styles.module.less */
-
-/*! react/jsx-runtime */
+/*! ./CopilotSortContext/types */
 
 /*! ./styles.module.less */
 
 /*! @/components/TermChanger */
 
-/*! react */
+/*! ./types */
 
 /*! @/components/TermNotFound */
 
 /*! react/jsx-runtime */
+
+/*! ./CopilotSortContext */
 
 /*! @/views/CopilotsView */
 
 /*! @/services/matchup */
 
 /*! ../AdaptiveAurorianCard/constants */
-
-/*! antd */
 
 /*! @/services/http */
 
