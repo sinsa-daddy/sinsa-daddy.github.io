@@ -1,0 +1,105 @@
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/router */
+
+/*! dayjs */
+
+/*! @/models/terms */
+
+/*! clsx */
+
+/*! @/components/AdaptiveAurorianCard */
+
+/*! react/jsx-runtime */
+
+/*! ./AdaptiveAuroriansTeam */
+
+/*! react */
+
+/*! ./styles.module.less */
+
+/*! antd */
+
+/*! framer-motion */
+
+/*! react/jsx-runtime */
+
+/*! @icon-park/react */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! ./constants */
+
+/*! @/models/aurorians */
+
+/*! @modern-js/runtime/router */
+
+/*! @modern-js/runtime/model */
+
+/*! ./hooks/use-lazy-image */
+
+/*! @ant-design/pro-components */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! ./constants */
+
+/*! numeral */
+
+/*! ./styles.module.less */
+
+/*! immer */
+
+/*! @modern-js/runtime/model */
+
+/*! ./styles.module.less */
+
+/*! antd */
+
+/*! react */
+
+/*! react */
+
+/*! ./styles.module.less */
+
+/*! ./components/asc */
+
+/*! @/components/utils */
+
+/*! clsx */
+
+/*! ./styles.module.less */
+
+/*! react */
+
+/*! antd */
+
+/*! react */
+
+/*! @/models/terms */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! react */
+
+/*! @modern-js/runtime/model */
+
+/*! clsx */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @/views/SolutionView/utils/without-exclude */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! @/components/RelativeTimeText */
