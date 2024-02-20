@@ -1,0 +1,137 @@
+/*! @/services/solution-algorithm */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! ../utils/without-exclude */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @/assets/sinsa/sorry.png */
+
+/*! @/models/aurorians */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! ../../QueryForm/utils */
+
+/*! react/jsx-runtime */
+
+/*! ./AdaptiveAuroriansTeam */
+
+/*! antd */
+
+/*! clsx */
+
+/*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
+
+/*! react */
+
+/*! @icon-park/react */
+
+/*! ./constants */
+
+/*! framer-motion */
+
+/*! @modern-js/runtime/router */
+
+/*! react/jsx-runtime */
+
+/*! @/models/terms */
+
+/*! immer */
+
+/*! react/jsx-runtime */
+
+/*! ../../utils/without-exclude */
+
+/*! ./constants */
+
+/*! @/models/aurorians */
+
+/*! ./styles.module.less */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! ./hooks/use-lazy-image */
+
+/*! @ant-design/pro-components */
+
+/*! antd */
+
+/*! ahooks */
+
+/*! react */
+
+/*! ./constants */
+
+/*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
+
+/*! ./hooks/use-request-solution */
+
+/*! @modern-js/runtime/router */
+
+/*! numeral */
+
+/*! ./styles.module.less */
+
+/*! antd */
+
+/*! antd */
+
+/*! react */
+
+/*! @/components/utils */
+
+/*! react/jsx-runtime */
+
+/*! @/views/SolutionView/context */
+
+/*! react */
+
+/*! ./styles.module.less */
+
+/*! ./components/asc */
+
+/*! clsx */
+
+/*! ./styles.module.less */
+
+/*! ./hooks/use-trigger-form-action */
+
+/*! @ant-design/pro-components */
+
+/*! constate */
+
+/*! @modern-js/runtime/model */
+
+/*! antd */
+
+/*! clsx */
+
+/*! react */
+
+/*! react */
+
+/*! dayjs */
+
+/*! @/components/AdaptiveAurorianCard */
+
+/*! @ant-design/pro-components */
+
+/*! react */
+
+/*! @/views/SolutionView/context */
+
+/*! @/models/terms */
+
+/*! ./styles.module.less */
+
+/*! @/components/RelativeTimeText */
