@@ -1,0 +1,173 @@
+/*! @/services/http */
+
+/*! ahooks */
+
+/*! ./constants */
+
+/*! @/services/http */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/model */
+
+/*! @ant-design/pro-components */
+
+/*! ./utils/get-copilot-id */
+
+/*! @/models/terms */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! antd */
+
+/*! ./styles.module.less */
+
+/*! ./CopilotSelector */
+
+/*! ./hooks/useVideoInfo */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/model */
+
+/*! @ant-design/pro-components */
+
+/*! ../LatestVideoCard */
+
+/*! ahooks */
+
+/*! ahooks */
+
+/*! immer */
+
+/*! antd */
+
+/*! @/models/feishu */
+
+/*! react */
+
+/*! @/models/feishu */
+
+/*! ahooks */
+
+/*! dayjs */
+
+/*! @/components/UploadForm */
+
+/*! @modern-js/runtime/model */
+
+/*! immer */
+
+/*! @/components/AdaptiveAurorianCard */
+
+/*! react */
+
+/*! ./hooks/useCheckVideoExist */
+
+/*! ahooks */
+
+/*! @/services/http */
+
+/*! numeral */
+
+/*! ./utils/preprocess */
+
+/*! react */
+
+/*! @/components/UploadForm/AurorianTallCard */
+
+/*! @modern-js/runtime/router */
+
+/*! @sinsa/schema */
+
+/*! ./schemas/SimpleLatestCopilot */
+
+/*! react */
+
+/*! @/services/http */
+
+/*! antd */
+
+/*! ./styles.module.less */
+
+/*! ./useLatestVideo */
+
+/*! ./schemas/SearchVideo */
+
+/*! lodash-es */
+
+/*! lodash-es */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! ./styles.module.less */
+
+/*! dayjs */
+
+/*! @/services/http */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! lodash-es */
+
+/*! @modern-js/runtime/model */
+
+/*! @sinsa/schema */
+
+/*! @/models/feishu */
+
+/*! ./hooks/usePostCopilot */
+
+/*! ./utils/ensure */
+
+/*! @/views/UploadView/LarkLoginCard */
+
+/*! ./utils/normalizeRemark */
+
+/*! @/models/aurorians */
+
+/*! ./utils/rules */
+
+/*! ./styles.module.less */
+
+/*! ../utils */
+
+/*! @modern-js/runtime/model */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! @/models/aurorians */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! react/jsx-runtime */
+
+/*! ahooks */
+
+/*! @sinsa/schema */
+
+/*! react/jsx-runtime */
+
+/*! lodash-es */
+
+/*! react */
+
+/*! ./VideoIframe */
+
+/*! @sinsa/schema */
+
+/*! ../RelativeTimeText */
+
+/*! antd */
+
+/*! ./deny-list.json */

@@ -1,0 +1,155 @@
+/*! @modern-js/runtime/router */
+
+/*! @icon-park/react */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! @/models/terms */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! @ant-design/pro-components */
+
+/*! @/views/SolutionView/context */
+
+/*! ./utils */
+
+/*! @/components/RelativeTimeText */
+
+/*! @/components/ExcludeAurorianFormList */
+
+/*! react/jsx-runtime */
+
+/*! ../context */
+
+/*! antd */
+
+/*! @modern-js/runtime/router */
+
+/*! @icon-park/react */
+
+/*! antd */
+
+/*! @/components/TermChanger */
+
+/*! @ebay/nice-modal-react */
+
+/*! ahooks */
+
+/*! ./AdaptiveAuroriansTeam */
+
+/*! react/jsx-runtime */
+
+/*! ../AdaptiveAurorianCard */
+
+/*! @ant-design/pro-components */
+
+/*! ./CopilotBlock */
+
+/*! antd */
+
+/*! react */
+
+/*! @icon-park/react */
+
+/*! react */
+
+/*! ../context */
+
+/*! antd */
+
+/*! @modern-js/runtime/model */
+
+/*! numeral */
+
+/*! antd */
+
+/*! react */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! ./styles.module.less */
+
+/*! react */
+
+/*! ./utils */
+
+/*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
+
+/*! ./constants */
+
+/*! lodash-es */
+
+/*! @/models/terms */
+
+/*! @/models/aurorians */
+
+/*! numeral */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! antd */
+
+/*! ./styles.module.less */
+
+/*! @modern-js/runtime/model */
+
+/*! ./styles.module.less */
+
+/*! @/assets/sinsa/sorry.png */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @/assets/sinsa/sorry.png */
+
+/*! react */
+
+/*! ./constants */
+
+/*! @/components/utils */
+
+/*! @/components/TermNotFound */
+
+/*! react/jsx-runtime */
+
+/*! @/components/RelativeTimeText */
+
+/*! @/views/SolutionView */
+
+/*! ./hooks/use-initial-values */
+
+/*! ./QueryForm */
+
+/*! @/services/http */
+
+/*! @/components/SolutionCard */
+
+/*! ./context */
+
+/*! ./SolutionListView */
+
+/*! react */
+
+/*! ahooks */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! antd */
+
+/*! clsx */
+
+/*! @modern-js/runtime/model */

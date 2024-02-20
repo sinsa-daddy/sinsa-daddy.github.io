@@ -1,0 +1,123 @@
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! framer-motion */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @/models/aurorians */
+
+/*! ./constants */
+
+/*! @/models/aurorians */
+
+/*! ahooks */
+
+/*! @modern-js/runtime/model */
+
+/*! ./hooks/use-lazy-image */
+
+/*! @ant-design/pro-components */
+
+/*! ./hooks/use-request-solution */
+
+/*! @icon-park/react */
+
+/*! ../../QueryForm/utils */
+
+/*! @sinsa/schema */
+
+/*! react/jsx-runtime */
+
+/*! clsx */
+
+/*! @/components/SolutionCard/CopilotBlock/AdaptiveAuroriansTeam */
+
+/*! immer */
+
+/*! antd */
+
+/*! @ebay/nice-modal-react */
+
+/*! ./hooks/use-trigger-form-action */
+
+/*! @/components/utils */
+
+/*! @/views/SolutionView/context */
+
+/*! react */
+
+/*! @modern-js/runtime/model */
+
+/*! ./styles.module.less */
+
+/*! ./components/asc */
+
+/*! clsx */
+
+/*! ./styles.module.less */
+
+/*! numeral */
+
+/*! dayjs */
+
+/*! @/components/AdaptiveAurorianCard */
+
+/*! react */
+
+/*! constate */
+
+/*! ./styles.module.less */
+
+/*! @ant-design/pro-components */
+
+/*! ./styles.module.less */
+
+/*! ../../utils/without-exclude */
+
+/*! ../schemas/query-params */
+
+/*! immer */
+
+/*! @ant-design/pro-components */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! ./constants */
+
+/*! ahooks */
+
+/*! @/services/solution-algorithm */
+
+/*! ../utils/without-exclude */
+
+/*! ../../DiffModal */
+
+/*! ./helpers/patch */
+
+/*! antd */
+
+/*! react */
+
+/*! @/components/RelativeTimeText */
+
+/*! @/models/aurorians */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! ./styles.module.less */
+
+/*! clsx */
+
+/*! @ebay/nice-modal-react */
+
+/*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
+
+/*! react */
