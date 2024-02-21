@@ -1,44 +1,60 @@
-/*! react/jsx-runtime */
-
-/*! antd */
-
 /*! framer-motion */
 
-/*! react */
-
 /*! react/jsx-runtime */
 
-/*! @/models/aurorians */
+/*! ./styles.module.less */
 
 /*! ./constants */
 
 /*! @/models/aurorians */
 
-/*! ahooks */
+/*! @ebay/nice-modal-react */
 
 /*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! antd */
 
 /*! ./hooks/use-lazy-image */
 
 /*! @ant-design/pro-components */
 
+/*! react */
+
+/*! @/models/aurorians */
+
+/*! ahooks */
+
+/*! antd */
+
 /*! ./hooks/use-request-solution */
+
+/*! @sinsa/schema */
 
 /*! @icon-park/react */
 
 /*! ../../QueryForm/utils */
 
-/*! @sinsa/schema */
-
 /*! react/jsx-runtime */
 
 /*! clsx */
 
+/*! @/views/SolutionView/context */
+
 /*! @/components/SolutionCard/CopilotBlock/AdaptiveAuroriansTeam */
+
+/*! react */
+
+/*! ./styles.module.less */
+
+/*! ./components/asc */
 
 /*! immer */
 
-/*! antd */
+/*! clsx */
+
+/*! ./styles.module.less */
 
 /*! @ebay/nice-modal-react */
 
@@ -46,37 +62,25 @@
 
 /*! @/components/utils */
 
-/*! @/views/SolutionView/context */
-
-/*! react */
+/*! @ant-design/pro-components */
 
 /*! @modern-js/runtime/model */
 
-/*! ./styles.module.less */
+/*! dayjs */
 
-/*! ./components/asc */
+/*! ../../utils/without-exclude */
 
-/*! clsx */
-
-/*! ./styles.module.less */
+/*! constate */
 
 /*! numeral */
-
-/*! dayjs */
 
 /*! @/components/AdaptiveAurorianCard */
 
 /*! react */
 
-/*! constate */
-
 /*! ./styles.module.less */
 
-/*! @ant-design/pro-components */
-
 /*! ./styles.module.less */
-
-/*! ../../utils/without-exclude */
 
 /*! ../schemas/query-params */
 
@@ -98,6 +102,8 @@
 
 /*! ../../DiffModal */
 
+/*! react/jsx-runtime */
+
 /*! ./helpers/patch */
 
 /*! antd */
@@ -106,17 +112,11 @@
 
 /*! @/components/RelativeTimeText */
 
-/*! @/models/aurorians */
+/*! clsx */
 
 /*! @modern-js/runtime/model */
 
-/*! react/jsx-runtime */
-
-/*! ./styles.module.less */
-
-/*! clsx */
-
-/*! @ebay/nice-modal-react */
+/*! @/models/aurorians */
 
 /*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
 
