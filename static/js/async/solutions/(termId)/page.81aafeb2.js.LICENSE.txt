@@ -1,0 +1,155 @@
+/*! @icon-park/react */
+
+/*! @/assets/sinsa/sorry.png */
+
+/*! ./constants */
+
+/*! @/components/TermNotFound */
+
+/*! react/jsx-runtime */
+
+/*! @/components/RelativeTimeText */
+
+/*! @/views/SolutionView */
+
+/*! ./QueryForm */
+
+/*! @ant-design/pro-components */
+
+/*! ./hooks/use-initial-values */
+
+/*! @/views/SolutionView/context */
+
+/*! @/services/http */
+
+/*! @/components/RelativeTimeText */
+
+/*! @/components/SolutionCard */
+
+/*! react */
+
+/*! ./context */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! ./SolutionListView */
+
+/*! ahooks */
+
+/*! antd */
+
+/*! @modern-js/runtime/router */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! @/models/terms */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! ./AdaptiveAuroriansTeam */
+
+/*! react/jsx-runtime */
+
+/*! ../AdaptiveAurorianCard */
+
+/*! @ant-design/pro-components */
+
+/*! antd */
+
+/*! ./utils */
+
+/*! @/components/ExcludeAurorianFormList */
+
+/*! @icon-park/react */
+
+/*! react/jsx-runtime */
+
+/*! ../context */
+
+/*! @modern-js/runtime/router */
+
+/*! antd */
+
+/*! @icon-park/react */
+
+/*! antd */
+
+/*! @/components/TermChanger */
+
+/*! @ebay/nice-modal-react */
+
+/*! ahooks */
+
+/*! ./CopilotBlock */
+
+/*! react/jsx-runtime */
+
+/*! ./utils */
+
+/*! react */
+
+/*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
+
+/*! ./constants */
+
+/*! react */
+
+/*! @/models/aurorians */
+
+/*! ../context */
+
+/*! numeral */
+
+/*! antd */
+
+/*! ./styles.module.less */
+
+/*! @modern-js/runtime/model */
+
+/*! numeral */
+
+/*! antd */
+
+/*! antd */
+
+/*! react */
+
+/*! react */
+
+/*! react */
+
+/*! @/components/utils */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! ./styles.module.less */
+
+/*! @/assets/sinsa/sorry.png */
+
+/*! lodash-es */
+
+/*! @/models/terms */
+
+/*! antd */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/model */
+
+/*! clsx */
+
+/*! @modern-js/runtime/model */
+
+/*! ./styles.module.less */
