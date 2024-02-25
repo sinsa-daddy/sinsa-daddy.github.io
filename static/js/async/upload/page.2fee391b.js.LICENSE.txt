@@ -1,22 +1,20 @@
-/*! @/services/http */
+/*! antd */
 
 /*! ahooks */
-
-/*! ./constants */
 
 /*! @/services/http */
 
 /*! react/jsx-runtime */
 
-/*! @modern-js/runtime/model */
+/*! lodash-es */
 
 /*! @ant-design/pro-components */
+
+/*! react */
 
 /*! ./utils/get-copilot-id */
 
 /*! @/models/terms */
-
-/*! @/views/GlobalLayout/constants */
 
 /*! antd */
 
@@ -26,19 +24,23 @@
 
 /*! ./hooks/useVideoInfo */
 
-/*! react/jsx-runtime */
+/*! @sinsa/schema */
 
 /*! react/jsx-runtime */
+
+/*! ahooks */
+
+/*! ./constants */
 
 /*! @modern-js/runtime/model */
 
-/*! @ant-design/pro-components */
-
 /*! ../LatestVideoCard */
 
-/*! ahooks */
+/*! @/services/http */
 
-/*! ahooks */
+/*! @/views/GlobalLayout/constants */
+
+/*! @modern-js/runtime/model */
 
 /*! immer */
 
@@ -46,15 +48,17 @@
 
 /*! @/models/feishu */
 
-/*! react */
+/*! ahooks */
 
-/*! @/models/feishu */
+/*! ahooks */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
 
 /*! ahooks */
 
 /*! dayjs */
-
-/*! @/components/UploadForm */
 
 /*! @modern-js/runtime/model */
 
@@ -64,11 +68,11 @@
 
 /*! react */
 
+/*! react */
+
 /*! ./hooks/useCheckVideoExist */
 
-/*! ahooks */
-
-/*! @/services/http */
+/*! @/models/feishu */
 
 /*! numeral */
 
@@ -78,41 +82,35 @@
 
 /*! @/components/UploadForm/AurorianTallCard */
 
-/*! @modern-js/runtime/router */
-
-/*! @sinsa/schema */
-
-/*! ./schemas/SimpleLatestCopilot */
+/*! @/components/UploadForm */
 
 /*! react */
 
-/*! @/services/http */
+/*! ahooks */
 
-/*! antd */
+/*! @/services/http */
 
 /*! ./styles.module.less */
 
 /*! ./useLatestVideo */
 
-/*! ./schemas/SearchVideo */
+/*! @sinsa/schema */
 
 /*! lodash-es */
 
-/*! lodash-es */
+/*! @modern-js/runtime/router */
+
+/*! ./schemas/SimpleLatestCopilot */
 
 /*! antd */
-
-/*! react/jsx-runtime */
 
 /*! ./styles.module.less */
 
 /*! dayjs */
 
-/*! @/services/http */
-
-/*! @modern-js/runtime/model */
-
 /*! react */
+
+/*! @/services/http */
 
 /*! ./utils/getDefaultBreakthrough */
 
@@ -122,15 +120,21 @@
 
 /*! @sinsa/schema */
 
+/*! antd */
+
+/*! ./schemas/SearchVideo */
+
+/*! lodash-es */
+
 /*! @/models/feishu */
 
 /*! ./hooks/usePostCopilot */
 
 /*! ./utils/ensure */
 
-/*! @/views/UploadView/LarkLoginCard */
-
 /*! ./utils/normalizeRemark */
+
+/*! react/jsx-runtime */
 
 /*! @/models/aurorians */
 
@@ -142,7 +146,7 @@
 
 /*! @modern-js/runtime/model */
 
-/*! antd */
+/*! @modern-js/runtime/model */
 
 /*! react/jsx-runtime */
 
@@ -152,15 +156,11 @@
 
 /*! react/jsx-runtime */
 
-/*! ahooks */
+/*! @/views/UploadView/LarkLoginCard */
 
-/*! @sinsa/schema */
+/*! @/services/http */
 
 /*! react/jsx-runtime */
-
-/*! lodash-es */
-
-/*! react */
 
 /*! ./VideoIframe */
 
