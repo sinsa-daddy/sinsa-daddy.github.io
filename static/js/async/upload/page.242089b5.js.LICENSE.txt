@@ -1,0 +1,173 @@
+/*! @ant-design/pro-components */
+
+/*! ahooks */
+
+/*! @/components/AdaptiveAurorianCard */
+
+/*! immer */
+
+/*! react */
+
+/*! @/models/feishu */
+
+/*! react */
+
+/*! ./hooks/useCheckVideoExist */
+
+/*! numeral */
+
+/*! ./utils/preprocess */
+
+/*! react */
+
+/*! @/components/UploadForm/AurorianTallCard */
+
+/*! @/components/UploadForm */
+
+/*! react */
+
+/*! ahooks */
+
+/*! @/services/http */
+
+/*! @sinsa/schema */
+
+/*! antd */
+
+/*! @modern-js/runtime/router */
+
+/*! ./schemas/SimpleLatestCopilot */
+
+/*! antd */
+
+/*! ahooks */
+
+/*! ./styles.module.less */
+
+/*! dayjs */
+
+/*! @/services/http */
+
+/*! dayjs */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! lodash-es */
+
+/*! @modern-js/runtime/model */
+
+/*! @sinsa/schema */
+
+/*! antd */
+
+/*! ./schemas/SearchVideo */
+
+/*! lodash-es */
+
+/*! @modern-js/runtime/model */
+
+/*! ./hooks/usePostCopilot */
+
+/*! ./utils/normalizeRemark */
+
+/*! ./utils/ensure */
+
+/*! @/models/aurorians */
+
+/*! ./utils/rules */
+
+/*! react/jsx-runtime */
+
+/*! ./styles.module.less */
+
+/*! @modern-js/runtime/model */
+
+/*! @modern-js/runtime/model */
+
+/*! @/services/http */
+
+/*! @/models/aurorians */
+
+/*! react/jsx-runtime */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! @sinsa/schema */
+
+/*! @/views/UploadView/LarkLoginCard */
+
+/*! react/jsx-runtime */
+
+/*! ./styles.module.less */
+
+/*! ./useLatestVideo */
+
+/*! ./VideoIframe */
+
+/*! lodash-es */
+
+/*! @/services/http */
+
+/*! ahooks */
+
+/*! antd */
+
+/*! antd */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! lodash-es */
+
+/*! @ant-design/pro-components */
+
+/*! react */
+
+/*! ./utils/get-copilot-id */
+
+/*! @/models/terms */
+
+/*! @/models/feishu */
+
+/*! antd */
+
+/*! ./styles.module.less */
+
+/*! ./CopilotSelector */
+
+/*! ./hooks/useVideoInfo */
+
+/*! @sinsa/schema */
+
+/*! react/jsx-runtime */
+
+/*! ../utils */
+
+/*! @modern-js/runtime/model */
+
+/*! ahooks */
+
+/*! react/jsx-runtime */
+
+/*! ../LatestVideoCard */
+
+/*! ./constants */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! immer */
+
+/*! @/models/feishu */
+
+/*! @/services/http */
+
+/*! ahooks */
+
+/*! @modern-js/runtime/model */
+
+/*! ../RelativeTimeText */
+
+/*! ./deny-list.json */
+
+/*! react/jsx-runtime */
