@@ -1,12 +1,12 @@
-/*! ../../QueryForm/utils */
-
 /*! framer-motion */
+
+/*! ../../QueryForm/utils */
 
 /*! react/jsx-runtime */
 
-/*! immer */
-
 /*! ./styles.module.less */
+
+/*! immer */
 
 /*! ./constants */
 
@@ -40,9 +40,9 @@
 
 /*! react/jsx-runtime */
 
-/*! immer */
-
 /*! clsx */
+
+/*! immer */
 
 /*! @/views/SolutionView/context */
 
@@ -54,21 +54,21 @@
 
 /*! ./components/asc */
 
-/*! ahooks */
-
 /*! clsx */
 
 /*! ./styles.module.less */
 
-/*! @/services/solution-algorithm */
+/*! ahooks */
 
 /*! ./constants */
 
+/*! @/services/solution-algorithm */
+
 /*! ../utils/without-exclude */
 
-/*! ../../DiffModal */
-
 /*! @ebay/nice-modal-react */
+
+/*! ../../DiffModal */
 
 /*! @/components/utils */
 
@@ -76,9 +76,9 @@
 
 /*! @modern-js/runtime/model */
 
-/*! @modern-js/runtime/model */
-
 /*! dayjs */
+
+/*! @modern-js/runtime/model */
 
 /*! numeral */
 
@@ -92,13 +92,13 @@
 
 /*! ../schemas/query-params */
 
-/*! @ebay/nice-modal-react */
-
 /*! @ant-design/pro-components */
 
 /*! react/jsx-runtime */
 
 /*! antd */
+
+/*! @ebay/nice-modal-react */
 
 /*! react/jsx-runtime */
 
@@ -114,10 +114,10 @@
 
 /*! ahooks */
 
-/*! @sinsa/schema */
-
-/*! ./hooks/use-request-solution */
-
 /*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
 
+/*! @sinsa/schema */
+
 /*! react */
+
+/*! ./hooks/use-request-solution */
