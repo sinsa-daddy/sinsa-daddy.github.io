@@ -1,14 +1,16 @@
+/*! ../../QueryForm/utils */
+
 /*! framer-motion */
 
 /*! react/jsx-runtime */
+
+/*! immer */
 
 /*! ./styles.module.less */
 
 /*! ./constants */
 
 /*! @/models/aurorians */
-
-/*! @ebay/nice-modal-react */
 
 /*! @modern-js/runtime/model */
 
@@ -20,23 +22,25 @@
 
 /*! @ant-design/pro-components */
 
+/*! ./hooks/use-trigger-form-action */
+
 /*! react */
 
 /*! @/models/aurorians */
 
-/*! ahooks */
+/*! @ant-design/pro-components */
+
+/*! ../../utils/without-exclude */
+
+/*! constate */
 
 /*! antd */
 
-/*! ./hooks/use-request-solution */
-
-/*! @sinsa/schema */
-
 /*! @icon-park/react */
 
-/*! ../../QueryForm/utils */
-
 /*! react/jsx-runtime */
+
+/*! immer */
 
 /*! clsx */
 
@@ -50,27 +54,31 @@
 
 /*! ./components/asc */
 
-/*! immer */
+/*! ahooks */
 
 /*! clsx */
 
 /*! ./styles.module.less */
 
-/*! @ebay/nice-modal-react */
+/*! @/services/solution-algorithm */
 
-/*! ./hooks/use-trigger-form-action */
+/*! ./constants */
+
+/*! ../utils/without-exclude */
+
+/*! ../../DiffModal */
+
+/*! @ebay/nice-modal-react */
 
 /*! @/components/utils */
 
-/*! @ant-design/pro-components */
+/*! @/models/aurorians */
+
+/*! @modern-js/runtime/model */
 
 /*! @modern-js/runtime/model */
 
 /*! dayjs */
-
-/*! ../../utils/without-exclude */
-
-/*! constate */
 
 /*! numeral */
 
@@ -84,23 +92,13 @@
 
 /*! ../schemas/query-params */
 
-/*! immer */
+/*! @ebay/nice-modal-react */
 
 /*! @ant-design/pro-components */
 
 /*! react/jsx-runtime */
 
 /*! antd */
-
-/*! ./constants */
-
-/*! ahooks */
-
-/*! @/services/solution-algorithm */
-
-/*! ../utils/without-exclude */
-
-/*! ../../DiffModal */
 
 /*! react/jsx-runtime */
 
@@ -114,9 +112,11 @@
 
 /*! clsx */
 
-/*! @modern-js/runtime/model */
+/*! ahooks */
 
-/*! @/models/aurorians */
+/*! @sinsa/schema */
+
+/*! ./hooks/use-request-solution */
 
 /*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
 
