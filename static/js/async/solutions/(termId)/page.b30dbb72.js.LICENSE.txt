@@ -1,0 +1,169 @@
+/*! react/jsx-runtime */
+
+/*! @/assets/sinsa/sorry.png */
+
+/*! ./constants */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! ./styles.module.less */
+
+/*! @/services/http */
+
+/*! @/components/RelativeTimeText */
+
+/*! @/assets/sinsa/sorry.png */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/router */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! ./utils */
+
+/*! ./constants */
+
+/*! react/jsx-runtime */
+
+/*! @/components/ExcludeAurorianFormList */
+
+/*! ./QueryForm */
+
+/*! @icon-park/react */
+
+/*! @modern-js/runtime/router */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! react */
+
+/*! @/components/TermChanger */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! @/models/aurorians */
+
+/*! ../context */
+
+/*! ../context */
+
+/*! ./styles.module.less */
+
+/*! @modern-js/runtime/model */
+
+/*! numeral */
+
+/*! antd */
+
+/*! react */
+
+/*! react */
+
+/*! @ebay/nice-modal-react */
+
+/*! @/models/terms */
+
+/*! antd */
+
+/*! @modern-js/runtime/model */
+
+/*! ./styles.module.less */
+
+/*! @icon-park/react */
+
+/*! ./SolutionAlert */
+
+/*! react */
+
+/*! @/components/TermNotFound */
+
+/*! @/views/SolutionView */
+
+/*! @/components/RelativeTimeText */
+
+/*! @ant-design/pro-components */
+
+/*! ./hooks/use-initial-values */
+
+/*! @/views/SolutionView/context */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! antd */
+
+/*! @ant-design/pro-components */
+
+/*! @/models/terms */
+
+/*! antd */
+
+/*! @ant-design/pro-components */
+
+/*! ./AdaptiveAuroriansTeam */
+
+/*! ../AdaptiveAurorianCard */
+
+/*! @ant-design/pro-components */
+
+/*! antd */
+
+/*! @/components/SolutionCard */
+
+/*! antd */
+
+/*! ./context */
+
+/*! ./SolutionListView */
+
+/*! react */
+
+/*! @icon-park/react */
+
+/*! antd */
+
+/*! ahooks */
+
+/*! ./CopilotBlock */
+
+/*! antd */
+
+/*! ./utils */
+
+/*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
+
+/*! ./constants */
+
+/*! numeral */
+
+/*! antd */
+
+/*! react */
+
+/*! @/components/utils */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! lodash-es */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! ahooks */
+
+/*! clsx */
+
+/*! @modern-js/runtime/model */
