@@ -1,3 +1,5 @@
+/*! @modern-js/runtime/model */
+
 /*! react/jsx-runtime */
 
 /*! @/assets/sinsa/sorry.png */
@@ -6,17 +8,17 @@
 
 /*! react/jsx-runtime */
 
-/*! react/jsx-runtime */
-
 /*! @/services/http */
 
 /*! @/components/RelativeTimeText */
 
-/*! ../context */
-
 /*! @modern-js/runtime/router */
 
 /*! react/jsx-runtime */
+
+/*! @/components/SolutionCard */
+
+/*! ./context */
 
 /*! react/jsx-runtime */
 
@@ -24,7 +26,9 @@
 
 /*! ./utils */
 
-/*! @ebay/nice-modal-react */
+/*! react */
+
+/*! ./SolutionListView */
 
 /*! react/jsx-runtime */
 
@@ -32,11 +36,9 @@
 
 /*! @icon-park/react */
 
+/*! antd */
+
 /*! @modern-js/runtime/router */
-
-/*! ./SolutionAlert */
-
-/*! react */
 
 /*! @/components/TermChanger */
 
@@ -60,23 +62,25 @@
 
 /*! react */
 
-/*! @/components/SolutionCard */
-
-/*! @/models/terms */
-
-/*! ./context */
+/*! ahooks */
 
 /*! antd */
 
-/*! react */
+/*! @/models/terms */
 
-/*! ./SolutionListView */
+/*! antd */
+
+/*! ./styles.module.less */
 
 /*! @modern-js/runtime/model */
 
 /*! ./styles.module.less */
 
 /*! @icon-park/react */
+
+/*! @/assets/sinsa/sorry.png */
+
+/*! react/jsx-runtime */
 
 /*! @/components/TermNotFound */
 
@@ -88,11 +92,13 @@
 
 /*! ./hooks/use-initial-values */
 
-/*! antd */
-
 /*! @/views/SolutionView/context */
 
+/*! ./constants */
+
 /*! @/views/GlobalLayout/constants */
+
+/*! ./QueryForm */
 
 /*! antd */
 
@@ -104,7 +110,13 @@
 
 /*! @ant-design/pro-components */
 
+/*! react/jsx-runtime */
+
+/*! antd */
+
 /*! ./AdaptiveAuroriansTeam */
+
+/*! react */
 
 /*! ../AdaptiveAurorianCard */
 
@@ -114,19 +126,17 @@
 
 /*! antd */
 
-/*! ahooks */
+/*! react/jsx-runtime */
 
 /*! @icon-park/react */
 
 /*! antd */
 
-/*! antd */
+/*! ../context */
 
 /*! ahooks */
 
 /*! ./CopilotBlock */
-
-/*! ./styles.module.less */
 
 /*! ./utils */
 
@@ -134,9 +144,7 @@
 
 /*! ./constants */
 
-/*! @/assets/sinsa/sorry.png */
-
-/*! react/jsx-runtime */
+/*! @ebay/nice-modal-react */
 
 /*! numeral */
 
@@ -144,26 +152,18 @@
 
 /*! react */
 
-/*! ./constants */
-
 /*! @/components/utils */
 
 /*! react/jsx-runtime */
 
 /*! react */
 
-/*! ./QueryForm */
+/*! react */
+
+/*! ./SolutionAlert */
 
 /*! lodash-es */
 
 /*! @/views/GlobalLayout/constants */
 
-/*! react/jsx-runtime */
-
-/*! antd */
-
-/*! react */
-
 /*! clsx */
-
-/*! @modern-js/runtime/model */
