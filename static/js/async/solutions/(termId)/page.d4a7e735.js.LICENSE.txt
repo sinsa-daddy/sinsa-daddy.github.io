@@ -4,19 +4,15 @@
 
 /*! ./constants */
 
-/*! antd */
-
 /*! react/jsx-runtime */
 
-/*! ./styles.module.less */
+/*! react/jsx-runtime */
 
 /*! @/services/http */
 
 /*! @/components/RelativeTimeText */
 
-/*! @/assets/sinsa/sorry.png */
-
-/*! react/jsx-runtime */
+/*! ../context */
 
 /*! @modern-js/runtime/router */
 
@@ -28,21 +24,17 @@
 
 /*! ./utils */
 
-/*! ./constants */
+/*! @ebay/nice-modal-react */
 
 /*! react/jsx-runtime */
 
 /*! @/components/ExcludeAurorianFormList */
 
-/*! ./QueryForm */
-
 /*! @icon-park/react */
 
 /*! @modern-js/runtime/router */
 
-/*! react/jsx-runtime */
-
-/*! antd */
+/*! ./SolutionAlert */
 
 /*! react */
 
@@ -50,13 +42,9 @@
 
 /*! react/jsx-runtime */
 
-/*! react/jsx-runtime */
-
 /*! react */
 
 /*! @/models/aurorians */
-
-/*! ../context */
 
 /*! ../context */
 
@@ -72,21 +60,23 @@
 
 /*! react */
 
-/*! @ebay/nice-modal-react */
+/*! @/components/SolutionCard */
 
 /*! @/models/terms */
 
+/*! ./context */
+
 /*! antd */
+
+/*! react */
+
+/*! ./SolutionListView */
 
 /*! @modern-js/runtime/model */
 
 /*! ./styles.module.less */
 
 /*! @icon-park/react */
-
-/*! ./SolutionAlert */
-
-/*! react */
 
 /*! @/components/TermNotFound */
 
@@ -97,6 +87,8 @@
 /*! @ant-design/pro-components */
 
 /*! ./hooks/use-initial-values */
+
+/*! antd */
 
 /*! @/views/SolutionView/context */
 
@@ -120,17 +112,13 @@
 
 /*! antd */
 
-/*! @/components/SolutionCard */
-
 /*! antd */
 
-/*! ./context */
-
-/*! ./SolutionListView */
-
-/*! react */
+/*! ahooks */
 
 /*! @icon-park/react */
+
+/*! antd */
 
 /*! antd */
 
@@ -138,7 +126,7 @@
 
 /*! ./CopilotBlock */
 
-/*! antd */
+/*! ./styles.module.less */
 
 /*! ./utils */
 
@@ -146,11 +134,17 @@
 
 /*! ./constants */
 
+/*! @/assets/sinsa/sorry.png */
+
+/*! react/jsx-runtime */
+
 /*! numeral */
 
 /*! antd */
 
 /*! react */
+
+/*! ./constants */
 
 /*! @/components/utils */
 
@@ -158,11 +152,17 @@
 
 /*! react */
 
+/*! ./QueryForm */
+
 /*! lodash-es */
 
 /*! @/views/GlobalLayout/constants */
 
-/*! ahooks */
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! react */
 
 /*! clsx */
 
