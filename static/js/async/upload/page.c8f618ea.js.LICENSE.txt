@@ -1,0 +1,173 @@
+/*! antd */
+
+/*! @/components/AdaptiveAurorianCard */
+
+/*! immer */
+
+/*! react */
+
+/*! react */
+
+/*! @/components/UploadForm/AurorianTallCard */
+
+/*! ahooks */
+
+/*! @/services/http */
+
+/*! antd */
+
+/*! ./CopilotSelector */
+
+/*! @sinsa/schema */
+
+/*! ./schemas/SimpleLatestCopilot */
+
+/*! ahooks */
+
+/*! ./hooks/usePostCopilot */
+
+/*! ./utils/ensure */
+
+/*! ./constants */
+
+/*! @/services/http */
+
+/*! antd */
+
+/*! ../LatestVideoCard */
+
+/*! ./utils/rules */
+
+/*! antd */
+
+/*! ahooks */
+
+/*! ./styles.module.less */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! ./schemas/SearchVideo */
+
+/*! dayjs */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! lodash-es */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! lodash-es */
+
+/*! @modern-js/runtime/model */
+
+/*! ./VideoIframe */
+
+/*! ./utils/normalizeRemark */
+
+/*! @sinsa/schema */
+
+/*! @/models/aurorians */
+
+/*! @/models/feishu */
+
+/*! react */
+
+/*! @sinsa/schema */
+
+/*! ./styles.module.less */
+
+/*! @modern-js/runtime/model */
+
+/*! @modern-js/runtime/model */
+
+/*! @/models/aurorians */
+
+/*! react/jsx-runtime */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! numeral */
+
+/*! @/components/UploadForm */
+
+/*! ahooks */
+
+/*! ./utils/get-copilot-id */
+
+/*! react/jsx-runtime */
+
+/*! ./styles.module.less */
+
+/*! ./useLatestVideo */
+
+/*! ./styles.module.less */
+
+/*! react */
+
+/*! ./hooks/useVideoInfo */
+
+/*! lodash-es */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! @modern-js/runtime/router */
+
+/*! react */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! lodash-es */
+
+/*! @/models/feishu */
+
+/*! antd */
+
+/*! @/models/feishu */
+
+/*! ahooks */
+
+/*! ahooks */
+
+/*! @sinsa/schema */
+
+/*! @/services/http */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! ../utils */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/model */
+
+/*! @/services/http */
+
+/*! immer */
+
+/*! ./hooks/useCheckVideoExist */
+
+/*! @/schemas/feishu-access-token */
+
+/*! ./utils/preprocess */
+
+/*! @/views/UploadView/LarkLoginCard */
+
+/*! ../RelativeTimeText */
+
+/*! ./deny-list.json */
+
+/*! @/services/http */
