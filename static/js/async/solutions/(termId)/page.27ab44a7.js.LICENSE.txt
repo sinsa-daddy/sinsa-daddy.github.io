@@ -1,14 +1,16 @@
-/*! ./styles.module.less */
+/*! @/components/SolutionCard */
 
 /*! @modern-js/runtime/router */
 
 /*! ./utils */
 
-/*! @/assets/sinsa/sorry.png */
+/*! ./context */
+
+/*! ./SolutionListView */
+
+/*! react */
 
 /*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
-
-/*! react/jsx-runtime */
 
 /*! ./constants */
 
@@ -16,25 +18,19 @@
 
 /*! numeral */
 
-/*! ./constants */
-
 /*! react */
 
-/*! @/components/utils */
+/*! antd */
 
-/*! ./QueryForm */
+/*! @/components/utils */
 
 /*! ../context */
 
 /*! @modern-js/runtime/model */
 
-/*! numeral */
-
-/*! react */
-
 /*! react/jsx-runtime */
 
-/*! antd */
+/*! numeral */
 
 /*! react */
 
@@ -46,15 +42,13 @@
 
 /*! antd */
 
-/*! react/jsx-runtime */
-
 /*! @modern-js/runtime/model */
 
 /*! ./styles.module.less */
 
-/*! @/components/RelativeTimeText */
+/*! ahooks */
 
-/*! ../context */
+/*! @/components/RelativeTimeText */
 
 /*! @/components/TermNotFound */
 
@@ -62,15 +56,21 @@
 
 /*! @/components/RelativeTimeText */
 
+/*! antd */
+
 /*! ./hooks/use-initial-values */
 
-/*! @ebay/nice-modal-react */
+/*! ./styles.module.less */
 
 /*! @/views/GlobalLayout/constants */
 
 /*! react/jsx-runtime */
 
 /*! antd */
+
+/*! @/assets/sinsa/sorry.png */
+
+/*! react/jsx-runtime */
 
 /*! @ant-design/pro-components */
 
@@ -82,17 +82,21 @@
 
 /*! @ant-design/pro-components */
 
-/*! ./SolutionAlert */
+/*! ./constants */
 
-/*! react */
-
-/*! antd */
+/*! ./QueryForm */
 
 /*! react/jsx-runtime */
 
 /*! @icon-park/react */
 
+/*! react/jsx-runtime */
+
 /*! antd */
+
+/*! antd */
+
+/*! react */
 
 /*! ahooks */
 
@@ -106,15 +110,11 @@
 
 /*! react */
 
-/*! @/components/SolutionCard */
+/*! react/jsx-runtime */
 
-/*! ./context */
+/*! ../context */
 
 /*! antd */
-
-/*! react */
-
-/*! ./SolutionListView */
 
 /*! react */
 
@@ -122,11 +122,11 @@
 
 /*! react */
 
+/*! @ebay/nice-modal-react */
+
 /*! @icon-park/react */
 
 /*! lodash-es */
-
-/*! antd */
 
 /*! @ant-design/pro-components */
 
@@ -136,13 +136,17 @@
 
 /*! @/assets/sinsa/sorry.png */
 
-/*! react/jsx-runtime */
-
 /*! ./constants */
 
 /*! react/jsx-runtime */
 
+/*! ./SolutionAlert */
+
+/*! react */
+
 /*! @/services/http */
+
+/*! antd */
 
 /*! ./AdaptiveAuroriansTeam */
 
@@ -156,8 +160,6 @@
 
 /*! react/jsx-runtime */
 
-/*! ahooks */
-
 /*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
@@ -165,5 +167,3 @@
 /*! ./utils */
 
 /*! @/components/ExcludeAurorianFormList */
-
-/*! antd */
