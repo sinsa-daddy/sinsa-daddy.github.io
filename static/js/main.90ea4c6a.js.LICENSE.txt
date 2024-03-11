@@ -72,6 +72,8 @@
 
 /*! @/models/aurorians */
 
+/*! @/models/terms/helpers/get-latest-term */
+
 /*! ./aurorian */
 
 /*! core-js/modules/esnext.set.map.js */
@@ -242,8 +244,6 @@
 
 /*! core-js/modules/esnext.set.intersection.js */
 
-/*! react */
-
 /*! ./to-feishu-copilot */
 
 /*! @/components/ErrorBoundary */
@@ -319,6 +319,8 @@
 /*! @/assets/elements/3.webp */
 
 /*! @modern-js/runtime/model */
+
+/*! react */
 
 /*! antd */
 
@@ -552,8 +554,6 @@
 
 /*! core-js/modules/es.array.find-last-index.js */
 
-/*! @sinsa/schema */
-
 /*! core-js/modules/esnext.math.rad-per-deg.js */
 
 /*! core-js/modules/esnext.set.is-superset-of.v2.js */
@@ -624,8 +624,6 @@
 
 /*! core-js/modules/esnext.composite-symbol.js */
 
-/*! @/models/terms/helpers/get-latest-term */
-
 /*! @/assets/wrench.svg */
 
 /*! core-js/modules/esnext.set.every.js */
@@ -637,3 +635,5 @@
 /*! core-js/modules/esnext.set.is-disjoint-from.js */
 
 /*! core-js/modules/web.url-search-params.size.js */
+
+/*! @sinsa/schema */

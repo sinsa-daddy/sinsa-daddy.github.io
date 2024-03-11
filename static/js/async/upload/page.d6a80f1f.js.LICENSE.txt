@@ -1,0 +1,173 @@
+/*! ./schemas/SearchVideo */
+
+/*! lodash-es */
+
+/*! react/jsx-runtime */
+
+/*! immer */
+
+/*! ./hooks/useCheckVideoExist */
+
+/*! @ant-design/pro-components */
+
+/*! ./utils/preprocess */
+
+/*! @sinsa/schema */
+
+/*! ./deny-list.json */
+
+/*! @/models/feishu */
+
+/*! react */
+
+/*! @sinsa/schema */
+
+/*! @/components/AdaptiveAurorianCard */
+
+/*! immer */
+
+/*! @/components/UploadForm */
+
+/*! react */
+
+/*! ahooks */
+
+/*! ahooks */
+
+/*! antd */
+
+/*! react */
+
+/*! @/components/UploadForm/AurorianTallCard */
+
+/*! antd */
+
+/*! ahooks */
+
+/*! ./CopilotSelector */
+
+/*! @modern-js/runtime/router */
+
+/*! lodash-es */
+
+/*! react */
+
+/*! dayjs */
+
+/*! ./hooks/usePostCopilot */
+
+/*! ./utils/ensure */
+
+/*! ../LatestVideoCard */
+
+/*! @modern-js/runtime/model */
+
+/*! antd */
+
+/*! ./utils/rules */
+
+/*! antd */
+
+/*! ./styles.module.less */
+
+/*! @/services/http */
+
+/*! react/jsx-runtime */
+
+/*! @/services/http */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! lodash-es */
+
+/*! @modern-js/runtime/model */
+
+/*! @/services/http */
+
+/*! @modern-js/runtime/model */
+
+/*! ./VideoIframe */
+
+/*! ./utils/normalizeRemark */
+
+/*! ./styles.module.less */
+
+/*! @/models/aurorians */
+
+/*! ./useLatestVideo */
+
+/*! @/views/UploadView/LarkLoginCard */
+
+/*! @/schemas/feishu-access-token */
+
+/*! ./styles.module.less */
+
+/*! lodash-es */
+
+/*! @modern-js/runtime/model */
+
+/*! @modern-js/runtime/model */
+
+/*! @/models/aurorians */
+
+/*! @/services/http */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! react/jsx-runtime */
+
+/*! numeral */
+
+/*! ./utils/get-copilot-id */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! ./styles.module.less */
+
+/*! ./hooks/useVideoInfo */
+
+/*! react */
+
+/*! @/models/terms */
+
+/*! @/models/feishu */
+
+/*! antd */
+
+/*! antd */
+
+/*! ahooks */
+
+/*! ahooks */
+
+/*! @/services/http */
+
+/*! ../utils */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! @/models/feishu */
+
+/*! @sinsa/schema */
+
+/*! ahooks */
+
+/*! ./constants */
+
+/*! @sinsa/schema */
+
+/*! ./schemas/SimpleLatestCopilot */
+
+/*! react/jsx-runtime */
+
+/*! ../RelativeTimeText */
+
+/*! @modern-js/runtime/model */
+
+/*! @/views/GlobalLayout/constants */

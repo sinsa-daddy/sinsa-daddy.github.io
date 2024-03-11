@@ -7596,16 +7596,46 @@ feishu.get(
 feishu.post(
   "/copilot",
   zValidator("header", AuthorizationHeaderSchema),
+  zValidator(
+    "query",
+    z.object({
+      triggerAction: z.coerce.boolean().default(false)
+    })
+  ),
   async (ctx) => {
     const header = ctx.req.valid("header");
     const env = ctx.env;
     const body = await ctx.req.json();
+    const query = ctx.req.valid("query");
     const responseJson = await createCopilot({
       body,
       authorization: header.authorization,
       env
     });
-    return ctx.json(responseJson, responseJson.code !== 0 ? 500 : 200);
+    if (query.triggerAction) {
+      const githubResponse = await fetch(
+        `https://api.github.com/repos/sinsa-daddy/sinsa/dispatches`,
+        {
+          method: "POST",
+          headers: {
+            Accept: "application/vnd.github+json",
+            "Content-Type": "application/json",
+            Authorization: `token ${env.GITHUB_TOKEN}`
+          },
+          body: JSON.stringify({ event_type: "regenerate" })
+        }
+      );
+      if (githubResponse.ok) {
+        console.log("trigger success~");
+      }
+    }
+    return ctx.json(
+      {
+        ...responseJson,
+        triggerAction: query.triggerAction
+      },
+      responseJson.code !== 0 ? 500 : 200
+    );
   }
 );
 var feishu_default = feishu;
