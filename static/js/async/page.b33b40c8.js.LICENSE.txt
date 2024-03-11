@@ -1,4 +1,4 @@
-/*! @/assets/docs/qun.webp */
+/*! @/views/GlobalLayout/constants */
 
 /*! react/jsx-runtime */
 
@@ -12,8 +12,4 @@
 
 /*! @modern-js/runtime/router */
 
-/*! @modern-js/runtime/model */
-
-/*! @/models/terms */
-
-/*! @/views/GlobalLayout/constants */
+/*! @/assets/docs/qun.webp */
