@@ -1,10 +1,14 @@
-/*! antd */
+/*! ./styles.module.less */
 
 /*! @modern-js/runtime/router */
 
 /*! ./utils */
 
+/*! @/assets/sinsa/sorry.png */
+
 /*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
+
+/*! react/jsx-runtime */
 
 /*! ./constants */
 
@@ -12,9 +16,13 @@
 
 /*! numeral */
 
+/*! ./constants */
+
 /*! react */
 
 /*! @/components/utils */
+
+/*! ./QueryForm */
 
 /*! ../context */
 
@@ -24,19 +32,21 @@
 
 /*! react */
 
-/*! ahooks */
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! react */
 
 /*! clsx */
 
 /*! @modern-js/runtime/model */
 
-/*! antd */
-
 /*! @/models/terms */
 
 /*! antd */
 
-/*! ./styles.module.less */
+/*! react/jsx-runtime */
 
 /*! @modern-js/runtime/model */
 
@@ -44,9 +54,7 @@
 
 /*! @/components/RelativeTimeText */
 
-/*! @/assets/sinsa/sorry.png */
-
-/*! react/jsx-runtime */
+/*! ../context */
 
 /*! @/components/TermNotFound */
 
@@ -56,13 +64,11 @@
 
 /*! ./hooks/use-initial-values */
 
-/*! ./constants */
+/*! @ebay/nice-modal-react */
 
 /*! @/views/GlobalLayout/constants */
 
 /*! react/jsx-runtime */
-
-/*! ./QueryForm */
 
 /*! antd */
 
@@ -76,9 +82,7 @@
 
 /*! @ant-design/pro-components */
 
-/*! react/jsx-runtime */
-
-/*! antd */
+/*! ./SolutionAlert */
 
 /*! react */
 
@@ -86,13 +90,9 @@
 
 /*! react/jsx-runtime */
 
-/*! react/jsx-runtime */
-
 /*! @icon-park/react */
 
 /*! antd */
-
-/*! ../context */
 
 /*! ahooks */
 
@@ -106,9 +106,15 @@
 
 /*! react */
 
-/*! @ebay/nice-modal-react */
+/*! @/components/SolutionCard */
+
+/*! ./context */
 
 /*! antd */
+
+/*! react */
+
+/*! ./SolutionListView */
 
 /*! react */
 
@@ -118,11 +124,9 @@
 
 /*! @icon-park/react */
 
-/*! react */
-
-/*! ./SolutionAlert */
-
 /*! lodash-es */
+
+/*! antd */
 
 /*! @ant-design/pro-components */
 
@@ -150,11 +154,9 @@
 
 /*! @modern-js/runtime/router */
 
-/*! @/components/SolutionCard */
-
 /*! react/jsx-runtime */
 
-/*! ./context */
+/*! ahooks */
 
 /*! react/jsx-runtime */
 
@@ -162,8 +164,6 @@
 
 /*! ./utils */
 
-/*! react */
-
-/*! ./SolutionListView */
-
 /*! @/components/ExcludeAurorianFormList */
+
+/*! antd */
