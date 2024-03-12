@@ -1,6 +1,4 @@
-/*! ./schemas/SearchVideo */
-
-/*! lodash-es */
+/*! @sinsa/schema */
 
 /*! react/jsx-runtime */
 
@@ -10,9 +8,11 @@
 
 /*! @ant-design/pro-components */
 
+/*! ahooks */
+
 /*! ./utils/preprocess */
 
-/*! @sinsa/schema */
+/*! ahooks */
 
 /*! ./deny-list.json */
 
@@ -20,19 +20,19 @@
 
 /*! react */
 
-/*! @sinsa/schema */
+/*! lodash-es */
+
+/*! react */
 
 /*! @/components/AdaptiveAurorianCard */
 
 /*! immer */
 
+/*! @/services/http */
+
 /*! @/components/UploadForm */
 
 /*! react */
-
-/*! ahooks */
-
-/*! ahooks */
 
 /*! antd */
 
@@ -42,15 +42,13 @@
 
 /*! antd */
 
+/*! @/services/http */
+
 /*! ahooks */
 
 /*! ./CopilotSelector */
 
 /*! @modern-js/runtime/router */
-
-/*! lodash-es */
-
-/*! react */
 
 /*! dayjs */
 
@@ -70,9 +68,9 @@
 
 /*! ./styles.module.less */
 
-/*! @/services/http */
-
 /*! react/jsx-runtime */
+
+/*! @modern-js/runtime/model */
 
 /*! @/services/http */
 
@@ -106,17 +104,19 @@
 
 /*! @modern-js/runtime/model */
 
-/*! @modern-js/runtime/model */
+/*! ahooks */
 
 /*! @/models/aurorians */
 
-/*! @/services/http */
+/*! ahooks */
 
 /*! ./utils/getDefaultBreakthrough */
 
 /*! react/jsx-runtime */
 
 /*! numeral */
+
+/*! @/services/http */
 
 /*! ./utils/get-copilot-id */
 
@@ -138,11 +138,13 @@
 
 /*! antd */
 
-/*! ahooks */
+/*! @sinsa/schema */
 
-/*! ahooks */
+/*! ./schemas/SimpleLatestCopilot */
 
-/*! @/services/http */
+/*! ./schemas/SearchVideo */
+
+/*! lodash-es */
 
 /*! ../utils */
 
@@ -154,15 +156,13 @@
 
 /*! @/models/feishu */
 
-/*! @sinsa/schema */
-
 /*! ahooks */
 
 /*! ./constants */
 
 /*! @sinsa/schema */
 
-/*! ./schemas/SimpleLatestCopilot */
+/*! @sinsa/schema */
 
 /*! react/jsx-runtime */
 
