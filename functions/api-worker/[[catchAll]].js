@@ -7287,6 +7287,23 @@ var AuthorizationHeaderSchema = z.object({
   authorization: z.string().startsWith("Bearer u-")
 });
 
+// src/services/bilibili/constants.ts
+var PICK_ARRAY = [
+  "bvid",
+  "aid",
+  "tname",
+  "pic",
+  "title",
+  "pubdate",
+  "ctime",
+  "desc",
+  "duration",
+  "owner",
+  "stat",
+  "pages"
+];
+var USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0";
+
 // src/services/feishu/client/index.ts
 var client = null;
 var AppAccessTokenResultSchema = z.object({
@@ -7612,6 +7629,7 @@ feishu.post(
       authorization: header.authorization,
       env
     });
+    let githubResponseOk = false;
     if (query.triggerAction) {
       const githubResponse = await fetch(
         `https://api.github.com/repos/sinsa-daddy/sinsa/dispatches`,
@@ -7620,42 +7638,29 @@ feishu.post(
           headers: {
             Accept: "application/vnd.github+json",
             "Content-Type": "application/json",
-            Authorization: `token ${env.GITHUB_TOKEN}`
+            Authorization: `token ${env.GITHUB_TOKEN}`,
+            "User-Agent": USER_AGENT
           },
           body: JSON.stringify({ event_type: "regenerate" })
         }
       );
       if (githubResponse.ok) {
-        console.log("trigger success~");
+        githubResponseOk = true;
       }
     }
     return ctx.json(
       {
         ...responseJson,
-        triggerAction: query.triggerAction
+        data: {
+          ...responseJson?.data ?? void 0,
+          githubResponseOk
+        }
       },
       responseJson.code !== 0 ? 500 : 200
     );
   }
 );
 var feishu_default = feishu;
-
-// src/services/bilibili/constants.ts
-var PICK_ARRAY = [
-  "bvid",
-  "aid",
-  "tname",
-  "pic",
-  "title",
-  "pubdate",
-  "ctime",
-  "desc",
-  "duration",
-  "owner",
-  "stat",
-  "pages"
-];
-var USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0";
 
 // src/services/bilibili/helpers/get-home-cookie.ts
 async function getHomeCookie() {
