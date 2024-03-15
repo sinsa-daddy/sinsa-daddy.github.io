@@ -1,0 +1,173 @@
+/*! @modern-js/runtime/model */
+
+/*! @/components/TermNotFound */
+
+/*! ./utils */
+
+/*! @/views/SolutionView */
+
+/*! @/components/RelativeTimeText */
+
+/*! antd */
+
+/*! ./hooks/use-initial-values */
+
+/*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
+
+/*! ./constants */
+
+/*! numeral */
+
+/*! ./styles.module.less */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! react */
+
+/*! @/assets/sinsa/sorry.png */
+
+/*! @/components/utils */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! @/models/terms */
+
+/*! antd */
+
+/*! @ant-design/pro-components */
+
+/*! numeral */
+
+/*! ./constants */
+
+/*! ./QueryForm */
+
+/*! clsx */
+
+/*! @modern-js/runtime/model */
+
+/*! @icon-park/react */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! antd */
+
+/*! ahooks */
+
+/*! ./styles.module.less */
+
+/*! @/components/RelativeTimeText */
+
+/*! react/jsx-runtime */
+
+/*! ahooks */
+
+/*! ../context */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! react */
+
+/*! react */
+
+/*! @icon-park/react */
+
+/*! @ebay/nice-modal-react */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! @/assets/sinsa/sorry.png */
+
+/*! ./constants */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! ./SolutionAlert */
+
+/*! react */
+
+/*! @/services/http */
+
+/*! @/models/aurorians */
+
+/*! antd */
+
+/*! ./CopilotBlock */
+
+/*! ./helpers */
+
+/*! ./styles.module.less */
+
+/*! antd */
+
+/*! react */
+
+/*! react */
+
+/*! @modern-js/runtime/router */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! ./utils */
+
+/*! @/components/ExcludeAurorianFormList */
+
+/*! react/jsx-runtime */
+
+/*! @icon-park/react */
+
+/*! @/components/SolutionCard */
+
+/*! @modern-js/runtime/router */
+
+/*! lodash-es */
+
+/*! ./context */
+
+/*! ./SolutionListView */
+
+/*! react */
+
+/*! @ant-design/pro-components */
+
+/*! @/components/TermChanger */
+
+/*! @/views/SolutionView/context */
+
+/*! antd */
+
+/*! lodash-es */
+
+/*! ../context */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/model */
+
+/*! ./AdaptiveAuroriansTeam */
+
+/*! ../AdaptiveAurorianCard */
+
+/*! react */
+
+/*! @ant-design/pro-components */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! antd */
