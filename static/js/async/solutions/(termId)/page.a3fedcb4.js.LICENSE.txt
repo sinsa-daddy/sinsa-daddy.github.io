@@ -1,0 +1,175 @@
+/*! @icon-park/react */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! @/assets/sinsa/sorry.png */
+
+/*! ./constants */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! ahooks */
+
+/*! @/services/http */
+
+/*! @/models/aurorians */
+
+/*! antd */
+
+/*! ./CopilotBlock */
+
+/*! ./helpers */
+
+/*! ./styles.module.less */
+
+/*! antd */
+
+/*! react */
+
+/*! @modern-js/runtime/router */
+
+/*! react/jsx-runtime */
+
+/*! @ebay/nice-modal-react */
+
+/*! @/assets/sinsa/get_started.png */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! ./utils */
+
+/*! @/components/ExcludeAurorianFormList */
+
+/*! react/jsx-runtime */
+
+/*! @icon-park/react */
+
+/*! @modern-js/runtime/router */
+
+/*! lodash-es */
+
+/*! ./SolutionAlert */
+
+/*! react */
+
+/*! @ant-design/pro-components */
+
+/*! @/components/TermChanger */
+
+/*! @/views/SolutionView/context */
+
+/*! react */
+
+/*! ../context */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/model */
+
+/*! ./AdaptiveAuroriansTeam */
+
+/*! react */
+
+/*! ../AdaptiveAurorianCard */
+
+/*! @ant-design/pro-components */
+
+/*! antd */
+
+/*! ./context */
+
+/*! @/models/terms */
+
+/*! ./SolutionListView */
+
+/*! antd */
+
+/*! @modern-js/runtime/model */
+
+/*! antd */
+
+/*! @/components/TermNotFound */
+
+/*! ./utils */
+
+/*! @/views/SolutionView */
+
+/*! @/components/RelativeTimeText */
+
+/*! antd */
+
+/*! lodash-es */
+
+/*! ./hooks/use-initial-values */
+
+/*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
+
+/*! ./constants */
+
+/*! numeral */
+
+/*! ./styles.module.less */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! react */
+
+/*! @/assets/sinsa/sorry.png */
+
+/*! @/components/utils */
+
+/*! @ant-design/pro-components */
+
+/*! @/models/terms */
+
+/*! antd */
+
+/*! @ant-design/pro-components */
+
+/*! numeral */
+
+/*! ./constants */
+
+/*! clsx */
+
+/*! @modern-js/runtime/model */
+
+/*! @icon-park/react */
+
+/*! @/components/SolutionCard */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! antd */
+
+/*! ahooks */
+
+/*! ./styles.module.less */
+
+/*! @/components/RelativeTimeText */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! ../context */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! react */
+
+/*! ./QueryForm */
+
+/*! react */
