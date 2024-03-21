@@ -1,18 +1,22 @@
 /*! @icon-park/react */
 
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
 /*! @/views/GlobalLayout/constants */
+
+/*! ../context */
 
 /*! @/assets/sinsa/sorry.png */
 
 /*! react/jsx-runtime */
 
+/*! ./QueryForm */
+
 /*! react/jsx-runtime */
 
 /*! react */
-
-/*! ./context */
-
-/*! ./SolutionListView */
 
 /*! @/services/http */
 
@@ -28,33 +32,31 @@
 
 /*! react */
 
-/*! antd */
-
 /*! @modern-js/runtime/router */
 
 /*! react/jsx-runtime */
 
 /*! ./constants */
 
-/*! antd */
-
-/*! lodash-es */
-
 /*! react/jsx-runtime */
 
-/*! ./styles.module.less */
+/*! react */
+
+/*! ahooks */
 
 /*! antd */
 
 /*! react/jsx-runtime */
-
-/*! @/assets/sinsa/sorry.png */
 
 /*! @icon-park/react */
 
 /*! @modern-js/runtime/router */
 
 /*! lodash-es */
+
+/*! @ebay/nice-modal-react */
+
+/*! @/assets/sinsa/get_started.png */
 
 /*! react/jsx-runtime */
 
@@ -66,15 +68,11 @@
 
 /*! @/views/SolutionView/context */
 
-/*! ./constants */
-
 /*! @/components/ExcludeAurorianFormList */
 
-/*! @/components/SolutionCard */
+/*! ./SolutionAlert */
 
-/*! react/jsx-runtime */
-
-/*! antd */
+/*! react */
 
 /*! @modern-js/runtime/model */
 
@@ -88,9 +86,7 @@
 
 /*! antd */
 
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
+/*! react */
 
 /*! @/models/terms */
 
@@ -98,13 +94,9 @@
 
 /*! ../context */
 
-/*! ../context */
-
 /*! react/jsx-runtime */
 
 /*! @modern-js/runtime/model */
-
-/*! ./QueryForm */
 
 /*! @/components/TermNotFound */
 
@@ -118,6 +110,10 @@
 
 /*! ./constants */
 
+/*! ./context */
+
+/*! ./SolutionListView */
+
 /*! numeral */
 
 /*! @/views/GlobalLayout/constants */
@@ -130,21 +126,23 @@
 
 /*! @/models/terms */
 
-/*! react */
+/*! antd */
 
-/*! ahooks */
+/*! antd */
+
+/*! lodash-es */
 
 /*! ./hooks/use-initial-values */
 
 /*! numeral */
 
+/*! ./styles.module.less */
+
 /*! clsx */
 
 /*! @modern-js/runtime/model */
 
-/*! @ebay/nice-modal-react */
-
-/*! @/assets/sinsa/get_started.png */
+/*! @/assets/sinsa/sorry.png */
 
 /*! antd */
 
@@ -158,18 +156,20 @@
 
 /*! @/components/RelativeTimeText */
 
-/*! ./SolutionAlert */
-
-/*! react */
+/*! ./constants */
 
 /*! @icon-park/react */
+
+/*! @/components/SolutionCard */
+
+/*! react/jsx-runtime */
+
+/*! antd */
 
 /*! antd */
 
 /*! react/jsx-runtime */
 
 /*! antd */
-
-/*! react */
 
 /*! react */
