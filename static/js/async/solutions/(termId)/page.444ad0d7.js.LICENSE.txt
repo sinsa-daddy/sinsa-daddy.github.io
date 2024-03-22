@@ -1,20 +1,18 @@
 /*! @icon-park/react */
 
+/*! @/assets/sinsa/sorry.png */
+
 /*! @/views/GlobalLayout/constants */
 
 /*! @/assets/sinsa/sorry.png */
 
-/*! react/jsx-runtime */
-
-/*! react */
-
-/*! ahooks */
+/*! ./constants */
 
 /*! react/jsx-runtime */
 
-/*! react */
+/*! react/jsx-runtime */
 
-/*! antd */
+/*! react */
 
 /*! @/services/http */
 
@@ -26,13 +24,15 @@
 
 /*! ./styles.module.less */
 
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @/components/SolutionCard */
+
 /*! antd */
 
 /*! react */
-
-/*! @ebay/nice-modal-react */
-
-/*! @/assets/sinsa/get_started.png */
 
 /*! @modern-js/runtime/router */
 
@@ -44,15 +44,19 @@
 
 /*! react/jsx-runtime */
 
-/*! ./SolutionAlert */
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! ../context */
 
 /*! @icon-park/react */
-
-/*! react */
 
 /*! @modern-js/runtime/router */
 
 /*! lodash-es */
+
+/*! ./QueryForm */
 
 /*! react/jsx-runtime */
 
@@ -66,13 +70,13 @@
 
 /*! @/components/ExcludeAurorianFormList */
 
-/*! react */
-
-/*! react/jsx-runtime */
-
 /*! @/plugins/aegis */
 
 /*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! ahooks */
 
 /*! ./AdaptiveAuroriansTeam */
 
@@ -84,9 +88,7 @@
 
 /*! antd */
 
-/*! ./context */
-
-/*! ./SolutionListView */
+/*! antd */
 
 /*! @/models/terms */
 
@@ -94,13 +96,11 @@
 
 /*! ../context */
 
+/*! @ebay/nice-modal-react */
+
+/*! @/assets/sinsa/get_started.png */
+
 /*! @modern-js/runtime/model */
-
-/*! antd */
-
-/*! antd */
-
-/*! lodash-es */
 
 /*! @/components/TermNotFound */
 
@@ -114,13 +114,13 @@
 
 /*! ./constants */
 
-/*! ./styles.module.less */
+/*! ./SolutionAlert */
 
 /*! numeral */
 
-/*! @/views/GlobalLayout/constants */
+/*! react */
 
-/*! @/assets/sinsa/sorry.png */
+/*! @/views/GlobalLayout/constants */
 
 /*! react */
 
@@ -130,21 +130,17 @@
 
 /*! @/models/terms */
 
+/*! react */
+
 /*! ./hooks/use-initial-values */
 
-/*! ./constants */
-
 /*! numeral */
+
+/*! react/jsx-runtime */
 
 /*! clsx */
 
 /*! @modern-js/runtime/model */
-
-/*! @/components/SolutionCard */
-
-/*! react/jsx-runtime */
-
-/*! antd */
 
 /*! antd */
 
@@ -152,26 +148,30 @@
 
 /*! antd */
 
+/*! ./context */
+
 /*! ahooks */
+
+/*! ./SolutionListView */
 
 /*! ./styles.module.less */
 
 /*! @/components/RelativeTimeText */
 
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
-
-/*! ../context */
+/*! antd */
 
 /*! @icon-park/react */
 
 /*! antd */
 
-/*! ./QueryForm */
+/*! lodash-es */
+
+/*! antd */
 
 /*! react/jsx-runtime */
 
 /*! antd */
 
 /*! react */
+
+/*! ./styles.module.less */
