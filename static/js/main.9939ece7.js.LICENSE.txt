@@ -16,21 +16,19 @@
 
 /*! core-js/modules/esnext.weak-set.delete-all.js */
 
+/*! react */
+
 /*! @/models/terms */
 
 /*! core-js/modules/es.array.push.js */
 
 /*! core-js/modules/esnext.symbol.is-well-known.js */
 
-/*! @/views/UploadView/LarkLoginCard/constants */
-
 /*! @/models/terms */
 
 /*! @/services/service-worker/use-actual-latest-term */
 
 /*! core-js/modules/es.array.find-last-index.js */
-
-/*! @/services/http */
 
 /*! zod */
 
@@ -55,8 +53,6 @@
 /*! core-js/modules/esnext.math.radians.js */
 
 /*! @icon-park/react */
-
-/*! lodash-es */
 
 /*! core-js/modules/esnext.math.deg-per-rad.js */
 
@@ -96,6 +92,8 @@
 
 /*! core-js/modules/esnext.reflect.get-own-metadata-keys.js */
 
+/*! @/schemas/feishu-access-token */
+
 /*! core-js/modules/esnext.composite-symbol.js */
 
 /*! @/components/XFeatureBanner */
@@ -104,9 +102,9 @@
 
 /*! core-js/modules/esnext.set.every.js */
 
-/*! ./copilot-next */
-
 /*! @sinsa/schema */
+
+/*! ./copilot-next */
 
 /*! core-js/modules/esnext.set.is-disjoint-from.js */
 
@@ -125,8 +123,6 @@
 /*! core-js/modules/esnext.async-iterator.as-indexed-pairs.js */
 
 /*! @/services/dark-mode */
-
-/*! @sinsa/schema */
 
 /*! core-js/modules/esnext.map.from.js */
 
@@ -154,8 +150,6 @@
 
 /*! core-js/modules/esnext.set.is-subset-of.v2.js */
 
-/*! axios */
-
 /*! core-js/modules/esnext.symbol.async-dispose.js */
 
 /*! core-js/modules/esnext.symbol.replace-all.js */
@@ -175,8 +169,6 @@
 /*! core-js/modules/esnext.data-view.set-float16.js */
 
 /*! react/jsx-runtime */
-
-/*! dayjs/plugin/relativeTime */
 
 /*! core-js/modules/es.array.to-spliced.js */
 
@@ -208,11 +200,7 @@
 
 /*! ./feishu-copilot */
 
-/*! dayjs */
-
 /*! core-js/modules/es.typed-array.find-last.js */
-
-/*! @/schemas/feishu-profile */
 
 /*! core-js/modules/esnext.array.group-by.js */
 
@@ -221,8 +209,6 @@
 /*! core-js/modules/esnext.array.is-template-object.js */
 
 /*! @/models/aurorians */
-
-/*! @/schemas/bilibili-video-detail */
 
 /*! @/models/dark */
 
@@ -236,7 +222,7 @@
 
 /*! core-js/modules/esnext.async-iterator.every.js */
 
-/*! @/models/terms/helpers/get-latest-term */
+/*! @sinsa/schema */
 
 /*! core-js/modules/esnext.iterator.range.js */
 
@@ -274,13 +260,15 @@
 
 /*! react/jsx-runtime */
 
+/*! @/views/UploadView/LarkLoginCard/constants */
+
 /*! @sinsa/schema */
 
 /*! @/services/dark-mode */
 
 /*! ./helpers/get-latest-term */
 
-/*! @sinsa/schema */
+/*! @/services/http */
 
 /*! @/assets/elements/1.webp */
 
@@ -301,6 +289,8 @@
 /*! core-js/modules/esnext.array.group-to-map.js */
 
 /*! core-js/modules/es.string.is-well-formed.js */
+
+/*! lodash-es */
 
 /*! @/assets/elements/3.webp */
 
@@ -336,11 +326,15 @@
 
 /*! core-js/modules/esnext.math.isubh.js */
 
+/*! @sinsa/schema */
+
 /*! core-js/modules/es.array.to-sorted.js */
 
 /*! react/jsx-runtime */
 
 /*! core-js/modules/esnext.weak-map.emplace.js */
+
+/*! @sinsa/schema */
 
 /*! core-js/modules/esnext.math.scale.js */
 
@@ -376,7 +370,11 @@
 
 /*! @icon-park/react */
 
+/*! axios */
+
 /*! core-js/modules/esnext.symbol.is-registered.js */
+
+/*! dayjs/plugin/relativeTime */
 
 /*! core-js/modules/esnext.weak-map.from.js */
 
@@ -387,6 +385,8 @@
 /*! antd */
 
 /*! core-js/modules/esnext.composite-key.js */
+
+/*! @/models/terms/helpers/get-latest-term */
 
 /*! core-js/modules/esnext.iterator.reduce.js */
 
@@ -416,6 +416,8 @@
 
 /*! core-js/modules/esnext.async-iterator.drop.js */
 
+/*! dayjs */
+
 /*! core-js/modules/esnext.json.raw-json.js */
 
 /*! core-js/modules/esnext.reflect.get-metadata-keys.js */
@@ -432,11 +434,13 @@
 
 /*! @/assets/classes/2002.webp */
 
+/*! @/schemas/feishu-profile */
+
 /*! core-js/modules/esnext.promise.with-resolvers.js */
 
-/*! core-js/modules/web.url.can-parse.js */
+/*! @/schemas/bilibili-video-detail */
 
-/*! react */
+/*! core-js/modules/web.url.can-parse.js */
 
 /*! @modern-js/runtime/model */
 
@@ -486,6 +490,8 @@
 
 /*! ./plugins/aegis */
 
+/*! @sinsa/schema */
+
 /*! core-js/modules/es.regexp.flags.js */
 
 /*! core-js/modules/esnext.function.un-this.js */
@@ -506,11 +512,7 @@
 
 /*! zod */
 
-/*! @/schemas/feishu-access-token */
-
 /*! @/services/service-worker */
-
-/*! @sinsa/schema */
 
 /*! antd */
 
@@ -615,8 +617,6 @@
 /*! core-js/modules/es.typed-array.set.js */
 
 /*! core-js/modules/esnext.number.from-string.js */
-
-/*! @sinsa/schema */
 
 /*! core-js/modules/esnext.observable.js */
 
