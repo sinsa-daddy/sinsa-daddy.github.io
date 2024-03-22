@@ -1,0 +1,123 @@
+/*! @sinsa/schema */
+
+/*! @modern-js/runtime/model */
+
+/*! ../../DiffModal */
+
+/*! ./hooks/use-request-solution */
+
+/*! @ant-design/pro-components */
+
+/*! react */
+
+/*! @/models/aurorians */
+
+/*! react/jsx-runtime */
+
+/*! clsx */
+
+/*! antd */
+
+/*! ./hooks/use-trigger-form-action */
+
+/*! @/components/SolutionCard/CopilotBlock/AdaptiveAuroriansTeam */
+
+/*! @/models/aurorians */
+
+/*! constate */
+
+/*! ./hooks/use-lazy-image */
+
+/*! @/components/utils */
+
+/*! ahooks */
+
+/*! react/jsx-runtime */
+
+/*! ../utils/without-exclude */
+
+/*! immer */
+
+/*! ./styles.module.less */
+
+/*! ./components/asc */
+
+/*! @icon-park/react */
+
+/*! clsx */
+
+/*! ./styles.module.less */
+
+/*! ../../utils/without-exclude */
+
+/*! @/components/RelativeTimeText */
+
+/*! @modern-js/runtime/model */
+
+/*! @ebay/nice-modal-react */
+
+/*! numeral */
+
+/*! ./constants */
+
+/*! ahooks */
+
+/*! dayjs */
+
+/*! react */
+
+/*! antd */
+
+/*! immer */
+
+/*! ./styles.module.less */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! framer-motion */
+
+/*! react */
+
+/*! clsx */
+
+/*! @/components/AdaptiveAurorianCard */
+
+/*! @ebay/nice-modal-react */
+
+/*! ./styles.module.less */
+
+/*! react/jsx-runtime */
+
+/*! ./constants */
+
+/*! @ant-design/pro-components */
+
+/*! @ant-design/pro-components */
+
+/*! react/jsx-runtime */
+
+/*! ../../QueryForm/utils */
+
+/*! antd */
+
+/*! antd */
+
+/*! react */
+
+/*! ./styles.module.less */
+
+/*! ../schemas/query-params */
+
+/*! @/services/solution-algorithm */
+
+/*! react/jsx-runtime */
+
+/*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
+
+/*! @/views/SolutionView/context */
+
+/*! @/models/aurorians */
+
+/*! ./helpers/patch */
