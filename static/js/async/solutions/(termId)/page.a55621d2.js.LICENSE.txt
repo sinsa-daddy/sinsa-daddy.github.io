@@ -1,16 +1,16 @@
-/*! antd */
-
 /*! @icon-park/react */
-
-/*! @/views/GlobalLayout/constants */
 
 /*! @ebay/nice-modal-react */
 
 /*! @/assets/sinsa/get_started.png */
 
+/*! @/views/GlobalLayout/constants */
+
 /*! @/assets/sinsa/sorry.png */
 
 /*! react/jsx-runtime */
+
+/*! ahooks */
 
 /*! react/jsx-runtime */
 
@@ -18,11 +18,13 @@
 
 /*! ./constants */
 
-/*! ahooks */
-
 /*! @/services/http */
 
+/*! ./SolutionAlert */
+
 /*! @/models/aurorians */
+
+/*! react */
 
 /*! ./CopilotBlock */
 
@@ -32,10 +34,6 @@
 
 /*! ./styles.module.less */
 
-/*! ./SolutionAlert */
-
-/*! react */
-
 /*! antd */
 
 /*! react */
@@ -48,9 +46,9 @@
 
 /*! react/jsx-runtime */
 
-/*! react/jsx-runtime */
-
 /*! @arms/rum-browser */
+
+/*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
 
@@ -64,7 +62,11 @@
 
 /*! @ant-design/pro-components */
 
+/*! ./context */
+
 /*! @/components/TermChanger */
+
+/*! ./SolutionListView */
 
 /*! @/views/SolutionView/context */
 
@@ -72,19 +74,17 @@
 
 /*! @/plugins/arms */
 
-/*! ./context */
-
-/*! ./SolutionListView */
-
 /*! react */
+
+/*! antd */
+
+/*! antd */
+
+/*! lodash-es */
 
 /*! @modern-js/runtime/model */
 
-/*! antd */
-
 /*! ./AdaptiveAuroriansTeam */
-
-/*! antd */
 
 /*! react */
 
@@ -94,9 +94,9 @@
 
 /*! antd */
 
-/*! lodash-es */
-
 /*! ./styles.module.less */
+
+/*! @/assets/sinsa/sorry.png */
 
 /*! @/models/terms */
 
@@ -104,11 +104,11 @@
 
 /*! ./utils */
 
-/*! @/assets/sinsa/sorry.png */
-
 /*! lodash-es */
 
 /*! @modern-js/runtime/model */
+
+/*! ./constants */
 
 /*! @/components/TermNotFound */
 
@@ -118,23 +118,21 @@
 
 /*! @/components/RelativeTimeText */
 
-/*! ./constants */
-
 /*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
 
 /*! ./constants */
 
 /*! numeral */
 
-/*! @/views/GlobalLayout/constants */
-
-/*! react */
-
 /*! @/components/SolutionCard */
 
 /*! react/jsx-runtime */
 
 /*! antd */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! react */
 
 /*! @arms/rum-core */
 
@@ -144,21 +142,21 @@
 
 /*! @/models/terms */
 
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
 /*! numeral */
 
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
+/*! ../context */
 
 /*! clsx */
 
 /*! @modern-js/runtime/model */
 
-/*! ../context */
+/*! ./QueryForm */
 
 /*! antd */
-
-/*! ./QueryForm */
 
 /*! @ant-design/pro-components */
 
@@ -174,12 +172,14 @@
 
 /*! @icon-park/react */
 
+/*! react */
+
 /*! antd */
 
 /*! react/jsx-runtime */
 
 /*! antd */
 
-/*! react */
+/*! antd */
 
 /*! react */
