@@ -1,24 +1,20 @@
 /*! @icon-park/react */
 
-/*! react */
-
-/*! antd */
+/*! ./SolutionAlert */
 
 /*! @/views/GlobalLayout/constants */
+
+/*! react */
 
 /*! @/assets/sinsa/sorry.png */
 
 /*! react/jsx-runtime */
 
-/*! react */
-
 /*! react/jsx-runtime */
 
 /*! react */
 
-/*! @/assets/sinsa/get_started.png */
-
-/*! @ebay/nice-modal-react */
+/*! react */
 
 /*! @/services/http */
 
@@ -30,6 +26,8 @@
 
 /*! ./styles.module.less */
 
+/*! react/jsx-runtime */
+
 /*! antd */
 
 /*! react */
@@ -40,11 +38,11 @@
 
 /*! ./constants */
 
-/*! ./SolutionAlert */
-
 /*! react/jsx-runtime */
 
-/*! react */
+/*! ./context */
+
+/*! ./SolutionListView */
 
 /*! react/jsx-runtime */
 
@@ -54,6 +52,8 @@
 
 /*! lodash-es */
 
+/*! antd */
+
 /*! react/jsx-runtime */
 
 /*! @ant-design/pro-components */
@@ -62,17 +62,17 @@
 
 /*! @/components/TermChanger */
 
-/*! react/jsx-runtime */
+/*! antd */
 
 /*! @/views/SolutionView/context */
 
 /*! @/components/ExcludeAurorianFormList */
 
-/*! ./context */
+/*! lodash-es */
 
-/*! ./SolutionListView */
+/*! ./styles.module.less */
 
-/*! @/plugins/aegis */
+/*! @/assets/sinsa/sorry.png */
 
 /*! @modern-js/runtime/model */
 
@@ -86,11 +86,7 @@
 
 /*! antd */
 
-/*! antd */
-
-/*! antd */
-
-/*! lodash-es */
+/*! ./constants */
 
 /*! @/models/terms */
 
@@ -98,11 +94,13 @@
 
 /*! ../context */
 
-/*! ./styles.module.less */
+/*! @/components/SolutionCard */
 
 /*! @modern-js/runtime/model */
 
-/*! @/assets/sinsa/sorry.png */
+/*! react/jsx-runtime */
+
+/*! antd */
 
 /*! @/components/TermNotFound */
 
@@ -116,11 +114,15 @@
 
 /*! ./constants */
 
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
 /*! numeral */
 
-/*! ./constants */
-
 /*! @/views/GlobalLayout/constants */
+
+/*! ../context */
 
 /*! react */
 
@@ -130,13 +132,9 @@
 
 /*! @/models/terms */
 
-/*! @/components/SolutionCard */
+/*! ./QueryForm */
 
 /*! ./hooks/use-initial-values */
-
-/*! react/jsx-runtime */
-
-/*! antd */
 
 /*! numeral */
 
@@ -144,19 +142,15 @@
 
 /*! @modern-js/runtime/model */
 
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
-
 /*! antd */
-
-/*! ahooks */
 
 /*! @ant-design/pro-components */
 
 /*! antd */
 
-/*! ../context */
+/*! react */
+
+/*! ahooks */
 
 /*! ahooks */
 
@@ -164,11 +158,13 @@
 
 /*! @/components/RelativeTimeText */
 
-/*! ./QueryForm */
+/*! antd */
 
-/*! aegis-web-sdk/lib/aegis.f.min */
+/*! @ebay/nice-modal-react */
 
 /*! @icon-park/react */
+
+/*! @/assets/sinsa/get_started.png */
 
 /*! antd */
 
