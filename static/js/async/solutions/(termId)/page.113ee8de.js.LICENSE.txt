@@ -136,13 +136,13 @@
 
 /*! @/models/terms */
 
-/*! react */
-
 /*! numeral */
 
 /*! ./context */
 
 /*! ./SolutionListView */
+
+/*! react */
 
 /*! clsx */
 
