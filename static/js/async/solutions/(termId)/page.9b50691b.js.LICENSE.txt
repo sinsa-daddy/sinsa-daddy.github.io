@@ -120,13 +120,13 @@
 
 /*! ./utils */
 
+/*! react */
+
 /*! @/views/GlobalLayout/constants */
 
 /*! react */
 
 /*! @/components/SolutionCard */
-
-/*! react */
 
 /*! @arms/rum-core */
 

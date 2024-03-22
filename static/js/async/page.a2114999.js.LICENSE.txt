@@ -1,0 +1,25 @@
+/*! antd */
+
+/*! ./styles.module.less */
+
+/*! @modern-js/runtime/router */
+
+/*! @/assets/docs/qun.webp */
+
+/*! @icon-park/react */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! @modern-js/runtime/router */
+
+/*! react */
+
+/*! react */
+
+/*! @/components/Hero */
