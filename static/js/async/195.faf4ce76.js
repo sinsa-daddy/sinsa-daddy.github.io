@@ -1,0 +1,2 @@
+/*! For license information please see 195.faf4ce76.js.LICENSE.txt */
+(globalThis.webpackChunk_sinsa_web=globalThis.webpackChunk_sinsa_web||[]).push([["195"],{98015:function(n,i,e){"use strict";e.r(i),e.d(i,{initArmsRum:function(){return t}});var s=e("927517");function t(){s.default.init({pid:"efvpghf1ny@b201b32018ef0b3",endpoint:"https://efvpghf1ny-default-cn.rum.aliyuncs.com",env:"prod",spaMode:"history",collectors:{perf:!0,webVitals:!0,api:!0,staticResource:!0,jsError:!0,consoleError:!0,action:!0},tracing:!0})}}}]);
