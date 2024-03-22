@@ -1,20 +1,26 @@
 /*! @icon-park/react */
 
-/*! ./SolutionAlert */
-
 /*! @/views/GlobalLayout/constants */
 
-/*! react */
+/*! @/components/SolutionCard */
+
+/*! react/jsx-runtime */
+
+/*! antd */
 
 /*! @/assets/sinsa/sorry.png */
 
+/*! ahooks */
+
 /*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
 
 /*! react */
 
-/*! react */
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
 
 /*! @/services/http */
 
@@ -26,23 +32,25 @@
 
 /*! ./styles.module.less */
 
-/*! react/jsx-runtime */
+/*! ../context */
 
 /*! antd */
 
 /*! react */
 
+/*! @arms/rum-browser */
+
 /*! @modern-js/runtime/router */
+
+/*! react/jsx-runtime */
+
+/*! ./QueryForm */
 
 /*! react/jsx-runtime */
 
 /*! ./constants */
 
-/*! react/jsx-runtime */
-
-/*! ./context */
-
-/*! ./SolutionListView */
+/*! @arms/rum-browser */
 
 /*! react/jsx-runtime */
 
@@ -52,27 +60,23 @@
 
 /*! lodash-es */
 
-/*! antd */
-
 /*! react/jsx-runtime */
 
 /*! @ant-design/pro-components */
 
-/*! ./utils */
-
 /*! @/components/TermChanger */
 
-/*! antd */
+/*! react */
 
 /*! @/views/SolutionView/context */
 
-/*! @/components/ExcludeAurorianFormList */
+/*! react */
 
-/*! lodash-es */
+/*! antd */
 
-/*! ./styles.module.less */
+/*! @ebay/nice-modal-react */
 
-/*! @/assets/sinsa/sorry.png */
+/*! @/assets/sinsa/get_started.png */
 
 /*! @modern-js/runtime/model */
 
@@ -80,27 +84,25 @@
 
 /*! react */
 
+/*! @/plugins/arms */
+
 /*! ../AdaptiveAurorianCard */
 
 /*! @ant-design/pro-components */
 
 /*! antd */
 
-/*! ./constants */
-
 /*! @/models/terms */
 
 /*! antd */
 
+/*! ./SolutionAlert */
+
+/*! react */
+
 /*! ../context */
 
-/*! @/components/SolutionCard */
-
 /*! @modern-js/runtime/model */
-
-/*! react/jsx-runtime */
-
-/*! antd */
 
 /*! @/components/TermNotFound */
 
@@ -114,17 +116,17 @@
 
 /*! ./constants */
 
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
-
 /*! numeral */
+
+/*! ./utils */
 
 /*! @/views/GlobalLayout/constants */
 
-/*! ../context */
+/*! react/jsx-runtime */
 
 /*! react */
+
+/*! @arms/rum-core */
 
 /*! @/components/utils */
 
@@ -132,11 +134,13 @@
 
 /*! @/models/terms */
 
-/*! ./QueryForm */
-
-/*! ./hooks/use-initial-values */
+/*! ./context */
 
 /*! numeral */
+
+/*! ./SolutionListView */
+
+/*! ./hooks/use-initial-values */
 
 /*! clsx */
 
@@ -144,13 +148,15 @@
 
 /*! antd */
 
+/*! antd */
+
+/*! antd */
+
 /*! @ant-design/pro-components */
 
 /*! antd */
 
-/*! react */
-
-/*! ahooks */
+/*! lodash-es */
 
 /*! ahooks */
 
@@ -158,18 +164,20 @@
 
 /*! @/components/RelativeTimeText */
 
-/*! antd */
+/*! ./styles.module.less */
 
-/*! @ebay/nice-modal-react */
+/*! @/assets/sinsa/sorry.png */
 
 /*! @icon-park/react */
 
-/*! @/assets/sinsa/get_started.png */
-
 /*! antd */
+
+/*! @/components/ExcludeAurorianFormList */
 
 /*! react/jsx-runtime */
 
 /*! antd */
 
 /*! react */
+
+/*! ./constants */
