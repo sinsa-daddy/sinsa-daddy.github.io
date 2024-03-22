@@ -2,23 +2,13 @@
 
 /*! @/views/GlobalLayout/constants */
 
-/*! @/components/SolutionCard */
-
-/*! react/jsx-runtime */
-
-/*! antd */
-
 /*! @/assets/sinsa/sorry.png */
-
-/*! ahooks */
 
 /*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
 
 /*! react */
-
-/*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
 
@@ -32,7 +22,9 @@
 
 /*! ./styles.module.less */
 
-/*! ../context */
+/*! ./context */
+
+/*! ./SolutionListView */
 
 /*! antd */
 
@@ -44,15 +36,17 @@
 
 /*! react/jsx-runtime */
 
-/*! ./QueryForm */
-
 /*! react/jsx-runtime */
 
 /*! ./constants */
 
-/*! @arms/rum-browser */
+/*! antd */
 
 /*! react/jsx-runtime */
+
+/*! antd */
+
+/*! lodash-es */
 
 /*! @icon-park/react */
 
@@ -60,23 +54,19 @@
 
 /*! lodash-es */
 
+/*! ./styles.module.less */
+
 /*! react/jsx-runtime */
 
 /*! @ant-design/pro-components */
 
 /*! @/components/TermChanger */
 
-/*! react */
-
 /*! @/views/SolutionView/context */
 
-/*! react */
+/*! @/assets/sinsa/sorry.png */
 
-/*! antd */
-
-/*! @ebay/nice-modal-react */
-
-/*! @/assets/sinsa/get_started.png */
+/*! ./constants */
 
 /*! @modern-js/runtime/model */
 
@@ -92,17 +82,25 @@
 
 /*! antd */
 
-/*! @/models/terms */
+/*! @/components/SolutionCard */
+
+/*! react/jsx-runtime */
 
 /*! antd */
 
-/*! ./SolutionAlert */
+/*! @/models/terms */
 
-/*! react */
+/*! ahooks */
+
+/*! antd */
 
 /*! ../context */
 
 /*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
 
 /*! @/components/TermNotFound */
 
@@ -112,9 +110,13 @@
 
 /*! @/components/RelativeTimeText */
 
+/*! ../context */
+
 /*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
 
 /*! ./constants */
+
+/*! ./QueryForm */
 
 /*! numeral */
 
@@ -122,7 +124,7 @@
 
 /*! @/views/GlobalLayout/constants */
 
-/*! react/jsx-runtime */
+/*! @arms/rum-browser */
 
 /*! react */
 
@@ -134,19 +136,17 @@
 
 /*! @/models/terms */
 
-/*! ./context */
-
 /*! numeral */
 
-/*! ./SolutionListView */
-
 /*! ./hooks/use-initial-values */
+
+/*! react */
 
 /*! clsx */
 
 /*! @modern-js/runtime/model */
 
-/*! antd */
+/*! react */
 
 /*! antd */
 
@@ -156,17 +156,15 @@
 
 /*! antd */
 
-/*! lodash-es */
-
 /*! ahooks */
 
 /*! ./styles.module.less */
 
 /*! @/components/RelativeTimeText */
 
-/*! ./styles.module.less */
+/*! @ebay/nice-modal-react */
 
-/*! @/assets/sinsa/sorry.png */
+/*! @/assets/sinsa/get_started.png */
 
 /*! @icon-park/react */
 
@@ -180,4 +178,6 @@
 
 /*! react */
 
-/*! ./constants */
+/*! ./SolutionAlert */
+
+/*! react */
