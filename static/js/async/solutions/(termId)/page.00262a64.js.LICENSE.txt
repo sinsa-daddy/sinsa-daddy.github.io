@@ -1,10 +1,12 @@
 /*! @icon-park/react */
 
-/*! @arms/rum-browser */
-
 /*! @/views/GlobalLayout/constants */
 
+/*! @/components/SolutionCard */
+
 /*! react/jsx-runtime */
+
+/*! antd */
 
 /*! @/assets/sinsa/sorry.png */
 
@@ -14,23 +16,27 @@
 
 /*! react */
 
-/*! react */
+/*! ./constants */
 
-/*! ./context */
-
-/*! ./SolutionListView */
+/*! react/jsx-runtime */
 
 /*! @/services/http */
+
+/*! react/jsx-runtime */
 
 /*! @/models/aurorians */
 
 /*! ./CopilotBlock */
+
+/*! ../context */
 
 /*! ./helpers */
 
 /*! ./styles.module.less */
 
 /*! antd */
+
+/*! ../context */
 
 /*! react */
 
@@ -40,21 +46,11 @@
 
 /*! react/jsx-runtime */
 
-/*! antd */
+/*! ./QueryForm */
 
 /*! react/jsx-runtime */
 
-/*! ./constants */
-
-/*! antd */
-
-/*! lodash-es */
-
-/*! ./styles.module.less */
-
 /*! react/jsx-runtime */
-
-/*! @/assets/sinsa/sorry.png */
 
 /*! @icon-park/react */
 
@@ -70,19 +66,21 @@
 
 /*! @/views/SolutionView/context */
 
-/*! ./constants */
+/*! ./hooks/use-initial-values */
 
-/*! @/components/SolutionCard */
+/*! @/plugins/arms */
 
-/*! react/jsx-runtime */
+/*! react */
 
 /*! antd */
 
+/*! @ebay/nice-modal-react */
+
 /*! @modern-js/runtime/model */
 
-/*! ./AdaptiveAuroriansTeam */
+/*! @/assets/sinsa/get_started.png */
 
-/*! @/plugins/arms */
+/*! ./AdaptiveAuroriansTeam */
 
 /*! react */
 
@@ -92,21 +90,21 @@
 
 /*! antd */
 
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
+/*! ahooks */
 
 /*! @/models/terms */
 
 /*! antd */
 
-/*! ../context */
+/*! ./utils */
 
-/*! ../context */
+/*! ./SolutionAlert */
+
+/*! lodash-es */
 
 /*! @modern-js/runtime/model */
 
-/*! ./QueryForm */
+/*! react */
 
 /*! @/components/TermNotFound */
 
@@ -122,9 +120,11 @@
 
 /*! numeral */
 
-/*! ./utils */
-
 /*! @/views/GlobalLayout/constants */
+
+/*! @arms/rum-browser */
+
+/*! react/jsx-runtime */
 
 /*! react */
 
@@ -140,17 +140,15 @@
 
 /*! numeral */
 
-/*! antd */
+/*! ./context */
 
-/*! ./hooks/use-initial-values */
+/*! ./SolutionListView */
 
 /*! clsx */
 
 /*! @modern-js/runtime/model */
 
-/*! @ebay/nice-modal-react */
-
-/*! @/assets/sinsa/get_started.png */
+/*! antd */
 
 /*! antd */
 
@@ -158,26 +156,30 @@
 
 /*! antd */
 
-/*! ahooks */
+/*! @/components/ExcludeAurorianFormList */
+
+/*! antd */
 
 /*! ahooks */
+
+/*! lodash-es */
 
 /*! ./styles.module.less */
 
 /*! @/components/RelativeTimeText */
 
-/*! ./SolutionAlert */
+/*! ./styles.module.less */
 
-/*! react */
+/*! @/assets/sinsa/sorry.png */
 
 /*! @icon-park/react */
 
 /*! antd */
-
-/*! @/components/ExcludeAurorianFormList */
 
 /*! react/jsx-runtime */
 
 /*! antd */
 
 /*! react */
+
+/*! ./constants */
