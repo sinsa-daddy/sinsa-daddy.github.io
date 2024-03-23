@@ -2,9 +2,9 @@
 
 /*! @/assets/docs/qun.webp */
 
-/*! react/jsx-runtime */
-
 /*! antd */
+
+/*! react/jsx-runtime */
 
 /*! ./styles.module.less */
 
@@ -24,9 +24,9 @@
 
 /*! ./Hero */
 
-/*! react */
-
 /*! @modern-js/runtime/router */
+
+/*! react */
 
 /*! @/views/HomeView */
 
