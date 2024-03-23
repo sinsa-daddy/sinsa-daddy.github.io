@@ -1,0 +1,37 @@
+/*! @modern-js/runtime/router */
+
+/*! react */
+
+/*! ./CoolCanvas */
+
+/*! react/jsx-runtime */
+
+/*! ./styles.module.less */
+
+/*! @modern-js/runtime/router */
+
+/*! react */
+
+/*! @icon-park/react */
+
+/*! react */
+
+/*! @/assets/docs/qun.webp */
+
+/*! @/views/HomeView */
+
+/*! antd */
+
+/*! ./page.styles.module.less */
+
+/*! ./styles.module.less */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! ./Hero */
