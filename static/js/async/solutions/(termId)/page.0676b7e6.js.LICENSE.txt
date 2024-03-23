@@ -8,15 +8,13 @@
 
 /*! ./hooks/use-initial-values */
 
-/*! @ebay/nice-modal-react */
+/*! react/jsx-runtime */
 
 /*! @arms/rum-browser */
 
 /*! antd */
 
 /*! react/jsx-runtime */
-
-/*! ./SolutionListView */
 
 /*! @icon-park/react */
 
@@ -29,6 +27,8 @@
 /*! ../AdaptiveAurorianCard */
 
 /*! react/jsx-runtime */
+
+/*! ./SolutionAlert */
 
 /*! ./CopilotBlock */
 
@@ -56,15 +56,17 @@
 
 /*! @/services/http */
 
+/*! @ebay/nice-modal-react */
+
 /*! lodash-es */
 
 /*! ./constants */
 
-/*! ./context */
-
 /*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
+
+/*! ./SolutionListView */
 
 /*! @/assets/sinsa/get_started.png */
 
@@ -92,8 +94,6 @@
 
 /*! react */
 
-/*! antd */
-
 /*! ./constants */
 
 /*! @icon-park/react */
@@ -103,8 +103,6 @@
 /*! ./AdaptiveAuroriansTeam */
 
 /*! @/views/GlobalLayout/constants */
-
-/*! ./QueryForm */
 
 /*! @/components/TermChanger */
 
@@ -120,6 +118,8 @@
 
 /*! @ant-design/pro-components */
 
+/*! ./context */
+
 /*! react */
 
 /*! ./constants */
@@ -130,7 +130,7 @@
 
 /*! react */
 
-/*! react/jsx-runtime */
+/*! antd */
 
 /*! @/plugins/arms */
 
@@ -156,6 +156,8 @@
 
 /*! ./styles.module.less */
 
+/*! ./QueryForm */
+
 /*! @/assets/sinsa/sorry.png */
 
 /*! clsx */
@@ -165,8 +167,6 @@
 /*! @ant-design/pro-components */
 
 /*! react */
-
-/*! ./SolutionAlert */
 
 /*! antd */
 

@@ -1,5 +1,7 @@
 /*! react/jsx-runtime */
 
+/*! @/components/Hero */
+
 /*! ./styles.module.less */
 
 /*! react/jsx-runtime */
@@ -8,6 +10,8 @@
 
 /*! @/views/GlobalLayout/constants */
 
+/*! @/assets/docs/qun.webp */
+
 /*! @modern-js/runtime/router */
 
 /*! @modern-js/runtime/router */
@@ -15,11 +19,9 @@
 /*! react */
 
 /*! react */
-
-/*! @/components/Hero */
 
 /*! @icon-park/react */
 
 /*! antd */
 
-/*! @/assets/docs/qun.webp */
+/*! ./page.styles.module.less */
