@@ -1,10 +1,20 @@
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/router */
+
+/*! ./styles.module.less */
+
+/*! @/services/domain */
+
 /*! @icon-park/react */
 
 /*! ./page.styles.module.less */
 
-/*! ./Hero */
+/*! @/services/domain */
 
-/*! antd */
+/*! react */
+
+/*! ./Hero */
 
 /*! antd */
 
@@ -12,13 +22,13 @@
 
 /*! ./styles.module.less */
 
-/*! @/views/GlobalLayout/constants */
-
 /*! react/jsx-runtime */
+
+/*! @/views/GlobalLayout/constants */
 
 /*! react */
 
-/*! ./styles.module.less */
+/*! react */
 
 /*! @/assets/docs/qun.webp */
 
@@ -26,15 +36,11 @@
 
 /*! react */
 
-/*! @/services/domain */
-
-/*! react */
-
-/*! ./Domain */
-
 /*! @/views/HomeView */
 
-/*! react/jsx-runtime */
+/*! antd */
+
+/*! ./Domain */
 
 /*! react/jsx-runtime */
 
@@ -43,9 +49,3 @@
 /*! antd */
 
 /*! @icon-park/react */
-
-/*! @modern-js/runtime/router */
-
-/*! react */
-
-/*! @/services/domain */

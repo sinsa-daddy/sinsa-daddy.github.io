@@ -1,0 +1,183 @@
+/*! react */
+
+/*! @icon-park/react */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! react */
+
+/*! antd */
+
+/*! @/plugins/arms */
+
+/*! @arms/rum-browser */
+
+/*! @arms/rum-browser */
+
+/*! ahooks */
+
+/*! @icon-park/react */
+
+/*! antd */
+
+/*! react */
+
+/*! @/views/SolutionView */
+
+/*! @/models/terms */
+
+/*! @/components/RelativeTimeText */
+
+/*! ./styles.module.less */
+
+/*! ./QueryForm */
+
+/*! ../AdaptiveAurorianCard */
+
+/*! react/jsx-runtime */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! @/assets/sinsa/sorry.png */
+
+/*! ./CopilotBlock */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! ./helpers */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! ./styles.module.less */
+
+/*! ./utils */
+
+/*! antd */
+
+/*! react */
+
+/*! ./utils */
+
+/*! react/jsx-runtime */
+
+/*! @/components/SolutionCard */
+
+/*! ./hooks/use-initial-values */
+
+/*! lodash-es */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
+
+/*! @ant-design/pro-components */
+
+/*! react/jsx-runtime */
+
+/*! @/views/SolutionView/context */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! ../context */
+
+/*! ./SolutionAlert */
+
+/*! ahooks */
+
+/*! ./AdaptiveAuroriansTeam */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! @/models/aurorians */
+
+/*! antd */
+
+/*! @/components/ExcludeAurorianFormList */
+
+/*! @modern-js/runtime/model */
+
+/*! @/assets/sinsa/sorry.png */
+
+/*! @arms/rum-core */
+
+/*! @modern-js/runtime/router */
+
+/*! @/services/http */
+
+/*! @ebay/nice-modal-react */
+
+/*! ./constants */
+
+/*! react/jsx-runtime */
+
+/*! ./SolutionListView */
+
+/*! @/assets/sinsa/get_started.png */
+
+/*! ./constants */
+
+/*! antd */
+
+/*! @ant-design/pro-components */
+
+/*! react */
+
+/*! numeral */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! antd */
+
+/*! ../context */
+
+/*! @/components/utils */
+
+/*! numeral */
+
+/*! @modern-js/runtime/router */
+
+/*! react */
+
+/*! ./constants */
+
+/*! @icon-park/react */
+
+/*! @/components/TermNotFound */
+
+/*! @/components/TermChanger */
+
+/*! clsx */
+
+/*! @ant-design/pro-components */
+
+/*! react */
+
+/*! antd */
+
+/*! ./styles.module.less */
+
+/*! lodash-es */
+
+/*! @ant-design/pro-components */
+
+/*! @/components/RelativeTimeText */
+
+/*! ./context */
