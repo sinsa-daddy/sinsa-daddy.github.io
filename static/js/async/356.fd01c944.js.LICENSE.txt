@@ -1,12 +1,32 @@
+/*! ../../utils/without-exclude */
+
+/*! @/components/RelativeTimeText */
+
+/*! @ebay/nice-modal-react */
+
+/*! numeral */
+
+/*! ./constants */
+
+/*! ahooks */
+
+/*! dayjs */
+
+/*! react */
+
 /*! immer */
 
 /*! antd */
 
 /*! ./styles.module.less */
 
+/*! clsx */
+
 /*! @modern-js/runtime/model */
 
 /*! react */
+
+/*! @/models/aurorians */
 
 /*! clsx */
 
@@ -14,47 +34,43 @@
 
 /*! @ebay/nice-modal-react */
 
-/*! react */
+/*! ./hooks/use-lazy-image */
 
 /*! ./styles.module.less */
 
 /*! @ant-design/pro-components */
 
-/*! clsx */
-
 /*! ../../QueryForm/utils */
 
 /*! antd */
-
-/*! @/models/aurorians */
-
-/*! @/services/solution-algorithm */
 
 /*! react */
 
 /*! ./styles.module.less */
 
-/*! ../schemas/query-params */
-
-/*! react/jsx-runtime */
-
-/*! ./hooks/use-lazy-image */
-
-/*! @/models/aurorians */
-
-/*! ./helpers/patch */
+/*! ./components/asc */
 
 /*! ./styles.module.less */
 
-/*! ./components/asc */
+/*! ../schemas/query-params */
 
-/*! @sinsa/schema */
+/*! @/services/solution-algorithm */
 
-/*! @modern-js/runtime/model */
+/*! react/jsx-runtime */
 
 /*! clsx */
 
 /*! ./styles.module.less */
+
+/*! @/models/aurorians */
+
+/*! @modern-js/runtime/model */
+
+/*! ./helpers/patch */
+
+/*! @sinsa/schema */
+
+/*! react */
 
 /*! @modern-js/runtime/model */
 
@@ -68,56 +84,40 @@
 
 /*! react/jsx-runtime */
 
-/*! antd */
+/*! framer-motion */
 
 /*! react */
 
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! ./constants */
+
 /*! ./hooks/use-trigger-form-action */
+
+/*! @ant-design/pro-components */
 
 /*! @/components/SolutionCard/CopilotBlock/AdaptiveAuroriansTeam */
 
 /*! constate */
 
-/*! @/components/utils */
-
-/*! ahooks */
-
-/*! framer-motion */
-
-/*! react */
-
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
-
-/*! ./constants */
-
-/*! ../utils/without-exclude */
-
-/*! @ant-design/pro-components */
-
-/*! immer */
-
-/*! @icon-park/react */
-
 /*! react/jsx-runtime */
 
 /*! antd */
 
-/*! ../../utils/without-exclude */
-
-/*! @/components/RelativeTimeText */
-
-/*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
-
-/*! @ebay/nice-modal-react */
-
-/*! @/views/SolutionView/context */
-
-/*! numeral */
-
-/*! ./constants */
+/*! @/components/utils */
 
 /*! ahooks */
 
-/*! dayjs */
+/*! react/jsx-runtime */
+
+/*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
+
+/*! @/views/SolutionView/context */
+
+/*! ../utils/without-exclude */
+
+/*! immer */
+
+/*! @icon-park/react */

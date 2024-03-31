@@ -1,2 +1,0 @@
-/*! For license information please see page.63cc5bff.js.LICENSE.txt */
-(self.webpackChunk_sinsa_web=self.webpackChunk_sinsa_web||[]).push([["330"],{701543:function(e,s,a){"use strict";a.r(s);var n=a("397458"),t=a("116139");s.default=()=>(0,n.jsx)(t.PageContainer,{title:"\u6570\u636E\u5168\u89C8",children:"daddt"})}}]);

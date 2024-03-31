@@ -1,3 +1,0 @@
-/*! @ant-design/pro-components */
-
-/*! react/jsx-runtime */
