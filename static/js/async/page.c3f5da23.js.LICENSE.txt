@@ -1,5 +1,7 @@
 /*! react/jsx-runtime */
 
+/*! @/globalTheme */
+
 /*! ./styles.module.less */
 
 /*! react */
@@ -34,9 +36,9 @@
 
 /*! antd */
 
-/*! ./CoolCanvas */
-
 /*! ./styles.module.less */
+
+/*! ./CoolCanvas */
 
 /*! @/views/GlobalLayout/constants */
 

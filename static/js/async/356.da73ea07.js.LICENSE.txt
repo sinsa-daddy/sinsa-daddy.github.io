@@ -1,9 +1,3 @@
-/*! ../../utils/without-exclude */
-
-/*! @/components/RelativeTimeText */
-
-/*! @ebay/nice-modal-react */
-
 /*! numeral */
 
 /*! ./constants */
@@ -12,21 +6,17 @@
 
 /*! dayjs */
 
-/*! react */
-
 /*! immer */
 
 /*! antd */
 
 /*! ./styles.module.less */
 
-/*! clsx */
-
 /*! @modern-js/runtime/model */
 
 /*! react */
 
-/*! @/models/aurorians */
+/*! react */
 
 /*! clsx */
 
@@ -34,11 +24,15 @@
 
 /*! @ebay/nice-modal-react */
 
-/*! ./hooks/use-lazy-image */
+/*! clsx */
 
 /*! ./styles.module.less */
 
 /*! @ant-design/pro-components */
+
+/*! @/models/aurorians */
+
+/*! ./hooks/use-lazy-image */
 
 /*! ../../QueryForm/utils */
 
@@ -48,29 +42,27 @@
 
 /*! ./styles.module.less */
 
-/*! ./components/asc */
-
-/*! ./styles.module.less */
+/*! @/services/solution-algorithm */
 
 /*! ../schemas/query-params */
 
-/*! @/services/solution-algorithm */
-
 /*! react/jsx-runtime */
+
+/*! @/models/aurorians */
+
+/*! ./helpers/patch */
+
+/*! ./styles.module.less */
+
+/*! ./components/asc */
 
 /*! clsx */
 
 /*! ./styles.module.less */
 
-/*! @/models/aurorians */
-
-/*! @modern-js/runtime/model */
-
-/*! ./helpers/patch */
-
 /*! @sinsa/schema */
 
-/*! react */
+/*! @modern-js/runtime/model */
 
 /*! @modern-js/runtime/model */
 
@@ -82,42 +74,52 @@
 
 /*! @/models/aurorians */
 
-/*! react/jsx-runtime */
-
-/*! framer-motion */
-
 /*! react */
+
+/*! react/jsx-runtime */
 
 /*! antd */
 
-/*! react/jsx-runtime */
-
-/*! ./constants */
-
 /*! ./hooks/use-trigger-form-action */
-
-/*! @ant-design/pro-components */
 
 /*! @/components/SolutionCard/CopilotBlock/AdaptiveAuroriansTeam */
 
 /*! constate */
 
-/*! react/jsx-runtime */
+/*! framer-motion */
 
-/*! antd */
+/*! react */
 
 /*! @/components/utils */
 
+/*! react/jsx-runtime */
+
 /*! ahooks */
+
+/*! ./constants */
 
 /*! react/jsx-runtime */
 
-/*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
+/*! @ant-design/pro-components */
 
-/*! @/views/SolutionView/context */
+/*! @/globalTheme */
 
 /*! ../utils/without-exclude */
 
 /*! immer */
 
+/*! react/jsx-runtime */
+
+/*! antd */
+
 /*! @icon-park/react */
+
+/*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
+
+/*! @/views/SolutionView/context */
+
+/*! ../../utils/without-exclude */
+
+/*! @/components/RelativeTimeText */
+
+/*! @ebay/nice-modal-react */
