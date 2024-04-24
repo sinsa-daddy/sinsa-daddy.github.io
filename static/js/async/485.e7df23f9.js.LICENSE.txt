@@ -7,5 +7,3 @@
  * license : MIT
  * http://adamwdraper.github.com/Numeral-js/
  */
-
-/*! react */

@@ -1,4 +1,4 @@
-/*! ./context */
+/*! ./QueryForm */
 
 /*! ahooks */
 
@@ -23,8 +23,6 @@
 /*! @modern-js/runtime/router */
 
 /*! @/services/http */
-
-/*! ./QueryForm */
 
 /*! ./constants */
 
@@ -68,6 +66,8 @@
 
 /*! @/components/TermNotFound */
 
+/*! ./SolutionAlert */
+
 /*! @/components/TermChanger */
 
 /*! clsx */
@@ -94,13 +94,13 @@
 
 /*! @icon-park/react */
 
-/*! ./SolutionAlert */
-
 /*! antd */
 
 /*! @/models/terms */
 
 /*! react */
+
+/*! ./SolutionListView */
 
 /*! @/plugins/arms */
 
@@ -132,8 +132,6 @@
 
 /*! @/assets/sinsa/sorry.png */
 
-/*! @ebay/nice-modal-react */
-
 /*! ./CopilotBlock */
 
 /*! @modern-js/runtime/model */
@@ -141,8 +139,6 @@
 /*! react */
 
 /*! ./helpers */
-
-/*! ./SolutionListView */
 
 /*! react/jsx-runtime */
 
@@ -159,6 +155,8 @@
 /*! ./utils */
 
 /*! react/jsx-runtime */
+
+/*! ./context */
 
 /*! @/components/SolutionCard */
 
