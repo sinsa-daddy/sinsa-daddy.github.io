@@ -7686,7 +7686,7 @@ async function getWBIKeys() {
       "https://api.bilibili.com/x/web-interface/nav",
       {
         headers: {
-          "user-agent": USER_AGENT,
+          "user-agent": `${Math.random()}`,
           referer: "https://www.bilibili.com",
           "Accept-Encoding": "gzip, deflate, br",
           "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en;q=0.3,en-US;q=0.2",
