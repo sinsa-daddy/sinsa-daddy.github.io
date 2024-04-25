@@ -7703,12 +7703,6 @@ async function getWBIKeys() {
         subURL.lastIndexOf(".")
       );
       return { imgKey, subKey };
-    } else {
-      throw new HTTPException(401, {
-        message: JSON.stringify({
-          json
-        })
-      });
     }
   } catch (error) {
   }
@@ -7904,12 +7898,7 @@ bilibili.get("/latest-videos", async (ctx) => {
     }
     return ctx.json({}, 500);
   } else {
-    throw new HTTPException(401, {
-      message: JSON.stringify({
-        homeCookie,
-        keys: keys2
-      })
-    });
+    throw new HTTPException(401, { message: "no keys or home cookie" });
   }
 });
 var bilibili_default = bilibili;
