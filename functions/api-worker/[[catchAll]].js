@@ -7680,28 +7680,21 @@ async function getHomeCookie() {
 }
 
 // src/services/bilibili/helpers/get-wbi-keys.ts
-async function getWBIKeys({ cookie: Cookie }) {
+async function getWBIKeys() {
   try {
-    console.log("use cookie for wbi", Cookie);
     const navResponse = await fetch(
       "https://api.bilibili.com/x/web-interface/nav",
       {
         headers: {
-          ...Cookie ? { Cookie } : {},
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
-          Referer: "https://www.bilibili.com/",
-          accept: "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-          "accept-language": "zh-CN,zh;q=0.9",
-          "cache-control": "max-age=0",
-          priority: "u=0, i",
-          "sec-ch-ua": '"Chromium";v="124", "Microsoft Edge";v="124", "Not-A.Brand";v="99"',
-          "sec-ch-ua-mobile": "?0",
-          "sec-ch-ua-platform": '"Windows"',
-          "sec-fetch-dest": "document",
-          "sec-fetch-mode": "navigate",
-          "sec-fetch-site": "none",
-          "sec-fetch-user": "?1",
-          "upgrade-insecure-requests": "1"
+          "user-agent": USER_AGENT,
+          referer: "https://www.bilibili.com",
+          "Accept-Encoding": "gzip, deflate, br",
+          "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en;q=0.3,en-US;q=0.2",
+          Accept: "application/json, text/plain, */*",
+          "Cache-Control": "no-cache",
+          Connection: "keep-alive",
+          Origin: "https://www.bilibili.com",
+          Pragma: "no-cache"
         }
       }
     );
@@ -7889,9 +7882,7 @@ bilibili.get("/video/:bvid", async (ctx) => {
 bilibili.get("/latest-videos", async (ctx) => {
   const homeCookie = await getHomeCookie();
   console.log("homeCookie", homeCookie);
-  const keys2 = await getWBIKeys({
-    cookie: `${homeCookie?.join() ? `${homeCookie?.join()};` : ""}SESSDATA=d4d919fe%2C1729444040%2C6d44e%2A42CjDwECzcleslJhdJkwy4yp4eJ_5LfcOWoYF9lO8q_HFK-RYtuAbyXIU50TmlC4VSpbwSVl9ETXdMSnVwemFfUDkwT28xTmlqeU1vVFBXYmJ1ZmZseHpYWnlfc0NiZ21zRzhzaU8yMFJYdlZOUDVkUTlVd3lKUUsxZmN1Q1lzYmJZQ3dBR3FEbEdRIIEC`
-  });
+  const keys2 = await getWBIKeys();
   console.log("getWBIKeys", keys2);
   if (Array.isArray(homeCookie) && homeCookie.length && keys2) {
     const queryString = encodeWbi(
