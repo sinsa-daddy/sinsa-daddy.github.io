@@ -7703,6 +7703,12 @@ async function getWBIKeys() {
         subURL.lastIndexOf(".")
       );
       return { imgKey, subKey };
+    } else {
+      throw new HTTPException(401, {
+        message: JSON.stringify({
+          json
+        })
+      });
     }
   } catch (error) {
   }
@@ -7901,8 +7907,7 @@ bilibili.get("/latest-videos", async (ctx) => {
     throw new HTTPException(401, {
       message: JSON.stringify({
         homeCookie,
-        keys: keys2,
-        ctx
+        keys: keys2
       })
     });
   }
