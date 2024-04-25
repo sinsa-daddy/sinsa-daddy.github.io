@@ -7680,21 +7680,16 @@ async function getHomeCookie() {
 }
 
 // src/services/bilibili/helpers/get-wbi-keys.ts
-async function getWBIKeys() {
+async function getWBIKeys({ cookie: Cookie }) {
   try {
+    console.log("use cookie for wbi", Cookie);
     const navResponse = await fetch(
       "https://api.bilibili.com/x/web-interface/nav",
       {
         headers: {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          referer: "https://www.bilibili.com",
-          "Accept-Encoding": "gzip, deflate, br",
-          "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en;q=0.3,en-US;q=0.2",
-          Accept: "application/json, text/plain, */*",
-          "Cache-Control": "no-cache",
-          Connection: "keep-alive",
-          Origin: "https://www.bilibili.com",
-          Pragma: "no-cache"
+          ...Cookie ? { Cookie } : {},
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+          Referer: "https://www.bilibili.com/"
         }
       }
     );
@@ -7882,7 +7877,7 @@ bilibili.get("/video/:bvid", async (ctx) => {
 bilibili.get("/latest-videos", async (ctx) => {
   const homeCookie = await getHomeCookie();
   console.log("homeCookie", homeCookie);
-  const keys2 = await getWBIKeys();
+  const keys2 = await getWBIKeys({ cookie: homeCookie?.join() });
   console.log("getWBIKeys", keys2);
   if (Array.isArray(homeCookie) && homeCookie.length && keys2) {
     const queryString = encodeWbi(
