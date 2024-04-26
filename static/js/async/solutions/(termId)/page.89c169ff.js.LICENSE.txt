@@ -1,4 +1,6 @@
-/*! ./QueryForm */
+/*! @/components/SolutionCard */
+
+/*! antd */
 
 /*! ahooks */
 
@@ -18,17 +20,13 @@
 
 /*! @arms/rum-core */
 
-/*! antd */
-
 /*! @modern-js/runtime/router */
+
+/*! ./QueryForm */
 
 /*! @/services/http */
 
-/*! ./constants */
-
-/*! react/jsx-runtime */
-
-/*! @/assets/sinsa/get_started.png */
+/*! antd */
 
 /*! ./constants */
 
@@ -42,15 +40,7 @@
 
 /*! @modern-js/runtime/model */
 
-/*! react/jsx-runtime */
-
 /*! antd */
-
-/*! antd */
-
-/*! ../context */
-
-/*! @/assets/sinsa/baiwa.jpg */
 
 /*! @/components/utils */
 
@@ -62,11 +52,19 @@
 
 /*! ./constants */
 
+/*! react/jsx-runtime */
+
+/*! ./constants */
+
 /*! @icon-park/react */
 
 /*! @/components/TermNotFound */
 
-/*! ./SolutionAlert */
+/*! @/assets/sinsa/get_started.png */
+
+/*! ../context */
+
+/*! @/assets/sinsa/baiwa.jpg */
 
 /*! @/components/TermChanger */
 
@@ -80,6 +78,8 @@
 
 /*! antd */
 
+/*! antd */
+
 /*! ./styles.module.less */
 
 /*! lodash-es */
@@ -88,19 +88,17 @@
 
 /*! @/components/RelativeTimeText */
 
-/*! @/globalTheme */
+/*! ./SolutionAlert */
 
 /*! react */
+
+/*! react/jsx-runtime */
 
 /*! @icon-park/react */
 
 /*! antd */
 
 /*! @/models/terms */
-
-/*! react */
-
-/*! ./SolutionListView */
 
 /*! @/plugins/arms */
 
@@ -114,7 +112,7 @@
 
 /*! antd */
 
-/*! react */
+/*! @/globalTheme */
 
 /*! @/views/SolutionView */
 
@@ -122,15 +120,15 @@
 
 /*! @/components/RelativeTimeText */
 
-/*! ./styles.module.less */
-
 /*! ../AdaptiveAurorianCard */
+
+/*! react */
 
 /*! react/jsx-runtime */
 
 /*! @/views/GlobalLayout/constants */
 
-/*! @/assets/sinsa/sorry.png */
+/*! ./SolutionListView */
 
 /*! ./CopilotBlock */
 
@@ -148,25 +146,25 @@
 
 /*! ./utils */
 
+/*! react */
+
 /*! antd */
 
+/*! ./styles.module.less */
+
 /*! react */
+
+/*! @/assets/sinsa/sorry.png */
 
 /*! ./utils */
 
 /*! react/jsx-runtime */
-
-/*! ./context */
-
-/*! @/components/SolutionCard */
 
 /*! ./hooks/use-initial-values */
 
 /*! lodash-es */
 
 /*! react/jsx-runtime */
-
-/*! antd */
 
 /*! react/jsx-runtime */
 
@@ -183,3 +181,5 @@
 /*! antd */
 
 /*! ../context */
+
+/*! ./context */
