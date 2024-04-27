@@ -1,3 +1,7 @@
+/*! ./Hero */
+
+/*! antd */
+
 /*! react/jsx-runtime */
 
 /*! @/globalTheme */
@@ -5,8 +9,6 @@
 /*! ./styles.module.less */
 
 /*! ./CoolCanvas */
-
-/*! @/assets/docs/qun.webp */
 
 /*! react/jsx-runtime */
 
@@ -21,6 +23,8 @@
 /*! @modern-js/runtime/router */
 
 /*! react */
+
+/*! @/services/domain */
 
 /*! react/jsx-runtime */
 
@@ -36,8 +40,6 @@
 
 /*! ./styles.module.less */
 
-/*! @/services/domain */
-
 /*! @/views/GlobalLayout/constants */
 
 /*! @/views/HomeView */
@@ -47,7 +49,3 @@
 /*! antd */
 
 /*! ./page.styles.module.less */
-
-/*! ./Hero */
-
-/*! antd */

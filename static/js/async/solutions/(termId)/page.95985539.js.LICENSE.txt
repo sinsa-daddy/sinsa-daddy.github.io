@@ -1,0 +1,177 @@
+/*! react */
+
+/*! ./utils */
+
+/*! react/jsx-runtime */
+
+/*! @/services/http */
+
+/*! lodash-es */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @ant-design/pro-components */
+
+/*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
+
+/*! @ant-design/pro-components */
+
+/*! react/jsx-runtime */
+
+/*! @/views/SolutionView/context */
+
+/*! antd */
+
+/*! antd */
+
+/*! ./SolutionAlert */
+
+/*! react/jsx-runtime */
+
+/*! ./constants */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! ./constants */
+
+/*! @icon-park/react */
+
+/*! @/components/TermNotFound */
+
+/*! ../context */
+
+/*! ./AdaptiveAuroriansTeam */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! @/components/TermChanger */
+
+/*! @/models/aurorians */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @/components/SolutionCard */
+
+/*! @modern-js/runtime/model */
+
+/*! @ant-design/pro-components */
+
+/*! @modern-js/runtime/router */
+
+/*! ./SolutionListView */
+
+/*! react */
+
+/*! ./constants */
+
+/*! numeral */
+
+/*! react */
+
+/*! @arms/rum-browser */
+
+/*! @/plugins/arms */
+
+/*! ahooks */
+
+/*! @arms/rum-browser */
+
+/*! @modern-js/runtime/model */
+
+/*! antd */
+
+/*! @/components/utils */
+
+/*! numeral */
+
+/*! @modern-js/runtime/router */
+
+/*! @/components/RelativeTimeText */
+
+/*! @/views/SolutionView */
+
+/*! react */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! clsx */
+
+/*! @ant-design/pro-components */
+
+/*! react */
+
+/*! react */
+
+/*! antd */
+
+/*! ./styles.module.less */
+
+/*! react/jsx-runtime */
+
+/*! lodash-es */
+
+/*! ./utils */
+
+/*! react */
+
+/*! @/components/RelativeTimeText */
+
+/*! ./styles.module.less */
+
+/*! @icon-park/react */
+
+/*! ./context */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! ./hooks/use-initial-values */
+
+/*! react/jsx-runtime */
+
+/*! @icon-park/react */
+
+/*! ./QueryForm */
+
+/*! react/jsx-runtime */
+
+/*! ../context */
+
+/*! @/models/terms */
+
+/*! antd */
+
+/*! ../AdaptiveAurorianCard */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @/globalTheme */
+
+/*! ./CopilotBlock */
+
+/*! @modern-js/runtime/model */
+
+/*! ./helpers */
+
+/*! ahooks */
+
+/*! react/jsx-runtime */
+
+/*! ./styles.module.less */
+
+/*! @/components/ExcludeAurorianFormList */
+
+/*! antd */
+
+/*! @arms/rum-core */
