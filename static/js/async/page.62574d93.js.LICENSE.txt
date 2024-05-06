@@ -1,3 +1,11 @@
+/*! @/views/GlobalLayout/constants */
+
+/*! react */
+
+/*! antd */
+
+/*! ./page.styles.module.less */
+
 /*! ./Hero */
 
 /*! antd */
@@ -36,16 +44,8 @@
 
 /*! react/jsx-runtime */
 
+/*! @/views/HomeView */
+
 /*! @icon-park/react */
 
 /*! ./styles.module.less */
-
-/*! @/views/GlobalLayout/constants */
-
-/*! @/views/HomeView */
-
-/*! react */
-
-/*! antd */
-
-/*! ./page.styles.module.less */
