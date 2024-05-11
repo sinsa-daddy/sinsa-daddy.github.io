@@ -1,7 +1,5 @@
 /*! react */
 
-/*! react */
-
 /*! ./utils */
 
 /*! @/views/GlobalLayout/constants */
@@ -14,13 +12,11 @@
 
 /*! lodash-es */
 
-/*! react */
-
 /*! ./utils */
 
 /*! react/jsx-runtime */
 
-/*! ./styles.module.less */
+/*! react */
 
 /*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
 
@@ -32,17 +28,19 @@
 
 /*! antd */
 
-/*! ./context */
+/*! react */
 
 /*! ./hooks/use-initial-values */
+
+/*! ./context */
+
+/*! ./styles.module.less */
 
 /*! react/jsx-runtime */
 
 /*! ./AdaptiveAuroriansTeam */
 
 /*! @/views/GlobalLayout/constants */
-
-/*! ./QueryForm */
 
 /*! react/jsx-runtime */
 
@@ -54,15 +52,11 @@
 
 /*! @modern-js/runtime/model */
 
-/*! antd */
-
 /*! @modern-js/runtime/router */
 
-/*! antd */
-
-/*! @/globalTheme */
-
 /*! ahooks */
+
+/*! ./QueryForm */
 
 /*! @/components/ExcludeAurorianFormList */
 
@@ -70,11 +64,17 @@
 
 /*! ./constants */
 
+/*! antd */
+
 /*! numeral */
 
 /*! react */
 
 /*! @arms/rum-browser */
+
+/*! antd */
+
+/*! @/globalTheme */
 
 /*! @modern-js/runtime/model */
 
@@ -100,19 +100,11 @@
 
 /*! antd */
 
-/*! ./SolutionAlert */
-
 /*! ./styles.module.less */
-
-/*! react/jsx-runtime */
-
-/*! ./constants */
 
 /*! react */
 
 /*! lodash-es */
-
-/*! react/jsx-runtime */
 
 /*! @/components/RelativeTimeText */
 
@@ -122,29 +114,35 @@
 
 /*! ./constants */
 
-/*! ../context */
-
 /*! @/components/TermChanger */
 
-/*! react/jsx-runtime */
-
-/*! antd */
+/*! ./SolutionAlert */
 
 /*! @icon-park/react */
-
-/*! @/components/SolutionCard */
 
 /*! antd */
 
 /*! @/models/terms */
 
-/*! @ant-design/pro-components */
+/*! react/jsx-runtime */
 
-/*! ./SolutionListView */
+/*! ./constants */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
 
 /*! @icon-park/react */
 
+/*! ../context */
+
 /*! react */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @/components/SolutionCard */
 
 /*! @/models/terms */
 
@@ -167,6 +165,8 @@
 /*! antd */
 
 /*! react/jsx-runtime */
+
+/*! ./SolutionListView */
 
 /*! ./styles.module.less */
 
