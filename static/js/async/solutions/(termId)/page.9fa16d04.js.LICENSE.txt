@@ -1,0 +1,177 @@
+/*! react */
+
+/*! react */
+
+/*! ./utils */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! ./hooks/use-initial-values */
+
+/*! ./context */
+
+/*! lodash-es */
+
+/*! ./styles.module.less */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! react/jsx-runtime */
+
+/*! @/views/SolutionView/context */
+
+/*! antd */
+
+/*! ../context */
+
+/*! ahooks */
+
+/*! ./QueryForm */
+
+/*! ./AdaptiveAuroriansTeam */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! @/components/ExcludeAurorianFormList */
+
+/*! @/models/aurorians */
+
+/*! antd */
+
+/*! @arms/rum-core */
+
+/*! @modern-js/runtime/model */
+
+/*! antd */
+
+/*! antd */
+
+/*! @modern-js/runtime/router */
+
+/*! @/globalTheme */
+
+/*! @/services/http */
+
+/*! antd */
+
+/*! ./constants */
+
+/*! @ant-design/pro-components */
+
+/*! numeral */
+
+/*! react */
+
+/*! @arms/rum-browser */
+
+/*! antd */
+
+/*! @modern-js/runtime/model */
+
+/*! @/components/utils */
+
+/*! numeral */
+
+/*! react */
+
+/*! @modern-js/runtime/router */
+
+/*! ./constants */
+
+/*! @icon-park/react */
+
+/*! @/components/TermNotFound */
+
+/*! @/components/TermChanger */
+
+/*! ./SolutionAlert */
+
+/*! clsx */
+
+/*! @ant-design/pro-components */
+
+/*! react */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! ./styles.module.less */
+
+/*! ./constants */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! lodash-es */
+
+/*! @/components/RelativeTimeText */
+
+/*! ../context */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @/components/SolutionCard */
+
+/*! @icon-park/react */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! @/plugins/arms */
+
+/*! @arms/rum-browser */
+
+/*! ahooks */
+
+/*! ./SolutionListView */
+
+/*! antd */
+
+/*! @icon-park/react */
+
+/*! @/views/SolutionView */
+
+/*! @/components/RelativeTimeText */
+
+/*! @/models/terms */
+
+/*! ../AdaptiveAurorianCard */
+
+/*! react/jsx-runtime */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! react */
+
+/*! ./CopilotBlock */
+
+/*! @modern-js/runtime/model */
+
+/*! ./helpers */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! ./utils */
+
+/*! ./styles.module.less */
+
+/*! antd */
