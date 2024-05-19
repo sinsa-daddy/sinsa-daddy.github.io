@@ -1,6 +1,10 @@
-/*! ./Hero */
+/*! @icon-park/react */
 
-/*! ./styles.module.less */
+/*! ./page.styles.module.less */
+
+/*! react */
+
+/*! ./Hero */
 
 /*! antd */
 
@@ -10,9 +14,11 @@
 
 /*! ./CoolCanvas */
 
-/*! react */
+/*! react/jsx-runtime */
 
-/*! @/services/domain */
+/*! @/config/domain */
+
+/*! react */
 
 /*! react */
 
@@ -20,13 +26,11 @@
 
 /*! @/globalTheme */
 
-/*! react/jsx-runtime */
+/*! @/views/HomeView */
 
 /*! react */
 
-/*! @/services/domain */
-
-/*! react */
+/*! antd */
 
 /*! ./Domain */
 
@@ -34,18 +38,14 @@
 
 /*! antd */
 
+/*! @/config/domain */
+
 /*! react/jsx-runtime */
 
 /*! @modern-js/runtime/router */
 
-/*! @icon-park/react */
-
-/*! @icon-park/react */
-
-/*! antd */
-
-/*! @/views/HomeView */
-
-/*! ./page.styles.module.less */
-
 /*! react/jsx-runtime */
+
+/*! @icon-park/react */
+
+/*! ./styles.module.less */
