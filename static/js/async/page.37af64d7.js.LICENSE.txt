@@ -1,0 +1,51 @@
+/*! @modern-js/runtime/router */
+
+/*! @/globalTheme */
+
+/*! @/views/HomeView */
+
+/*! react */
+
+/*! antd */
+
+/*! ./Domain */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @/config/domain */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/router */
+
+/*! react/jsx-runtime */
+
+/*! @icon-park/react */
+
+/*! ./styles.module.less */
+
+/*! @icon-park/react */
+
+/*! ./page.styles.module.less */
+
+/*! react */
+
+/*! ./Hero */
+
+/*! antd */
+
+/*! ./styles.module.less */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! ./CoolCanvas */
+
+/*! react/jsx-runtime */
+
+/*! @/config/domain */
+
+/*! react */
+
+/*! react */
