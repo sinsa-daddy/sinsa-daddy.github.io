@@ -1,3 +1,0 @@
-/*! @arms/rum-browser */
-
-/*! @/config/domain */

@@ -1,28 +1,28 @@
 /*! react */
 
-/*! react */
+/*! @/config/domain */
 
-/*! ./hooks/use-initial-values */
-
-/*! ./context */
+/*! ahooks */
 
 /*! ./utils */
 
-/*! ./styles.module.less */
+/*! ./QueryForm */
 
 /*! react/jsx-runtime */
 
-/*! react/jsx-runtime */
+/*! @/components/ExcludeAurorianFormList */
 
-/*! @arms/rum-browser */
-
-/*! react/jsx-runtime */
+/*! @arms/rum-core */
 
 /*! lodash-es */
 
 /*! react/jsx-runtime */
 
-/*! ../context */
+/*! antd */
+
+/*! antd */
+
+/*! @/globalTheme */
 
 /*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
 
@@ -30,17 +30,17 @@
 
 /*! react/jsx-runtime */
 
+/*! @/services/http */
+
 /*! @/views/SolutionView/context */
 
 /*! antd */
 
-/*! ahooks */
+/*! antd */
 
-/*! ./QueryForm */
+/*! @ant-design/pro-components */
 
-/*! @/components/ExcludeAurorianFormList */
-
-/*! @arms/rum-core */
+/*! @arms/rum-browser */
 
 /*! antd */
 
@@ -48,49 +48,23 @@
 
 /*! @/views/GlobalLayout/constants */
 
-/*! antd */
-
 /*! @/models/aurorians */
 
 /*! antd */
 
-/*! @/globalTheme */
+/*! react */
 
 /*! @modern-js/runtime/model */
 
-/*! @/services/http */
-
-/*! @modern-js/runtime/router */
-
-/*! antd */
-
-/*! @ant-design/pro-components */
-
-/*! antd */
-
 /*! ./constants */
-
-/*! react */
-
-/*! numeral */
-
-/*! react */
 
 /*! @icon-park/react */
 
 /*! @/components/TermNotFound */
 
-/*! @modern-js/runtime/model */
-
-/*! ./constants */
-
-/*! @/components/utils */
-
-/*! numeral */
+/*! @modern-js/runtime/router */
 
 /*! @/components/TermChanger */
-
-/*! @modern-js/runtime/router */
 
 /*! ./SolutionAlert */
 
@@ -102,6 +76,40 @@
 
 /*! @ant-design/pro-components */
 
+/*! ./constants */
+
+/*! numeral */
+
+/*! react */
+
+/*! ../context */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @/components/SolutionCard */
+
+/*! @/components/utils */
+
+/*! numeral */
+
+/*! @modern-js/runtime/router */
+
+/*! @/plugins/arms */
+
+/*! @arms/rum-browser */
+
+/*! ahooks */
+
+/*! ./SolutionListView */
+
+/*! antd */
+
 /*! clsx */
 
 /*! @ant-design/pro-components */
@@ -110,51 +118,43 @@
 
 /*! antd */
 
+/*! @/views/SolutionView */
+
 /*! ./styles.module.less */
 
-/*! ../context */
-
-/*! react */
+/*! @/components/RelativeTimeText */
 
 /*! lodash-es */
 
-/*! react/jsx-runtime */
-
-/*! antd */
-
-/*! @/components/SolutionCard */
-
 /*! @/components/RelativeTimeText */
-
-/*! @/plugins/arms */
-
-/*! @icon-park/react */
-
-/*! ahooks */
-
-/*! @arms/rum-browser */
-
-/*! antd */
-
-/*! @/models/terms */
-
-/*! antd */
-
-/*! ./SolutionListView */
-
-/*! @/views/SolutionView */
-
-/*! @/components/RelativeTimeText */
-
-/*! @icon-park/react */
 
 /*! @/views/GlobalLayout/constants */
 
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @icon-park/react */
+
+/*! antd */
+
 /*! @/models/terms */
+
+/*! ./utils */
 
 /*! react */
 
-/*! @/config/domain */
+/*! @icon-park/react */
+
+/*! react */
+
+/*! ./hooks/use-initial-values */
+
+/*! @/models/terms */
+
+/*! ./context */
+
+/*! ./styles.module.less */
 
 /*! react/jsx-runtime */
 
@@ -162,7 +162,7 @@
 
 /*! react/jsx-runtime */
 
-/*! ./utils */
+/*! react/jsx-runtime */
 
 /*! ./CopilotBlock */
 
@@ -170,7 +170,7 @@
 
 /*! ./helpers */
 
-/*! react */
+/*! ../context */
 
 /*! react/jsx-runtime */
 
