@@ -1,0 +1,169 @@
+/*! react */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! react */
+
+/*! ./utils */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! react */
+
+/*! antd */
+
+/*! @/globalTheme */
+
+/*! @modern-js/runtime/model */
+
+/*! react/jsx-runtime */
+
+/*! numeral */
+
+/*! @modern-js/runtime/router */
+
+/*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
+
+/*! @ant-design/pro-components */
+
+/*! ./hooks/use-initial-values */
+
+/*! @/views/SolutionView/context */
+
+/*! react */
+
+/*! ./styles.module.less */
+
+/*! ../context */
+
+/*! lodash-es */
+
+/*! react/jsx-runtime */
+
+/*! ./AdaptiveAuroriansTeam */
+
+/*! @/models/aurorians */
+
+/*! antd */
+
+/*! ./SolutionAlert */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! react/jsx-runtime */
+
+/*! ahooks */
+
+/*! ./constants */
+
+/*! react/jsx-runtime */
+
+/*! ../context */
+
+/*! ./constants */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @/components/SolutionCard */
+
+/*! @/models/terms */
+
+/*! numeral */
+
+/*! @/services/http */
+
+/*! @/components/utils */
+
+/*! ./SolutionListView */
+
+/*! ./CopilotBlock */
+
+/*! ./helpers */
+
+/*! antd */
+
+/*! antd */
+
+/*! @ant-design/pro-components */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! antd */
+
+/*! clsx */
+
+/*! @ant-design/pro-components */
+
+/*! antd */
+
+/*! ./constants */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @icon-park/react */
+
+/*! @/components/TermNotFound */
+
+/*! @/components/RelativeTimeText */
+
+/*! lodash-es */
+
+/*! @/components/TermChanger */
+
+/*! react */
+
+/*! @icon-park/react */
+
+/*! react/jsx-runtime */
+
+/*! @ant-design/pro-components */
+
+/*! ./utils */
+
+/*! antd */
+
+/*! @/components/ExcludeAurorianFormList */
+
+/*! react */
+
+/*! ./context */
+
+/*! @icon-park/react */
+
+/*! react */
+
+/*! ./styles.module.less */
+
+/*! react/jsx-runtime */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! ../AdaptiveAurorianCard */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/runtime/model */
+
+/*! ahooks */
+
+/*! @modern-js/runtime/model */
+
+/*! @modern-js/runtime/router */
+
+/*! @/views/SolutionView */
+
+/*! @/components/RelativeTimeText */
+
+/*! ./styles.module.less */
+
+/*! ./QueryForm */

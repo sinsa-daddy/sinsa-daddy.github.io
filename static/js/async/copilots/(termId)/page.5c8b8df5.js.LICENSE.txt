@@ -1,0 +1,125 @@
+/*! antd */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! react */
+
+/*! react */
+
+/*! antd */
+
+/*! @ant-design/pro-components */
+
+/*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
+
+/*! @/views/SolutionView/context */
+
+/*! @modern-js/runtime/model */
+
+/*! ./CopilotSortContext */
+
+/*! @modern-js/runtime/router */
+
+/*! ./AdaptiveAuroriansTeam */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! antd */
+
+/*! ./types */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @/views/CopilotsView/CopilotListView/CopilotSortContext */
+
+/*! @modern-js/runtime/model */
+
+/*! @/components/BossCard */
+
+/*! ./CopilotSortContext/types */
+
+/*! ahooks */
+
+/*! ./styles.module.less */
+
+/*! @modern-js/runtime/router */
+
+/*! react/jsx-runtime */
+
+/*! ./constants */
+
+/*! react/jsx-runtime */
+
+/*! numeral */
+
+/*! @sinsa/schema */
+
+/*! ./styles.module.less */
+
+/*! react */
+
+/*! @/components/utils */
+
+/*! react/jsx-runtime */
+
+/*! ./CopilotListView */
+
+/*! @/components/SolutionCard/CopilotBlock */
+
+/*! react/jsx-runtime */
+
+/*! clsx */
+
+/*! react */
+
+/*! @/models/terms */
+
+/*! . */
+
+/*! @/components/RelativeTimeText */
+
+/*! ../AdaptiveAurorianCard/constants */
+
+/*! ../RelativeTimeText */
+
+/*! @/models/terms */
+
+/*! ./types */
+
+/*! @/services/http */
+
+/*! @/views/CopilotsView/CopilotListView/CopilotSortContext/select */
+
+/*! @icon-park/react */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! antd */
+
+/*! antd */
+
+/*! @ant-design/pro-components */
+
+/*! constate */
+
+/*! react/jsx-runtime */
+
+/*! @/components/TermNotFound */
+
+/*! @/services/matchup */
+
+/*! @/components/TermChanger */
+
+/*! ./styles.module.less */
+
+/*! @/views/CopilotsView */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! antd */
