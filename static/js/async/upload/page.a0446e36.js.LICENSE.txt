@@ -1,4 +1,10 @@
-/*! @ant-design/pro-components */
+/*! ./CopilotSelector */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! @modern-js/runtime/model */
+
+/*! ../LatestVideoCard */
 
 /*! @/models/aurorians */
 
@@ -8,37 +14,21 @@
 
 /*! react/jsx-runtime */
 
-/*! ./CopilotSelector */
-
-/*! react/jsx-runtime */
-
-/*! @/views/GlobalLayout/constants */
-
-/*! @modern-js/runtime/model */
+/*! antd */
 
 /*! immer */
-
-/*! ../LatestVideoCard */
 
 /*! dayjs */
 
 /*! ./schemas/SimpleLatestCopilot */
 
-/*! antd */
+/*! ./styles.module.less */
 
 /*! ./schemas/SearchVideo */
 
-/*! @sinsa/schema */
-
-/*! ./styles.module.less */
-
-/*! ./styles.module.less */
-
-/*! ./useLatestVideo */
-
-/*! @/globalTheme */
-
 /*! react */
+
+/*! @sinsa/schema */
 
 /*! @/models/aurorians */
 
@@ -46,33 +36,33 @@
 
 /*! ./utils/ensure */
 
+/*! ./styles.module.less */
+
+/*! ./useLatestVideo */
+
+/*! @/globalTheme */
+
+/*! @/views/UploadView/LarkLoginCard */
+
 /*! @/components/AdaptiveAurorianCard */
 
 /*! @/models/feishu */
 
-/*! @/views/UploadView/LarkLoginCard */
-
 /*! react */
-
-/*! antd */
-
-/*! ../RelativeTimeText */
 
 /*! ./utils/preprocess */
 
 /*! ./utils/get-copilot-id */
 
+/*! antd */
+
 /*! react/jsx-runtime */
-
-/*! @modern-js/runtime/router */
-
-/*! ./utils/normalizeRemark */
-
-/*! react */
 
 /*! antd */
 
-/*! ./styles.module.less */
+/*! @modern-js/runtime/router */
+
+/*! ../RelativeTimeText */
 
 /*! @/services/http */
 
@@ -88,19 +78,19 @@
 
 /*! lodash-es */
 
+/*! ./utils/normalizeRemark */
+
+/*! react */
+
 /*! react/jsx-runtime */
 
 /*! react */
 
-/*! ahooks */
-
-/*! ahooks */
+/*! ./styles.module.less */
 
 /*! ./utils/rules */
 
 /*! @/components/UploadForm */
-
-/*! ./deny-list.json */
 
 /*! @/components/UploadForm/AurorianTallCard */
 
@@ -108,15 +98,19 @@
 
 /*! @/services/http */
 
-/*! @/models/terms */
+/*! ahooks */
 
-/*! @/models/feishu */
+/*! ahooks */
+
+/*! @/models/terms */
 
 /*! ./VideoIframe */
 
+/*! @/models/feishu */
+
 /*! @/services/http */
 
-/*! @modern-js/runtime/model */
+/*! ./deny-list.json */
 
 /*! @modern-js/runtime/model */
 
@@ -125,8 +119,6 @@
 /*! ahooks */
 
 /*! numeral */
-
-/*! lodash-es */
 
 /*! ./utils/getDefaultBreakthrough */
 
@@ -138,7 +130,7 @@
 
 /*! ahooks */
 
-/*! antd */
+/*! @modern-js/runtime/model */
 
 /*! ./hooks/usePostCopilot */
 
@@ -146,15 +138,13 @@
 
 /*! @modern-js/runtime/model */
 
-/*! @sinsa/schema */
-
-/*! @modern-js/runtime/model */
-
-/*! ../utils */
+/*! lodash-es */
 
 /*! @sinsa/schema */
 
-/*! react */
+/*! @sinsa/schema */
+
+/*! antd */
 
 /*! @modern-js/runtime/model */
 
@@ -166,10 +156,20 @@
 
 /*! @/schemas/feishu-access-token */
 
-/*! @sinsa/schema */
-
 /*! ahooks */
+
+/*! ./hooks/useCheckVideoExist */
+
+/*! @modern-js/runtime/model */
+
+/*! ../utils */
+
+/*! react */
+
+/*! @sinsa/schema */
 
 /*! @/services/http */
 
-/*! ./hooks/useCheckVideoExist */
+/*! @ant-design/pro-components */
+
+/*! react/jsx-runtime */
