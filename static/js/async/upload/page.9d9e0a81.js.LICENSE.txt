@@ -1,12 +1,10 @@
+/*! @ant-design/pro-components */
+
 /*! @/models/aurorians */
 
 /*! ./utils/getDefaultBreakthrough */
 
 /*! react/jsx-runtime */
-
-/*! @/services/http */
-
-/*! react */
 
 /*! react/jsx-runtime */
 
@@ -14,7 +12,9 @@
 
 /*! react/jsx-runtime */
 
-/*! @/schemas/feishu-access-token */
+/*! @/views/GlobalLayout/constants */
+
+/*! @modern-js/runtime/model */
 
 /*! immer */
 
@@ -24,9 +24,9 @@
 
 /*! ./schemas/SimpleLatestCopilot */
 
-/*! ./schemas/SearchVideo */
+/*! antd */
 
-/*! @ant-design/pro-components */
+/*! ./schemas/SearchVideo */
 
 /*! @sinsa/schema */
 
@@ -37,10 +37,6 @@
 /*! ./useLatestVideo */
 
 /*! @/globalTheme */
-
-/*! @/views/GlobalLayout/constants */
-
-/*! @modern-js/runtime/model */
 
 /*! react */
 
@@ -54,7 +50,7 @@
 
 /*! @/models/feishu */
 
-/*! antd */
+/*! @/views/UploadView/LarkLoginCard */
 
 /*! react */
 
@@ -68,7 +64,7 @@
 
 /*! react/jsx-runtime */
 
-/*! @/views/UploadView/LarkLoginCard */
+/*! @modern-js/runtime/router */
 
 /*! ./utils/normalizeRemark */
 
@@ -80,13 +76,19 @@
 
 /*! @/services/http */
 
+/*! react/jsx-runtime */
+
 /*! lodash-es */
 
 /*! @ant-design/pro-components */
 
 /*! antd */
 
+/*! ./constants */
+
 /*! lodash-es */
+
+/*! react/jsx-runtime */
 
 /*! react */
 
@@ -96,6 +98,8 @@
 
 /*! ./utils/rules */
 
+/*! @/components/UploadForm */
+
 /*! ./deny-list.json */
 
 /*! @/components/UploadForm/AurorianTallCard */
@@ -104,25 +108,23 @@
 
 /*! @/services/http */
 
-/*! @modern-js/runtime/router */
-
 /*! @/models/terms */
 
-/*! ./VideoIframe */
+/*! @/models/feishu */
 
-/*! react/jsx-runtime */
+/*! ./VideoIframe */
 
 /*! @/services/http */
 
 /*! @modern-js/runtime/model */
 
+/*! @modern-js/runtime/model */
+
+/*! antd */
+
 /*! ahooks */
 
-/*! ./constants */
-
 /*! numeral */
-
-/*! react/jsx-runtime */
 
 /*! lodash-es */
 
@@ -134,9 +136,9 @@
 
 /*! ./styles.module.less */
 
-/*! antd */
+/*! ahooks */
 
-/*! @/components/UploadForm */
+/*! antd */
 
 /*! ./hooks/usePostCopilot */
 
@@ -145,8 +147,6 @@
 /*! @modern-js/runtime/model */
 
 /*! @sinsa/schema */
-
-/*! @/models/feishu */
 
 /*! @modern-js/runtime/model */
 
@@ -158,11 +158,13 @@
 
 /*! @modern-js/runtime/model */
 
-/*! @modern-js/runtime/model */
+/*! @/services/http */
 
-/*! antd */
+/*! react */
 
 /*! ahooks */
+
+/*! @/schemas/feishu-access-token */
 
 /*! @sinsa/schema */
 
@@ -171,5 +173,3 @@
 /*! @/services/http */
 
 /*! ./hooks/useCheckVideoExist */
-
-/*! ahooks */
