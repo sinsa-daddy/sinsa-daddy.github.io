@@ -1,4 +1,16 @@
+/*! @ant-design/pro-components */
+
+/*! @/models/aurorians */
+
+/*! react/jsx-runtime */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! react/jsx-runtime */
+
 /*! ./CopilotSelector */
+
+/*! react/jsx-runtime */
 
 /*! @/views/GlobalLayout/constants */
 
@@ -6,35 +18,19 @@
 
 /*! ../LatestVideoCard */
 
-/*! @/models/aurorians */
-
-/*! ./utils/getDefaultBreakthrough */
-
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
-
-/*! antd */
-
 /*! immer */
 
 /*! dayjs */
 
 /*! ./schemas/SimpleLatestCopilot */
 
-/*! ./styles.module.less */
+/*! antd */
 
 /*! ./schemas/SearchVideo */
 
-/*! react */
-
 /*! @sinsa/schema */
 
-/*! @/models/aurorians */
-
-/*! react/jsx-runtime */
-
-/*! ./utils/ensure */
+/*! ./styles.module.less */
 
 /*! ./styles.module.less */
 
@@ -42,29 +38,43 @@
 
 /*! @/globalTheme */
 
-/*! @/views/UploadView/LarkLoginCard */
+/*! react */
+
+/*! @/models/aurorians */
+
+/*! react/jsx-runtime */
+
+/*! ./utils/ensure */
 
 /*! @/components/AdaptiveAurorianCard */
+
+/*! @/views/UploadView/LarkLoginCard */
 
 /*! @/models/feishu */
 
 /*! react */
 
+/*! antd */
+
+/*! ../RelativeTimeText */
+
 /*! ./utils/preprocess */
 
 /*! ./utils/get-copilot-id */
 
-/*! antd */
-
 /*! react/jsx-runtime */
-
-/*! antd */
 
 /*! @modern-js/runtime/router */
 
-/*! ../RelativeTimeText */
+/*! antd */
+
+/*! ./utils/normalizeRemark */
+
+/*! react */
 
 /*! @/services/http */
+
+/*! ./styles.module.less */
 
 /*! react/jsx-runtime */
 
@@ -78,19 +88,19 @@
 
 /*! lodash-es */
 
-/*! ./utils/normalizeRemark */
-
-/*! react */
-
 /*! react/jsx-runtime */
 
 /*! react */
 
-/*! ./styles.module.less */
+/*! ahooks */
+
+/*! ahooks */
 
 /*! ./utils/rules */
 
 /*! @/components/UploadForm */
+
+/*! ./deny-list.json */
 
 /*! @/components/UploadForm/AurorianTallCard */
 
@@ -98,19 +108,15 @@
 
 /*! @/services/http */
 
-/*! ahooks */
-
-/*! ahooks */
-
 /*! @/models/terms */
-
-/*! ./VideoIframe */
 
 /*! @/models/feishu */
 
+/*! ./VideoIframe */
+
 /*! @/services/http */
 
-/*! ./deny-list.json */
+/*! @modern-js/runtime/model */
 
 /*! @modern-js/runtime/model */
 
@@ -122,6 +128,8 @@
 
 /*! ./utils/getDefaultBreakthrough */
 
+/*! lodash-es */
+
 /*! @/models/feishu */
 
 /*! ./hooks/useVideoInfo */
@@ -130,7 +138,7 @@
 
 /*! ahooks */
 
-/*! @modern-js/runtime/model */
+/*! antd */
 
 /*! ./hooks/usePostCopilot */
 
@@ -138,15 +146,17 @@
 
 /*! @modern-js/runtime/model */
 
-/*! lodash-es */
-
 /*! @sinsa/schema */
 
 /*! @sinsa/schema */
-
-/*! antd */
 
 /*! @modern-js/runtime/model */
+
+/*! ../utils */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
 
 /*! @/services/http */
 
@@ -158,18 +168,8 @@
 
 /*! ahooks */
 
-/*! ./hooks/useCheckVideoExist */
-
-/*! @modern-js/runtime/model */
-
-/*! ../utils */
-
-/*! react */
-
 /*! @sinsa/schema */
 
+/*! ./hooks/useCheckVideoExist */
+
 /*! @/services/http */
-
-/*! @ant-design/pro-components */
-
-/*! react/jsx-runtime */
