@@ -1,3 +1,25 @@
+/*! antd */
+
+/*! @/components/utils */
+
+/*! ahooks */
+
+/*! react/jsx-runtime */
+
+/*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
+
+/*! @/views/SolutionView/context */
+
+/*! ../utils/without-exclude */
+
+/*! immer */
+
+/*! dayjs */
+
+/*! @icon-park/react */
+
+/*! antd */
+
 /*! ./styles.module.less */
 
 /*! ../../utils/without-exclude */
@@ -42,6 +64,10 @@
 
 /*! @ant-design/pro-components */
 
+/*! clsx */
+
+/*! ./styles.module.less */
+
 /*! ../../QueryForm/utils */
 
 /*! @/services/solution-algorithm */
@@ -54,9 +80,7 @@
 
 /*! ../schemas/query-params */
 
-/*! clsx */
-
-/*! ./styles.module.less */
+/*! react */
 
 /*! @/models/aurorians */
 
@@ -68,9 +92,11 @@
 
 /*! @sinsa/schema */
 
+/*! @modern-js/runtime/model */
+
 /*! react */
 
-/*! @modern-js/runtime/model */
+/*! react/jsx-runtime */
 
 /*! ../../DiffModal */
 
@@ -82,44 +108,18 @@
 
 /*! framer-motion */
 
-/*! react */
-
 /*! antd */
-
-/*! react/jsx-runtime */
 
 /*! ./constants */
 
 /*! ./hooks/use-trigger-form-action */
 
-/*! @ant-design/pro-components */
-
 /*! @/components/SolutionCard/CopilotBlock/AdaptiveAuroriansTeam */
 
-/*! @/globalTheme */
+/*! @ant-design/pro-components */
 
 /*! constate */
 
-/*! react/jsx-runtime */
-
-/*! antd */
-
-/*! @/components/utils */
-
-/*! ahooks */
+/*! @/globalTheme */
 
 /*! react/jsx-runtime */
-
-/*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
-
-/*! @/views/SolutionView/context */
-
-/*! ../utils/without-exclude */
-
-/*! immer */
-
-/*! dayjs */
-
-/*! @icon-park/react */
-
-/*! antd */
