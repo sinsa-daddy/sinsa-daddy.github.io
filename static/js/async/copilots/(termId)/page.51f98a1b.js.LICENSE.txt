@@ -1,36 +1,46 @@
 /*! antd */
 
-/*! @/views/GlobalLayout/constants */
-
-/*! react */
-
-/*! react */
+/*! ./CopilotSortContext/types */
 
 /*! antd */
+
+/*! react/jsx-runtime */
 
 /*! @ant-design/pro-components */
 
 /*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
 
+/*! @/views/GlobalLayout/constants */
+
+/*! react */
+
 /*! @/views/SolutionView/context */
+
+/*! ./styles.module.less */
 
 /*! @modern-js/runtime/model */
 
-/*! ./CopilotSortContext */
+/*! ./CopilotListView */
 
 /*! @modern-js/runtime/router */
 
-/*! ./AdaptiveAuroriansTeam */
-
-/*! @/views/GlobalLayout/constants */
-
-/*! antd */
-
-/*! ./types */
+/*! @/components/SolutionCard/CopilotBlock */
 
 /*! react/jsx-runtime */
 
+/*! ./real-random-rules */
+
+/*! ./AdaptiveAuroriansTeam */
+
+/*! react */
+
 /*! antd */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! @/services/real-random */
+
+/*! . */
 
 /*! @/views/CopilotsView/CopilotListView/CopilotSortContext */
 
@@ -38,25 +48,21 @@
 
 /*! @/components/BossCard */
 
-/*! ./CopilotSortContext/types */
+/*! ./styles.module.less */
 
 /*! ahooks */
 
-/*! ./styles.module.less */
-
 /*! @modern-js/runtime/router */
+
+/*! ./types */
 
 /*! react/jsx-runtime */
 
 /*! ./constants */
 
-/*! react/jsx-runtime */
-
 /*! numeral */
 
 /*! @sinsa/schema */
-
-/*! ./styles.module.less */
 
 /*! react */
 
@@ -64,19 +70,11 @@
 
 /*! react/jsx-runtime */
 
-/*! ./CopilotListView */
-
-/*! @/components/SolutionCard/CopilotBlock */
-
-/*! react/jsx-runtime */
+/*! constate */
 
 /*! clsx */
 
-/*! react */
-
 /*! @/models/terms */
-
-/*! . */
 
 /*! @/components/RelativeTimeText */
 
@@ -86,31 +84,33 @@
 
 /*! @/models/terms */
 
-/*! ./types */
-
 /*! @/services/http */
 
 /*! @/views/CopilotsView/CopilotListView/CopilotSortContext/select */
 
 /*! @icon-park/react */
 
-/*! react/jsx-runtime */
-
 /*! react */
 
 /*! antd */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! ./CopilotSortContext */
 
 /*! antd */
 
 /*! @ant-design/pro-components */
 
-/*! constate */
-
 /*! react/jsx-runtime */
 
-/*! @/components/TermNotFound */
-
 /*! @/services/matchup */
+
+/*! @/components/TermNotFound */
 
 /*! @/components/TermChanger */
 
@@ -118,8 +118,12 @@
 
 /*! @/views/CopilotsView */
 
-/*! react */
+/*! ./types */
 
 /*! react/jsx-runtime */
 
+/*! react */
+
 /*! antd */
+
+/*! react/jsx-runtime */

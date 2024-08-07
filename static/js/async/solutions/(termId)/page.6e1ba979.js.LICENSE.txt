@@ -2,117 +2,123 @@
 
 /*! @/views/GlobalLayout/constants */
 
-/*! react */
-
 /*! ./utils */
 
-/*! react/jsx-runtime */
+/*! react */
+
+/*! ahooks */
 
 /*! react */
 
-/*! ./QueryForm */
+/*! react/jsx-runtime */
 
 /*! @modern-js/runtime/model */
 
-/*! react/jsx-runtime */
+/*! ./SolutionAlert */
 
 /*! numeral */
 
-/*! @modern-js/runtime/router */
-
 /*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
+
+/*! @modern-js/runtime/router */
 
 /*! @ant-design/pro-components */
 
-/*! ./hooks/use-initial-values */
-
-/*! antd */
-
 /*! @/views/SolutionView/context */
 
-/*! antd */
-
-/*! @/globalTheme */
-
-/*! react */
-
-/*! ./styles.module.less */
-
-/*! ../context */
-
-/*! lodash-es */
+/*! ./constants */
 
 /*! react/jsx-runtime */
 
+/*! react/jsx-runtime */
+
+/*! ../context */
+
+/*! antd */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @ant-design/pro-components */
+
+/*! @/components/SolutionCard */
+
+/*! ./styles.module.less */
+
+/*! ./real-random-rules */
+
+/*! lodash-es */
+
 /*! ./AdaptiveAuroriansTeam */
+
+/*! react/jsx-runtime */
 
 /*! @/models/aurorians */
 
 /*! antd */
 
-/*! antd */
-
-/*! @/models/terms */
-
-/*! ahooks */
-
-/*! ./SolutionAlert */
-
 /*! ./constants */
 
-/*! @/models/terms */
-
-/*! react/jsx-runtime */
-
-/*! numeral */
-
-/*! ./constants */
-
-/*! react/jsx-runtime */
-
-/*! @/services/http */
-
-/*! @/components/utils */
-
-/*! ../context */
-
-/*! ./CopilotBlock */
-
-/*! ./helpers */
-
-/*! antd */
-
-/*! @ant-design/pro-components */
-
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
-
-/*! antd */
-
-/*! @/components/SolutionCard */
-
-/*! antd */
-
-/*! antd */
-
-/*! clsx */
-
-/*! @ant-design/pro-components */
-
-/*! antd */
-
-/*! ./constants */
+/*! @/services/real-random */
 
 /*! react */
 
 /*! ./SolutionListView */
 
-/*! react/jsx-runtime */
-
 /*! antd */
 
 /*! @icon-park/react */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! ./constants */
+
+/*! ./utils */
+
+/*! @/components/ExcludeAurorianFormList */
+
+/*! numeral */
+
+/*! @/models/terms */
+
+/*! @/services/http */
+
+/*! react */
+
+/*! @/components/utils */
+
+/*! react */
+
+/*! ./CopilotBlock */
+
+/*! ./helpers */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! antd */
+
+/*! clsx */
+
+/*! antd */
+
+/*! ./context */
+
+/*! @ant-design/pro-components */
+
+/*! antd */
+
+/*! ./styles.module.less */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
 
 /*! @/components/TermNotFound */
 
@@ -122,29 +128,31 @@
 
 /*! @/components/TermChanger */
 
+/*! react/jsx-runtime */
+
 /*! @icon-park/react */
 
 /*! react/jsx-runtime */
 
-/*! @ant-design/pro-components */
+/*! ./QueryForm */
 
-/*! ./utils */
+/*! @ant-design/pro-components */
 
 /*! antd */
 
-/*! @/components/ExcludeAurorianFormList */
-
 /*! @icon-park/react */
 
-/*! react */
+/*! ./hooks/use-initial-values */
 
-/*! react */
+/*! antd */
+
+/*! antd */
+
+/*! @/globalTheme */
 
 /*! @/views/GlobalLayout/constants */
 
 /*! ../AdaptiveAurorianCard */
-
-/*! react */
 
 /*! react/jsx-runtime */
 
@@ -152,13 +160,9 @@
 
 /*! ahooks */
 
-/*! ./context */
+/*! ../context */
 
 /*! @modern-js/runtime/model */
-
-/*! ./styles.module.less */
-
-/*! react/jsx-runtime */
 
 /*! @modern-js/runtime/router */
 
