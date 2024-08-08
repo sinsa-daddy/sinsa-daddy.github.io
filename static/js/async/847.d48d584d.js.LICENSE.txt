@@ -1,0 +1,73 @@
+/*! lodash-es */
+
+/*! react-virtualized-auto-sizer */
+
+/*! ./InnerAurorianSelector/Filter */
+
+/*! react/jsx-runtime */
+
+/*! lodash-es */
+
+/*! react/jsx-runtime */
+
+/*! @sinsa/schema */
+
+/*! @modern-js/runtime/model */
+
+/*! antd */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! ./styles.module.less */
+
+/*! @icon-park/react */
+
+/*! @/models/aurorians */
+
+/*! antd */
+
+/*! @/components/AdaptiveAurorianCard */
+
+/*! @ebay/nice-modal-react */
+
+/*! immer */
+
+/*! react/jsx-runtime */
+
+/*! ./styles.module.less */
+
+/*! lodash-es */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! immer */
+
+/*! @/components/UploadForm/AurorianTallCard/constants */
+
+/*! immer */
+
+/*! @/components/AdaptiveAurorianCard/constants */
+
+/*! @/components/UploadForm/CopilotSelector/utils/getDefaultBreakthrough */
+
+/*! @/components/UploadForm/AurorianTallCard/utils/getDefaultBreakthrough */
+
+/*! react */
+
+/*! ./styles.module.less */
+
+/*! antd */
+
+/*! react-window */
+
+/*! @/models/aurorians */
+
+/*! ./InnerAurorianSelector/Box */
+
+/*! @/components/AdaptiveAurorianCard */
+
+/*! ./InnerAurorianSelector/Detail */
