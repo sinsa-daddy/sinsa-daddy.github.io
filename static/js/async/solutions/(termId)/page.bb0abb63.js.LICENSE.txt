@@ -4,8 +4,6 @@
 
 /*! react */
 
-/*! react */
-
 /*! ./utils */
 
 /*! ./CopilotBlock */
@@ -14,17 +12,13 @@
 
 /*! react/jsx-runtime */
 
-/*! react */
-
 /*! react/jsx-runtime */
 
-/*! antd */
+/*! ./QueryForm */
 
 /*! antd */
 
-/*! ./context */
-
-/*! ./styles.module.less */
+/*! antd */
 
 /*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
 
@@ -36,7 +30,13 @@
 
 /*! react/jsx-runtime */
 
+/*! antd */
+
 /*! @/components/TermNotFound */
+
+/*! antd */
+
+/*! @/globalTheme */
 
 /*! lodash-es */
 
@@ -54,19 +54,11 @@
 
 /*! @ant-design/pro-components */
 
-/*! ./QueryForm */
-
 /*! antd */
 
 /*! @/services/real-random */
 
 /*! ./hooks/use-initial-values */
-
-/*! antd */
-
-/*! antd */
-
-/*! @/globalTheme */
 
 /*! @/views/GlobalLayout/constants */
 
@@ -78,6 +70,8 @@
 
 /*! ../context */
 
+/*! ./SolutionAlert */
+
 /*! numeral */
 
 /*! @modern-js/runtime/router */
@@ -86,13 +80,27 @@
 
 /*! @/components/RelativeTimeText */
 
+/*! react/jsx-runtime */
+
+/*! ./constants */
+
+/*! react/jsx-runtime */
+
 /*! @/components/utils */
 
 /*! @/views/GlobalLayout/constants */
 
+/*! ../context */
+
 /*! react */
 
 /*! ahooks */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! @/components/SolutionCard */
 
 /*! react */
 
@@ -104,21 +112,13 @@
 
 /*! @modern-js/runtime/model */
 
-/*! ./SolutionAlert */
-
 /*! numeral */
 
-/*! react/jsx-runtime */
+/*! ./SolutionListView */
 
 /*! @modern-js/runtime/router */
 
-/*! ./constants */
-
-/*! react/jsx-runtime */
-
 /*! @/components/RelativeTimeText */
-
-/*! ../context */
 
 /*! @icon-park/react */
 
@@ -126,13 +126,7 @@
 
 /*! antd */
 
-/*! react/jsx-runtime */
-
-/*! antd */
-
 /*! @ant-design/pro-components */
-
-/*! @/components/SolutionCard */
 
 /*! ./styles.module.less */
 
@@ -148,11 +142,11 @@
 
 /*! react */
 
-/*! ./SolutionListView */
-
 /*! antd */
 
 /*! @icon-park/react */
+
+/*! react */
 
 /*! antd */
 
@@ -162,9 +156,15 @@
 
 /*! react/jsx-runtime */
 
+/*! react */
+
 /*! @modern-js/runtime/model */
 
+/*! ./context */
+
 /*! ./utils */
+
+/*! ./styles.module.less */
 
 /*! ./styles.module.less */
 
