@@ -1,20 +1,20 @@
 /*! react */
 
-/*! @/services/http */
-
-/*! react */
-
 /*! ./utils */
 
 /*! ./CopilotBlock */
 
 /*! ./helpers */
 
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
-
 /*! ./QueryForm */
+
+/*! react/jsx-runtime */
+
+/*! ./hooks/use-initial-values */
+
+/*! react/jsx-runtime */
+
+/*! antd */
 
 /*! antd */
 
@@ -22,27 +22,23 @@
 
 /*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
 
-/*! react/jsx-runtime */
-
 /*! @ant-design/pro-components */
-
-/*! @/views/SolutionView/context */
-
-/*! react/jsx-runtime */
-
-/*! antd */
-
-/*! @/components/TermNotFound */
 
 /*! antd */
 
 /*! @/globalTheme */
 
+/*! @/views/SolutionView/context */
+
+/*! react/jsx-runtime */
+
+/*! @/components/TermNotFound */
+
+/*! ../context */
+
 /*! lodash-es */
 
 /*! @/components/TermChanger */
-
-/*! react/jsx-runtime */
 
 /*! ./AdaptiveAuroriansTeam */
 
@@ -54,47 +50,45 @@
 
 /*! @ant-design/pro-components */
 
+/*! ahooks */
+
 /*! antd */
 
 /*! @/services/real-random */
 
-/*! ./hooks/use-initial-values */
+/*! @/views/SolutionView */
 
 /*! @/views/GlobalLayout/constants */
+
+/*! ./SolutionAlert */
 
 /*! @modern-js/runtime/model */
 
 /*! ahooks */
 
+/*! react/jsx-runtime */
+
 /*! ./constants */
 
-/*! ../context */
+/*! ./constants */
 
-/*! ./SolutionAlert */
+/*! react/jsx-runtime */
 
 /*! numeral */
 
 /*! @modern-js/runtime/router */
 
-/*! @/views/SolutionView */
+/*! antd */
 
-/*! @/components/RelativeTimeText */
-
-/*! react/jsx-runtime */
-
-/*! ./constants */
-
-/*! react/jsx-runtime */
+/*! @ant-design/pro-components */
 
 /*! @/components/utils */
 
-/*! @/views/GlobalLayout/constants */
+/*! ./real-random-rules */
 
 /*! ../context */
 
-/*! react */
-
-/*! ahooks */
+/*! ./http */
 
 /*! react/jsx-runtime */
 
@@ -104,7 +98,19 @@
 
 /*! react */
 
+/*! ./constants */
+
+/*! react */
+
+/*! antd */
+
+/*! react */
+
+/*! @icon-park/react */
+
 /*! clsx */
+
+/*! ./SolutionListView */
 
 /*! @ant-design/pro-components */
 
@@ -114,35 +120,31 @@
 
 /*! numeral */
 
-/*! ./SolutionListView */
-
 /*! @modern-js/runtime/router */
 
 /*! @/components/RelativeTimeText */
+
+/*! @/components/RelativeTimeText */
+
+/*! ./utils */
+
+/*! @/components/ExcludeAurorianFormList */
 
 /*! @icon-park/react */
 
 /*! react */
 
-/*! antd */
-
-/*! @ant-design/pro-components */
+/*! @/views/GlobalLayout/constants */
 
 /*! ./styles.module.less */
 
-/*! ./real-random-rules */
+/*! react */
 
 /*! lodash-es */
 
 /*! react/jsx-runtime */
 
-/*! @icon-park/react */
-
-/*! ./constants */
-
 /*! react */
-
-/*! antd */
 
 /*! @icon-park/react */
 
@@ -151,23 +153,23 @@
 /*! antd */
 
 /*! @/models/terms */
+
+/*! react/jsx-runtime */
 
 /*! ../AdaptiveAurorianCard */
 
 /*! react/jsx-runtime */
 
-/*! react */
-
-/*! @modern-js/runtime/model */
+/*! ./styles.module.less */
 
 /*! ./context */
 
-/*! ./utils */
+/*! @modern-js/runtime/model */
+
+/*! @/services/get-reruns */
 
 /*! ./styles.module.less */
-
-/*! ./styles.module.less */
-
-/*! @/components/ExcludeAurorianFormList */
 
 /*! @/models/terms */
+
+/*! react/jsx-runtime */

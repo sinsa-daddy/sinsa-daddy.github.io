@@ -1,6 +1,10 @@
 /*! react/jsx-runtime */
 
-/*! constate */
+/*! react */
+
+/*! antd */
+
+/*! ./CopilotSortContext */
 
 /*! antd */
 
@@ -12,33 +16,41 @@
 
 /*! @/views/SolutionView/context */
 
-/*! @/models/terms */
-
-/*! ./AdaptiveAuroriansTeam */
-
-/*! @/services/http */
-
-/*! antd */
-
-/*! @/services/real-random */
-
 /*! @/views/CopilotsView/CopilotListView/CopilotSortContext/select */
 
-/*! react */
+/*! @/models/terms */
 
-/*! antd */
+/*! ./types */
 
 /*! react/jsx-runtime */
 
-/*! ./CopilotSortContext */
+/*! antd */
+
+/*! ./AdaptiveAuroriansTeam */
+
+/*! antd */
+
+/*! ./http */
+
+/*! @/services/real-random */
+
+/*! ./CopilotSortContext/types */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
 
 /*! antd */
 
 /*! antd */
+
+/*! @/services/get-reruns */
 
 /*! ./styles.module.less */
 
 /*! @ant-design/pro-components */
+
+/*! ./styles.module.less */
 
 /*! react/jsx-runtime */
 
@@ -48,35 +60,35 @@
 
 /*! numeral */
 
+/*! ./CopilotListView */
+
 /*! @/components/TermChanger */
+
+/*! @/components/SolutionCard/CopilotBlock */
+
+/*! react/jsx-runtime */
 
 /*! @/components/utils */
 
-/*! @/views/CopilotsView */
+/*! ./real-random-rules */
 
-/*! ./types */
-
-/*! react/jsx-runtime */
-
-/*! antd */
+/*! react */
 
 /*! react/jsx-runtime */
 
 /*! antd */
-
-/*! ./CopilotSortContext/types */
 
 /*! clsx */
 
-/*! react/jsx-runtime */
+/*! . */
 
 /*! @/views/GlobalLayout/constants */
 
 /*! react */
 
-/*! @/components/RelativeTimeText */
+/*! ./types */
 
-/*! ./styles.module.less */
+/*! @/components/RelativeTimeText */
 
 /*! ../AdaptiveAurorianCard/constants */
 
@@ -84,46 +96,36 @@
 
 /*! ../RelativeTimeText */
 
-/*! ./CopilotListView */
+/*! @/views/CopilotsView */
 
 /*! @modern-js/runtime/router */
 
-/*! @/components/SolutionCard/CopilotBlock */
+/*! @sinsa/schema */
 
-/*! react/jsx-runtime */
+/*! @/views/CopilotsView/CopilotListView/CopilotSortContext */
 
-/*! ./real-random-rules */
-
-/*! react */
-
-/*! @/views/GlobalLayout/constants */
+/*! @/components/BossCard */
 
 /*! @icon-park/react */
 
+/*! constate */
+
 /*! react */
-
-/*! . */
-
-/*! @/views/CopilotsView/CopilotListView/CopilotSortContext */
 
 /*! @modern-js/runtime/model */
 
 /*! react/jsx-runtime */
 
-/*! @/components/BossCard */
-
 /*! ahooks */
 
 /*! @modern-js/runtime/router */
-
-/*! ./types */
 
 /*! @/services/matchup */
 
 /*! ./styles.module.less */
 
-/*! @sinsa/schema */
-
 /*! react */
 
 /*! react */
+
+/*! @/views/GlobalLayout/constants */
