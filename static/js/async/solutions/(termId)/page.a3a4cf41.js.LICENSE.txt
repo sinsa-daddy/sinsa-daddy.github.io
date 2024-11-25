@@ -1,0 +1,175 @@
+/*! @/components/SolutionCard */
+
+/*! ../context */
+
+/*! @ant-design/pro-components */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! react */
+
+/*! ./styles.module.less */
+
+/*! @modern-js/runtime/model */
+
+/*! antd */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! ./QueryForm */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! clsx */
+
+/*! @/models/terms */
+
+/*! ahooks */
+
+/*! react */
+
+/*! react */
+
+/*! @/views/SolutionView/hooks/use-trigger-form-action/constants */
+
+/*! @ant-design/pro-components */
+
+/*! @/views/SolutionView/context */
+
+/*! @/services/get-reruns */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @icon-park/react */
+
+/*! numeral */
+
+/*! react */
+
+/*! react */
+
+/*! ./AdaptiveAuroriansTeam */
+
+/*! ./constants */
+
+/*! react/jsx-runtime */
+
+/*! ./constants */
+
+/*! ./styles.module.less */
+
+/*! @/services/real-random */
+
+/*! @modern-js/runtime/router */
+
+/*! ./styles.module.less */
+
+/*! antd */
+
+/*! @icon-park/react */
+
+/*! ./SolutionAlert */
+
+/*! ../AdaptiveAurorianCard */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @/components/TermNotFound */
+
+/*! antd */
+
+/*! @/components/TermChanger */
+
+/*! react/jsx-runtime */
+
+/*! ./utils */
+
+/*! ./constants */
+
+/*! @/components/ExcludeAurorianFormList */
+
+/*! numeral */
+
+/*! ./utils */
+
+/*! ahooks */
+
+/*! @/components/utils */
+
+/*! @ant-design/pro-components */
+
+/*! antd */
+
+/*! @/models/terms */
+
+/*! antd */
+
+/*! ./SolutionListView */
+
+/*! @/globalTheme */
+
+/*! @modern-js/runtime/router */
+
+/*! @/views/SolutionView */
+
+/*! ./CopilotBlock */
+
+/*! ./helpers */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! antd */
+
+/*! @/components/RelativeTimeText */
+
+/*! @ant-design/pro-components */
+
+/*! ./real-random-rules */
+
+/*! ./http */
+
+/*! @modern-js/runtime/model */
+
+/*! @/models/aurorians */
+
+/*! antd */
+
+/*! react */
+
+/*! lodash-es */
+
+/*! antd */
+
+/*! lodash-es */
+
+/*! react/jsx-runtime */
+
+/*! @icon-park/react */
+
+/*! antd */
+
+/*! react/jsx-runtime */
+
+/*! ./context */
+
+/*! ./hooks/use-initial-values */
+
+/*! @modern-js/runtime/model */
+
+/*! react */
+
+/*! antd */
+
+/*! @/components/RelativeTimeText */
+
+/*! ../context */

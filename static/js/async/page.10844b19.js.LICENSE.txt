@@ -1,0 +1,71 @@
+/*! @icon-park/react */
+
+/*! @modern-js/runtime/router */
+
+/*! antd */
+
+/*! @/components/HomeCarousel */
+
+/*! react */
+
+/*! ./constants */
+
+/*! react/jsx-runtime */
+
+/*! ./Domain */
+
+/*! ./styles.module.less */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! ./styles.module.less */
+
+/*! @/config/domain */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! react/jsx-runtime */
+
+/*! react-virtualized-auto-sizer */
+
+/*! react/jsx-runtime */
+
+/*! @/config/domain */
+
+/*! ./constants */
+
+/*! @/globalTheme */
+
+/*! ./page.styles.module.less */
+
+/*! @modern-js/runtime/router */
+
+/*! @/components/HomeCarousel/constants */
+
+/*! antd */
+
+/*! react */
+
+/*! @icon-park/react */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! ./Hero */
+
+/*! react/jsx-runtime */
+
+/*! antd */
+
+/*! ./CoolCanvas */
+
+/*! react */
+
+/*! @modern-js/runtime/router */
+
+/*! react */
+
+/*! @/views/HomeView */

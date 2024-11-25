@@ -1,0 +1,171 @@
+/*! ../RelativeTimeText */
+
+/*! @icon-park/react */
+
+/*! @sinsa/schema */
+
+/*! @/views/UploadView/LarkLoginCard */
+
+/*! ahooks */
+
+/*! react */
+
+/*! ./constants */
+
+/*! react/jsx-runtime */
+
+/*! ./hooks/useCheckVideoExist */
+
+/*! @/services/http */
+
+/*! ./utils/getDefaultBreakthrough */
+
+/*! ahooks */
+
+/*! ahooks */
+
+/*! @/components/AurorianSelector */
+
+/*! @ebay/nice-modal-react */
+
+/*! @ant-design/pro-components */
+
+/*! antd */
+
+/*! ./deny-list.json */
+
+/*! react */
+
+/*! @/services/http */
+
+/*! @ant-design/pro-components */
+
+/*! @/schemas/feishu-access-token */
+
+/*! react */
+
+/*! @modern-js/runtime/router */
+
+/*! immer */
+
+/*! @/components/UploadForm/AurorianTallCard */
+
+/*! ./CopilotSelector */
+
+/*! @/services/http */
+
+/*! @modern-js/runtime/model */
+
+/*! ../LatestVideoCard */
+
+/*! react/jsx-runtime */
+
+/*! lodash-es */
+
+/*! @/models/aurorians */
+
+/*! @/services/http */
+
+/*! @/components/UploadForm */
+
+/*! ahooks */
+
+/*! @/views/GlobalLayout/constants */
+
+/*! antd */
+
+/*! @modern-js/runtime/model */
+
+/*! @modern-js/runtime/model */
+
+/*! ../utils */
+
+/*! react */
+
+/*! react */
+
+/*! @sinsa/schema */
+
+/*! ./utils/ensure */
+
+/*! @sinsa/schema */
+
+/*! @/services/http */
+
+/*! @modern-js/runtime/model */
+
+/*! ahooks */
+
+/*! ahooks */
+
+/*! ./utils/normalizeRemark */
+
+/*! ./utils/preprocess */
+
+/*! react/jsx-runtime */
+
+/*! ./styles.module.less */
+
+/*! immer */
+
+/*! ./utils/get-copilot-id */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! dayjs */
+
+/*! ./schemas/SimpleLatestCopilot */
+
+/*! react/jsx-runtime */
+
+/*! ./schemas/SearchVideo */
+
+/*! @sinsa/schema */
+
+/*! ./utils/rules */
+
+/*! ./styles.module.less */
+
+/*! antd */
+
+/*! ./useLatestVideo */
+
+/*! @/globalTheme */
+
+/*! ./constants */
+
+/*! @/models/terms */
+
+/*! ./VideoIframe */
+
+/*! @modern-js/runtime/model */
+
+/*! @/models/feishu */
+
+/*! ./styles.module.less */
+
+/*! @/components/AdaptiveAurorianCard */
+
+/*! antd */
+
+/*! antd */
+
+/*! react */
+
+/*! numeral */
+
+/*! react/jsx-runtime */
+
+/*! @/models/feishu */
+
+/*! ./hooks/useVideoInfo */
+
+/*! ./styles.module.less */
+
+/*! antd */
+
+/*! @/models/feishu */
+
+/*! ./hooks/usePostCopilot */
