@@ -4,57 +4,61 @@
 
 /*! react */
 
+/*! react */
+
+/*! ./constants */
+
+/*! @/components/HomeCarousel */
+
+/*! @/config/domain */
+
 /*! ./Domain */
 
-/*! @/config/domain */
-
 /*! react/jsx-runtime */
-
-/*! @/config/domain */
-
-/*! react/jsx-runtime */
-
-/*! react-virtualized-auto-sizer */
 
 /*! ./styles.module.less */
 
+/*! react/jsx-runtime */
+
+/*! @/config/domain */
+
 /*! @/globalTheme */
+
+/*! react-virtualized-auto-sizer */
 
 /*! @icon-park/react */
 
 /*! react/jsx-runtime */
 
-/*! ./page.styles.module.less */
-
 /*! ./constants */
-
-/*! @/components/HomeCarousel/constants */
 
 /*! react */
 
 /*! react/jsx-runtime */
 
 /*! antd */
+
+/*! @modern-js/runtime/router */
+
+/*! ./page.styles.module.less */
+
+/*! @/components/HomeCarousel/constants */
 
 /*! @modern-js/runtime/router */
 
 /*! ./Hero */
 
-/*! @modern-js/runtime/router */
+/*! react/jsx-runtime */
 
 /*! antd */
 
 /*! ./CoolCanvas */
-
-/*! react/jsx-runtime */
 
 /*! react */
 
 /*! @icon-park/react */
 
 /*! antd */
-
-/*! @modern-js/runtime/router */
 
 /*! @/views/HomeView */
 
@@ -62,10 +66,6 @@
 
 /*! react */
 
-/*! @/components/HomeCarousel */
-
-/*! react */
-
-/*! ./constants */
+/*! @modern-js/runtime/router */
 
 /*! @/views/GlobalLayout/constants */
